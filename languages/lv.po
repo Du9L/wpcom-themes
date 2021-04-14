@@ -1,0 +1,235 @@
+# Translation of WordPress.com - Themes - Scratchpad in Latvian
+# This file is distributed under the same license as the WordPress.com - Themes - Scratchpad package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-20 06:30:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lv\n"
+"Project-Id-Version: WordPress.com - Themes - Scratchpad\n"
+
+#: functions.php:80
+msgid "Orange"
+msgstr "Oranža"
+
+#: functions.php:85
+msgid "Yellow"
+msgstr "Dzeltena"
+
+#: functions.php:70
+msgid "Blue"
+msgstr "Zila"
+
+#: functions.php:45
+msgid "Black"
+msgstr "Melna"
+
+#: functions.php:65
+msgid "White"
+msgstr "Balta"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "Gaiši pelēks"
+
+#: functions.php:50
+msgid "Dark Gray"
+msgstr "Tumši pelēks"
+
+#: inc/wpcom-colors.php:271
+msgid "Color 2"
+msgstr "Teksta krāsa"
+
+#: inc/wpcom-colors.php:305
+msgid "Color 3"
+msgstr "Teksta krāsa"
+
+#: inc/wpcom-colors.php:358
+msgid "Color 4"
+msgstr "Teksta krāsa"
+
+#: inc/wpcom-colors.php:452
+msgid "Color 5"
+msgstr "Teksta krāsa"
+
+#: inc/wpcom-colors.php:219
+msgid "Color 1"
+msgstr "Teksta krāsa"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izskatās, ka mēs nevaram atrast to ko meklējat. Iespējams meklēšana var palīdzēt."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Diemžēl, bet nekas netika atrasts. Mēģiniet vēlreiz izmantojot citus atslēgvārdus."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esat gatavi publicēt savu pirmo rakstu? <a href=\"%1$s\">Sāciet te</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nekas nav atrasts"
+
+#. translators: %s: Name of current post
+#: template-parts/content-aside.php:50 template-parts/content-audio.php:46
+#: template-parts/content-gallery.php:48 template-parts/content-image.php:61
+#: template-parts/content-link.php:45 template-parts/content-page.php:44
+#: template-parts/content-quote.php:45 template-parts/content-single.php:34
+#: template-parts/content-status.php:55 template-parts/content-video.php:56
+#: template-parts/content.php:40
+msgid "Edit %s"
+msgstr "Rediģēt %s"
+
+#: template-parts/content-aside.php:35 template-parts/content-link.php:30
+#: template-parts/content-page.php:31 template-parts/content-quote.php:26
+#: template-parts/content-single.php:54 template-parts/content-status.php:40
+#: template-parts/content.php:61
+msgid "Pages:"
+msgstr "Lapas:"
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: template-parts/content-aside.php:30 template-parts/content-image.php:13
+#: template-parts/content-link.php:25 template-parts/content-quote.php:21
+#: template-parts/content-single.php:49 template-parts/content-status.php:35
+#: template-parts/content-video.php:12 template-parts/content.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Turpināt lasīšanu  %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/author-bio.php:16
+msgid "Author:"
+msgstr "Autors:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Meklēšanas rezultāti: %s"
+
+#: inc/template-tags.php:118
+msgid "Featured"
+msgstr "Izceltais"
+
+#: inc/template-tags.php:102
+msgid "Next Post"
+msgstr "Nākamā ziņa"
+
+#: inc/template-tags.php:101
+msgid "Previous Post"
+msgstr "Iepriekšējais ieraksts"
+
+#: inc/template-tags.php:88
+msgid "% Comments"
+msgstr "% komentāri"
+
+#: inc/template-tags.php:88
+msgid "1 Comment"
+msgstr "1 komentārs"
+
+#: inc/template-tags.php:88
+msgid "Leave a comment"
+msgstr "Komentēt"
+
+#: inc/template-tags.php:67
+msgid "Posted in"
+msgstr "Ierakstīts"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65 inc/template-tags.php:80
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicēts %s"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr " %s"
+
+#: header.php:31
+msgid "Menu"
+msgstr "Izvēlne"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:267
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Doties uz saturu"
+
+#: functions.php:171
+msgid "Footer"
+msgstr "Kājene"
+
+#: functions.php:161
+msgid "Sidebar"
+msgstr "Sānumala"
+
+#: footer.php:33
+msgid "Theme: %1$s by %2$s."
+msgstr "Tēma: %1$s no %2$s."
+
+#: footer.php:31
+msgid "Proudly powered by %s"
+msgstr "Lepni darbina %s"
+
+#: footer.php:31
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Komentāri ir slēgti."
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Jaunāki komentāri"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Senāki komentāri"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "Komentāru navigācija"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Viena doma par &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s domas par &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s domu par &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Mēģini meklēt mēnešu arhīvos. %1$s"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Visbiežāk lietotās kategorijas"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Izskatās, ka šajā vietā nekas netika atrasts. Mēģini kādu no zemāk redzamajām saitēm vai meklētāju!"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opā! Tāda lapa nav atrodama."
