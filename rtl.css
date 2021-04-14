@@ -1,0 +1,518 @@
+/*
+Theme Name: Espied
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+/*--------------------------------------------------------------
+Reset
+--------------------------------------------------------------*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+caption, th, td {
+	text-align: right;
+}
+
+/*--------------------------------------------------------------
+Typography
+--------------------------------------------------------------*/
+blockquote cite,
+blockquote small {
+	padding-right: 40px;
+	padding-left: 0;
+}
+
+/*--------------------------------------------------------------
+Elements
+--------------------------------------------------------------*/
+ul {
+	margin: 0 20px 24px 0;
+}
+
+ol {
+	margin: 0 24px 24px 0;
+}
+
+li > ul,
+li > ol {
+	margin: 0 24px 0 0;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+/*--------------------------------------------------------------
+Forms
+--------------------------------------------------------------*/
+.post-password-form input[type="submit"],
+.search-form input[type="submit"] {
+	right: auto;
+	left: 0;
+}
+
+/*--------------------------------------------------------------
+Navigation
+--------------------------------------------------------------*/
+/*  Pagination */
+@media screen and (min-width: 48em) {
+	.js .site-main .paging-navigation, .js .site-main .post-navigation, .js .site-main .image-navigation {
+		right: auto;
+		left: 0;
+	}
+}
+@media screen and (min-width: 48em) {
+	.js .site-main .paging-navigation .nav-previous a, .js .site-main .paging-navigation .nav-next a, .js .site-main .paging-navigation .nav-archive a, .js .site-main .post-navigation .nav-previous a, .js .site-main .post-navigation .nav-next a, .js .site-main .post-navigation .nav-archive a, .js .site-main .image-navigation .nav-previous a, .js .site-main .image-navigation .nav-next a, .js .site-main .image-navigation .nav-archive a {
+		padding: 12px 72px 12px 0;
+		right: auto;
+		left: 0;
+	}
+	.js .site-main .paging-navigation .nav-previous a:before, .js .site-main .paging-navigation .nav-next a:before, .js .site-main .paging-navigation .nav-archive a:before, .js .site-main .post-navigation .nav-previous a:before, .js .site-main .post-navigation .nav-next a:before, .js .site-main .post-navigation .nav-archive a:before, .js .site-main .image-navigation .nav-previous a:before, .js .site-main .image-navigation .nav-next a:before, .js .site-main .image-navigation .nav-archive a:before {
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-ms-transform: rotate(-90deg);
+		transform: rotate(-90deg);
+		border-width: 0 1px 1px;
+		right: auto;
+		left: 0;
+		padding: 20px 21px 0 0;
+	}
+	.js .site-main .paging-navigation .nav-previous a:hover, .js .site-main .paging-navigation .nav-next a:hover, .js .site-main .paging-navigation .nav-archive a:hover, .js .site-main .post-navigation .nav-previous a:hover, .js .site-main .post-navigation .nav-next a:hover, .js .site-main .post-navigation .nav-archive a:hover, .js .site-main .image-navigation .nav-previous a:hover, .js .site-main .image-navigation .nav-next a:hover, .js .site-main .image-navigation .nav-archive a:hover {
+		padding: 12px 24px 12px 96px;
+	}
+}
+@media screen and (min-width: 48em) {
+	.js .site-main .paging-navigation .nav-next a:before, .js .site-main .post-navigation .nav-next a:before, .js .site-main .image-navigation .nav-next a:before {
+		-webkit-transform: rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-ms-transform: rotate(90deg);
+		transform: rotate(90deg);
+		border-width: 1px 1px 0 0;
+	}
+}
+
+@media screen and (min-width: 48em) {
+	.js .site-main .paging-navigation .nav-previous a, .js .site-main .paging-navigation .nav-next a, .js .site-main .image-navigation .nav-previous a, .js .site-main .image-navigation .nav-next a {
+		padding: 26px 72px 22px 0;
+	}
+	.js .site-main .paging-navigation .nav-previous a:hover, .js .site-main .paging-navigation .nav-next a:hover, .js .site-main .image-navigation .nav-previous a:hover, .js .site-main .image-navigation .nav-next a:hover {
+		padding: 26px 24px 22px 96px;
+	}
+}
+
+/*--------------------------------------------------------------
+Menus
+--------------------------------------------------------------*/
+.main-navigation ul ul {
+	margin-right: 24px;
+	margin-left: 0;
+}
+
+.dropdown-toggle {
+	right: auto;
+	left: 0;
+}
+.dropdown-toggle:after {
+	right: auto;
+	left: 11px;
+}
+
+.page_item_has_children > a,
+.menu-item-has-children > a {
+	padding-right: 0;
+	padding-left: 40px;
+}
+
+/* Social Links */
+.social-navigation li {
+	float: right;
+	margin: 0 0 1px 1px;
+}
+
+/*--------------------------------------------------------------
+Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers */
+.screen-reader-text:focus {
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.6);
+	right: 5px;
+	left: auto;
+}
+
+/*--------------------------------------------------------------
+Basic Structure
+--------------------------------------------------------------*/
+@media screen and (min-width: 48em) {
+	.js body {
+		margin-right: 0;
+		margin-left: 72px;
+	}
+	.js body:after {
+		border-right: 1px solid rgba(255, 255, 255, 0.1);
+		border-left: 0;
+		right: auto;
+		left: 0;
+	}
+}
+
+/*--------------------------------------------------------------
+Header
+--------------------------------------------------------------*/
+.site-branding {
+	padding-right: 0;
+	padding-left: 40px;
+}
+@media screen and (min-width: 48em) {
+	.site-branding {
+		padding: 0;
+	}
+}
+
+@media screen and (min-width: 48em) {
+	.site-title {
+		float: right;
+	}
+}
+
+@media screen and (min-width: 48em) {
+	.site-description {
+		float: right;
+		margin: 7px 12px 0 0;
+	}
+}
+
+/*--------------------------------------------------------------
+Sidebar
+--------------------------------------------------------------*/
+.sidebar-toggle {
+	right: auto;
+	left: 0;
+}
+@media screen and (min-width: 48em) {
+	.sidebar-toggle {
+		right: auto;
+		left: 0;
+	}
+}
+
+.js .sidebar {
+	right: auto;
+	left: -100%;
+}
+@media screen and (min-width: 48em) {
+	.js .sidebar {
+		padding: 72px 72px 72px 0;
+	}
+}
+.sidebar-open .sidebar {
+	right: auto;
+	left: 0;
+}
+@media screen and (min-width: 48em) {
+	.sidebar-open .sidebar {
+		right: auto;
+		left: 72px;
+	}
+}
+
+/*--------------------------------------------------------------
+Widgets
+--------------------------------------------------------------*/
+/* Calendar Widget*/
+.widget_calendar td#prev {
+	padding-right: 12px;
+	padding-left: 0;
+	text-align: right;
+}
+.widget_calendar td#next {
+	padding-right: 0;
+	padding-left: 12px;
+	text-align: left;
+}
+
+/* List Style Widgets*/
+.widget_archive ul,
+.widget_categories ul,
+.widget_links ul,
+.widget_meta ul,
+.widget_nav_menu ul,
+.widget_pages ul,
+.widget_recent_comments ul,
+.widget_recent_entries ul {
+	margin-right: 0;
+}
+.widget_archive ul ul,
+.widget_categories ul ul,
+.widget_links ul ul,
+.widget_meta ul ul,
+.widget_nav_menu ul ul,
+.widget_pages ul ul,
+.widget_recent_comments ul ul,
+.widget_recent_entries ul ul {
+	margin: 12px 24px 0 0;
+}
+
+/*--------------------------------------------------------------
+Content
+--------------------------------------------------------------*/
+.hentry + .hentry:before, .page-header + .hentry:before {
+	margin-right: -24px;
+	margin-left: 0;
+}
+
+.entry-meta span {
+	padding: 5px 24px 4px 0;
+}
+
+.entry-format:before, .featured-post:before,
+.author:before,
+.entry-meta .date:before,
+.categories-links:before,
+.parent-post-link:before,
+.tags-links:before,
+.comments-link:before,
+.entry-meta .edit-link:before,
+.full-size-link:before {
+	right: 0;
+	left: auto;
+}
+
+.author:before {
+	right: 1px;
+	left: auto;
+}
+
+.format-aside .entry-format:before, .format-gallery .entry-format:before, .format-status .entry-format:before {
+	right: -1px;
+	left: auto;
+}
+
+.page-links a,
+.page-links > span {
+	margin: 0 1px 2px 0;
+}
+.page-links > .page-links-title {
+	padding-right: 12px;
+	padding-left: 0;
+}
+
+@media screen and (min-width: 57em) {
+	.entry-attachment .attachment {
+		margin-right: 0;
+		margin-left: -72px;
+	}
+}
+@media screen and (min-width: 66em) {
+	.entry-attachment .attachment {
+		margin-right: 0;
+		margin-left: -144px;
+	}
+}
+@media screen and (min-width: 75em) {
+	.entry-attachment .attachment {
+		margin-right: 0;
+		margin-left: -216px;
+	}
+}
+@media screen and (min-width: 84em) {
+	.entry-attachment .attachment {
+		margin-right: 0;
+		margin-left: -288px;
+	}
+}
+@media screen and (min-width: 93em) {
+	.entry-attachment .attachment {
+		margin-right: 0;
+		margin-left: -360px;
+	}
+}
+
+/*--------------------------------------------------------------
+Post Formats
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+Link
+--------------------------------------------------------------*/
+.format-link .entry-title a:after {
+	right: 0;
+	left: auto;
+}
+
+/*--------------------------------------------------------------
+Comments
+--------------------------------------------------------------*/
+.comment-author {
+	padding-right: 36px;
+	padding-left: 0;
+}
+@media screen and (min-width: 48em) {
+	.comment-author {
+		padding-right: 60px;
+		padding-left: 0;
+	}
+}
+.comment-author .avatar {
+	right: 0;
+	left: auto;
+}
+
+.bypostauthor > article .fn:after {
+	right: 0;
+	left: auto;
+}
+
+@media screen and (min-width: 48em) {
+	.comment-metadata {
+		padding-right: 60px;
+		padding-left: 0;
+	}
+}
+
+.comment-edit-link {
+	margin-right: 10px;
+	margin-left: 0;
+}
+.comment-edit-link:before {
+	right: 0;
+	left: auto;
+}
+
+.comment-content ul,
+.comment-content ol {
+	margin: 0 22px 24px 0;
+}
+.comment-content li > ul,
+.comment-content li > ol {
+	margin-bottom: 0;
+}
+.comment-content > :last-child {
+	margin-bottom: 0;
+}
+
+.comment-reply-title a {
+	float: left;
+}
+.comment-reply-title a:before {
+	right: 0;
+	left: auto;
+}
+
+.comment-navigation .nav-previous a {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+/*--------------------------------------------------------------
+Media
+--------------------------------------------------------------*/
+.gallery-item {
+	float: right;
+}
+
+/* Big size media */
+@media screen and (min-width: 57em) {
+	img.size-big,
+	.caption-big {
+		margin-right: -72px;
+		margin-left: 0;
+	}
+}
+@media screen and (min-width: 66em) {
+	img.size-big,
+	.caption-big {
+		margin-right: -144px;
+		margin-left: 0;
+	}
+}
+@media screen and (min-width: 75em) {
+	img.size-big,
+	.caption-big {
+		margin-right: -216px;
+		margin-left: 0;
+	}
+}
+@media screen and (min-width: 84em) {
+	img.size-big,
+	.caption-big {
+		margin-right: -288px;
+		margin-left: 0;
+	}
+}
+@media screen and (min-width: 93em) {
+	img.size-big,
+	.caption-big {
+		margin-right: -360px;
+		margin-left: 0;
+	}
+}
+
+/*--------------------------------------------------------------
+Porfolio
+--------------------------------------------------------------*/
+.jetpack-portfolio .entry-meta .portfolio-type-links {
+	padding-right: 0;
+}
+
+.post-type-archive-jetpack-portfolio .jetpack-portfolio, .tax-jetpack-portfolio-type .jetpack-portfolio, .tax-jetpack-portfolio-tag .jetpack-portfolio, .page-template-page-templatesportfolio-page-php .jetpack-portfolio, .project-navigation .jetpack-portfolio {
+	float: right;
+}
+
+.post-thumbnail-wrapper .post-thumbnail {
+	right: 0;
+	left: auto;
+}
+
+.image-link {
+	right: 0;
+	left: auto;
+}
+
+@media screen and (min-width: 57em) {
+	.project-navigation > h1 {
+		text-align: right;
+	}
+}
+.project-navigation .jetpack-portfolio {
+	float: none;
+}
+.project-navigation .no-result .post-thumbnail-wrapper:before {
+	margin: -8px -8px 0 0;
+	right: 50%;
+	left: auto;
+}
+
+.project-navigation-wrapper ul li {
+	float: right;
+}
+
+/*--------------------------------------------------------------
+Jetpack
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+Jetpack Widgets
+--------------------------------------------------------------*/
+/* Top Posts & Pages Widget */
+.widget_top-posts ul {
+	margin-right: 0;
+}
+.widget_top-posts ul ul {
+	margin-right: 24px;
+}
+
+#infinite-handle span {
+	border: 0;
+	border-radius: 0;
+}
+
+#infinite-handle span:before {
+	display: none;
+}

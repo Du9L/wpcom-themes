@@ -1,0 +1,304 @@
+# Translation of WordPress.com - Themes - Espied in Hindi
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-19 13:25:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Language: hi_IN\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "पुरानी परियोजना"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "पोर्टफोलियो पृष्ठ टेम्पलेट"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr "पूर्ण चौड़ाई पृष्ठ टेम्पलेट"
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "कनेक्ट करें"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "मेनु"
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr "टॉगल साइडबार"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s के लिए खोज परिणाम:"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली परियोजना प्रकाशित करने के लिए तैयार हैं? <a href=\"%1$s\">यहाँ से शुरुआत करें</a>।"
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "कोई परियोजना नहीं मिला"
+
+#: inc/template-tags.php:343
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "देखें <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/template-tags.php:309
+msgid "More Projects"
+msgstr "अधिक परियोजनाएं"
+
+#: inc/template-tags.php:116
+msgid "<span class=\"tags-links\"><span class=\"screen-reader-text\">Tags</span> %1$s</span>"
+msgstr "<span class=\"tags-links\"><span class=\"screen-reader-text\">टैग्स</span> %1$s</span>"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "%s द्वारा सभी पोस्ट देखें"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "स्टिकी"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">अगला</span><span>%title</span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">पिछला</span><span>%title</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">अगला</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">पिछला</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "पोस्टस नेविगेशन"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "पढ़ना जारी रखें <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "पृष्ठ %s"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "चौकोर (1:1)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "पोर्ट्रेट (3:4)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "लैंडस्केप (4:3)"
+
+#: image.php:62
+msgid "Next Image"
+msgstr "अगली छवि"
+
+#: image.php:61
+msgid "Previous Image"
+msgstr "पिछली छवि"
+
+#: image.php:59
+msgid "Image navigation"
+msgstr "छवि नेविगेशन"
+
+#: header.php:37
+msgid "Skip to content"
+msgstr "सामग्री पर जाएं"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "बाजूपट्टी"
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "सामाजिक कड़ियाँ मेनू"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "प्राथमिक मेनू"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "थीम: %2$s द्वारा %1$s।"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s द्वारा गर्व के साथ संचालित"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "%s टिप्पणियाँ"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "1 टिप्पणी"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "एक टिप्पणी छोड़ें"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "पढना जारी रखे <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107 inc/template-tags.php:114
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:54 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "सम्पादन"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "पृष्ठ:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है आप जो देख रहे हैं हमें नहीं मिल रहा है। शायद खोज मदद कर सकता है।"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन कुछ भी आपके खोज शब्दों से मेल नहीं खाते। कृपया कुछ अलग खोजशब्दों के साथ फिर से प्रयास करें।"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? <a href=\"%1$s\">यहाँ से शुरुआत करें</a>।"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "नई टिप्पणियां &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; पुरानी टिप्पणियाँ"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo पर एक विचार;"
+msgstr[1] "%1$s विचार &ldquo;%2$s&rdquo पर;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "अभिलेख"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "चैट्स"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "ऑडियोस"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "स्थितियां"
+
+#: archive.php:54
+msgid "Links"
+msgstr "कड़ियाँ"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "उद्धरण"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "वीडियोस "
+
+#: archive.php:45
+msgid "Images"
+msgstr "छवियाँ"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "गैलेरियां"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "वर्ष: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "महीना: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "दिन: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "लेखक: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ऐसा लगता है कि कुछ भी नहीं इस स्थान पर पाया गया। शायद नीचे दिए गए लिंक्स या खोज से एक कोशिश करें?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "उफ़! वह पृष्ठ नहीं पाया जा सकता है।"

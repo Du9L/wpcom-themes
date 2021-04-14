@@ -1,0 +1,363 @@
+# Translation of WordPress.com - Themes - Espied in Finnish
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-06 09:41:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "Sivuston otsake"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Portfolio (sivupohja)"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr "Täysi leveys (sivupohja)"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "A portfolio theme for designers and photographers. Great for showing off your image oriented projects to the world."
+msgstr "Portfolio-teema valokuvaajille, joka korostaa kuviasi hienolla tavalla."
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "Yhdistä"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "Valikko"
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr "Klikkaa avataksesi sivupalkki"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hakutulokset kohteelle: %s"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen projektin? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "Projekteja ei löytynyt"
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Näytä <span class=\"screen-reader-text\">%1s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "Lisää projekteja"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">Kirjoitettu</span> %1$s</span>"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Kategoriat</span> %1$s</span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "Näytä kaikki artikkelit kirjoittajalta %s"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">Muoto</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "Näytä kaikki artikkelit kirjoittajalta %s"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">Krijoittaja</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "kiinnitetty"
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr "<span class=\"meta-nav\">Arkisto</span><span>Näytä lisää projekteja</span>"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Seuraava</span><span>%title</span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Edellinen</span><span>%title</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">Seuraava</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">Edellinen</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Jatka lukemista <span class=\"screen-reader-text\">%1s</span>"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "Piilota otsikko ja sisältö Portfolio sivupohjassa."
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "Neliö (1:1)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "Pystysuuntainen (3:4)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "Vaakasuuntainen (4:3)"
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "Portfolion pikkukuvan kuvasuhde"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "Seuraava kuva"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "Edellinen kuva"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "Kuvien selailu"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Somevalikko"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Teema: %1$s tekijä %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Voimanlähteenä %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lue loppuun <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen kirjoituksesi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Uudemmat kommentit &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanhemmat kommentit"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Kommenttien selaus"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi kommentti artikkeliin &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommenttia artikkeliin &rdquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arkistot"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Keskustelut"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Äänet"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Tilat"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "Linkit"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Lainaukset"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videot"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Kuvat"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galleriat"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Sivuhuomautukset"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Vuosi: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Kuukausi: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Päivä: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Kirjoittaja: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Näyttää siltä, että mitään ei löytynyt tästä osoitteesta. Koita navigoida alla olevista linkeistä tai etsiä haluamaasi."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Tätä sivua ei löydy."

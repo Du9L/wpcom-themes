@@ -1,0 +1,378 @@
+# Translation of WordPress.com - Themes - Espied in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 02:33:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr "، "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr "پیوندها در نوار کناری"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "سربرگ وب‌گاه"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "پروژه‌های قدیمی‌تر"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "قالب صفحهٔ نمونه‌کار"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr "قالب صفحهٔ تمام‌پهنا"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "A portfolio theme for designers and photographers. Great for showing off your image oriented projects to the world."
+msgstr "یک قالب نمونه‌کار برای طراحان و عکاسان. عالی برای نمایش جهانی پروژه‌هایی که بر محور عکس می‌چرخند."
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "اتصال"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "گزینگان"
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr "تغییر وضعیت نوار کناری"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جست‌وجو برای: %s"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "آماده‌اید تا اولین پروژه‌تان را منتشر کنید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "هیچ پروژه‌ای یافت نشد"
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "دیدن <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "پروژه‌های بیشتر"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">فرستاده‌شده در</span> %1$s</span>"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">دسته‌های</span> %1$s</span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "مشاهده همه‌ی نوشته‌های %s"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">قالب</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "مشاهدهٔ همهٔ نوشته‌ها بر اساس %s"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">نویسنده</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "سنجاق شده"
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr "<span class=\"meta-nav\">بایگانی</span><span>دیدن پروژه‌های دیگر</span>"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">پسین</span><span>%title</span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">پیشین</span><span>%title</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">پسین</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">پیشین</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "ناوبری نوشته‌ها"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "به خواندن <span class=\"screen-reader-text\">%1$s</span> ادامه دهید"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "نهفتن عنوان و مطلب در قالب Portfolio Page"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "مربع (۱:۱)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "عمودی (۳:۴)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "افقی (۴:۳)"
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "نسبت منظری تصویرک‌های Portfolio"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "تصویر پسین"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "تصویر پیشین"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "ناوبری تصویر"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "روی"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "گزینگان پیوندهای اجتماعی"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "، "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، موردی مطابق با جستجوی شما پیدا نشد. لطفا برای جستجو از کلیدواژه‌های دیگری استفاده کنید."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نظر برای &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "بایگانی"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "گفتگوها"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "صوت‌ها"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "پیوندها"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "گفتاورد"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "ویدئوها"
+
+#: archive.php:45
+msgid "Images"
+msgstr "تصویرها"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "گالری‌ها"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "کلمات قصار"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان نیست. شاید بخواهید یکی از پیوندهای زیر یا جست‌وجو را آزمایش کنید."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."

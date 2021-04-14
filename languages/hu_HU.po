@@ -1,0 +1,332 @@
+# Translation of WordPress.com - Themes - Espied in Hungarian
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-18 18:47:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hu\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "Címkék"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "Honlap fejrész"
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr "Hivatkozások az oldalsávon"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "Régebbi projektek"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "Kapcsolódás"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "Menü"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s kifejezésre történő keresés eredménye"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Készen állsz az első projekted közzétételére? <a href=\"%1$s\">Kezdj hozzá!</a>."
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "Nem található egy projekt sem"
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "<span class=\"screen-reader-text\">%1$s</span> megtekintése"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">Formátum</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "%s bejegyzés"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Kategória</span> %1$s</span>"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">Közzétéve</span> %1$s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "További projektek"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "%s bejegyzései"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">Szerző</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "kiemelt"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Bejegyzések navigációja"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "Bejegyzések navigációja"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "<span class=\"screen-reader-text\">%1$s</span> olvasásának folytatása"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "%s oldal"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "Négyzet (1:1)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "Tájkép (4:3)"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "Következő kép"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "Előző kép"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "Kép navigáció"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Tovább a tartalomra"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "be"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "hungarian"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Közösségi oldal hivatkozások menü"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Elsődleges menü"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Sablon: %1$s Szerző: %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Köszönjük %s!"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wphu.org"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "Hozzászólás"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bővebben... <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Oldal:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Úgy tűnik, nem található az, amire gondoltunk. Talán, egy újabb keresés segíthet."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Elnézést, nem találunk a keresési feltételeknek megfelelő eredményt. Másik kulcsszóval, kifejezéssel újra kellene kezdeni egy keresést."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Készen állunk az első bejegyzés közzétételére? <a href=\"%1$s\">Kezdőlépések</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nincs megfelelő találat"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Hozzászólások lezárva."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Újabb hozzászólás &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Korábbi hozzászólás"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; bejegyzéshez egy hozzászólás"
+msgstr[1] "&ldquo;%2$s&rdquo; bejegyzéshez %1$ hozzászólás"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Hozzászólás navigáció"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archívumok"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Beszélgetések"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Állapotok"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audiók"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "Hivatkozások"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Idézetek"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videók"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galériák"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Képek"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Széljegyzetek"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y. F"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Év: %s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y."
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Nap: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Hónap: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "A keresett oldal vagy bejegyzés nem található. Próbálkozzunk meg az alábbi hivatkozásokkal vagy esetleg egy kereséssel."
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Szerző: %s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppá! A keresett oldal nem található."

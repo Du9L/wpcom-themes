@@ -1,0 +1,323 @@
+# Translation of WordPress.com - Themes - Espied in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 02:33:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "Etiketter"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "Sidhuvud för webbplats"
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr "Länkar i sidofältet"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "Äldre projekt"
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "Logga in"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "Meny"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första projekt? <a href=\"%1$s\">Börja här</a>."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "Inga projekt hittade"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "Visa alla %s inlägg"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Kategorier</span> %1$s</span>"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">Publicerat den</span> %1$s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "Fler projekt"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">Författare</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "klistrad"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">Nästa</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">Föregående</span>"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "Göm rubrik och brödtext i portföljsidans mall"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "Landskap (4:3)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "Porträtt (3:4)"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "Fyrkant (1:1)"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "Nästa bild"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "Föregående bild"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "Bildnavigering"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Meny för sociala länkar"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Läs mer <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Redigera"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tyvärr matchade inget din sökning. Prova igen med något eller några andra nyckelord."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Kommentarer inaktiverade."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion på &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner på &rdquo;%2$s&rdquo;"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arkiv"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chattar"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statusar"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Ljud"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "Länkar"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citat"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Noteringar"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som att det inte finns någonting här. Du kan testa en av länkarna nedan eller att göra en sökning."
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan, sidan kunde inte hittas."

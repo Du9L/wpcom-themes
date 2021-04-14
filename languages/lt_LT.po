@@ -1,0 +1,380 @@
+# Translation of WordPress.com - Themes - Espied in Lithuanian
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-23 17:15:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lt\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "Žymos"
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr "Nuorodos šoninėje srityje"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "Antraštė"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "Senesni projektai"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Portfolio puslapio šablonas"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr "Pilno pločio šablonas"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "A portfolio theme for designers and photographers. Great for showing off your image oriented projects to the world."
+msgstr "Portfolio tipo tema dizaineriams ir fotografams."
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "Prisijungti"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "Meniu"
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr "Rodyti/nerodyti šoninę sritį"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai pagal: %s"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasiruošę paskelbti savo pirmajį projektą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "Projektų nerasta"
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Peržiūrėti <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "Daugiau projektų"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">Paskelbta</span> %1$s</span>"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Kategorijos</span> %1$s</span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "Peržiūrėti visus %s įrašus"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">Formatas</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "Peržiūrėti visus %s įrašus"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">Autorius</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "Iškeltas"
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr "<span class=\"meta-nav\">Archyvas</span><span>Peržiūrėti kitus projektus</span>"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Kitas</span><span>%title</span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Ankstesnis</span><span>%title</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "Įrašo naršymas"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">Kitas</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">Ankstesnis</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Įrašų navigacija"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Skaityti toliau <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Puslapis %s"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "Paslėpti pavadinimą ir turinį Portfolio puslapiuose"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "Kvadratas (1:1)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "Portretas (3:4)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "Peizažas (4:3)"
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "Portfolio miniatiūros išmatavimų santykis"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "Kitas paveikslėlis"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "Ankstesnis paveikslėlis"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "Image Navigation"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Praleisti ir eiti į turinį"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Socialinių nuorodų meniu"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė: %2$s"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "Parašykite komentarą"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nieko nerasta. Pabandykite pasinaudoti paieška."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį. "
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti savo pirmajį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nieko nerasta"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Naujesni komentarai &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Senesni komentarai"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Komentaro naršymas"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mintis apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mintys apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s minčių apie &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archyvai"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Pokalbiai"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audio įrašai"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statusai"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "Nuorodos"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citatos"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Video"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Paveikslėliai"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerijos"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Be pavadinimo"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Metai: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mėnesis: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Diena: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas. "

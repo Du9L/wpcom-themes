@@ -1,0 +1,380 @@
+# Translation of WordPress.com - Themes - Espied in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 02:33:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "Etichete"
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr "Legături în bara laterală"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "Antet sit"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "Proiecte mai vechi"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Șablon pagină portofoliu"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr "Șablon pagină lățime completă"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "A portfolio theme for designers and photographers. Great for showing off your image oriented projects to the world."
+msgstr "O temă de portofoliu pentru designeri și fotografi. Excelentă pentru a scate în evidență în lume proiectele tale orientate spre imagini."
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "Conectare"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "Meniu"
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr "Comută bară laterală"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutări pentru: %s"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să-ți publici primul proiect? <a href=\"%1$s\">Începe de aici</a>."
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "Niciun proiect găsit"
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Vezi <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "Mai multe proiecte"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">Publicat pe</span> %1$s</span>"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categorii</span> %1$s</span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "Vezi toate articolele %s"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "Vezi toate posturile scrise de %s"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">Autor</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "lipicios"
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr "<span class=\"meta-nav\">Arhive</span><span>Vezi alte proiecte</span>"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Următoare</span><span>%title</span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Anterioară</span><span>%title</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "Navigare articole"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">Următoare</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">Anterioară</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Navigarea articolelor"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Citește în continuare <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "Ascunde titlu și conținut în șablonul pagină de portofoliu"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "Pătrat (1:1)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "Portret (3:4)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "Peisaj (4:3)"
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "Raport aspect miniatură portofoliu"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "Imaginea următoare"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "Imaginea precedentă"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "Navigare în imagine"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Sări la conţinut"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Meniu legături sociale"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "Scrie un comentariu"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuă lectura <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Editare"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nimic nu se potrivește termenilor căutării tale. Te rog încearcă din nou cu cuvinte cheie diferite."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să publici primul tău articol? <a href=\"%1$s\">Poți începe aici</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nu a fost găsit nimic"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Comentariile nu sunt permise."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarii mai vechi"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Navigare în comentarii"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un gând despre &ldquo;%2$s&rdquo;"
+msgstr[1] " %1$s gânduri despre &ldquo;%2$s&rdquo;"
+msgstr[2] " %1$s de gânduri despre &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arhive"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Discuții"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audio-uri"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Stări"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "Legături"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citate"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Fişiere video"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imagini"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerii"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Note"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "An: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Lună: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Zi: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Se pare că nu a fost găsit nimic la această locație. Poate încerci una din legăturile de mai jos sau o căutare?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina nu a fost găsită."

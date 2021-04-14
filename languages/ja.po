@@ -1,0 +1,378 @@
+# Translation of WordPress.com - Themes - Espied in Japanese
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 02:33:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr "・"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr "サイドバー内のリンク"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "サイトヘッダー"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "過去のプロジェクト"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "ポートフォリオページテンプレート"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr "全幅ページテンプレート"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "A portfolio theme for designers and photographers. Great for showing off your image oriented projects to the world."
+msgstr "デザイナーやフォトグラファー向けポートフォリオテーマ。画像ベースのプロジェクトを公開するのに適しています。"
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "つながろう"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "メニュー"
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr "サイドバー切り替え"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初のプロジェクトを公開する準備ができたら、<a href=\"%1$s\">こちらからスタート</a>してください。"
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "プロジェクトが見つかりません"
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "<span class=\"screen-reader-text\">%1$s</span> を表示"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "プロジェクトをもっと見る"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">投稿日:</span> %1$s</span>"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">カテゴリー:</span> %1$s</span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "全%s件の投稿を表示"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">フォーマット:</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">投稿者:</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "先頭に固定表示"
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr "<span class=\"meta-nav\">アーカイブ</span><span>他のプロジェクトを表示</span>"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">次へ</span><span>%title</span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">前へ</span><span>%title</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">次</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">過去</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "<span class=\"screen-reader-text\">%1$s</span> の続きを読む"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "ポートフォリオページテンプレートでタイトルとコンテンツを非表示にする"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "正方形 (1:1)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "縦長 (3:4)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "横長 (4:3)"
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "ポートフォリオサムネイル縦横比"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "次の画像"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "前の画像"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "画像ナビゲーション"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "ソーシャルリンクメニュー"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "チャット"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "音声"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "状態"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "リンク"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "動画"
+
+#: archive.php:45
+msgid "Images"
+msgstr "画像"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "アサイド"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "年別アーカイブ: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "月別アーカイブ: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "日別アーカイブ: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "作成者: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"

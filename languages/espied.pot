@@ -1,0 +1,414 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Espied 1.2.2-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/espied\n"
+"POT-Creation-Date: 2017-05-04 02:33:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:45
+msgid "Images"
+msgstr ""
+
+#: archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr ""
+
+#: archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: archive.php:66
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr ""
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr ""
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr ""
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr ""
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. 	 * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. 		 * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. 	   by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:62
+msgid "Image navigation"
+msgstr ""
+
+#: image.php:64
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:65
+msgid "Next Image"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr ""
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr ""
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid ""
+"<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</"
+"span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">"
+"%3$s</a></span>"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid ""
+"<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</"
+"span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid ""
+"<span class=\"categories-links\"><span class=\"screen-reader-text"
+"\">Categories</span> %1$s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:136
+msgid ""
+"<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> "
+"%1$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr ""
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr ""
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr ""
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr ""
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr ""
+
+#: page-templates/portfolio-page.php:76
+msgid ""
+"Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "Espied"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/espied/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid ""
+"A portfolio theme for designers and photographers. Great for showing off "
+"your image oriented projects to the world."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr ""

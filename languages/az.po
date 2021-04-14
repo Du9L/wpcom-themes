@@ -1,0 +1,341 @@
+# Translation of WordPress.com - Themes - Espied in Azerbaijani
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 02:33:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: az\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ","
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "Etiketlər"
+
+#: inc/wpcom-colors.php:4
+msgid "Site Header"
+msgstr "Sayt Sərlövhəsi"
+
+#: inc/wpcom-colors.php:319
+msgid "Links in the sidebar"
+msgstr "Kənar çubuğundakı bağlantılar"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "A portfolio theme for designers and photographers. Great for showing off your image oriented projects to the world."
+msgstr "Dizaynerlər və fotoqraflar üçün bir portfel mövzusu. Təsvir oriyentasiyalı layihələrinizi dünyaya göstərmək üçün ideal."
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "Bağlan"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "Menyu"
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "Layihə tapılmadı"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk layihənizi dərc etməyə hazırsınızmı? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr " %s üçün Axtarışın Nəticələri:"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "Bütün %s yazılara bax"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Kateqoriyalar</span> %1$s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "Daha Çox Layihə"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "%s tərəfindən yazılmış bütün yazılara bax"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">Müəllif</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Öncəki</span><span>%title</span>"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Sonrakı</span><span>%title</span>"
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr "<span class=\"meta-nav\">Arxiv</span><span>Digər layihələrə bax</span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "sabit"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Yazı naviqasiyaları"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">Öncəki</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "Yazı naviqasiyaları"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "Landşaft (4:3)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "Portret (3:4)"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "Kvadrat (1:1)"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "Portfel Səhifə Şablonunda başlığı və mühtəviyyatı gizlət"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Səhifə %s"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "Sonrakı təsvir"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "Öncəki təsvir"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "Rəsmlər üzrə naviqasiya"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "açıq"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Mühtəviyyata keç"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "altset yoxdur"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Sosial Bağlantılar Menyusu"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "Yan menyu"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Əsas menyu"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Mövzu: %1$s tərəfindən %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s qürurla təqdim edər"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "% Şərh"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "1 Şərh"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "Bir şərh yazın"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Oxumağa davam et <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Redaktə et"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Səhifələr:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Axtardığınız səhifə tapılmadı. Bəlkə axtarış qutusu axtardığınızı tapmaqda sizə kömək edər."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bağışlayın, axtarış kriteriyalarınıza uyğun heç bir şey tapılmadı. Bəzi fərqli açar kəlmələrdən istifadə edərək təkrar yoxlayın."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı dərc etməyə hazırsınızmı? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Tapılmadı"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Şərh üçün bağlıdır."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Yeni şərhlər &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Əski şərhlər"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üzərinə bir şərh"
+msgstr[1] "&ldquo;%2$s&rdquo; üzərinə %1$s şərh"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Şərh naviqasiyası"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Söhbətlər"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arxivlər"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statuslar"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audiolar"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Sitatlar"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videolar"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Qalereyalar"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Təsvirlər"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Kənarlar"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Fİ"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Ay: %s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "İ"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Gün: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Ay: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada heç bir şeyin tapılmadığı görünür. Bəlkə aşağıdakı bağlantılardan birini yoxlayasan və ya bir axtarış edəsən?"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Müəllif: %s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Bağışlayın! Bu səhifə tapılmır."

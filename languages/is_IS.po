@@ -1,0 +1,366 @@
+# Translation of WordPress.com - Themes - Espied in Icelandic
+# This file is distributed under the same license as the WordPress.com - Themes - Espied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 02:33:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n % 100 != 1 && n % 100 != 21 && n % 100 != 31 && n % 100 != 41 && n % 100 != 51 && n % 100 != 61 && n % 100 != 71 && n % 100 != 81 && n % 100 != 91);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: is\n"
+"Project-Id-Version: WordPress.com - Themes - Espied\n"
+
+#: inc/template-tags.php:115
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:115
+msgid "Tags"
+msgstr "Merki"
+
+#: inc/jetpack.php:104
+msgid "Older projects"
+msgstr "Eldri verkefni"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/espied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Skapalón síðu verkefnalista"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/espied/page-templates/full-width.php
+msgid "Full Width Page Template"
+msgstr "Sniðmát síðu í fullri breidd"
+
+#: sidebar.php:19
+msgid "Connect"
+msgstr "Tengjast"
+
+#: sidebar.php:13
+msgid "Menu"
+msgstr "Valmynd"
+
+#: sidebar.php:9
+msgid "Toggle Sidebar"
+msgstr "Birta/fela hliðarstiku"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Leitarniðurstöður fyrir: %s"
+
+#: page-templates/portfolio-page.php:76
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Tilbúin(n) að birta fyrsta verkefnið þitt? <a href=\"%1$s\">Byrja hér</a>."
+
+#: page-templates/portfolio-page.php:70
+msgid "No Project Found"
+msgstr "Ekkert verkefni fannst"
+
+#: inc/template-tags.php:341
+msgid "View <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Skoða <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/template-tags.php:307
+msgid "More Projects"
+msgstr "Fleiri verkefni"
+
+#: inc/template-tags.php:136
+msgid "<span class=\"date\"><span class=\"screen-reader-text\">Posted on</span> %1$s</span>"
+msgstr "<span class=\"date\"><span class=\"screen-reader-text\">Birt þann</span> %1$s</span>"
+
+#: inc/template-tags.php:109
+msgid "<span class=\"categories-links\"><span class=\"screen-reader-text\">Categories</span> %1$s</span>"
+msgstr "<span class=\"categories-links\"><span class=\"screen-reader-text\">Flokkar</span> %1$s</span>"
+
+#: inc/template-tags.php:102
+msgid "View all %s posts"
+msgstr "Skoða allar %s færslur"
+
+#: inc/template-tags.php:100
+msgid "<span class=\"entry-format\"><span class=\"screen-reader-text\">Format</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+msgstr "<span class=\"entry-format\"><span class=\"screen-reader-text\">Snið</span> <a href=\"%1$s\" title=\"%2$s\">%3$s</a></span>"
+
+#: inc/template-tags.php:94
+msgid "View all posts by %s"
+msgstr "Skoða allar færslur eftir %s"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"author vcard\"><span class=\"screen-reader-text\">Author</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author vcard\"><span class=\"screen-reader-text\">Höfundur</span> <a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: inc/template-tags.php:85
+msgid "Sticky"
+msgstr "Heftuð"
+
+#: inc/template-tags.php:69
+msgid "<span class=\"meta-nav\">Archive</span><span>View other projects</span>"
+msgstr "<span class=\"meta-nav\">Archive</span><span>Skoða önnur verkefni</span>"
+
+#: inc/template-tags.php:64
+msgid "<span class=\"meta-nav\">Next</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Næsta</span><span>%title</span>"
+
+#: inc/template-tags.php:63
+msgid "<span class=\"meta-nav\">Previous</span><span>%title</span>"
+msgstr "<span class=\"meta-nav\">Fyrra</span><span>%title</span>"
+
+#: inc/template-tags.php:60
+msgid "Post navigation"
+msgstr "Færslu leiðarstýring"
+
+#: inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">Næsta</span>"
+
+#: inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">Fyrra</span>"
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Leiðarkerfi færslna"
+
+#: inc/extras.php:153
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Halda áfram að lesa <span class=\"screen-reader-text\">%1$s</span>"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Síða %s"
+
+#: inc/customizer.php:40
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "Fela titil og efni á skapalóni fyrir verkefnasíðu"
+
+#: inc/customizer.php:30
+msgid "Square (1:1)"
+msgstr "Ferningur (1:1)"
+
+#: inc/customizer.php:29
+msgid "Portrait (3:4)"
+msgstr "Ljósmynd (3:4)"
+
+#: inc/customizer.php:28
+msgid "Landscape (4:3)"
+msgstr "Landslag (4:3)"
+
+#: inc/customizer.php:24
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "Stærðarhlutföll þumlu fyrir verkefni"
+
+#: image.php:65
+msgid "Next Image"
+msgstr "Næsta mynd"
+
+#: image.php:64
+msgid "Previous Image"
+msgstr "Fyrri mynd"
+
+#: image.php:62
+msgid "Image navigation"
+msgstr "Leiðarstýring mynda"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Hoppa yfir í efni"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "virkur"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate
+#. into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "enginn undirflokkur"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:117
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "virkt"
+
+#: functions.php:96 inc/wpcom-colors.php:101
+msgid "Sidebar"
+msgstr "Spássía"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Valmynd samfélagsmiðlatengla"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Aðalvalmynd"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Þema: %1$s eftir %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Drifið áfram af %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "% Comments"
+msgstr "% Ummæli"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "1 Comment"
+msgstr "1 athugasemd"
+
+#: content-portfolio-single.php:38 content.php:55
+msgid "Leave a comment"
+msgstr "Skrá ummæli"
+
+#: content-portfolio-single.php:21 content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lesa meira <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:14 content-portfolio-single.php:34
+#: content-portfolio.php:20 inc/template-tags.php:107
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-portfolio-single.php:41 content.php:58
+#: image.php:56 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Breyta"
+
+#: content-page.php:18 content-portfolio-single.php:24 content.php:41
+#: image.php:39 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Síður:"
+
+#: content-none.php:28 page-templates/portfolio-page.php:80
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Það lítur út fyrir að við finnum ekki það sem þú sækist eftir. Hugsanlega hjálpar til að nota leitina."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Því miður, ekkert fannst sem passaði við leitarskilyrðin. Vinsamlega reyndu aftur með öðrum leitarorðum."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Tilbúin(n) til að birta fyrstu færsluna þína? <a href=\"%1$s\">Byrjaðu hér</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ekkert fannst"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Ummæli eru ekki leyfð."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Nýrri athugasemdir &raquo;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&laquo; Eldri athugasemdir"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Leiðastýring athugasemda"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein athugasemd við &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s athugasemdir við &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Sarpur"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Samtöl"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Hljóðskrár"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Stöður"
+
+#: archive.php:54 inc/wpcom-colors.php:260
+msgid "Links"
+msgstr "Tenglar"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Tilvitnanir"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Myndbönd"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Myndir"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Myndasöfn"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Innskot"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Ár: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mánuður: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dagur: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Höfundur: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Svo virðist sem ekkert hafi fundist á þessari slóð. Þú gætir reynt einn af tenglunum hér að neðan eða leitina?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Úbbs! Þessi síða fannst ekki."

@@ -1,0 +1,444 @@
+/*
+Theme Name: Espied
+Description: Used to style the TinyMCE editor.
+*/
+/**
+	* Table of Contents:
+	*
+	* 1.0 - Body
+	* 2.0 - Headings
+	* 3.0 - Text Elements
+	* 4.0 - Links
+	* 5.0 - Alignment
+	* 6.0 - Tables
+	* 7.0 - Images
+	* 8.0 - RTL
+	* ----------------------------------------------------------------------------
+	*/
+/*--------------------------------------------------------------
+1.0 - Body
+--------------------------------------------------------------*/
+html .mceContentBody {
+	font-size: 15px;
+	max-width: 552px;
+}
+
+body {
+	color: #23292b;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	line-height: 1.6;
+	vertical-align: baseline;
+}
+
+/*--------------------------------------------------------------
+2.0 - Headings
+--------------------------------------------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	font-family: Montserrat, sans-serif;
+	margin: 48px 0 12px;
+}
+
+h1 {
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 1.09091;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.2;
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.33333;
+}
+
+h4 {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 2.25;
+	text-transform: uppercase;
+}
+
+h5 {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 2.25;
+	text-transform: uppercase;
+}
+
+h6 {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 2.57143;
+	text-transform: uppercase;
+}
+
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+	margin-top: 0;
+}
+
+/*--------------------------------------------------------------
+3.0 - Text Elements
+--------------------------------------------------------------*/
+address {
+	font-style: italic;
+	margin: 0 0 24px;
+}
+
+abbr[title] {
+	border-bottom: 1px dotted #ededed;
+	cursor: help;
+}
+
+b,
+strong {
+	font-weight: 700;
+}
+
+cite {
+	border: 0;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+mark,
+ins {
+	background: #fff9c0;
+	border: 0;
+	color: inherit;
+	text-decoration: none;
+}
+
+p {
+	margin: 0 0 24px;
+}
+
+code,
+kbd,
+tt,
+var,
+samp,
+pre {
+	background: #f1f1f1;
+	font-family: monospace, serif;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 1.6;
+}
+
+pre {
+	margin-bottom: 24px;
+	max-width: 100%;
+	overflow: auto;
+	padding: 24px;
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+blockquote,
+q {
+	quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+	content: none;
+}
+
+blockquote {
+	color: #737678;
+	margin: 0;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1.33333;
+}
+blockquote cite,
+blockquote small {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	font-style: normal;
+	letter-spacing: 0.1em;
+	padding-left: 40px;
+	position: relative;
+	text-transform: uppercase;
+}
+blockquote cite:before,
+blockquote small:before {
+	content: "";
+	background: #000;
+	width: 30px;
+	height: 1px;
+	position: absolute;
+	top: 8px;
+	left: 0;
+}
+blockquote strong,
+blockquote b {
+	font-weight: 600;
+}
+
+small {
+	font-size: 75%;
+}
+
+big {
+	font-size: 125%;
+}
+
+sup,
+sub {
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	bottom: 1ex;
+}
+
+sub {
+	top: .5ex;
+}
+
+dl {
+	margin-bottom: 24px;
+}
+
+dt {
+	font-weight: 700;
+}
+
+dd {
+	margin: 0 0 24px;
+}
+
+ul,
+ol {
+	margin: 0 0 24px 20px;
+	padding-left: 0;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin: 0 0 0 20px;
+}
+
+del {
+	color: #9dabb0;
+}
+
+hr {
+	background-color: #ededed;
+	border: 0;
+	height: 1px;
+	margin-bottom: 24px;
+}
+
+/*--------------------------------------------------------------
+4.0 Links
+--------------------------------------------------------------*/
+a {
+	color: #007cad;
+	text-decoration: none;
+}
+a:hover, a:active, a:focus {
+	color: #00a1e0;
+}
+
+a:visited {
+	color: #007cad;
+}
+
+a:focus {
+	outline: thin dotted;
+}
+
+a:active,
+a:hover {
+	outline: 0;
+}
+
+/*--------------------------------------------------------------
+5.0 Alignment
+--------------------------------------------------------------*/
+.alignleft {
+	float: left;
+	margin: 7px 24px 7px 0;
+}
+
+.alignright {
+	float: right;
+	margin: 7px 0 7px 24px;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 7px auto;
+}
+
+blockquote.alignleft,
+blockquote.alignright {
+	border-top: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+	padding-top: 16px;
+	width: 264px;
+}
+blockquote.alignleft > :last-child,
+blockquote.alignright > :last-child {
+	margin-bottom: 16px;
+}
+
+/*--------------------------------------------------------------
+6.0 - Tables
+--------------------------------------------------------------*/
+.mceItemTable {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.28571;
+	border: 1px solid #ededed;
+	border-width: 1px 0 0 1px;
+	border-collapse: separate;
+	border-spacing: 0;
+	margin-bottom: 24px;
+	width: 100%;
+}
+
+.mceItemTable th,
+.mceItemTable caption {
+	border: 1px solid #ededed;
+	border-width: 0 1px 1px 0;
+	font-weight: 700;
+	padding: 8px;
+	text-align: left;
+	text-transform: uppercase;
+	vertical-align: baseline;
+}
+
+.mceItemTable td {
+	border: 1px solid #ededed;
+	border-width: 0 1px 1px 0;
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+	padding: 8px;
+	vertical-align: baseline;
+}
+
+/*--------------------------------------------------------------
+7.0 - Images
+--------------------------------------------------------------*/
+img {
+	height: auto;
+	max-width: 552px;
+	vertical-align: middle;
+}
+
+.wp-caption {
+	background-color: #23292b;
+	border: none;
+	color: #ededed;
+	margin: 0 0 24px 0;
+	max-width: 552px;
+	padding: 0;
+	text-align: left;
+}
+
+.wp-caption-dt {
+	margin: 0;
+}
+
+.wp-caption .wp-caption-text,
+.wp-caption-dd {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 1.33333;
+	font-style: italic;
+	padding: 24px;
+	text-align: left;
+}
+
+.mceTemp + ul,
+.mceTemp + ol {
+	list-style-position: inside;
+}
+
+/*--------------------------------------------------------------
+8.0 - RTL
+--------------------------------------------------------------*/
+html .mceContentBody.rtl {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.rtl tr, .rtl th, .rtl td {
+	text-align: right;
+}
+.rtl blockquote cite,
+.rtl blockquote small {
+	padding-right: 40px;
+	padding-left: 0;
+}
+.rtl blockquote cite:before,
+.rtl blockquote small:before {
+	right: 0;
+	left: auto;
+}
+.rtl ul,
+.rtl ol {
+	margin: 0 20px 24px 0;
+	padding-right: 0;
+}
+.rtl li > ul,
+.rtl li > ol {
+	margin: 0 20px 0 0;
+}
+.rtl .mceItemTable th,
+.rtl .mceItemTable caption {
+	text-align: right;
+}
+.rtl .wp-caption {
+	text-align: right;
+}
+.rtl .wp-caption .wp-caption-text,
+.rtl .wp-caption-dd {
+	text-align: right;
+}
