@@ -1,0 +1,88 @@
+# Translation of Sidespied in Hebrew
+# This file is distributed under the same license as the Sidespied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-23 10:17:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Sidespied\n"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Page Template"
+msgstr "<span dir=rtl>תבנית של דף תיק עבודות</span>"
+
+#. Description of the plugin/theme
+msgid "A portfolio child theme of Espied. Great for showing off your photographs or images."
+msgstr ""
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "תפריט קישורי מדיה חברתית"
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:94
+msgctxt "Noto font: on or off"
+msgid "on"
+msgstr ""
+
+#: page-templates/portfolio-page.php:77
+msgid "No Project Found"
+msgstr "לא נמצא פרוייקט"
+
+#: page-templates/portfolio-page.php:83
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "<span dir=rtl>מוכן לפרסם את הפרויקט הראשון שלך?</span> <span dir=rtl><a href=\"%1$s\">התחל כאן</a>.</span>"
+
+#: page-templates/portfolio-page.php:87
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה כי לא ניתן למצוא את מה שחיפשת, אולי חיפוש יעזור."
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#: content-portfolio-single.php:46 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "עריכה"
+
+#: content-portfolio-single.php:43
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: content-portfolio-single.php:43
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: content-portfolio-single.php:43
+msgid "Leave a comment"
+msgstr "השארת תגובה"
+
+#: content-portfolio-single.php:29 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr ":עמודים"
+
+#: content-portfolio-single.php:19 content-portfolio-single.php:39
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-portfolio-single.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להמשיך לקרוא <span class=\"meta-nav\">&larr;</span>"

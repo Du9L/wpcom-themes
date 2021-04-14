@@ -1,0 +1,88 @@
+# Translation of WordPress.com - Themes - Sidespied in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Sidespied package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-04 20:11:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Sidespied\n"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidespied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sidespied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Șablon pagină portofoliu"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sidespied/style.css
+msgid "A portfolio child theme of Espied. Great for showing off your photographs or images."
+msgstr "O temă copil de portofoliu a Espied. Potrivită pentru a scoate în evidență fotografiile sau imaginile tale."
+
+#: page-templates/portfolio-page.php:87
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: page-templates/portfolio-page.php:83
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să-ți publici primul proiect? <a href=\"%1$s\">Începe de aici</a>."
+
+#: page-templates/portfolio-page.php:77
+msgid "No Project Found"
+msgstr "Niciun proiect găsit"
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "Meniu legături sociale"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-portfolio-single.php:46 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr "Editare"
+
+#: content-portfolio-single.php:43
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: content-portfolio-single.php:43
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: content-portfolio-single.php:43
+msgid "Leave a comment"
+msgstr "Scrie un comentariu"
+
+#: content-portfolio-single.php:29 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: content-portfolio-single.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuă lectura <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-portfolio-single.php:19 content-portfolio-single.php:39
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "

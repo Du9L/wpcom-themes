@@ -1,0 +1,117 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sidespied 1.0.2-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/sidespied\n"
+"POT-Creation-Date: 2016-01-01 04:37:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: content-portfolio-single.php:19 content-portfolio-single.php:39
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: content-portfolio-single.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-portfolio-single.php:29 page-templates/portfolio-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content-portfolio-single.php:43
+msgid "Leave a comment"
+msgstr ""
+
+#: content-portfolio-single.php:43
+msgid "1 Comment"
+msgstr ""
+
+#: content-portfolio-single.php:43
+msgid "% Comments"
+msgstr ""
+
+#: content-portfolio-single.php:46 page-templates/portfolio-page.php:29
+msgid "Edit"
+msgstr ""
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. 	   by Noto, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:94
+msgctxt "Noto font: on or off"
+msgid "on"
+msgstr ""
+
+#: page-templates/portfolio-page.php:77
+msgid "No Project Found"
+msgstr ""
+
+#: page-templates/portfolio-page.php:83
+msgid ""
+"Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: page-templates/portfolio-page.php:87
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/sidespied/style.css
+msgid "Sidespied"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/sidespied/style.css
+msgid "https://wordpress.com/themes/sidespied/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sidespied/style.css
+msgid ""
+"A portfolio child theme of Espied. Great for showing off your photographs or "
+"images."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/sidespied/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidespied/style.css
+msgid "https://wordpress.com/themes/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sidespied/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr ""
