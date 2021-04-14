@@ -1,0 +1,399 @@
+/*
+Theme Name: Sobe
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/* =Reset
+-------------------------------------------------------------- */
+
+caption, th, td {
+	text-align: right;
+}
+
+/* =Global
+----------------------------------------------- */
+
+/* Text elements */
+
+ul, ol {
+	margin: 0 3em 1.5em 0;
+}
+
+ul,
+ol {
+	margin: 0 3em 1.5em 0;
+}
+
+li > ul,
+li > ol {
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+th {
+	text-align: right;
+}
+
+textarea {
+	padding-right: 3px;
+	padding-left: 0;
+}
+/* Alignment */
+.alignright {
+	float: right;
+	margin: .75em 0 .75em 1.5em;
+}
+
+.alignleft {
+	float: left;
+	margin: .75em 1.5em .75em 0;
+}
+
+/* Text meant only for screen readers */
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+
+/* =Sidebars/Widgets
+----------------------------------------------- */
+
+.widget-area {
+	margin-right: 1.5em;
+	margin-left: 1.5em;
+}
+
+.widget-area ul ul {
+	margin: 0 1.5em 0 0;
+}
+
+/* =Posts
+----------------------------------------------------*/
+
+.comment-content a:after,
+.entry-content a:after {
+	right: 0;
+	left: auto;
+}
+
+.tags-links a,
+.tags-links a:visited {
+	margin: 0 0 .375em .5em;
+}
+
+.page-title {
+	padding-right: .75em;
+	padding-left: 0;
+}
+
+.wp-post-image {
+	float: left;
+	margin: 0 3em 1.5em 0;
+}
+
+
+/* =Post Formats
+-------------------------------------------*/
+
+.hentry .post-format-indicator {
+	margin-right: -27px;
+	right: 50%;
+	left: auto;
+	margin-left: auto;
+}
+
+/* =Navigation
+--------------------------------------- */
+
+.site-main .comment-navigation .nav-previous a,
+.site-main .posts-navigation .nav-previous a,
+.site-main .post-navigation .nav-previous a {
+	float: right;
+	text-align: right;
+}
+
+.site-main .posts-navigation .nav-previous:before,
+.site-main .post-navigation .nav-previous:before {
+	float: right;
+}
+
+.site-main .comment-navigation .nav-next a,
+.site-main .posts-navigation .nav-next a,
+.site-main .post-navigation .nav-next a {
+	float: left;
+	text-align: left;
+}
+
+.site-main .posts-navigation .nav-next:before,
+.site-main .post-navigation .nav-next:before {
+	float: left;
+	text-align: left;
+}
+
+/* =Header
+--------------------------------------------------------------*/
+
+.site-logo {
+	float: right;
+	margin-left: .75em;
+	margin-right: auto;
+}
+
+.site-branding {
+	float: right;
+	padding-right: 1.5em;
+	padding-left: 0;
+}
+
+/* =Site Navigation
+--------------------------------------------------------------*/
+
+.main-navigation {
+	float: left;
+}
+
+.main-navigation ul ul li {
+	padding-right: .75em;
+	padding-left: 0;
+}
+
+.menu-toggle {
+	left: 1.75em;
+	right: auto;
+}
+
+.menu-toggle:before {
+	margin-left: 5px;
+	margin-right: auto;
+}
+
+/* =Comments
+--------------------------------------------------------------*/
+div#respond,
+.comments-title {
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+}
+
+.required {
+	margin-right: 2px;
+	margin-left: auto;
+}
+
+.comment-reply-title small {
+	float: left;
+}
+
+.comment-list .avatar {
+	float: right;
+	margin-left: .75em;
+	margin-right: auto;
+}
+
+.comment .comment .avatar {
+	float: right;
+	margin-right: 0;
+	margin-left: .75em;
+}
+
+.cancel-comment-reply-link {
+	float: left;
+}
+
+.comment-edit-link:before {
+	margin: 0 5px 0 8px;
+}
+
+.comment-form-author label,
+.comment-form-email label,
+.comment-form-url label,
+.comment-form-comment label {
+	right: 1em;
+	left: auto;
+}
+
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input,
+.comment-form-comment input {
+	padding-right: 6em;
+	padding-left: 0;
+}
+
+.comment-form-comment textarea {
+	padding-right: 6em;
+	padding-left: 0;
+}
+
+@media only screen and ( min-width: 960px ) {
+	.has-active-sidebar .content-area {
+		float: right;
+		margin: 0 0 0 -30%;
+	}
+
+	.has-active-sidebar .site-main {
+		margin: 0 0 0 30%;
+	}
+
+	.has-active-sidebar .site-content .widget-area {
+		float: left;
+	}
+}
+
+@media only screen and ( min-width: 850px ) {
+
+	.comments-link {
+		border-right: 0;
+		right: -21px;
+		left: auto;
+		border-left: none;
+	}
+
+	.comments-link:before {
+		right: -12px;
+		left: auto;
+	}
+
+	.site-branding {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	/* Navigation */
+
+	.main-navigation {
+		float: left;
+		text-align: left;
+	}
+
+	.main-navigation a,
+	.main-navigation a:visited {
+		margin-right: .75em;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul {
+		float: right;
+		right: 0;
+		text-align: right;
+		left: auto;
+	}
+
+	.main-navigation ul ul a {
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul:before {
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		right: 1.5em;
+		left: auto;
+	}
+
+	.main-navigation ul ul ul {
+		right: 100%;
+		left: auto;
+	}
+
+	.main-navigation ul ul a,
+	.main-navigation ul ul a:visited {
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+	/* Home page header treatment */
+
+	.home .main-navigation a,
+	.home .main-navigation a:visited {
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+	.home .main-navigation ul ul a,
+	.home .main-navigation ul ul a:visited {
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+	.page-title {
+		padding-right: 0;
+		right: 101%;
+		left: auto;
+		padding-left: 0;
+	}
+
+	.has-active-sidebar .page-title,
+	.search-no-results .page-title,
+	.error404 .page-title {
+		right: auto;
+		left: auto;
+	}
+
+	/* Post formats */
+	.hentry .post-format-indicator {
+		margin-right: auto;
+		right: -35px;
+		left: auto;
+		margin-left: auto;
+	}
+
+	.size-full + .wp-caption-text,
+	.size-large + .wp-caption-text,
+	.size-medium + .wp-caption-text {
+		right: 0;
+		left: auto;
+	}
+
+	/* Posts/Paging navigation */
+	.site-main .comment-navigation,
+	.site-main .posts-navigation,
+	.site-main .post-navigation,
+	div#respond, 
+	.comments-title {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.site-main .posts-navigation .nav-previous,
+	.site-main .post-navigation .nav-previous,
+	.site-main .posts-navigation .nav-next,
+	.site-main .post-navigation .nav-next {
+		-webkit-transform: translateX(-5px);
+		-moz-transform: translateX(-5px);
+		transform: translateX(-5px);
+	}
+	.site-main .posts-navigation .nav-next,
+	.site-main .post-navigation .nav-next {
+		-webkit-transform: translateX(5px);
+		-moz-transform: translateX(5px);
+		transform: translateX(5px);
+	}
+	.site-main .posts-navigation .nav-previous:hover,
+	.site-main .post-navigation .nav-previous:hover {
+		-webkit-transform: translateX(0);
+		-moz-transform: translateX(0);
+		transform: translateX(0);
+	}
+	.site-main .posts-navigation .nav-next:hover,
+	.site-main .post-navigation .nav-next:hover {
+		-webkit-transform: translateX(0);
+		-moz-transform: translateX(0);
+		transform: translateX(0);
+	}
+
+	/* Comments */
+
+	.comment-list .avatar {
+		margin-right: -107px;
+		margin-left: 3em;
+	}
+
+}

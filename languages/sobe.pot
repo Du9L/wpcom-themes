@@ -1,0 +1,303 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sobe 1.0.5-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/sobe\n"
+"POT-Creation-Date: 2015-02-25 05:05:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &raquo;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:19 inc/template-tags.php:95
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:11 content.php:12
+msgid "All %s posts"
+msgstr ""
+
+#: content.php:33
+msgid "Read more <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr ""
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:60
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Sidebar Social Links"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Social Links"
+msgstr ""
+
+#: functions.php:118
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Continue reading <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Playfair Display, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#: functions.php:175
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:177
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:35
+msgid "Menu"
+msgstr ""
+
+#: inc/extras.php:64
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid ""
+"<span class=\"hide-for-mobile\">0</span> <span class=\"show-for-mobile"
+"\">Leave a Comment</span>"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid "1 <span class=\"show-for-mobile\">Comment</span>"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid "% <span class=\"show-for-mobile\">Comments</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:127
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:129
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:135
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:135
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:137
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:137
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:139
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:141
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:161
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgid "Archives"
+msgstr ""
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/sobe/style.css
+msgid "Sobe"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/sobe/style.css
+msgid "http://wordpress.com/themes/sobe/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sobe/style.css
+msgid ""
+"A lighthearted personal blogging theme for sharing life's most memorable "
+"moments."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/sobe/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sobe/style.css
+msgid "http://wordpress.com/themes/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sobe/nosidebar-page.php
+msgid "Full Width, No Sidebar"
+msgstr ""

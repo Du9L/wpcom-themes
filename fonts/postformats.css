@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'postformats';
+	src:url('postformats/icomoon.eot?t1qies');
+	src:url('postformats/icomoon.eot?#iefixt1qies') format('embedded-opentype'),
+		url('postformats/icomoon.woff?t1qies') format('woff'),
+		url('postformats/icomoon.ttf?t1qies') format('truetype'),
+		url('postformats/icomoon.svg?t1qies#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'postformats';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-audio:before {
+	content: "\e60a";
+}
+
+.icon-standard:before {
+	content: "\e601";
+}
+
+.icon-link:before {
+	content: "\e602";
+}
+
+.icon-sticky:before {
+	content: "\e603";
+}
+
+.icon-image:before {
+	content: "\e600";
+}
+
+.icon-aside:before {
+	content: "\e604";
+}
+
+.icon-gallery:before {
+	content: "\e605";
+}
+
+.icon-video:before {
+	content: "\e606";
+}
+
+.icon-chat:before {
+	content: "\e607";
+}
+
+.icon-status:before {
+	content: "\e608";
+}
+
+.icon-quote:before {
+	content: "\e609";
+}
+
