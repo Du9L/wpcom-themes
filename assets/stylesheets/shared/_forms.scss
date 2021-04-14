@@ -1,0 +1,115 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: 4px solid;
+	border-color: $color__border-button;
+	border-radius: 40px;
+	background: $color__background-button;
+	box-shadow: none;
+	color: $color__white;
+	font-family: $font__heading;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	line-height: 1;
+	padding: .75em 1.5em;
+	text-shadow: none;
+	transition: 0.3s;
+
+	&:hover {
+		border-color: $color__border-button-hover;
+		box-shadow: none;
+		background-color: $color__background-button-hover;
+	}
+
+	&:active,
+	&:focus {
+		border-color: $color__border-button-focus;
+		box-shadow: none;
+	}
+}
+
+label {
+	font-family: $font__heading;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+#infinite-handle span {
+	border: 4px solid;
+	border-color: $color__border-button;
+	border-radius: 40px;
+	background: $color__background-button;
+	box-shadow: none;
+	color: $color__white;
+	font-size: $font__size-default;
+	font-family: $font__heading;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	line-height: 1;
+	padding: .75em 1.5em;
+	text-shadow: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+	background-color: $color__black;
+	color: $color__text-input;
+	border: 4px solid $color__border-input;
+	border-radius: 1px;
+	transition: 0.3s;
+
+	&:focus {
+		border-color: $color__border-input-focus;
+		color: $color__text-input-focus;
+		outline: none;
+	}
+}
+
+input[type="search"] {
+	box-sizing: border-box;
+}
+
+select {
+	color: $color__text-input-focus;
+	display: inline-block;
+	background-color: $color__black;
+	border: 4px solid $color__border-input;
+	border-radius: 1px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"] {
+	padding: .5em;
+}
+
+textarea {
+	width: 100%;
+}

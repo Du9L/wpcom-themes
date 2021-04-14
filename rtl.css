@@ -1,0 +1,313 @@
+/*
+Theme Name: Escutcheon
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+blockquote, q {
+	border-right: 4px solid #313537;
+	padding-right: 1.5em;
+	padding-left: 0;
+	border-left: none;
+}
+
+ul, ol {
+	margin: 0 1.5em 1.5em 0;
+}
+
+li > ul,
+li > ol {
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+
+textarea {
+	padding-right: 3px;
+	padding-left: 0;
+}
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+.main-navigation {
+	float: right;
+}
+
+.main-navigation a {
+	margin-left: -3px;
+	margin-right: auto;
+}
+
+.main-navigation a:after {
+	right: 0;
+	left: auto;
+}
+
+.comment-navigation .nav-previous,
+.posts-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: right;
+}
+
+.comment-navigation .nav-next,
+.posts-navigation .nav-next,
+.post-navigation .nav-next {
+	float: left;
+}
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers. */
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignright {
+	float: right;
+	margin: 0.75em 0 0.75em 1.5em;
+}
+
+.alignleft {
+	float: left;
+	margin: 0.75em 1.5em 0.75em 0;
+}
+
+.aligncenter {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+
+.widget_calendar td#next {
+	text-align: left;
+}
+
+/*--------------------------------------------------------------
+# Structure
+--------------------------------------------------------------*/
+
+.site-content .widget-area {
+	float: right;
+}
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+
+.site-content .widget-area {
+	float: right;
+}
+
+.site-title {
+	margin-left: -10px;
+	margin-right: auto;
+}
+
+.entry-title a {
+	margin-left: -3px;
+	margin-right: auto;
+}
+
+.entry-title a:after {
+	right: 0;
+	left: auto;
+}
+
+.entry-date .month-and-day {
+	margin-left: 8px;
+	margin-right: auto;
+}
+
+.entry-footer span {
+	margin-left: .75em;
+	margin-right: auto;
+}
+
+.comments-area .comment-list,
+.comments-area .comment-list .children {
+	margin-right: 0;
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+.comments-area .comment-list {
+	margin-right: 110px;
+	margin-left: auto;
+}
+
+.comments-area .comment-list > .parent {
+	border-right: 4px solid #666666;
+	padding-right: 70px;
+	margin-right: -70px;
+	padding-left: 0;
+	margin-left: auto;
+	border-left: none;
+}
+
+.comments-area .pingback {
+	margin-right: -110px;
+	margin-left: auto;
+}
+
+.comments-area .comment-author {
+	float: right;
+}
+
+.comments-area .comment-author .avatar {
+	right: -110px;
+	left: auto;
+}
+
+.comments-area .comment-metadata {
+	float: left;
+	text-align: left;
+}
+
+.comments-area .comment-edit-link:before {
+	margin-right: .75em;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+
+.wp-caption img[class*="wp-image-"] {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+# Media queries
+--------------------------------------------------------------*/
+@media screen and (min-width: 60em) {
+
+	.main-navigation .menu {
+		float: right;
+		margin-right: -.75em;
+		margin-left: auto;
+	}
+
+	.main-navigation ul {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	.main-navigation ul ul > li:first-of-type:before {
+		right: 50%;
+		margin-right: -10px;
+		left: auto;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul {
+		right: -999em;
+		left: auto;
+	}
+
+	.main-navigation ul ul li:hover > ul,
+	.main-navigation ul ul li.focus > ul {
+		right: 100%;
+		margin-right: 0;
+		left: auto;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul ul {
+		right: -999em;
+		margin-right: 0;
+		left: auto;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul li {
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+	.main-navigation ul ul li:hover > ul,
+	.main-navigation ul ul li.focus > ul {
+		right: 100%;
+		left: auto;
+	}
+
+	.main-navigation ul li:hover > ul,
+	.main-navigation ul li.focus > ul {
+		right: 50%;
+		margin-right: -85px;
+		left: auto;
+		margin-left: auto;
+	}
+
+	.main-navigation li {
+		float: right;
+		margin-left: 1.5em;
+		margin-right: auto;
+	}
+
+	.main-navigation .jetpack-social-navigation {
+		float: left;
+		text-align: left;
+	}
+
+	.entry-meta {
+		float: right;
+	}
+
+	.comments-area,
+	.entry-wrapper {
+		float: left;
+	}
+
+	#infinite-handle span,
+	.infinite-loader {
+		margin-right: 20%;
+		margin-left: auto;
+	}
+
+	body.page .featured-image,
+	.single .featured-image {
+		float: left;
+	}
+
+	.single .entry-content,
+	.single .entry-header,
+	.single .entry-footer,
+	.single .comments-area,
+	body.page .entry-content,
+	body.page .entry-header,
+	body.page .entry-footer,
+	body.page .comments-area {
+		float: left;
+	}
+
+	.single .hentry,
+	body.page .hentry {
+		float: left;
+	}
+
+	.site-content .widget-area {
+		float: right;
+	}
+
+}
+

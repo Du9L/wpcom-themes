@@ -1,0 +1,80 @@
+/*--------------------------------------------------------------
+## Links
+--------------------------------------------------------------*/
+a {
+	color: $color__link;
+	text-decoration: none;
+
+	&:visited {
+		color: $color__link-visited;
+	}
+	&:hover,
+	&:focus,
+	&:active {
+		color: $color__link-hover;
+		text-decoration: underline;
+	}
+	&:focus {
+		outline: thin dotted;
+	}
+	&:hover,
+	&:active {
+		outline: 0;
+	}
+}
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+@import "../components/top-navigation";
+
+@import "../components/menu-toggle";
+
+.comment-navigation,
+.posts-navigation,
+.post-navigation {
+	clear: both;
+	&:before,
+	&:after {
+		@include clearfix;
+	}
+	.site-main & {
+		margin: 3em 0;
+		overflow: hidden;
+	}
+
+	a {
+		display: inline-block;
+		border: 4px solid;
+		border-color: $color__border-button;
+		border-radius: 40px;
+		background: transparent;
+		color: $color__light-grey;
+		font-family: $font__heading;
+		font-size: $font__size-smaller;
+		text-decoration: none;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		line-height: 1;
+		padding: .75em 1.5em;
+		transition: 0.3s;
+		white-space: nowrap;
+		width: 100%;
+
+		&:hover {
+			background: $color__background-button-hover;
+			color: $color__white;
+		}
+	}
+
+	& .nav-previous {
+		margin-bottom: .75em;
+		text-align: left;
+	}
+
+	& .nav-next {
+		text-align: right;
+	}
+}
+
+@import "../components/social-menu";

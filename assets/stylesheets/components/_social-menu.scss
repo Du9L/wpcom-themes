@@ -1,0 +1,27 @@
+.jetpack-social-navigation {
+	clear: none;
+	float: right;
+	text-align: right;
+	margin-top: 1.5em;
+	max-width: 50%;
+	a,
+	a:visited {
+		color: $color__light-grey;
+		display: inline-block;
+		font-size: 32px;
+		transition: 0.3s;
+		margin: 0 0 .375em .375em;
+		padding: 0;
+
+		&:hover {
+			color: $color__orange;
+		}
+	}
+	li a:hover {
+		text-decoration: none;
+	}
+	li a:after,
+	li a:hover:after {
+		display: none;
+	}
+}

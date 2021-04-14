@@ -1,0 +1,162 @@
+# Translation of WordPress.com - Themes - Escutcheon in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Escutcheon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-24 01:24:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Escutcheon\n"
+
+#: inc/wpcom-colors.php:25
+msgid "Headings & Links"
+msgstr "سرصفحه‌ها و پیوندها"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid "Tagged"
+msgstr "برچسب‌خورده با"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/escutcheon/style.css
+msgid "With its smoky color palette and bold typography, Escutcheon is the perfect theme for writers who want to stand apart from the rest."
+msgstr "با رنگ‌بندی دودی و تایپوگرافی برجسته، Escutcheon پوسته‌ای عالی برای نویسندگانی است که می‌خواهند متفاوت ظاهر شوند."
+
+#: single.php:19
+msgid "Next Post %s"
+msgstr "نوشتهٔ پسین %s"
+
+#: single.php:18
+msgid "Previous Post %s"
+msgstr "نوشتهٔ پیشین %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: inc/template-tags.php:68
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:68
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: inc/template-tags.php:68
+msgid "Leave a comment"
+msgstr "دیدگاهی بنویسید"
+
+#: inc/template-tags.php:59
+msgid "Posted in %1$s."
+msgstr "نوشته‌شده در %1$s."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57 inc/template-tags.php:63
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:40
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "نوشتهٔ %s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "فهرست"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Alegreya Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:144
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Oswald, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:138
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "روی"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب %1$s از %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "با افتخار نیرو گرفته از %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: components/content-page.php:32 inc/template-tags.php:72
+msgid "Edit"
+msgstr "ویرایش"
+
+#: components/content-page.php:26 components/content-single.php:30
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: components/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
+
+#: components/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: components/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>. "
+
+#: components/content-none.php:15
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "امکان ثبت دیدگاه وجود ندارد."
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "دیدگاه‌های تازه‌تر"
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "دیدگاه‌های کهنه‌تر"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "هدایت دیدگاه"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای «%2$s»"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان پیدا نشده. ممکن است جستجو کمک کند؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! این برگه پیدا نمی‌شه."

@@ -1,0 +1,164 @@
+# Translation of WordPress.com - Themes - Escutcheon in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Escutcheon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:59:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Escutcheon\n"
+
+#: inc/wpcom-colors.php:25
+msgid "Headings & Links"
+msgstr "Rubrici și legături"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid "Tagged"
+msgstr "Etichetat"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/escutcheon/style.css
+msgid "With its smoky color palette and bold typography, Escutcheon is the perfect theme for writers who want to stand apart from the rest."
+msgstr "Cu paleta sa de culori fumurii și tipografice aldine, Escutcheon este tema perfectă pentru scriitorii care doresc să stea deoparte față de restul."
+
+#: single.php:19
+msgid "Next Post %s"
+msgstr "Articol următor %s"
+
+#: single.php:18
+msgid "Previous Post %s"
+msgstr "Articol anterior %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: inc/template-tags.php:68
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: inc/template-tags.php:68
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: inc/template-tags.php:68
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: inc/template-tags.php:59
+msgid "Posted in %1$s."
+msgstr "Publicat în %1$s."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57 inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:40
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "Scris de %s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Alegreya Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:144
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Oswald, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:138
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: components/content-page.php:32 inc/template-tags.php:72
+msgid "Edit"
+msgstr "Editare"
+
+#: components/content-page.php:26 components/content-single.php:30
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: components/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: components/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nimic nu se potrivește termenilor căutării tale. Te rog încearcă din nou cu cuvinte cheie diferite."
+
+#: components/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să publici primul tău articol? <a href=\"%1$s\">Poți începe aici</a>."
+
+#: components/content-none.php:15
+msgid "Nothing Found"
+msgstr "Nimic găsit"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "Navigare în comentarii"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un gând despre &#8222;%2$s&#8221;"
+msgstr[1] "%1$s gânduri despre &#8222;%2$s&#8221;"
+msgstr[2] "%1$s de gânduri despre &#8222;%2$s&#8221;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu a fost găsit nimic aici. Poate încerci o căutare?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina aceea nu a fost găsită."

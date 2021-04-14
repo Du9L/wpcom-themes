@@ -1,0 +1,134 @@
+# Translation of WordPress.com - Themes - Escutcheon in Hindi
+# This file is distributed under the same license as the WordPress.com - Themes - Escutcheon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-03 04:22:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-rc.1\n"
+"Language: hi_IN\n"
+"Project-Id-Version: WordPress.com - Themes - Escutcheon\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid "Tagged"
+msgstr "टैग की गईं"
+
+#: single.php:19
+msgid "Next Post %s"
+msgstr "अगला पोस्ट %s"
+
+#: single.php:18
+msgid "Previous Post %s"
+msgstr "पिछला पोस्ट %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "%s के लिए खोज परिणाम:"
+
+#: inc/template-tags.php:68
+msgid "% Comments"
+msgstr "% टिप्पणियाँ"
+
+#: inc/template-tags.php:68
+msgid "1 Comment"
+msgstr "1 टिप्पणी"
+
+#: inc/template-tags.php:68
+msgid "Leave a comment"
+msgstr "टिप्पणी करे"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57 inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:40
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "%s द्वारा लिखित"
+
+#: header.php:29
+msgid "Menu"
+msgstr "मेनु"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "सामग्री पर जाएं"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "साइडबार"
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr "मुख्य मेनू"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "थीम: %2$s द्वारा %1$s।"
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "%s द्वारा गर्व के साथ संचालित"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: components/content-page.php:32 inc/template-tags.php:72
+msgid "Edit"
+msgstr "संपादित करे"
+
+#: components/content-page.php:26 components/content-single.php:30
+msgid "Pages:"
+msgstr "पृष्ठ:"
+
+#: components/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है आप जो देख रहे हैं हमें नहीं मिल रहा है। शायद खोज मदद कर सकता है।"
+
+#: components/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन कुछ भी आपके खोज शब्दों से मेल नहीं खाते। कृपया कुछ अलग खोजशब्दों के साथ फिर से प्रयास करें।"
+
+#: components/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? <a href=\"%1$s\">यहाँ से शुरुआत करें</a>।"
+
+#: components/content-none.php:15
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद कर दी गयी है।"
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "नई टिप्पणियाँ"
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "पुरानी टिप्पणियाँ"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo पर एक विचार;"
+msgstr[1] "%1$s विचार &ldquo;%2$s&rdquo पर;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ऐसा लगता है कि कुछ भी इस स्थान पर नहीं पाया गया है। शायद एक खोज की कोशिश करें?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "उफ़! वह पृष्ठ नहीं पाया जा सकता है।"

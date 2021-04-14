@@ -1,0 +1,137 @@
+# Translation of WordPress.com - Themes - Escutcheon in Albanian
+# This file is distributed under the same license as the WordPress.com - Themes - Escutcheon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:59:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: WordPress.com - Themes - Escutcheon\n"
+
+#: inc/wpcom-colors.php:25
+msgid "Headings & Links"
+msgstr "Ndarje & Lidhje"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid "Tagged"
+msgstr "U etiketua"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/template-tags.php:68
+msgid "% Comments"
+msgstr "% Komente"
+
+#: inc/template-tags.php:68
+msgid "1 Comment"
+msgstr "! Koment"
+
+#: inc/template-tags.php:68
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: inc/template-tags.php:59
+msgid "Posted in %1$s."
+msgstr "Postuar në %1$s."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57 inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#: header.php:29
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Kaloni te lënda"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Alegreya Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:144
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Anështyllë"
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr "Menuja Kryesore"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: components/content-page.php:32 inc/template-tags.php:72
+msgid "Edit"
+msgstr "Përpunojeni"
+
+#: components/content-page.php:26 components/content-single.php:30
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: components/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se s&#8217;qemë në gjendje të gjenim ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: components/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por &#8217;u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: components/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: components/content-none.php:15
+msgid "Nothing Found"
+msgstr "S&#8217;u Gjet Gjë"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "Komentet Më të Reja"
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "Komentet Më të Vjetra"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Një mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Duket se nuk u gjet gjë në këtë vend. Ndoshta duhet provuar një kërkim?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe s&#8217;gjendet dot."
