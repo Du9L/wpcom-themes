@@ -1,0 +1,529 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "unset",
+                "font_headings": "unset"
+            },
+            "wpcom_public_coming_soon": "1"
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary",
+                "footer": "social"
+            },
+            "custom_css_post_id": -1,
+            "sidebars_widgets": {
+                "time": 1609953483,
+                "data": {
+                    "wp_inactive_widgets": [],
+                    "sidebar-1": []
+                }
+            },
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-3",
+            "id_base": "search",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "recent-posts-3",
+            "id_base": "recent-posts",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "archives-3",
+            "id_base": "archives",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 2
+        }
+    ],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "Berthe's daughter, Julie Manet",
+            "post_content": "<!-- wp:media-text {\"mediaId\":20,\"mediaLink\":\"https:\\\/\\\/2021.wordpress.net\\\/playing-in-the-sand\\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"is-stacked-on-mobile is-style-twentytwentyone-border\"} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-style-twentytwentyone-border\"><figure class=\"wp-block-media-text__media\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/db04d-playing-in-the-sand.jpg?w=778&amp;h=1024\" alt=\"\" class=\"wp-image-20 size-full\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"textAlign\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Playing in the Sand<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:separator {\"className\":\"is-style-dots\"} -->\n<hr class=\"wp-block-separator is-style-dots\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-align-center has-small-font-size\">Berthe Morisot<br>(French, 1841\u20131895)<\/p>\n<!-- \/wp:paragraph --><\/div><\/div>\n<!-- \/wp:media-text -->\n\n<!-- wp:paragraph -->\n<p>Throughout her lifetime, Berthe created many paintings of her daughter, Julie Manet. She painted Julie during many periods of her daughter's life, up until Marisot's death in 1895.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Paintings of Julie sometimes caught her in the act of playing as a child, portraits, and even a painting of her playing violin.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Julie herself grew up to be a painter, model, diarist, and art collector.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "berthes-daughter-julie-manet",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 244,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Art"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Block Patterns",
+            "post_content": "<!-- wp:heading -->\n<h2>Large Text<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} -->\n<h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">A new portfolio default theme for WordPress<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Links Area<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} -->\n<div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"fontSize\":\"huge\"} -->\n<p class=\"has-huge-font-size\">Let\u2019s Connect.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":75} -->\n<div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"#\">Twitter<\/a> \/ <a href=\"#\">Instagram<\/a> \/ <a href=\"#\">Dribbble<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"#\">example@example.com<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer --><\/div><\/div>\n<!-- \/wp:cover -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Media and Text Article Title<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:media-text {\"mediaId\":20,\"mediaLink\":\"https:\\\/\\\/2021.wordpress.net\\\/playing-in-the-sand\\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"is-stacked-on-mobile is-style-twentytwentyone-border\"} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-style-twentytwentyone-border\"><figure class=\"wp-block-media-text__media\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/db04d-playing-in-the-sand.jpg?w=778&amp;h=1024\" alt=\"\" class=\"wp-image-20 size-full\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Playing in the Sand<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:separator {\"className\":\"is-style-dots\"} -->\n<hr class=\"wp-block-separator is-style-dots\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-align-center has-small-font-size\">Berthe Morisot<br>(French, 1841\u20131895)<\/p>\n<!-- \/wp:paragraph --><\/div><\/div>\n<!-- \/wp:media-text -->\n\n<!-- wp:paragraph {\"fontSize\":\"extra-small\"} -->\n<p class=\"has-extra-small-font-size\"><em><sub>Image source: <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/playing-in-the-sand\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/playing-in-the-sand<\/a><\/sub><\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Overlapping Images<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignfull size-large\"><a href=\"https:\/\/2021.wordpress.net\/roses-tremieres\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" \/><\/a><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignfull size-large\"><a href=\"https:\/\/2021.wordpress.net\/in-the-bois-de-boulogne-2\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" \/><\/a><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full\"} -->\n<figure class=\"wp-block-image size-large alignfull size-full\"><a href=\"https:\/\/2021.wordpress.net\/young-woman-in-mauve\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" \/><\/a><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:paragraph {\"fontSize\":\"extra-small\"} -->\n<p class=\"has-extra-small-font-size\"><em><sub>Image sources: <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/roses-tremieres-hollyhocks-1884\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/roses-tremieres-hollyhocks-1884<\/a>, <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/young-woman-in-mauve\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/young-woman-in-mauve<\/a>, <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/in-the-bois-de-boulogne\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/in-the-bois-de-boulogne<\/a><\/sub><\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Two Images Showcase<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:media-text {\"mediaId\":98,\"mediaLink\":\"https:\\\/\\\/2021.wordpress.net\\\/about\\\/daffodils\\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"verticalAlignment\":\"center\",\"className\":\"is-stacked-on-mobile\"} -->\n<div class=\"wp-block-media-text alignwide is-vertically-aligned-center is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/522e1-daffodils.jpg?w=826&amp;h=1024\" alt=\"\" class=\"wp-image-98 size-full\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:image {\"align\":\"center\",\"id\":67,\"width\":418,\"height\":512,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-large is-style-twentytwentyone-image-frame\"} -->\n<div class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/ef4ec-self-portrait-1885.jpg?w=836&amp;h=1024\" alt=\"\" class=\"wp-image-67\" width=\"418\" height=\"512\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div><\/div>\n<!-- \/wp:media-text -->\n\n<!-- wp:paragraph {\"fontSize\":\"extra-small\"} -->\n<p class=\"has-extra-small-font-size\"><em><sub>Image sources: <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/daffodils\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/daffodils<\/a>, <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/self-portrait-1885\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/self-portrait-1885<\/a><\/sub><\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Overlapping Images and Text<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} -->\n<div class=\"wp-block-columns alignwide is-style-twentytwentyone-columns-overlap\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":69,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-full\"} -->\n<figure class=\"wp-block-image size-large size-full\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/bb63d-the-garden-at-bougival-1884.jpg?w=1024&amp;h=811\" alt=\"\" class=\"wp-image-69\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\"} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\"><!-- wp:group {\"className\":\"is-style-twentytwentyone-border\",\"backgroundColor\":\"green\"} -->\n<div class=\"wp-block-group is-style-twentytwentyone-border has-green-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} -->\n<p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">Beautiful gardens painted by Berthe Morisot in the late 1800s<\/p>\n<!-- \/wp:paragraph --><\/div><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":29,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-full\"} -->\n<figure class=\"wp-block-image size-large size-full\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/da0e5-villa-with-orange-trees-nice.jpg?w=811&amp;h=1024\" alt=\"\" class=\"wp-image-29\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:paragraph {\"fontSize\":\"extra-small\"} -->\n<p class=\"has-extra-small-font-size\"><em><sub>Image sources: <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/the-garden-at-bougival-1884\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/the-garden-at-bougival-1884<\/a>, <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/villa-with-orange-trees-nice\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/villa-with-orange-trees-nice<\/a><\/sub><\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Portfolio List<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator alignwide is-style-wide\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"#\"><\/a>Roses Tremieres<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":36,\"width\":62,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/62d26-roses-tremieres-hollyhocks-1884.jpg?w=248&amp;h=300\" alt=\"\" class=\"wp-image-36\" width=\"62\" height=\"75\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"#\"><\/a>Villa with Orange Trees, Nice<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":29,\"width\":60,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/da0e5-villa-with-orange-trees-nice.jpg?w=238&amp;h=300\" alt=\"\" class=\"wp-image-29\" width=\"60\" height=\"75\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"#\"><\/a>In the Bois de Boulogne<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":14,\"width\":75,\"height\":62,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/54257-in-the-bois-de-boulogne.jpg?w=300&amp;h=247\" alt=\"\" class=\"wp-image-14\" width=\"75\" height=\"62\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\">The Garden at Bougival<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":69,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/bb63d-the-garden-at-bougival-1884.jpg?w=300&amp;h=238\" alt=\"\" class=\"wp-image-69\" width=\"75\" height=\"60\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\">Young Woman in Mauve<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":75,\"width\":61,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/f5c8e-young-woman-in-mauve.jpg?w=243&amp;h=300\" alt=\"\" class=\"wp-image-75\" width=\"61\" height=\"75\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\">Reading<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":97,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/7d4ab-reading.jpg?w=300&amp;h=240\" alt=\"\" class=\"wp-image-97\" width=\"75\" height=\"60\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator alignwide is-style-wide\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:paragraph {\"fontSize\":\"extra-small\"} -->\n<p class=\"has-extra-small-font-size\"><sub><em>Image sources: <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/roses-tremieres-hollyhocks-1884\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/roses-tremieres-hollyhocks-1884<\/a>, <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/villa-with-orange-trees-nice\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/villa-with-orange-trees-nice<\/a>, <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/in-the-bois-de-boulogne\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/in-the-bois-de-boulogne<\/a>, <em><a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/the-garden-at-bougival-1884\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/the-garden-at-bougival-1884<\/a><\/em>, <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/young-woman-in-mauve\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/young-woman-in-mauve<\/a>, <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\/reading\">https:\/\/www.wikiart.org\/en\/berthe-morisot\/reading<\/a><\/em>. <\/sub><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Contact Information<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"mailto:#\">example@example.com<br><\/a>123-456-7890<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"center\"} -->\n<p class=\"has-text-align-center\">123 Main Street<br>Cambridge, MA, 02139<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:social-links {\"align\":\"right\",\"className\":\"is-style-twentytwentyone-social-icons-color\"} -->\n<ul class=\"wp-block-social-links alignright is-style-twentytwentyone-social-icons-color\"><!-- wp:social-link {\"url\":\"https:\\\/\\\/wordpress.org\",\"service\":\"wordpress\"} \/-->\n\n<!-- wp:social-link {\"url\":\"https:\\\/\\\/www.facebook.com\\\/WordPress\\\/\",\"service\":\"facebook\"} \/-->\n\n<!-- wp:social-link {\"url\":\"https:\\\/\\\/twitter.com\\\/WordPress\",\"service\":\"twitter\"} \/-->\n\n<!-- wp:social-link {\"service\":\"instagram\"} \/-->\n\n<!-- wp:social-link {\"service\":\"linkedin\"} \/-->\n\n<!-- wp:social-link {\"service\":\"youtube\"} \/-->\n\n<!-- wp:social-link {\"url\":\"https:\\\/\\\/www.youtube.com\\\/wordpress\",\"service\":\"youtube\"} \/--><\/ul>\n<!-- \/wp:social-links --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->",
+            "post_name": "block-patterns",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 229,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Starter Content",
+            "post_content": "<!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} -->\n<h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">Create your website with blocks<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignfull size-large\"><a href=\"https:\/\/2021.wordpress.net\/roses-tremieres\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" \/><\/a><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} -->\n<figure class=\"wp-block-image alignfull size-large is-style-twentytwentyone-image-frame\"><a href=\"https:\/\/2021.wordpress.net\/in-the-bois-de-boulogne-2\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" \/><\/a><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full is-style-twentytwentyone-border\"} -->\n<figure class=\"wp-block-image size-large alignfull size-full is-style-twentytwentyone-border\"><a href=\"https:\/\/2021.wordpress.net\/young-woman-in-mauve\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" \/><\/a><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"top\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-top\"><!-- wp:column {\"verticalAlignment\":\"top\"} -->\n<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} -->\n<h3>Add block patterns<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>To add a block pattern, select the Add Block button in the toolbar at the top of the editor. This button is a plus sign within a square. Underneath the search bar, you'll see some tabs, such as Blocks and Patterns. Select Patterns. Browse through the patterns and select one to add it to your content.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\"} -->\n<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} -->\n<h3>Frame your images<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Twenty Twenty-One comes with several block styles, including borders and frames for blocks like Image. Try it out by adding a new image block to your editor, and in the Editor sidebar, open the \"Styles\" panel and select the \"Frame\" block style. Your images will look like works of art!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\"} -->\n<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} -->\n<h3>Overlap columns<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Another block style included with Twenty Twenty-One is an overlap for column blocks. This allows you to create stacked layouts like the gallery on this page. Add a columns block to your editor, and in the Editor sidebar, and in the \"Styles\" panel, select the \"Overlap\" block style.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} -->\n<div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"fontSize\":\"huge\"} -->\n<p class=\"has-huge-font-size\">Need help?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":75} -->\n<div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"https:\/\/wordpress.org\/support\/article\/twenty-twenty-one\/\">Read the Theme Documentation<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"https:\/\/wordpress.org\/support\/theme\/twentytwentyone\/\">Check out the Support Forums<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer --><\/div><\/div>\n<!-- \/wp:cover -->",
+            "post_name": "starter-content",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 207,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Berthe Morisot, Woman Impressionist",
+            "post_content": "<!-- wp:paragraph -->\n<p><strong>Janelle Montgomery<\/strong>: Morisot was a respected member of a cohort of painters we know as \"the Impressionists,\" and yet her work is very rarely studied, or even exhibited even today. How did you go about choosing the works for this show and organizing them into the exhibition, and what does it tell us not only about Morisot, but also about the Impressionists?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Dr. Nicole Myers<\/strong>: It's really surprising that Morisot was one of the founding members of the French impressionist group \u2014 she was the only woman to join this rebel band of artists in 1874 \u2014 and she was really well known and celebrated and praised in her time and yet in the 20th century her role has been diminished \u2014 sometimes eliminated \u2014in the telling of the story of French Impressionism. So, the goal of our project of course is really to re-establish her reputation, and and give visitors a chance to see her work because so many are in private collection.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https:\/\/youtu.be\/o1ObIy92J4o\">See more of this interview on YouTube<\/a>.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "about-the-berthe-morisot-woman-impressionist-exhibition",
+            "post_excerpt": "An interview between Janelle Montgomery and Dallas Museum of Art curator Dr. Nicole Myers about the exhibition, Berthe Morisot, Woman Impressionist.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 198,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Inventing Impressionism",
+            "post_content": "<!-- wp:embed {\"url\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=mupxAAjAiWM\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps:\/\/www.youtube.com\/watch?v=mupxAAjAiWM\n<\/div><\/figure>\n<!-- \/wp:embed -->",
+            "post_name": "inventing-impressionism",
+            "post_excerpt": "Art historian Jacky Klein explores the story of this gifted female Impressionist painter in this video from ArtFundUK.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 193,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "\"Le f\u00e9minisme en art\": Berthe Morisot",
+            "post_content": "<!-- wp:embed {\"url\":\"https:\\\/\\\/open.spotify.com\\\/episode\\\/6h60lXLH8W31EUPU9kXKb4?si=mjqEKEEoQ6KFgv8bSSVgWA#:56\",\"type\":\"rich\",\"providerNameSlug\":\"spotify\",\"responsive\":true,\"className\":\"wp-embed-aspect-21-9 wp-has-aspect-ratio\"} -->\n<figure class=\"wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\nhttps:\/\/open.spotify.com\/episode\/6h60lXLH8W31EUPU9kXKb4?si=mjqEKEEoQ6KFgv8bSSVgWA#:56\n<\/div><\/figure>\n<!-- \/wp:embed -->",
+            "post_name": "le-feminisme-en-art-berthe-morisot",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 187,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Morisot's Importance in the Impressionist Movement",
+            "post_content": "<!-- wp:paragraph -->\n<p><a href=\"https:\/\/www.newyorker.com\/magazine\/2018\/10\/29\/berthe-morisot-woman-impressionist-emerges-from-the-margins\">Berthe Morisot, \u201cWoman Impressionist,\u201d Emerges from the Margins<\/a>.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Morisot is a visual poet of womanhood like perhaps no other painter before or since, with a comprehension of female experience that is at least equal in force to the combined delectations of women by her male peers.<\/p><cite>Peter Schjeldahl<\/cite><\/blockquote>\n<!-- \/wp:quote -->",
+            "post_name": "morisots-importance-in-the-impressionist-movement",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 183,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Berthe Morisot's Early Life and Education",
+            "post_content": "<!-- wp:paragraph -->\n<p>Morisot was born in Bourges, France, into an affluent bourgeois family. Her father, Edm\u00e9 Tiburce Morisot, was the prefect of the department of Cher. He also studied architecture at \u00c9cole des Beaux Arts. Her mother, Marie-Jos\u00e9phine-Corn\u00e9lie Thomas, was the great-niece of Jean-Honor\u00e9 Fragonard, one of the most prolific Rococo painters of the ancien r\u00e9gime. She had two older sisters, Yves and Edma, plus a younger brother, Tiburce. The family moved to Paris in 1852, when Morisot was a child.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>It was commonplace for daughters of bourgeois families to receive art education, so Berthe and her sisters Yves and Edma were taught privately by Geoffroy-Alphonse Chocarne and Joseph Guichard. Morisot and her sisters initially started taking lessons so that they could each make a drawing for their father for his birthday. In 1857 Guichard, who ran a school for girls in Rue des Moulins, introduced Berthe and Edma to the Louvre gallery where from 1858 they learned by copying paintings. The Morisots were not only forbidden to work at the museum unchaperoned, but they were also totally barred from formal training. Guichard also introduced them to the works of Gavarni.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>As art students, Berthe and Edma worked closely together until 1869, when Edma married Adolphe Pontillon, a naval officer, moved to Cherbourg, and had less time to paint. Letters between the sisters show a loving relationship, underscored by Berthe's regret at the distance between them and Edma's withdrawal from painting. Edma wholeheartedly supported Berthe's continued work and their families always remained close. Edma wrote: <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>\"\u2026 I am often with you in thought, dear Berthe. I\u2019m in your studio and I like to slip away, if only for a quarter of an hour, to breathe that atmosphere that we shared for many years\u2026\"<\/p><\/blockquote>\n<!-- \/wp:quote -->\n\n<!-- wp:paragraph -->\n<p>Her sister Yves married Theodore Gobillard, a tax inspector, in 1866 and was painted by Edgar Degas as Mrs Theodore Gobillard.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>As a copyist at the Louvre, Morisot met and befriended other artists such as Manet and Monet. In 1861 she was introduced to Jean-Baptiste-Camille Corot, the pivotal landscape painter of the Barbizon school who also excelled in figure painting. Under Corot's influence she took up the plein air method of working. By 1863 she was studying under Achille Oudinot, another Barbizon painter. In the winter of 1863\u201364 she studied sculpture under Aim\u00e9 Millet, but none of her sculpture is known to survive.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">Wikipedia contributors. (2020, July 29). <a href=\"https:\/\/en.wikipedia.org\/w\/index.php?title=Berthe_Morisot&amp;oldid=970124363\">Berthe Morisot<\/a>. In\u00a0<em>Wikipedia, The Free Encyclopedia<\/em>. Retrieved 21:32, October 13, 2020.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "berthe-morisots-early-life-and-education",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 174,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Reading",
+            "post_content": "<!-- wp:image {\"id\":97,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} -->\n<figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/7d4ab-reading.jpg?w=1024&amp;h=818\" alt=\"\" class=\"wp-image-97\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:list -->\n<ul><li><strong>Date<\/strong>: 1888<\/li><li><strong>Style<\/strong>: Impressionism<\/li><li><strong>Genre<\/strong>: genre painting<\/li><li><strong>Media<\/strong>: oil, canvas<\/li><\/ul>\n<!-- \/wp:list -->",
+            "post_name": "reading-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 160,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "The Garden at Bougival",
+            "post_content": "<!-- wp:image {\"id\":69,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} -->\n<figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/bb63d-the-garden-at-bougival-1884.jpg?w=1024&amp;h=811\" alt=\"\" class=\"wp-image-69\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:list -->\n<ul><li><strong>Date<\/strong>: 1884<\/li><li><strong>Style<\/strong>: Impressionism<\/li><li><strong>Genre<\/strong>: landscape<\/li><li><strong>Media<\/strong>: oil, canvas<\/li><li><strong>Location<\/strong>: Mus\u00e9e Marmottan Monet, Paris, France<\/li><li><strong>Dimensions<\/strong>: 92 x 73 cm<\/li><\/ul>\n<!-- \/wp:list -->",
+            "post_name": "the-garden-at-bougival",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 158,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Young Woman in Mauve",
+            "post_content": "<!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} -->\n<figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:list -->\n<ul><li><strong>Date<\/strong>: 1880<\/li><li><strong>Style<\/strong>: Impressionism<\/li><li><strong>Genre<\/strong>: portrait<\/li><li><strong>Media<\/strong>: oil, canvas<\/li><li><strong>Location<\/strong>: Private Collection<\/li><\/ul>\n<!-- \/wp:list -->",
+            "post_name": "young-woman-in-mauve",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 159,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Red Haired Girl Sitting on a Veranda",
+            "post_content": "<!-- wp:image {\"id\":96,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg\" alt=\"\" class=\"wp-image-96\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:list -->\n<ul><li><strong>Date<\/strong>: 1884<\/li><li><strong>Style<\/strong>: Impressionism<\/li><li><strong>Genre<\/strong>: genre painting<\/li><li><strong>Media<\/strong>: oil, canvas<\/li><li><strong>Location<\/strong>: Private Collection<\/li><\/ul>\n<!-- \/wp:list -->",
+            "post_name": "red-haired-girl-sitting-on-a-veranda",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 151,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "In the Bois de Boulogne",
+            "post_content": "<!-- wp:image {\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:list -->\n<ul><li><strong>Date<\/strong>: 1879<\/li><li><strong>Style<\/strong>: Impressionism<\/li><li><strong>Genre<\/strong>: genre painting<\/li><li><strong>Media<\/strong>: oil, canvas<\/li><li><strong>Location<\/strong>: Nationalmuseum, Stockholm, Sweden<\/li><li><strong>Dimensions<\/strong>: 73.5 x 61 cm<\/li><\/ul>\n<!-- \/wp:list -->",
+            "post_name": "in-the-bois-de-boulogne-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 146,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Villa with Orange Trees, Nice",
+            "post_content": "<!-- wp:image {\"id\":29,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} -->\n<figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/da0e5-villa-with-orange-trees-nice.jpg?w=811&amp;h=1024\" alt=\"\" class=\"wp-image-29\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:list -->\n<ul><li><strong>Date<\/strong>: 1882<\/li><li><strong>Style<\/strong>: Impressionism<\/li><li><strong>Genre<\/strong>: landscape<\/li><li><strong>Media<\/strong>: oil, canvas<\/li><li><strong>Location<\/strong>: Private Collection<\/li><\/ul>\n<!-- \/wp:list -->",
+            "post_name": "villa-with-orange-trees-nice-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Roses Tremieres (Hollyhocks)",
+            "post_content": "<!-- wp:image {\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} -->\n<figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:list -->\n<ul><li><strong>Date<\/strong>: 1884<\/li><li><strong>Style<\/strong>: Impressionism<\/li><li><strong>Genre<\/strong>: landscape<\/li><li><strong>Media<\/strong>: oil, canvas<\/li><li><strong>Location<\/strong>: Mus\u00e9e Marmottan Monet, Paris, France<\/li><li><strong>Dimensions<\/strong>: 54 x 65 cm<\/li><\/ul>\n<!-- \/wp:list -->",
+            "post_name": "roses-tremieres",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 134,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "About",
+            "post_content": "<!-- wp:media-text {\"mediaId\":70,\"mediaLink\":\"https:\\\/\\\/twentytwentyonethemedemo.wordpress.com\\\/about\\\/the-old-track-to-auvers-1863\\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"verticalAlignment\":\"center\",\"className\":\"is-stacked-on-mobile\"} -->\n<div class=\"wp-block-media-text alignwide is-vertically-aligned-center is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/fd5fc-the-old-track-to-auvers-1863.jpg?w=676\" alt=\"\" class=\"wp-image-70 size-full\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:image {\"align\":\"center\",\"id\":67,\"width\":418,\"height\":512,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-large is-style-twentytwentyone-image-frame\"} -->\n<div class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/ef4ec-self-portrait-1885.jpg?w=836&amp;h=1024\" alt=\"\" class=\"wp-image-67\" width=\"418\" height=\"512\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div><\/div>\n<!-- \/wp:media-text -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"85%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:85%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} -->\n<p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">Berthe Marie Pauline Morisot was a 19th century painter and a member of the circle of painters in Paris who became known as the Impressionists.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%;\"><!-- wp:paragraph {\"fontSize\":\"large\",\"style\":{\"typography\":{\"lineHeight\":\"1.6\"}}} -->\n<p class=\"has-large-font-size\" style=\"line-height:1.6;\">Morisot painted what she experienced on a daily basis. Most of her paintings include domestic scenes of family, children, ladies, and flowers, depicting what women's life was like in the late nineteenth century. Instead of portraying the public space and the society, Morisot preferred private, intimate scenes.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"60%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:60%;\"><!-- wp:paragraph -->\n<p>Like her fellow Impressionist Mary Cassatt, she focused on domestic life and portraits in which she could use family and personal friends as models, including her daughter Julie and sister Edma. The stenographic presentation of her daily life conveys a strong hope to stop the fleeting passage of time. By portraying flowers, she used metaphors to celebrate womanhood.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Prior to the 1860s, Morisot painted subjects in line with the Barbizon school before turning to scenes of contemporary femininity. Paintings like The Cradle (1872), in which she depicted current trends for nursery furniture, reflect her sensitivity to fashion and advertising, both of which would have been apparent to her female audience. Her works also include landscapes, garden settings, boating scenes, and theme of boredom or ennui.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Later in her career Morisot worked with more ambitious themes, such as nudes. In her late works, she often referred to the past to recall the memory of her earlier life and youth, and her departed companions.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"extra-small\"} -->\n<p class=\"has-extra-small-font-size\">Wikipedia contributors. (2020, July 29). <a href=\"https:\/\/en.wikipedia.org\/w\/index.php?title=Berthe_Morisot&amp;oldid=970124363\">Berthe Morisot<\/a>. In&nbsp;<em>Wikipedia, The Free Encyclopedia<\/em>. Retrieved 20:55, October 13, 2020.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 43,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Work",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} -->\n<div class=\"wp-block-columns alignwide is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"width\":\"66.66%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:image {\"id\":96,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg\" alt=\"\" class=\"wp-image-96\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"33.33%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:group {\"className\":\"is-style-twentytwentyone-border\",\"backgroundColor\":\"green\"} -->\n<div class=\"wp-block-group is-style-twentytwentyone-border has-green-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} -->\n<p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">Red Haired Girl Sitting on a Veranda<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Painted in 1884<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"className\":\"is-style-fill\"} -->\n<div class=\"wp-block-button is-style-fill\"><a class=\"wp-block-button__link\" href=\"https:\/\/2021.wordpress.net\/red-haired-girl-sitting-on-a-veranda\/\">More Details<\/a><\/div>\n<!-- \/wp:button --><\/div>\n<!-- \/wp:buttons --><\/div><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide is-style-twentytwentyone-separator-thick\"} -->\n<hr class=\"wp-block-separator alignwide is-style-wide is-style-twentytwentyone-separator-thick\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"#\"><\/a><a href=\"https:\/\/2021.wordpress.net\/roses-tremieres\/\">Roses Tremieres<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":36,\"width\":62,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/62d26-roses-tremieres-hollyhocks-1884.jpg?w=248&amp;h=300\" alt=\"\" class=\"wp-image-36\" width=\"62\" height=\"75\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"#\"><\/a><a href=\"https:\/\/2021.wordpress.net\/in-the-bois-de-boulogne-2\/\">In the Bois de Boulogne<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":14,\"width\":75,\"height\":62,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/54257-in-the-bois-de-boulogne.jpg?w=300&amp;h=247\" alt=\"\" class=\"wp-image-14\" width=\"75\" height=\"62\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"https:\/\/2021.wordpress.net\/the-garden-at-bougival\/\">The Garden at Bougival<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":69,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/bb63d-the-garden-at-bougival-1884.jpg?w=300&amp;h=238\" alt=\"\" class=\"wp-image-69\" width=\"75\" height=\"60\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"https:\/\/2021.wordpress.net\/young-woman-in-mauve\/\">Young Woman in Mauve<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":75,\"width\":61,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/f5c8e-young-woman-in-mauve.jpg?w=243&amp;h=300\" alt=\"\" class=\"wp-image-75\" width=\"61\" height=\"75\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator alignwide is-style-default\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} -->\n<p class=\"has-extra-large-font-size\"><a href=\"https:\/\/2021.wordpress.net\/reading\/\">Reading<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":97,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} -->\n<div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/7d4ab-reading.jpg?w=300&amp;h=240\" alt=\"\" class=\"wp-image-97\" width=\"75\" height=\"60\" \/><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide is-style-twentytwentyone-separator-thick\"} -->\n<hr class=\"wp-block-separator alignwide is-style-wide is-style-twentytwentyone-separator-thick\" \/>\n<!-- \/wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">You can see more of Berthe Morisot's work on <a href=\"https:\/\/www.wikiart.org\/en\/berthe-morisot\">WikiArt<\/a>.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "work",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 44,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contact",
+            "post_content": "<!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} -->\n<div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"fontSize\":\"huge\"} -->\n<p class=\"has-huge-font-size\">Let\u2019s Connect.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":75} -->\n<div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:jetpack\/contact-form -->\n<!-- wp:jetpack\/field-name {\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-email {\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-textarea \/-->\n\n<!-- wp:jetpack\/button {\"element\":\"button\",\"text\":\"Contact Us\"} \/-->\n\n<!-- wp:paragraph -->\n<p><\/p>\n<!-- \/wp:paragraph -->\n<!-- \/wp:jetpack\/contact-form -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"https:\/\/twitter.com\/wordpress\">Twitter<\/a> \/ <a href=\"#\">Facebook<\/a> \/ <a href=\"#\">YouTube<\/a><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"left\"} -->\n<p class=\"has-text-align-left\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer --><\/div><\/div>\n<!-- \/wp:cover -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 46,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:heading {\"align\":\"wide\",\"className\":\"has-text-align-wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} -->\n<h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">The works of Berthe Morisot, 1800s-era French painter<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignfull size-large\"><a href=\"https:\/\/2021.wordpress.net\/roses-tremieres\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" \/><\/a><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignfull size-large\"><a href=\"https:\/\/2021.wordpress.net\/in-the-bois-de-boulogne-2\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" \/><\/a><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full\"} -->\n<figure class=\"wp-block-image size-large alignfull size-full\"><a href=\"https:\/\/2021.wordpress.net\/young-woman-in-mauve\/\"><img src=\"https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" \/><\/a><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->",
+            "post_name": "home-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 254,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 355,
+                    "menu-item-object-id": "254",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "About",
+                    "menu-item-db-id": 255,
+                    "menu-item-object-id": "43",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Work",
+                    "menu-item-db-id": 256,
+                    "menu-item-object-id": "44",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 257,
+                    "menu-item-object-id": "45",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Contact",
+                    "menu-item-db-id": 258,
+                    "menu-item-object-id": "46",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Social",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 5,
+                    "menu-item-object-id": "5",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 6,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 7,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/instagram.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/290ea-image.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/460e6-the-lesson-in-the-garden-1.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/7d4ab-reading.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/f5c8e-young-woman-in-mauve.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/fd5fc-the-old-track-to-auvers-1863.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/bb63d-the-garden-at-bougival-1884.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/ef4ec-self-portrait-1885.jpg",
+        "https:\/\/twentytwentyonethemedemo.files.wordpress.com\/2021\/01\/62d26-roses-tremieres-hollyhocks-1884.jpg"
+    ],
+    "meta": {
+        "blog_id": 187736619,
+        "url": "https:\/\/twentytwentyonethemedemo.wordpress.com",
+        "update_date": "January 7, 2021, 5:45 pm",
+        "update_timestamp": 1610041512
+    }
+}
