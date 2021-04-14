@@ -1,0 +1,354 @@
+# Translation of WordPress.com - Themes - Twenty Fifteen in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Twenty Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-08 12:00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Twenty Fifteen\n"
+
+#. translators: %s: Post title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En tanke på &ldquo;%s&rdquo;"
+
+#: functions.php:177
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:182
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:187
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:232
+msgid "Light Blue"
+msgstr "Ljusblå"
+
+#: functions.php:227
+msgid "Bright Blue"
+msgstr "Ljusblå"
+
+#: functions.php:197
+msgid "Dark Brown"
+msgstr "Mörkbrun"
+
+#: functions.php:222
+msgid "Blue Gray"
+msgstr "Blågrått"
+
+#: functions.php:212
+msgid "Dark Purple"
+msgstr "Mörklila"
+
+#: functions.php:207
+msgid "Light Pink"
+msgstr "Ljusrosa"
+
+#: functions.php:202
+msgid "Medium Pink"
+msgstr "Mellan rosa"
+
+#: inc/wpcom-colors.php:110
+msgid "Header and Sidebar Link Color"
+msgstr "Länkfärg för sidopanel och sidhuvud"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "Bakgrund"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr "Vårt 2015-års standardtema är rent, bloggfokuserat, och utformat för tydlighet. Twenty Fifteens enkla, okomplicerad typografi är läsbar på en mängd olika skärmstorlekar och lämpar sig för flera språk. Vi designade det med 'mobile first'-metoden, vilket innebär att ditt innehåll tar första parkett, oavsett om dina besökare besöker din sida med smartphone, surfplatta, laptop eller stationär dator."
+
+#: single.php:39
+msgid "Previous post:"
+msgstr "Föregående inlägg:"
+
+#: single.php:38
+msgid "Previous"
+msgstr "Föregående"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Nästa inlägg:"
+
+#: single.php:35
+msgid "Next"
+msgstr "Nästa"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:132
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lämna en kommentar<span class=\"screen-reader-text\"> på %s</span>"
+
+#: inc/template-tags.php:122
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full storlek"
+
+#: inc/template-tags.php:101
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:110
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Etiketter"
+
+#: inc/template-tags.php:97 inc/template-tags.php:106
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Författare"
+
+#: inc/template-tags.php:81
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicerad den"
+
+#: inc/template-tags.php:58
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:31
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: inc/template-tags.php:51
+msgid "Featured"
+msgstr "Utvalda"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: inc/customizer.php:239
+msgid "Blue"
+msgstr "Blå"
+
+#: functions.php:217 inc/customizer.php:228
+msgid "Purple"
+msgstr "Lila"
+
+#: inc/customizer.php:217
+msgid "Pink"
+msgstr "Rosa"
+
+#: functions.php:192 inc/customizer.php:206
+msgid "Yellow"
+msgstr "Gul"
+
+#: inc/customizer.php:195
+msgid "Dark"
+msgstr "Mörk"
+
+#: inc/customizer.php:184
+msgid "Default"
+msgstr "Standard"
+
+#: inc/customizer.php:103 inc/wpcom-colors.php:75
+msgid "Header and Sidebar Background Color"
+msgstr "Bakgrundsfärg för sidhuvud och sidopanel"
+
+#: inc/customizer.php:79 inc/customizer.php:104 inc/customizer.php:111
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Tillämpas till sidhuvudet på små skärmar och sidopanelen på större skärmar."
+
+#: inc/customizer.php:78 inc/wpcom-colors.php:147
+msgid "Header and Sidebar Text Color"
+msgstr "Textfärg för sidhuvud och sidopanel"
+
+#: inc/customizer.php:55
+msgid "Base Color Scheme"
+msgstr "Grundläggande färgschema"
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicerat i</span><span class=\"post-title\">%title</span>"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38 inc/back-compat.php:50 inc/back-compat.php:67
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fifteen kräver minst WordPress version 4.1. Du använder version %s. Uppdatera och försök igen."
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Nästa bild"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Föregående bild"
+
+#: header.php:50
+msgid "Menu and widgets"
+msgstr "Meny och widgetar"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:389
+msgid "collapse child menu"
+msgstr "minimera undermeny"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:308
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:388
+msgid "expand child menu"
+msgstr "expandera undermeny"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:300
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:292
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Lägg till widgetar som ska visas i din sidopanel här."
+
+#: functions.php:255
+msgid "Widget Area"
+msgstr "Widgetområde"
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr "Meny för sociala länkar"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#. translators: %s: WordPress
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.8-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:30 wp-content/themes/pub/twentyfifteen/style.css
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%s\">Kom igång här</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: content-link.php:60 content-page.php:37 content-search.php:28
+#: content-search.php:33 content.php:61 image.php:74
+msgid "Edit"
+msgstr "Redigera"
+
+#: content-link.php:39 content-page.php:26 content.php:41 image.php:61
+msgid "Pages:"
+msgstr "Sidor:"
+
+#. translators: %s: Post title.
+#: content-link.php:32 content.php:34 inc/template-tags.php:252
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Author display name.
+#: author-bio.php:36
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Publicerat av"
+
+#: archive.php:53 content-link.php:43 content-page.php:30 content.php:45
+#: image.php:65 index.php:50 search.php:48
+msgid "Page"
+msgstr "Sida"
+
+#: archive.php:52 index.php:49 search.php:47
+msgid "Next page"
+msgstr "Nästa sida"
+
+#: archive.php:51 index.php:48 search.php:46
+msgid "Previous page"
+msgstr "Föregående sida"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar inte som något kunde hittas för den här platsen. Testa en sökning kanske?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."

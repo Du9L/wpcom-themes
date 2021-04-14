@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fifteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-02-13T01:50:37+00:00\n"
+"PO-Revision-Date: 2021-02-12 10:40:03+0000\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:187
+msgid "White"
+msgstr "Bílá"
+
+#: functions.php:182
+msgid "Light Gray"
+msgstr "Světle šedá"
+
+#: functions.php:212
+msgid "Dark Purple"
+msgstr "Temně fialová"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "Pozadí"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr "Twenty Fifteen (2015) je nová výchozí šablona pro WordPress, kterou můžete použít zejména na osobní weby (a obecně blogování). Čistá a jasná grafika působí srozumitelně a přehledně, z typografického hlediska zase určitě oceníte dobře čitelný text a dostatečný kontrast. Jednoduchý a přímočarý vzhled také usnadňuje použití v rozmanitých jazykových verzích. Šablona se umí automaticky přizpůsobit zařízením s různou velikostí a byla tak navržena už od samého počátku, takže je hlavní obsah směřován na střed webu, a to bez ohledu na to, zda návštěvník přichází z mobilu, tabletu, notebooku nebo klasického počítače."
+
+#: single.php:39
+msgid "Previous post:"
+msgstr "Předchozí příspěvek:"
+
+#: single.php:38
+msgid "Previous"
+msgstr "Předchozí"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Následující příspěvek:"
+
+#: single.php:35
+msgid "Next"
+msgstr "Následující"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání: %s"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:132
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Napsat komentář<span class=\"screen-reader-text\">  %s</span>"
+
+#: inc/template-tags.php:122
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Původní velikost:"
+
+#: inc/template-tags.php:101
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Rubriky:"
+
+#: inc/template-tags.php:110
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Štítky:"
+
+#: inc/template-tags.php:97
+#: inc/template-tags.php:106
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor:"
+
+#: inc/template-tags.php:81
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publikováno:"
+
+#: inc/template-tags.php:58
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formát:"
+
+#: inc/template-tags.php:31
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: inc/template-tags.php:51
+msgid "Featured"
+msgstr "Doporučeno"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Navigace pro komentáře"
+
+#: inc/customizer.php:239
+msgid "Blue"
+msgstr "Modré"
+
+#: functions.php:217
+#: inc/customizer.php:228
+msgid "Purple"
+msgstr "Fialové"
+
+#: inc/customizer.php:217
+msgid "Pink"
+msgstr "Růžové"
+
+#: functions.php:192
+#: inc/customizer.php:206
+msgid "Yellow"
+msgstr "Žluté"
+
+#: inc/customizer.php:195
+msgid "Dark"
+msgstr "Tmavé"
+
+#: inc/customizer.php:184
+msgid "Default"
+msgstr "Základní"
+
+#: inc/customizer.php:79
+#: inc/customizer.php:104
+#: inc/customizer.php:111
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Nastavení bude použito pro postranní panel pouze na dostatečně širokých zařízeních, jinak se projeví pouze v samotném záhlaví."
+
+#: inc/customizer.php:103
+#: inc/wpcom-colors.php:75
+msgid "Header and Sidebar Background Color"
+msgstr "Barva pozadí pro záhlaví a postranní panel"
+
+#: inc/customizer.php:78
+#: inc/wpcom-colors.php:147
+msgid "Header and Sidebar Text Color"
+msgstr "Barva textu pro záhlaví a postranní panel"
+
+#: inc/customizer.php:55
+msgid "Base Color Scheme"
+msgstr "Barevné schéma šablony"
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Přiřazeno:</span><span class=\"post-title\">%title</span>"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38
+#: inc/back-compat.php:50
+#: inc/back-compat.php:67
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Šablona Twenty Fifteen vyžaduje alespoň WordPress 4.1, zatímco aktuálně používáte starší verzi %s. Nejdříve proveďte prosím aktualizaci a potom to můžete zkusit znovu."
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Další obrázek"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Předchozí obrázek"
+
+#: header.php:50
+msgid "Menu and widgets"
+msgstr "Menu a widgety"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: functions.php:389
+msgid "collapse child menu"
+msgstr "Skrýt podřazené položky"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:308
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:388
+msgid "expand child menu"
+msgstr "Zobrazit podřazené položky"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:300
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:292
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Rozmístěné widgety se budou zobrazovat v postranním panelu."
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:255
+msgid "Widget Area"
+msgstr "Oblast pro widgety"
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr "Menu pro sociální sítě"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "Základní menu"
+
+#. translators: %s: WordPress
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)."
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.8-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:30
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "https://wordpress.org/"
+msgstr "https://cs.wordpress.org/"
+
+#: content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale zadaný výraz nebyl na webu nalezen. Zkuste prosím hledat znovu nějaké jiné klíčové slovo."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Připraveni publikovat svůj první příspěvek? <a href=\"%s\">Můžete začít rovnou zde</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: content-link.php:60
+#: content-page.php:37
+#: content-search.php:28
+#: content-search.php:33
+#: content.php:61
+#: image.php:74
+msgid "Edit"
+msgstr "Upravit"
+
+#: content-link.php:39
+#: content-page.php:26
+#: content.php:41
+#: image.php:61
+msgid "Pages:"
+msgstr "Stránky:"
+
+#. translators: %s: Post title.
+#: content-link.php:32
+#: content.php:34
+#: inc/template-tags.php:252
+msgid "Continue reading %s"
+msgstr "Pokračování textu %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentář: &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře: &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů: &bdquo;%2$s&ldquo;"
+
+#. translators: %s: Author display name.
+#: author-bio.php:36
+msgid "View all posts by %s"
+msgstr "Zobrazit archiv autora: %s"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Autor"
+
+#: archive.php:53
+#: content-link.php:43
+#: content-page.php:30
+#: content.php:45
+#: image.php:65
+#: index.php:50
+#: search.php:48
+msgid "Page"
+msgstr "Stránka:"
+
+#: archive.php:52
+#: index.php:49
+#: search.php:47
+msgid "Next page"
+msgstr "Další stránka"
+
+#: archive.php:51
+#: index.php:48
+#: search.php:46
+msgid "Previous page"
+msgstr "Předchozí stránka"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."

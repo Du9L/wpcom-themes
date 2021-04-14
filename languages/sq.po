@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fifteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:51:32+00:00\n"
+"PO-Revision-Date: 2021-01-08 12:23:13+0000\n"
+"Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Post title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Një mendim mbi &ldquo;%s&rdquo;"
+
+#: functions.php:177
+msgid "Dark Gray"
+msgstr "Gri e Errët"
+
+#: functions.php:187
+msgid "White"
+msgstr "E bardhë"
+
+#: functions.php:182
+msgid "Light Gray"
+msgstr "Gri e Çelët"
+
+#: functions.php:197
+msgid "Dark Brown"
+msgstr "Kafe e Errët"
+
+#: inc/wpcom-colors.php:110
+msgid "Header and Sidebar Link Color"
+msgstr "Ngjyrë Lidhjesh Kryeje dhe Anështylle"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "Sfond"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr "Tema jonë parazgjedhje për 2015 është e qëruar, me synim blogjet, dhe e hartuar për qartësi. Tipografia e thjeshtë, e drejtpërdrejtë e Twenty Fifteen-it është e lexueshme qartë në një gamë të gjerë madhësish ekrani, dhe e përshtatshme për shumë gjuhë. E hartuam duke patur celularin në mendje pikësëpari, për të thënë që lënda juaj zë vendin qendror, pavarësisht se vizitorët vijnë nga një telefon, tablet, laptop, apo desktop."
+
+#: single.php:39
+msgid "Previous post:"
+msgstr "Postimi i mëparshëm:"
+
+#: single.php:38
+msgid "Previous"
+msgstr "I mëparshmi"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Postimi pasues:"
+
+#: single.php:35
+msgid "Next"
+msgstr "Pasuesja"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:132
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lini një koment <span class=\"screen-reader-text\"> te %s</span>"
+
+#: inc/template-tags.php:122
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Madhësi e plotë"
+
+#: inc/template-tags.php:101
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/template-tags.php:110
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Etiketa"
+
+#: inc/template-tags.php:97
+#: inc/template-tags.php:106
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor"
+
+#: inc/template-tags.php:81
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Postuar më"
+
+#: inc/template-tags.php:58
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:31
+msgid "Newer Comments"
+msgstr "Komentet Më të Reja"
+
+#: inc/template-tags.php:51
+msgid "Featured"
+msgstr "E zgjedhur"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Komentet Më të Vjetra"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: inc/customizer.php:239
+msgid "Blue"
+msgstr "Blu"
+
+#: functions.php:217
+#: inc/customizer.php:228
+msgid "Purple"
+msgstr "E purpurt"
+
+#: inc/customizer.php:217
+msgid "Pink"
+msgstr "Ngjyrë trëndafili"
+
+#: functions.php:192
+#: inc/customizer.php:206
+msgid "Yellow"
+msgstr "E verdhë"
+
+#: inc/customizer.php:195
+msgid "Dark"
+msgstr "I errët"
+
+#: inc/customizer.php:184
+msgid "Default"
+msgstr "Parazgjedhje"
+
+#: inc/customizer.php:79
+#: inc/customizer.php:104
+#: inc/customizer.php:111
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "E zbatuar te kryet në ekrane të vegjël dhe anështylla në ekrane të gjerë."
+
+#: inc/customizer.php:103
+#: inc/wpcom-colors.php:75
+msgid "Header and Sidebar Background Color"
+msgstr "Ngjyrë Sfondi Kryesh dhe Anështyllash"
+
+#: inc/customizer.php:78
+#: inc/wpcom-colors.php:147
+msgid "Header and Sidebar Text Color"
+msgstr "Ngjyrë Teksti Kryesh dhe Anështyllash"
+
+#: inc/customizer.php:55
+msgid "Base Color Scheme"
+msgstr "Skemë Ngjyrash Bazë"
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Botuar te</span><span class=\"post-title\">%title</span>"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38
+#: inc/back-compat.php:50
+#: inc/back-compat.php:67
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fifteen lyp të paktën versionin 4.1 të WordPress-it. Po xhironi versionin %s. Ju lutemi, përmirësojeni dhe riprovoni."
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Figura pasuese"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Figura e mëparshme"
+
+#: header.php:50
+msgid "Menu and widgets"
+msgstr "Menu dhe widget-e"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Kaloni te lënda"
+
+#: functions.php:389
+msgid "collapse child menu"
+msgstr "tkurreni menunë pjellë"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:308
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "pa nëngrup"
+
+#: functions.php:388
+msgid "expand child menu"
+msgstr "zgjeroni menunë pjellë"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:300
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:292
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Shtoni këtu widget-e që të shfaqen te anështylla juaj."
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:255
+msgid "Widget Area"
+msgstr "Fushë Widget-esh"
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr "Menu Lidhjesh Shoqërore"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "Menuja Parësore"
+
+#. translators: %s: WordPress
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.8-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:30
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk gjejmë dot ç&rsquo;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por nuk u përputh gjë me termat tuaj të kërkimit. Ju lutemi, riprovoni me ndoca fjalëkyçe të tjera."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%s\">Fillojani këtu</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nuk u Gjet Gjë"
+
+#: content-link.php:60
+#: content-page.php:37
+#: content-search.php:28
+#: content-search.php:33
+#: content.php:61
+#: image.php:74
+msgid "Edit"
+msgstr "Përpuno"
+
+#: content-link.php:39
+#: content-page.php:26
+#: content.php:41
+#: image.php:61
+msgid "Pages:"
+msgstr "Faqe:"
+
+#. translators: %s: Post title.
+#: content-link.php:32
+#: content.php:34
+#: inc/template-tags.php:252
+msgid "Continue reading %s"
+msgstr "Vazhdoni leximin e %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Author display name.
+#: author-bio.php:36
+msgid "View all posts by %s"
+msgstr "Shihni tërë postimet nga %s"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Botuar nga"
+
+#: archive.php:53
+#: content-link.php:43
+#: content-page.php:30
+#: content.php:45
+#: image.php:65
+#: index.php:50
+#: search.php:48
+msgid "Page"
+msgstr "Faqe"
+
+#: archive.php:52
+#: index.php:49
+#: search.php:47
+msgid "Next page"
+msgstr "Faqja pasuese"
+
+#: archive.php:51
+#: index.php:48
+#: search.php:46
+msgid "Previous page"
+msgstr "Faqja e mëparshme"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Duket se nuk u gjet gjë në këtë vend. Ndoshta duhet provuar një kërkim?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe nuk gjendet dot."

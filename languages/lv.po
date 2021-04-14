@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fifteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:51:32+00:00\n"
+"PO-Revision-Date: 2021-01-08 05:49:18+0000\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Post title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Komentārs par &ldquo;%s&rdquo;"
+
+#: functions.php:187
+msgid "White"
+msgstr "Balta"
+
+#: functions.php:182
+msgid "Light Gray"
+msgstr "Gaiši pelēks"
+
+#: functions.php:177
+msgid "Dark Gray"
+msgstr "Tumši pelēks"
+
+#: inc/wpcom-colors.php:110
+msgid "Header and Sidebar Link Color"
+msgstr "Galvenes un sānjoslu fona krāsa"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "Fons"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr "Mūsu 2015. gada noklusējuma tēma ir tīra,  ar akcentu uz skaidrību, domāta blogam. Twenty Fifteen vienkāršais, saprotamais salikums ir lasāms uz dažādiem ekrāna izmēriem, un piemērots izmantošanai vairākās valodās. To veidojot mēs vispirms domājām par mobilo izmantojumu, proti, saturs atradīsies lapas centrā, neatkarīgi no tā, vai jūsu apmeklētāji izmantos viedtālruni, planšetdatoru, klēpjdatoru vai galda datoru."
+
+#: single.php:39
+msgid "Previous post:"
+msgstr "Iepriekšējais raksts:"
+
+#: single.php:38
+msgid "Previous"
+msgstr "Iepriekšējais"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Nākamais raksts:"
+
+#: single.php:35
+msgid "Next"
+msgstr "Nākamais"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Meklēšanas rezultāti: %s"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:132
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Rakstiet komentāru<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/template-tags.php:122
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Pilnais izmērs"
+
+#: inc/template-tags.php:101
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorijas"
+
+#: inc/template-tags.php:110
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Birkas"
+
+#: inc/template-tags.php:97
+#: inc/template-tags.php:106
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autors"
+
+#: inc/template-tags.php:81
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicēts"
+
+#: inc/template-tags.php:58
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formāts"
+
+#: inc/template-tags.php:31
+msgid "Newer Comments"
+msgstr "Jaunāki komentāri"
+
+#: inc/template-tags.php:51
+msgid "Featured"
+msgstr "Izceltais"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Senāki komentāri"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Komentāru navigācija"
+
+#: inc/customizer.php:239
+msgid "Blue"
+msgstr "Zils"
+
+#: functions.php:217
+#: inc/customizer.php:228
+msgid "Purple"
+msgstr "Purpurs"
+
+#: inc/customizer.php:217
+msgid "Pink"
+msgstr "Rozā"
+
+#: functions.php:192
+#: inc/customizer.php:206
+msgid "Yellow"
+msgstr "Dzeltens"
+
+#: inc/customizer.php:195
+msgid "Dark"
+msgstr "Tumšs"
+
+#: inc/customizer.php:184
+msgid "Default"
+msgstr "Noklusējuma"
+
+#: inc/customizer.php:79
+#: inc/customizer.php:104
+#: inc/customizer.php:111
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Piemēro galvenēm uz mazajiem ekrāniem un sānu joslām uz platiem ekrāniem."
+
+#: inc/customizer.php:103
+#: inc/wpcom-colors.php:75
+msgid "Header and Sidebar Background Color"
+msgstr "Galvenes un sānjoslu fona krāsa"
+
+#: inc/customizer.php:78
+#: inc/wpcom-colors.php:147
+msgid "Header and Sidebar Text Color"
+msgstr "Virsraksta un sānjoslu teksta krāsu"
+
+#: inc/customizer.php:55
+msgid "Base Color Scheme"
+msgstr "Pamata krāsu shēma"
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicēts</span><span class=\"post-title\">%title</span>"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38
+#: inc/back-compat.php:50
+#: inc/back-compat.php:67
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fifteen nepieciešama vismaz WordPress versija 4.1. Jūs izmantojat versiju %s. Lūdzu, atjauniniet to un mēģiniet vēlreiz."
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Nākamais attēls"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Iepriekšējais attēls"
+
+#: header.php:50
+msgid "Menu and widgets"
+msgstr "Izvēlne un logrīki"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Doties uz saturu"
+
+#: functions.php:389
+msgid "collapse child menu"
+msgstr "sakļaut apakšizvēlni"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:308
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:388
+msgid "expand child menu"
+msgstr "izvērst apakšizvēlni"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:300
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:292
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Pievienot logrīkus šeit, lai tie parādītos sānjoslās."
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:255
+msgid "Widget Area"
+msgstr "Logrīku apgabals"
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr "Sociālo saišu izvēlne"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "Galvenā izvēlne"
+
+#. translators: %s: WordPress
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr "Lepni darbina %s"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.8-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:30
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izskatās, ka mēs nevaram atrast to ko meklējat. Iespējams meklēšana var palīdzēt."
+
+#: content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Diemžēl, bet nekas netika atrasts. Mēģiniet vēlreiz izmantojot citus atslēgvārdus."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Esat gatavs publicēt savu pirmo ziņu? <a href=\"%s\">Sāciet šeit</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nekas nav atrasts"
+
+#: content-link.php:60
+#: content-page.php:37
+#: content-search.php:28
+#: content-search.php:33
+#: content.php:61
+#: image.php:74
+msgid "Edit"
+msgstr "Labot"
+
+#: content-link.php:39
+#: content-page.php:26
+#: content.php:41
+#: image.php:61
+msgid "Pages:"
+msgstr "Lapas:"
+
+#. translators: %s: Post title.
+#: content-link.php:32
+#: content.php:34
+#: inc/template-tags.php:252
+msgid "Continue reading %s"
+msgstr "Turpināt %s lasīšanu"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Komentāri ir slēgti."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s doma par &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s domas par &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s domu par &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Author display name.
+#: author-bio.php:36
+msgid "View all posts by %s"
+msgstr "Skatīt visus %s rakstus"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Publicējis"
+
+#: archive.php:53
+#: content-link.php:43
+#: content-page.php:30
+#: content.php:45
+#: image.php:65
+#: index.php:50
+#: search.php:48
+msgid "Page"
+msgstr "Lapa"
+
+#: archive.php:52
+#: index.php:49
+#: search.php:47
+msgid "Next page"
+msgstr "Nākamā lapa"
+
+#: archive.php:51
+#: index.php:48
+#: search.php:46
+msgid "Previous page"
+msgstr "Iepriekšējā lapa"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Izskatās, ka šeit nekas netika atrasts. Varbūt izmantojiet meklēšanu?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opā! Tāda lapa nav atrodama."

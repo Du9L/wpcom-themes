@@ -1,0 +1,384 @@
+# Copyright (C) 2021 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Fifteen 2.8-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/twentyfifteen\n"
+"POT-Creation-Date: 2021-01-07 01:44:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:51 index.php:48 search.php:46
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:52 index.php:49 search.php:47
+msgid "Next page"
+msgstr ""
+
+#: archive.php:53 content-link.php:43 content-page.php:30 content.php:45
+#: image.php:65 index.php:50 search.php:48
+msgid "Page"
+msgstr ""
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#. translators: %s: Author display name.
+#: author-bio.php:36
+msgid "View all posts by %s"
+msgstr ""
+
+#. translators: %s: Post title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s: Post title.
+#: content-link.php:32 content.php:34 inc/template-tags.php:252
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-link.php:39 content-page.php:26 content.php:41 image.php:61
+msgid "Pages:"
+msgstr ""
+
+#: content-link.php:60 content-page.php:37 content-search.php:28
+#: content-search.php:33 content.php:61 image.php:74
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: Post editor URL.
+#: content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.8-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:30 wp-content/themes/pub/twentyfifteen/style.css
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: WordPress
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:177
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:182
+msgid "Light Gray"
+msgstr ""
+
+#: functions.php:187
+msgid "White"
+msgstr ""
+
+#: functions.php:192 inc/customizer.php:206
+msgid "Yellow"
+msgstr ""
+
+#: functions.php:197
+msgid "Dark Brown"
+msgstr ""
+
+#: functions.php:202
+msgid "Medium Pink"
+msgstr ""
+
+#: functions.php:207
+msgid "Light Pink"
+msgstr ""
+
+#: functions.php:212
+msgid "Dark Purple"
+msgstr ""
+
+#: functions.php:217 inc/customizer.php:228
+msgid "Purple"
+msgstr ""
+
+#: functions.php:222
+msgid "Blue Gray"
+msgstr ""
+
+#: functions.php:227
+msgid "Bright Blue"
+msgstr ""
+
+#: functions.php:232
+msgid "Light Blue"
+msgstr ""
+
+#: functions.php:255
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:257
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:292
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:300
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:308
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:388
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:389
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:50
+msgid "Menu and widgets"
+msgstr ""
+
+#: image.php:25
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:25
+msgid "Next Image"
+msgstr ""
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38 inc/back-compat.php:50 inc/back-compat.php:67
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:78 inc/wpcom-colors.php:147
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: inc/customizer.php:79 inc/customizer.php:104 inc/customizer.php:111
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: inc/customizer.php:103 inc/wpcom-colors.php:75
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Blue"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:97 inc/template-tags.php:106
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:101
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:132
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr ""
+
+#: inc/wpcom-colors.php:110
+msgid "Header and Sidebar Link Color"
+msgstr ""
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:35
+msgid "Next"
+msgstr ""
+
+#: single.php:36
+msgid "Next post:"
+msgstr ""
+
+#: single.php:38
+msgid "Previous"
+msgstr ""
+
+#: single.php:39
+msgid "Previous post:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "Twenty Fifteen"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "https://wordpress.org/themes/twentyfifteen/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid ""
+"Our 2015 default theme is clean, blog-focused, and designed for clarity. "
+"Twenty Fifteen's simple, straightforward typography is readable on a wide "
+"variety of screen sizes, and suitable for multiple languages. We designed it "
+"using a mobile-first approach, meaning your content takes center-stage, "
+"regardless of whether your visitors arrive by smartphone, tablet, laptop, or "
+"desktop computer."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "the WordPress team"
+msgstr ""
