@@ -1,0 +1,351 @@
+# Translation of WordPress.com - Themes - Confit in Icelandic
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:42:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n % 100 != 1 && n % 100 != 21 && n % 100 != 31 && n % 100 != 41 && n % 100 != 51 && n % 100 != 61 && n % 100 != 71 && n % 100 != 81 && n % 100 != 91);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: is\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "Tengill"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "Texti"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "Merkt"
+
+#: inc/wp-open-table/wp-open-table.php:23
+msgid "Open Table Widget"
+msgstr "Open Table síðuhlutur"
+
+#: archive-jetpack-testimonial.php:25
+msgid "Testimonials"
+msgstr "Vitnisburðir"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/confit/page-menu.php
+msgid "Menu Template"
+msgstr "Sniðmát matseðils"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Leita &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "Leita"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Leitarniðurstöður fyrir: %s"
+
+#: page-menu.php:18
+msgid "Download Menu"
+msgstr "Sækja matseðil"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Það lítur út fyrir að við finnum ekki það sem þú sækist eftir. Hugsanlega hjálpar til að nota leitina."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Því miður, ekkert fannst sem passaði við leitarskilyrðin. Vinsamlega reyndu aftur með öðrum leitarorðum."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Tilbúin(n) til að birta fyrstu færsluna þína? <a href=\"%1$s\">Byrjaðu hér</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Ekkert fannst"
+
+#: inc/wp-open-table/wp-open-table.php:91
+msgid "My Open Table Widget"
+msgstr "Open Table síðuhluturinn minn"
+
+#: inc/wp-open-table/wp-open-table.php:25
+msgid "Open Table Widget for WordPress"
+msgstr "Open Table síðuhlutur fyrir WordPRess"
+
+#: inc/wp-open-table/wp-open-table.php:98
+msgid "Paste your EMBED code from <a href=\"%s\">Open Table Reservations</a> here:"
+msgstr "Límdu inn EMBED kóða frá <a href=\"%s\">Open Table Reservations</a> hér:"
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "Fyrirsögn:"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "Síða %s"
+
+#: inc/template-tags.php:119
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "Birt þann <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> af <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "Skoða allar færslur eftir %s"
+
+#: inc/template-tags.php:112
+msgid "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">Featured</a><span class=\"byline\"> | Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+msgstr "<a href=\"%1$s\" title=\"Efst á baugi\" rel=\"bookmark\">Efst á baugi</a><span class=\"byline\"> | Birt af <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "Ummæli þín bíða samþykkis."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s klukkan %2$s"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "Bakvísun:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nýrri færslur <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eldri færslur"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "Leiðarstýring færslu"
+
+#: image.php:98
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Lokað er fyrir bæði athugasemdir og bakrakningar."
+
+#: image.php:96
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Lokað er fyrir bakrakningar, en þú getur <a class=\"comment-link\" href=\"#respond\" title=\"Skrifa athugasemd\">skrifað athugasemd</a>."
+
+#: image.php:94
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Lokað er fyrir athugasemdir, en þú getur skilið eftir bakrakningu: <a class=\"trackback-link\" href=\"%s\" title=\"Vefslóð bakrakningar fyrir færsluna þína\" rel=\"trackback\">vefslóð bakrakningar</a>."
+
+#: image.php:92
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Skrifa athugasemd\">Skrifaðu athugasemd</a> eða skildu eftir bakrakningu: <a class=\"trackback-link\" href=\"%s\" title=\"Vefslóð bakrakningar færslunnar þinnar\" rel=\"trackback\">vefslóð bakrakningar</a>."
+
+#: image.php:39
+msgid "Next &rarr;"
+msgstr "Næsta &rarr;"
+
+#: image.php:38
+msgid "&larr; Previous"
+msgstr "&larr; Fyrri"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Birt <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> kl <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Fara aftur í %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Hoppa yfir í efni"
+
+#: header.php:52
+msgid "Navigation"
+msgstr "Leiðarkerfi"
+
+#: functions.php:309
+msgid "Disable Full Page Background Image"
+msgstr "Slökkva á bakgrunnsmynd heillar síðu"
+
+#: functions.php:295
+msgid "Menu Upload (PDF recommended)"
+msgstr "Upphleðsla á matseðli (Mælt með PDF)"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "Valkostir þema"
+
+#. translators: If there are characters in your language that are not supported
+#. by Enriqueta, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:159
+msgctxt "Enriqueta font: on or off"
+msgid "on"
+msgstr "virkt"
+
+#. translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr "virkt"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "Hliðarstika"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Aðalvalmynd"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Þema: %1$s eftir %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Knúið af %s með stolti"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Merkingarfræðilegt útgáfukerfi"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "Birt í %1$s"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lesa meira <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "Vefslóð á %s"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Þessi færsla var birt þann %1$s. Bókamerkið <a href=\"%3$s\" title=\"Varanleg slóð %4$s\" rel=\"bookmark\">varanlega slóð</a>."
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Þessi færsla var birt þann %1$s og merkt %2$s. Bókamerkið <a href=\"%3$s\" title=\"Varanleg slóð á %4$s\" rel=\"bookmark\">varanlega slóð</a>."
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Vista bókamerki fyrir <a href=\"%3$s\" title=\"Varanleg slóð á %4$s\" rel=\"bookmark\">varanlega slóð</a>."
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Þessi færsla var merkt %2$s. Settu bókamerki á <a href=\"%3$s\" title=\"Vefslóð á %4$s\" rel=\"bookmark\">vefslóðina</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr ", "
+
+#: content-single.php:20
+msgid "Price: %1$s"
+msgstr "Verð: %1$s"
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "% athugasemdir"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "1 athugasemd"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "Skrifa athugasemd"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:86
+msgid "Pages:"
+msgstr "Síður:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:34 image.php:100
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "Breyta"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Lokað er fyrir athugasemdir."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Nýrri athugasemdir &raquo;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&laquo; Eldri athugasemdir"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Leiðastýring athugasemda"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein athugasemd við &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s athugasemdir við &ldquo;%2$s&rdquo;"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "Greinasafn"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "Árskipt greinasafn fyrir: %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "Mánaðarskipt greinasafn: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "Dagskipt greinasafn: %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "Greinasafn höfundar: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "Greinasafn merkis: %s "
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "Flokkaskipt greinasafn: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Þú gætir prófað að leita í mánaðarskiptu greinasafni. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Vinsælustu flokkarnir"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Svo virðist sem ekkert hafi fundist á þessari slóð. Þú gætir reynt einn af tenglunum hér að neðan eða leitina?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Úbbs! Þessi síða fannst ekki."

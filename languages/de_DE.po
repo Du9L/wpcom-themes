@@ -1,0 +1,330 @@
+# Translation of WordPress.com - Themes - Confit in German
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:42:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: inc/wpcom-colors.php:81
+msgid "Link Hover"
+msgstr "Link-Hover"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "Text"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "Link"
+
+#: inc/wpcom-colors.php:37
+msgid "Base Color"
+msgstr "Grundfarbton"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "Verschlagwortet mit"
+
+#: archive-jetpack-testimonial.php:25
+msgid "Testimonials"
+msgstr "Referenzen"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Suche &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "Suchen"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wie es scheint, kann das Gesuchte nicht gefunden werden. Vielleicht hilft die Suchfunktion."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tut mir Leid, aber zu deinem Suchbegriff konnte nichts gefunden werden. Versuche es mit anderen Schlüsselwörtern doch erneut."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Erste Schritte</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden."
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/template-tags.php:119
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "Veröffentlicht am <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> von <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar muss noch freigeschaltet werden."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Beiträge"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: image.php:114
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Sowohl Kommentare als auch Trackbacks sind momentan abgeschaltet."
+
+#: image.php:112
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbacks nicht möglich, Du kannst aber einen <a class=\"comment-link\" href=\"#respond\" title=\"Kommentar schreiben\">Kommentar</a> schreiben."
+
+#: image.php:110
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Kommentieren ist nicht möglich, aber du kannst einen Trackback hinterlassen: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback-URL für deinen Beitrag\" rel=\"trackback\">Trackback-URL</a>."
+
+#: image.php:108
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Kommentieren\">Kommentiere</a> oder hinterlasse ein Trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback-URL für deinen Beitrag\" rel=\"trackback\">Trackback-URL</a>."
+
+#: image.php:51
+msgid "Next &rarr;"
+msgstr "Weiter &rarr;"
+
+#: image.php:26
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Veröffentlicht <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> in <a href=\"%3$s\" title=\"Link zu Bild in Originalgröße\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:50
+msgid "&larr; Previous"
+msgstr "&larr; Zurück"
+
+#: header.php:52
+msgid "Navigation"
+msgstr "Navigation"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: functions.php:295
+msgid "Menu Upload (PDF recommended)"
+msgstr "Menü Hochladen (PDF wird empfohlen)"
+
+#: functions.php:309
+msgid "Disable Full Page Background Image"
+msgstr "Ganzseitiges Hintergrundbild deaktivieren"
+
+#. translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Enriqueta, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:159
+msgctxt "Enriqueta font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s von %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Eine semantische, persönliche Publikationsplattform"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "Veröffentlicht in %1$s"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dieser Beitrag wurde unter %1$s veröffentlicht. Setze ein Lesezeichen auf den <a href=\"%3$s\" title=\"Permalink zu %4$s\" rel=\"bookmark\">Permalink</a>."
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dieser Beitrag wurde unter %1$s abgelegt und mit %2$s verschlagwortet. Setze ein Lesezeichen auf den <a href=\"%3$s\" title=\"Permalink zu %4$s\" rel=\"bookmark\">Permalink</a>."
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dieser Eintrag wurde getaggt mit %2$s. Setze ein Lesezeichen auf den <a href=\"%3$s\" title=\"Permanentlink zu %4$s\" rel=\"bookmark\">Permanentlink</a>."
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Lesezeichen für <a href=\"%3$s\" title=\"Permalink zu %4$s\" rel=\"bookmark\">Permanentlink</a>."
+
+#: content-single.php:20
+msgid "Price: %1$s"
+msgstr "Preis: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "Ein Kommentar"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:102
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:45 image.php:116
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Die Kommentarfunktion ist geschlossen."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Kommentare zu &ldquo;%2$s&rdquo;"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "Archiv"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "Archiv für das Jahr %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "Archiv für den Monat %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "Archiv für den Tag %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "Archiv des Autors: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "Schlagwort-Archive: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "Archiv der Kategorie: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuchs mit einem Blick in die monatlichen Archive. %1$s"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sieht so aus, als ob an dieser Stelle nichts gefunden wird. Vielleicht versuchst Du es mit einem der Links unten oder einer Suche?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Oft verwendete Kategorien"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Uups! Diese Seite konnte leider nicht gefunden werden."

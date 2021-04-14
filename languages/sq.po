@@ -1,0 +1,364 @@
+# Translation of WordPress.com - Themes - Confit in Albanian
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:42:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: inc/wpcom-colors.php:81
+msgid "Link Hover"
+msgstr "Kalim Përsipër Lidhjes"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "Lidhje"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/wpcom-colors.php:37
+msgid "Base Color"
+msgstr "Ngjyrë Bazë"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "U etiketua"
+
+#: inc/wp-open-table/wp-open-table.php:23
+msgid "Open Table Widget"
+msgstr "Widget-i Tryezë e Hapur"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/confit/style.css
+msgid "Confit is the perfect theme for restaurants and cafés. With Confit, it’s easier than ever to add (and edit) your menu, and to show off your best dishes and restaurant decoration. Map your location so customers can easily find you, and display phone numbers and business hours with our specialized Contact Info widget."
+msgstr "Confit është tema e përsosur për restorante dhe kafe. Me Confit-in është më e lehtë se kurrë të shtoni (dhe përpunoni) menunë tuaj, dhe të nxirrni në pah pjatat tuaja më të mira dhe dekoracionin e restorantit. Hidheni në hartë vendndodhjen tuaj, që klientët t&#8217;ju gjejnë lehtë, dhe shpalosni numrat e telefonit dhe oraret përmes widget-it tonë të specializuar Të Dhëna Kontaktesh."
+
+#: archive-jetpack-testimonial.php:25
+msgid "Testimonials"
+msgstr "Dëshmi"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/confit/page-menu.php
+msgid "Menu Template"
+msgstr "Gjedhe Menuje"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Kërkim &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "Kërko"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: page-menu.php:18
+msgid "Download Menu"
+msgstr "Shkarkoni Menunë"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se s&#8217;qemë në gjendje të gjenim ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por &#8217;u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "S&#8217;u Gjet Gjë"
+
+#: inc/wp-open-table/wp-open-table.php:91
+msgid "My Open Table Widget"
+msgstr "Widget-i Im Tryezë e Hapur"
+
+#: inc/wp-open-table/wp-open-table.php:25
+msgid "Open Table Widget for WordPress"
+msgstr "Widget-i Tryezë e Hapur për WordPress"
+
+#: inc/wp-open-table/wp-open-table.php:98
+msgid "Paste your EMBED code from <a href=\"%s\">Open Table Reservations</a> here:"
+msgstr "Hidhni këtu kodin tuaj EMBED prej <a href=\"%s\">Open Table Reservations</a> here:"
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "Titull:"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "Faqe %s"
+
+#: inc/template-tags.php:119
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "Postuar më <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> nga <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "Shihni krejt postimet nga %s"
+
+#: inc/template-tags.php:112
+msgid "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">Featured</a><span class=\"byline\"> | Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+msgstr "<a href=\"%1$s\" title=\"E zgjedhur\" rel=\"bookmark\">E zgjedhur</a><span class=\"byline\"> | Postuar nga <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "Komenti juaj po pret moderimin."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s te %2$s"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Postime më të reja <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Postime më të vjetra"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "Lëvizje te postimet"
+
+#: image.php:98
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Si komentet, ashtu edhe pasgjurmimet janë hëpërhë të mbyllura."
+
+#: image.php:96
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Pasgjurmimet janë mbyllur, por mund të <a class=\"comment-link\" href=\"#respond\" title=\"Postoni një koment\">postoni një koment</a>."
+
+#: image.php:94
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Komentet janë të mbyllura, por mund të lini një pasgjurmim: <a class=\"trackback-link\" href=\"%s\" title=\"URL pasgjurmimi për te postimi juaj\" rel=\"trackback\">URL Pasgjurmimi</a>."
+
+#: image.php:92
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Postoni një koment\">Postoni një koment</a> ose lini një pasgjurmim: <a class=\"trackback-link\" href=\"%s\" title=\"URL pasgjurmimi për te postimi juaj\" rel=\"trackback\">URL Pasgjurmimi</a>."
+
+#: image.php:39
+msgid "Next &rarr;"
+msgstr "Pasuesi &rarr;"
+
+#: image.php:38
+msgid "&larr; Previous"
+msgstr "&larr; I mëparshmi"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Botuar më <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Lidhje për te figura në madhësi të plotë\">%4$s &times; %5$s</a> te <a href=\"%6$s\" title=\"Kthehuni te %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Kaloni te lënda"
+
+#: header.php:52
+msgid "Navigation"
+msgstr "Lëvizje"
+
+#: functions.php:309
+msgid "Disable Full Page Background Image"
+msgstr "Çaktivizo Figurë Sfondi Sa Krejt Faqja"
+
+#: functions.php:295
+msgid "Menu Upload (PDF recommended)"
+msgstr "Ngarkim Menuje (këshillohet PDF)"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "Mundësi Teme"
+
+#. translators: If there are characters in your language that are not supported
+#. by Enriqueta, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:159
+msgctxt "Enriqueta font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "Anështyllë"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Menuja Parësore"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Platformë Semantike Publikimesh Personale"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "Postuar te %1$s"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "Permalidhje te %s"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ky zë u postua te %1$s. Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ky zë u postua te %1$s dhe u etiketua si %2$s. Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ky zë u etiketua me %2$s. Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr ", "
+
+#: content-single.php:20
+msgid "Price: %1$s"
+msgstr "Çmimi: %1$s"
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "% Komente"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "1 Koment"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:86
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:34 image.php:100
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentet janë mbyllur."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Komentet Më të Reja &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentet Më të Vjetra"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Një mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "Arkiva"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "Arkiva Vjetore: %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "Arkiva Mujore: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "Arkiva Ditore: %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "Arkiva Autori: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "Arkiva Etiketash: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "Arkiva Kategorie: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provoni të shihni arkivat mujore. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Kategoritë Më të Përdorura"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Duket se nuk u gjet gjë në këtë vend. Të provohet një nga lidhjet më poshtë, ose ndoshta një kërkim?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe s&#8217;gjendet dot."

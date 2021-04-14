@@ -1,0 +1,363 @@
+# Translation of WordPress.com - Themes - Confit in Japanese
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:42:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: inc/wpcom-colors.php:81
+msgid "Link Hover"
+msgstr "リンクホバー"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "リンク"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/wpcom-colors.php:37
+msgid "Base Color"
+msgstr "ベースカラー"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "タグ:"
+
+#: inc/wp-open-table/wp-open-table.php:23
+msgid "Open Table Widget"
+msgstr "Open Table ウィジェット"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/confit/style.css
+msgid "Confit is the perfect theme for restaurants and cafés. With Confit, it’s easier than ever to add (and edit) your menu, and to show off your best dishes and restaurant decoration. Map your location so customers can easily find you, and display phone numbers and business hours with our specialized Contact Info widget."
+msgstr "Confit はレストランやカフェにぴったりのテーマです。このテーマを使えば、これまでになく簡単にメニューを追加・編集したり、おすすめの料理やお店の雰囲気を見せることができます。位置情報を地図に追加してお客様がお店を見つけやすいようにしたり、電話番号・開店時間を特別なお問い合わせウィジェットで表示したりできます。"
+
+#: archive-jetpack-testimonial.php:25
+msgid "Testimonials"
+msgstr "推薦文"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/confit/page-menu.php
+msgid "Menu Template"
+msgstr "メニューテンプレート"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "検索"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: page-menu.php:18
+msgid "Download Menu"
+msgstr "メニューをダウンロード"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: inc/wp-open-table/wp-open-table.php:91
+msgid "My Open Table Widget"
+msgstr "Open Table ウィジェット"
+
+#: inc/wp-open-table/wp-open-table.php:25
+msgid "Open Table Widget for WordPress"
+msgstr "WordPress Open Table ウィジェット"
+
+#: inc/wp-open-table/wp-open-table.php:98
+msgid "Paste your EMBED code from <a href=\"%s\">Open Table Reservations</a> here:"
+msgstr "<a href=\"%s\">Open Table Reservations</a> の埋め込みコードをペースト:"
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/template-tags.php:119
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "投稿日時: <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> 投稿者: <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/template-tags.php:112
+msgid "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">Featured</a><span class=\"byline\"> | Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+msgstr "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">おすすめ</a><span class=\"byline\"> | 投稿者:<span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: image.php:98
+msgid "Both comments and trackbacks are currently closed."
+msgstr "コメント・トラックバックは受け付けていません。"
+
+#: image.php:96
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "現在トラックバックは受け付けていませんが、<a class=\"comment-link\" href=\"#respond\" title=\"コメントを投稿\">コメントを投稿</a>できます。"
+
+#: image.php:94
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "現在コメントは受け付けていませんが、トラックバックを送信できます: <a class=\"trackback-link\" href=\"%s\" title=\"あなたの投稿用のトラックバック URL\" rel=\"trackback\">トラックバック URL</a>"
+
+#: image.php:92
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"コメントを投稿\">コメントを投稿</a>するか、トラックバックを送信できます: <a class=\"trackback-link\" href=\"%s\" title=\"この投稿のトラックバック URL\" rel=\"trackback\">トラックバック URL</a>"
+
+#: image.php:39
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: image.php:38
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "投稿日時: <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> @ <a href=\"%3$s\" title=\"フルサイズ画像へのリンク\">%4$s &times; %5$s</a> | <a href=\"%6$s\" title=\"%7$s へ戻る\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#: header.php:52
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: functions.php:309
+msgid "Disable Full Page Background Image"
+msgstr "フルページ背景画像を無効にする"
+
+#: functions.php:295
+msgid "Menu Upload (PDF recommended)"
+msgstr "メニューアップロード (PDF 推奨)"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#. translators: If there are characters in your language that are not supported
+#. by Enriqueta, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:159
+msgctxt "Enriqueta font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "セマンティックなブログ／CMS プラットフォーム"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "%s へのパーマリンク"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "カテゴリー: %1$s <a href=\"%3$s\" title=\"%4$s へのパーマリンク\" rel=\"bookmark\">パーマリンク</a>"
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "カテゴリー: %1$s タグ: %2$s <a href=\"%3$s\" title=\"%4$s へのパーマリンク\" rel=\"bookmark\">パーマリンク</a>"
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<a href=\"%3$s\" title=\"%4$s へのパーマリンク\" rel=\"bookmark\">パーマリンク</a>"
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "タグ: %2$s <a href=\"%3$s\" title=\"%4$s へのパーマリンク\" rel=\"bookmark\">パーマリンク</a>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr ", "
+
+#: content-single.php:20
+msgid "Price: %1$s"
+msgstr "価格: %1$s"
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:86
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:34 image.php:100
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "編集"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "作成者別アーカイブ: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "タグ別アーカイブ: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "カテゴリー別アーカイブ: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを見てみてください。%1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"

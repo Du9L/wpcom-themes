@@ -1,0 +1,367 @@
+# Translation of WordPress.com - Themes - Confit in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-18 02:22:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: image.php:36
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a>"
+msgstr "منتشرشده در <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> در <a href=\"%3$s\" title=\"پیوند به تصویر تمام‌اندازه\">%4$s &times; %5$s</a>"
+
+#: inc/wpcom-colors.php:81
+msgid "Link Hover"
+msgstr "بردن موشی روی پیوند"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "پیوند"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "متن"
+
+#: inc/wpcom-colors.php:37
+msgid "Base Color"
+msgstr "رنگ پایه"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "برچسب‌خورده با"
+
+#: inc/wp-open-table/wp-open-table.php:23
+msgid "Open Table Widget"
+msgstr "ابزارک میز خالی"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/confit/style.css
+msgid "Confit is the perfect theme for restaurants and cafés. With Confit, it’s easier than ever to add (and edit) your menu, and to show off your best dishes and restaurant decoration. Map your location so customers can easily find you, and display phone numbers and business hours with our specialized Contact Info widget."
+msgstr "Confit پوسته‌ای عالی برای رستوران‌ها و کافه‌ها است. با Confit افزودن (و ویرایش) صورت‌غذایتان و نشان‌دادن بهترین غذاها و تزئینات رستوران ساده‌تر از همیشه خواهد بود. مکان خود را روی نقشه مشخص کنید تا مشتریان بتوانند شما را پیدا کنند و ساعات کار و تلفن تماس را با ابزارک ویژهٔ تماس نمایش دهید."
+
+#: archive-jetpack-testimonial.php:25
+msgid "Testimonials"
+msgstr "گواهی‌نامه‌ها"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/confit/page-menu.php
+msgid "Menu Template"
+msgstr "قالب صورت‌غذا"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "جست‌وجو &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "جست‌وجو"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "نتایج جست‌وجو برای: %s"
+
+#: page-menu.php:18
+msgid "Download Menu"
+msgstr "بارگیری صورت‌غذا"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، موردی مطابق با جستجوی شما پیدا نشد. لطفا برای جستجو از کلیدواژه‌های دیگری استفاده کنید."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: inc/wp-open-table/wp-open-table.php:91
+msgid "My Open Table Widget"
+msgstr "ابزارک میز آزاد من"
+
+#: inc/wp-open-table/wp-open-table.php:25
+msgid "Open Table Widget for WordPress"
+msgstr "ابزارک میز آزاد برای وردپرس"
+
+#: inc/wp-open-table/wp-open-table.php:98
+msgid "Paste your EMBED code from <a href=\"%s\">Open Table Reservations</a> here:"
+msgstr "کد EMBED خود را از <a href=\"%s\">رزروهای میز آزاد</a> اینجا بچسبانید:"
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#: inc/template-tags.php:119
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "نوشته‌شده در <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> بدست <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "مشاهدهٔ همهٔ نوشته‌ها بر اساس %s"
+
+#: inc/template-tags.php:112
+msgid "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">Featured</a><span class=\"byline\"> | Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+msgstr "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">ویژه</a><span class=\"byline\"> | فرستاده‌شده به‌دست <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما چشم به راه بررسی است."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "بازتاب: "
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نوشته‌های تازه‌تر <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> نوشته‌های پیشین"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: image.php:114
+msgid "Both comments and trackbacks are currently closed."
+msgstr "دیدگاه‌ها و دنبالكها هردو درحال حاضر بسته هستند."
+
+#: image.php:112
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "دنباله‌ها بسته شده‌اند، اما شما می‌توانید <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\"> دیدگاهی بیان کنید</a>."
+
+#: image.php:110
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "دیدگاه‌ها بسته شده‌اند، اما شما می‌توانید یک دنباله بگذارید: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\"> آدرس اینترنتی دنباله </a>. "
+
+#: image.php:108
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">دیدگاهی بفرستید</a> یا یک دنبالک بگذارید: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">آدرس دنبالک</a>."
+
+#: image.php:51
+msgid "Next &rarr;"
+msgstr "بعدی &rarr; "
+
+#: image.php:50
+msgid "&larr; Previous"
+msgstr "&larr; پیشین"
+
+#: image.php:26
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "منتشرشده <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> در <a href=\"%3$s\" title=\"پیوند به تصویر تمام‌اندازه\">%4$s &times; %5$s</a> در <a href=\"%6$s\" title=\"بازگشت به %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: header.php:52
+msgid "Navigation"
+msgstr "ناوبری"
+
+#: functions.php:309
+msgid "Disable Full Page Background Image"
+msgstr "از کار انداختن تصویر پس‌زمینهٔ تمام‌صفحه"
+
+#: functions.php:295
+msgid "Menu Upload (PDF recommended)"
+msgstr "بارگذاری صورت‌غذا (PDF توصیه می‌شود)"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "گزینه‌های پوسته"
+
+#. translators: If there are characters in your language that are not supported
+#. by Enriqueta, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:159
+msgctxt "Enriqueta font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#. translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "صورت‌غذای اصلی"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "بستر نشر شخصی معنایی"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "فرستاده‌شده در %1$s"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "پایاپیوند به %s"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این ورودی در %1$s فرستاده شده است. <a href=\"%3$s\" title=\"پایاپیوند به %4$s\" rel=\"bookmark\">پایاپیوند</a> به آن را نشانه‌گذاری کنید."
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این ورودی در %1$s فرستاده شده و با %2$s برچسب خورده. <a href=\"%3$s\" title=\"پایاپیوند به %4$s\" rel=\"bookmark\">پایاپیوند</a> را نشانه‌گذاری کنید."
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<a href=\"%3$s\" title=\"پایاپیوند به %4$s\" rel=\"bookmark\">پایاپیوند</a> را نشانه‌گذاری کنید."
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این نوشته با %2$s برچسب‌گذاری شده است. این نوشته را <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">نشانه‌گذاری</a> کنید."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr "، "
+
+#: content-single.php:20
+msgid "Price: %1$s"
+msgstr "قیمت: %1$s"
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:102
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:45 image.php:116
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "ویرایش"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "یک دیدگاه برای &rdquo;%2$s&ldquo;"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "بایگانی"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "بایگانی سالانه :%s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "بایگانی ماهانه: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "بایگانی روزانه: %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "بایگانی نویسنده: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "بایگانی برچسب‌ها: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "بایگانی دسته‌ها: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "بد نیست نگاهی به بایگانی ماهانه بیندازید. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "پراستفاده‌ترین دسته‌ها"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان نیست. شاید بخواهید یکی از پیوندهای زیر یا جست‌وجو را آزمایش کنید."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."

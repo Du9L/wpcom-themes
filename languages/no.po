@@ -1,0 +1,335 @@
+# Translation of WordPress.com - Themes - Confit in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-14 17:02:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: image.php:36
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a>"
+msgstr "Publisert <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> på <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a>"
+
+#: inc/wpcom-colors.php:81
+msgid "Link Hover"
+msgstr "Markør over link"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "Lenke"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "Merket med"
+
+#: inc/wp-open-table/wp-open-table.php:23
+msgid "Open Table Widget"
+msgstr "Åpen tabellmodul"
+
+#: archive-jetpack-testimonial.php:25
+msgid "Testimonials"
+msgstr "Tilbakemeldinger"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/confit/page-menu.php
+msgid "Menu Template"
+msgstr "Menymal"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Søk &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "Søk"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: page-menu.php:18
+msgid "Download Menu"
+msgstr "Last ned menyen"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men ingenting samsvarte med søkeuttrykkene dine. Vennligst prøv igjen med noen andre nøkkelord."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: inc/wp-open-table/wp-open-table.php:25
+msgid "Open Table Widget for WordPress"
+msgstr "Åpne tabellmodulen til WordPress"
+
+#: inc/wp-open-table/wp-open-table.php:91
+msgid "My Open Table Widget"
+msgstr "Min åpne tabellmodul"
+
+#: inc/wp-open-table/wp-open-table.php:98
+msgid "Paste your EMBED code from <a href=\"%s\">Open Table Reservations</a> here:"
+msgstr "Lim inn innbyggingskoden fra <a href=\"%s\">Åpne bordreservasjoner</a> her:"
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "Tittel:"
+
+#: inc/template-tags.php:119
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "Postet den <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> av <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "Side %s"
+
+#: inc/template-tags.php:112
+msgid "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">Featured</a><span class=\"byline\"> | Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+msgstr "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">Fremhevet</a><span class=\"byline\"> | Postet av <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "Vis alle innlegg av %s"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s, kl. %2$s"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "Tilbaketråkk:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyere innlegg <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eldre innlegg"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#: image.php:114
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Både kommentarer og trackbacks er for øyeblikket lukket."
+
+#: image.php:112
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbaks er ikke mulig, men du kan <a class=\"comment-link\" href=\"#respond\" title=\"Legg til en kommentar\">legge til en kommentar</a>. "
+
+#: image.php:110
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Kommentarene er lukket, men du kan etterlate en tilbakesporing: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Tilbakesporingsnettadressen</a>."
+
+#: image.php:108
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Send en kommentar\">Send en kommentar</a> eller etterlat en tilbakesporing: <a class=\"trackback-link\" href=\"%s\" title=\"Tilbakesporings-URL for innlegget ditt\" rel=\"trackback\">Tilbakesporings-URL</a>."
+
+#: image.php:51
+msgid "Next &rarr;"
+msgstr "Neste &rarr;"
+
+#: image.php:50
+msgid "&larr; Previous"
+msgstr "&larr; Forrige"
+
+#: image.php:26
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Publisert <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> kl <a href=\"%3$s\" title=\"Lenk til bilde i full størrelse\">%4$s &times; %5$s</a> i <a href=\"%6$s\" title=\"Tilbake til %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:52
+msgid "Navigation"
+msgstr "Navigasjon"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: functions.php:295
+msgid "Menu Upload (PDF recommended)"
+msgstr "Menyopplastning (PDF er anbefalt)"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "Temainnstillinger"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "En semantisk personlig publiseringsplatform"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "Publisert i %1$s"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les videre <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "Permalenke til %s"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dette innlegget ble publisert i %1$s. Bokmerk <a href=\"%3$s\" title=\"Permalenke til %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dette innlegget ble publisert i %1$s og merket med %2$s. Bokmerk <a href=\"%3$s\" title=\"Permalenke til %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bokmerk <a href=\"%3$s\" title=\"Permalenke til %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Denne oppføringen ble merket som %2$s. Bokmerk <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:102
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:45 image.php:116
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "Rediger"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Det er stengt for kommentarer."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En tanke om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanker om &ldquo;%2$s&rdquo;"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "Arkiv"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "Årlige arkiver: %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "Månedlige arkiver: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "Daglige arkiver: %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "Forfatterarkiv: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "Stikkordarkiv: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Forsøk de månedlige arkivene. %1$s"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ble tydeligvis ikke funnet noe her. Kanskje forsøke en av lenkene under eller et søk?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke."

@@ -1,0 +1,307 @@
+# Translation of WordPress.com - Themes - Confit in Hindi
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:42:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hi_IN\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "कड़ी"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "मूलशब्द"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "टैग की गईं"
+
+#: inc/wp-open-table/wp-open-table.php:23
+msgid "Open Table Widget"
+msgstr "टेबल विजेट खोलें"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/confit/page-menu.php
+msgid "Menu Template"
+msgstr "मेनू टेम्पलेट"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "खोजे &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "खोजे"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "%s के लिए खोज परिणाम:"
+
+#: page-menu.php:18
+msgid "Download Menu"
+msgstr "डाउनलोड मेनू"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है आप जो देख रहे हैं हमें नहीं मिल रहा है। शायद खोज मदद कर सकता है।"
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन कुछ भी आपके खोज शब्दों से मेल नहीं खाते। कृपया कुछ अलग खोजशब्दों के साथ फिर से प्रयास करें।"
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? <a href=\"%1$s\">यहाँ से शुरुआत करें</a>।"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+#: inc/wp-open-table/wp-open-table.php:91
+msgid "My Open Table Widget"
+msgstr "मेरा टेबल विजेट खोलें"
+
+#: inc/wp-open-table/wp-open-table.php:25
+msgid "Open Table Widget for WordPress"
+msgstr "वर्डप्रेस के लिए टेबल विजेट खोलें"
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "पृष्ठ %s"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "%s द्वारा सभी पोस्ट देखें"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "आपकी टिप्पणी संतुलित किए जाने की प्रतीक्षा कर रही है।"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s को %2$s पर"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "पिगबैक:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "नए पोस्टस <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> पुराने पोस्टस"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: image.php:98
+msgid "Both comments and trackbacks are currently closed."
+msgstr "दोनों टिप्पणियां और ट्रैकबैक्स इस समय बंद हैं।"
+
+#: image.php:96
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "ट्रैकबैक्स बंद हैं, लेकिन आप <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">एक टिप्पणी पोस्ट कर सकते हैं</a>।"
+
+#: image.php:94
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "टिप्पणियां बंद हो गयी हैं, लेकिन आप एक ट्रैकबैक छोड़ सकते हैं: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">ट्रैकबैक यूआरएल</a>।"
+
+#: image.php:92
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">एक टिप्पणी पोस्ट करें</a> या एक ट्रैकबैक छोडें:<a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">ट्रैकबैक यूआरएल</a>। "
+
+#: image.php:39
+msgid "Next &rarr;"
+msgstr "अगला &rarr;"
+
+#: image.php:38
+msgid "&larr; Previous"
+msgstr "&larr; पिछला"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "प्रकाशित हुआ <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> को <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> पर <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a> में"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "सामग्री पर जाएं"
+
+#: header.php:52
+msgid "Navigation"
+msgstr "नेविगेशन"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "थीम विकल्प"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "बाजूपट्टी"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "प्राथमिक मेनू"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "थीम: %2$s द्वारा %1$s।"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "%s द्वारा गर्व के साथ संचालित"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "एक अर्थगत निजी प्रकाशन मंच"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "%1$s में प्रकाशित किया गया"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "पढना जारी रखे <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "%s के लिए पर्मालिंक"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "यह प्रविष्टि %1$s में पोस्ट की गई थी। बुकमार्क करें <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">पर्मालिंक</a>।"
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "यह प्रविष्टि %1$s में पोस्ट और %2$s टैग की गई थी। बुकमार्क करें <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">पर्मालिंक</a>। "
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "बुकमार्क करें <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">पर्मालिंक</a>। "
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "इस प्रविष्टि %2$s टैग किया गया। बुकमार्क करें <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">पर्मालिंक</a>। "
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "%s टिप्पणियाँ"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "1 टिप्पणी"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "एक टिप्पणी छोड़ें"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:86
+msgid "Pages:"
+msgstr "पृष्ठ:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:34 image.php:100
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "सम्पादन"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "नई टिप्पणियां &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; पुरानी टिप्पणियाँ"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; पर एक विचार"
+msgstr[1] "&ldquo;%2$s&rdquo; पर %1$s विचार"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "अभिलेख"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "वार्षिक पुरालेख: %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "मासिक पुरालेख: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "दैनिक पुरालेख: %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "लेखक पुरालेख: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "टैग पुरालेख: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "श्रेणी  पुरालेख: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "मासिक अभिलेखागार में देखने की कोशिश कीजिए।  %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "अधिकतर उपयोग किये गये श्रेणियाँ"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ऐसा लगता है कि कुछ भी नहीं इस स्थान पर पाया गया। शायद नीचे दिए गए लिंक्स या खोज से एक कोशिश करें?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "उफ़! वह पृष्ठ नहीं पाया जा सकता है।"

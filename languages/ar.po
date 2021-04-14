@@ -1,0 +1,359 @@
+# Translation of WordPress.com - Themes - Confit in Arabic
+# This file is distributed under the same license as the WordPress.com - Themes - Confit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:42:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: WordPress.com - Themes - Confit\n"
+
+#: inc/wpcom-colors.php:81
+msgid "Link Hover"
+msgstr "الإشارة إلى الرابط"
+
+#: inc/wpcom-colors.php:70
+msgid "Link"
+msgstr "رابط"
+
+#: inc/wpcom-colors.php:52
+msgid "Text"
+msgstr "نص"
+
+#: inc/wpcom-colors.php:37
+msgid "Base Color"
+msgstr "اللون الرئيسي"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:54
+msgid "Tagged"
+msgstr "مصنف"
+
+#: archive-jetpack-testimonial.php:25
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/confit/page-menu.php
+msgid "Menu Template"
+msgstr "قالب القائمة"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "بحث &hellip;"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "بحث"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: page-menu.php:18
+msgid "Download Menu"
+msgstr "تحميل القائمة"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يظهر انه لا يمكننا ان نجد ما تبحث عنه. يمكن ان يفيدك البحث."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسفين, ولكن لا شئ يطابق كلمات البحث التي تم ادخالها. حاول البحث مرة أخرى بكلمات مختلفة."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر تدوينتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على نتائج"
+
+#: inc/wp-open-table/wp-open-table.php:91
+msgid "My Open Table Widget"
+msgstr "ودجت Open Table خاصتي"
+
+#: inc/wp-open-table/wp-open-table.php:25
+msgid "Open Table Widget for WordPress"
+msgstr "ودجت Open Table لوردبريس"
+
+#: inc/wp-open-table/wp-open-table.php:98
+msgid "Paste your EMBED code from <a href=\"%s\">Open Table Reservations</a> here:"
+msgstr "الصق الكود التضمني (EMBED) من <a href=\"%s\">Open Table Reservations</a> هنا:"
+
+#: inc/wp-open-table/wp-open-table.php:85
+msgid "Title:"
+msgstr "العنوان:"
+
+#: inc/tweaks.php:82
+msgid "Page %s"
+msgstr "الصفحة %s"
+
+#: inc/template-tags.php:119
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "نشر في <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> بواسطة <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:115 inc/template-tags.php:125
+msgid "View all posts by %s"
+msgstr "شاهد كل التدوينات عن طريق %s"
+
+#: inc/template-tags.php:112
+msgid "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">Featured</a><span class=\"byline\"> | Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+msgstr "<a href=\"%1$s\" title=\"Featured\" rel=\"bookmark\">مميزة</a><span class=\"byline\"> | نشرت بواسطة <span class=\"author vcard\"><a class=\"url fn n\" href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a></span></span>"
+
+#: inc/template-tags.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك في انتظار المراجعة."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:82
+msgid "%1$s at %2$s"
+msgstr "%1$s الساعة %2$s"
+
+#: inc/template-tags.php:75
+msgid "%s"
+msgstr "%s "
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "تعقيب:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "مشاركات حديثة <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> التدوينات الأقدم"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "التنقل بين التدوينات"
+
+#: image.php:98
+msgid "Both comments and trackbacks are currently closed."
+msgstr "التعليقات والتعقيبات مغلقة حاليا"
+
+#: image.php:96
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "التعقيبات مغلقة، لكن تستطيع <a class=\"comment-link\" href=\"#respond\" title=\"نشر تعليق\">post a comment</a>."
+
+#: image.php:94
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "التعليقات معطلة، لكن يمكنك ترك وصلة تتبع : <a class=\"trackback-link\" href=\"%s\" title=\"وصلة تتبع لرسالتك\" rel=\"trackback\">وصلة تتبع</a>."
+
+#: image.php:92
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">انشر تعليق</a> او اترك تعقيب: <a class=\"trackback-link\" href=\"%s\" title=\"رابط التعليق لمنشورك\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:39
+msgid "Next &rarr;"
+msgstr "التالي &larr;"
+
+#: image.php:38
+msgid "&larr; Previous"
+msgstr "&rarr; السابق"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "نشرت <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> في <a href=\"%3$s\" title=\"رابط للصورة بالحجم الكامل\">%4$s &times; %5$s</a> في <a href=\"%6$s\" title=\"العودة لـ %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى "
+
+#: header.php:52
+msgid "Navigation"
+msgstr "القائمة"
+
+#: functions.php:309
+msgid "Disable Full Page Background Image"
+msgstr "إلالغاء خلفية الصفحة الكاملة"
+
+#: functions.php:295
+msgid "Menu Upload (PDF recommended)"
+msgstr "رفع القائمة (ينصح ان يكون ملف PDF)"
+
+#: functions.php:285
+msgid "Theme Options"
+msgstr "خيارات الواجهة"
+
+#. translators: If there are characters in your language that are not supported
+#. by Enriqueta, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:159
+msgctxt "Enriqueta font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "القائمة الجانبية"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "مدعوم بواسطة %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "منصة النشر الشخصية"
+
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "نشرت في %1$s"
+
+#: content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "استمر في القراءة <span class=\"meta-nav\">&larr;</span>"
+
+#: content.php:15
+msgid "Permalink to %s"
+msgstr "الوصلة الدائمة لـ%s"
+
+#: content-single.php:73
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "هذا المنشور نشر في %1$s. حفظ <a href=\"%3$s\" title=\"الرابط الثابت لـ %4$s\" rel=\"bookmark\">الرابط الثابت</a>."
+
+#: content-single.php:71
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "هذا المنشور نشر في %1$s وكلماته الدلالية %2$s. حفظ <a href=\"%3$s\" title=\"الرابط الثابت لـ %4$s\" rel=\"bookmark\">الرابط الثابت</a>."
+
+#: content-single.php:65
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "حفظ <a href=\"%3$s\" title=\"الرابط لـ %4$s\" rel=\"bookmark\">الرابط الثابت</a>."
+
+#: content-single.php:63
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "هذا المنشور كلماته الدلالية %2$s. حفظ <a href=\"%3$s\" title=\"الرابط الثابت لـ %4$s\" rel=\"bookmark\">الرابط الثابت</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:44 content.php:54
+msgid ", "
+msgstr "، "
+
+#: content-single.php:20
+msgid "Price: %1$s"
+msgstr "السعر: %1$s"
+
+#: content-page.php:25 content.php:58
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: content-page.php:25 content.php:58
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: content-page.php:25 content.php:58
+msgid "Leave a comment"
+msgstr "أضف تعليقا"
+
+#: content-page.php:20 content-single.php:32 content.php:36 image.php:86
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: content-menu.php:45 content-page.php:27 content-single.php:87
+#: content-testimonial.php:22 content.php:61 image.php:34 image.php:100
+#: inc/template-tags.php:65 inc/template-tags.php:84
+msgid "Edit"
+msgstr "تحرير"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "تعليقات أقدم &larr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&rarr; تعليقات أقدم"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "استعراض التعليق"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s تعليقات على &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s تعليق على &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s تعليقات على &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s تعليقات على &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s تعليق على &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s تعليق على &ldquo;%2$s&rdquo;"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "الأرشيفات"
+
+#: archive.php:46
+msgid "Yearly Archives: %s"
+msgstr "الأرشيف السنوي: %s"
+
+#: archive.php:43
+msgid "Monthly Archives: %s"
+msgstr "الأرشيف الشهري: %s"
+
+#: archive.php:40
+msgid "Daily Archives: %s"
+msgstr "الأرشيف اليومي : %s"
+
+#: archive.php:32
+msgid "Author Archives: %s"
+msgstr "أرشيف الكاتب: %s"
+
+#: archive.php:25
+msgid "Tag Archives: %s"
+msgstr "أرشيف الأوسمة: %s"
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "أرشيف التصنيف: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول البحث في الارشيف الشهري. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "التصنيفات الاكثر استخداماً"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "يظهر انه لا يوجد شئ هنا. يمكنك محاولة البحث بالروابط بالاسفل او بإستخدام أداة البحث؟"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوبس! الصفحة غير موجودة."
