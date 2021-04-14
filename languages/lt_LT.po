@@ -1,0 +1,85 @@
+# Translation of WordPress.com - Themes - Celsius in Lithuanian
+# This file is distributed under the same license as the WordPress.com - Themes - Celsius package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-11 12:18:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.2.0-alpha\n"
+"Language: lt\n"
+"Project-Id-Version: WordPress.com - Themes - Celsius\n"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/celsius/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/celsius/style.css
+msgid "Celsius provides a pure, white backdrop for your writing, photography, or videography. With a design that looks great on any device, large or small, Celsius supports multiple post formats, slide-out navigation and widget areas, and bold featured images. Clear out the clutter and let your content speak for itself."
+msgstr "Celsius Jums suteikia galimybę išryškinti savo tekstus, nuotraukas ar video įrašus. Ši prisitaikančio dizaino tema puikiai atrodo bet kuriame įrenginyje, taip pat palaiko skirtingus įrašų formatus, iššokančią navigaciją, valdiklių zonas bei ryškius specialiuosius paveikslėlius. Išvenkite makalynės ir leiskite savo turiniui kalbėti už save."
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:63
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:54
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-aside.php:51 content-gallery.php:52 content-search.php:47
+#: content-single.php:87 content.php:99
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "% Comments"
+msgstr "Komentarų: % "
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "Comment"
+msgstr "Komentuoti"
+
+#: content-aside.php:40 content-gallery.php:40 content-search.php:35
+#: content-single.php:81 content.php:87
+msgid "All %s posts"
+msgstr "Visi %s įrašai"
+
+#: content-aside.php:27 content-gallery.php:32 content-single.php:72
+#: content.php:78
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: content-aside.php:24 content-gallery.php:29 content-single.php:9
+#: content-single.php:68 content.php:8 content.php:74
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau <span class=\"meta-nav\">&rarr;</span>"

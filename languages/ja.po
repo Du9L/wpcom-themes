@@ -1,0 +1,84 @@
+# Translation of Celsius in Japanese
+# This file is distributed under the same license as the Celsius package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-03 16:42:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Celsius\n"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/celsius/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/celsius/style.css
+msgid "Celsius provides a pure, white backdrop for your writing, photography, or videography. With a design that looks great on any device, large or small, Celsius supports multiple post formats, slide-out navigation and widget areas, and bold featured images. Clear out the clutter and let your content speak for itself."
+msgstr "Celsius は、あなたの文章・写真・動画のために純白の背景を提供します。大小どんなデバイス上でも見やすいデザインで、複数の投稿フォーマット、スライドアウトナビゲーションやウィジェットエリア、大胆なアイキャッチ画像に対応しています。ごちゃごちゃをクリアにし、コンテンツをアピールしましょう。"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:54
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:63
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: content-aside.php:51 content-gallery.php:52 content-search.php:47
+#: content-single.php:87 content.php:99
+msgid "Edit"
+msgstr "編集"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "Comment"
+msgstr "コメント"
+
+#: content-aside.php:40 content-gallery.php:40 content-search.php:35
+#: content-single.php:81 content.php:87
+msgid "All %s posts"
+msgstr "すべての%s投稿"
+
+#: content-aside.php:27 content-gallery.php:32 content-single.php:72
+#: content.php:78
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-aside.php:24 content-gallery.php:29 content-single.php:9
+#: content-single.php:68 content.php:8 content.php:74
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"

@@ -1,0 +1,75 @@
+# Translation of WordPress.com - Themes - Celsius in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Celsius package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-04 00:53:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Celsius\n"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:63
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:54
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "off"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-aside.php:51 content-gallery.php:52 content-search.php:47
+#: content-single.php:87 content.php:99
+msgid "Edit"
+msgstr "Editare"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: content-aside.php:44 content-gallery.php:45 content-search.php:41
+#: content.php:93
+msgid "Comment"
+msgstr "Comentariu"
+
+#: content-aside.php:40 content-gallery.php:40 content-search.php:35
+#: content-single.php:81 content.php:87
+msgid "All %s posts"
+msgstr "Toate cele %s de articole "
+
+#: content-aside.php:27 content-gallery.php:32 content-single.php:72
+#: content.php:78
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: content-aside.php:24 content-gallery.php:29 content-single.php:9
+#: content-single.php:68 content.php:8 content.php:74
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuă lectura <span class=\"meta-nav\">&rarr;</span>"
