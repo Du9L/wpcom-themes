@@ -1,0 +1,278 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": "social",
+                "menu-1": "primary",
+                "menu-2": "primary"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Reserveringen",
+            "post_content": "<!-- wp:paragraph -->\n<p>Laten we dit bespreken &amp;#128075; aarzel niet om contact met ons op te nemen via de onderstaande contactgegevens, of een bericht te sturen via het formulier.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Om een tafel te reserveren, kun je ons bellen of het formulier hieronder gebruiken.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Locatie</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"1 Example Street\",\"city\":\"Anytown\",\"region\":\"NY\",\"postal\":\"10100\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Voorbeeldstraat 1</div><div><span class=\"jetpack-address__city\">Plaats</span>,<span class=\"jetpack-address__region\"> </span><span class=\"jetpack-address__postal\">1234 AB</span></div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@voorbeeld.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">+31 12345678</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:jetpack/contact-info -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Openingstijden</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Ma:</strong>&nbsp;gesloten<br><strong>Di – zo:</strong>&nbsp;11.30 – 22.00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Online reserveren</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "reservations",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 163,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Nieuwigheden",
+            "post_content": "<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg\",\"id\":125,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Onze nieuwste updates</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:a8c/posts-list {\"postsPerPage\":3} /-->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator is-style-default\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Volg ons</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Krijg nieuwe content direct in je mailbox.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 16,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Nieuws (alles)",
+            "post_content": "",
+            "post_name": "news-all",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Menu",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Het menu bestaat uit een combinatie van Franse&nbsp;regionale gerechten en verandert elk seizoen.<br>Vergeet niet om naar de specialiteiten van de dag te vragen!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Voorgerechten</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Zalmcanapés<br></strong><em>Gerookte zalm met crème fraîche, dille en kappertjes<br></em>$ 15,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Varkensrillettes<br></strong><em>Met gepekelde droge abrikozen en stukjes pistache<br></em>$ 14,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Provençaalse groentetaart<br></strong><em>Met seizoensgroenten<br></em>$ 12,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Mini-tartes flambées<br></strong><em>Traditioneel Elzassisch gerecht, gemaakt met&nbsp;gerookt spek en uien</em><br>$ 12,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Geitenkaassalade<br></strong><em>Warm geserveerd met honing en croutons</em><br>$ 12,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Fricassée van wilde paddenstoelen</strong><br><em>Gestoofde wilde paddenstoelen, geserveerd met zeewier en vloeibaar stikstof</em><br>$ 14,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Hoofdgerechten</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Coq au vin d'Alsace<br></strong><em>Kip gekookt in Riesling met uien, champignons en kruiden</em><br>$ 25,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Bouillabaisse</strong><br><em>Traditionele Provençaalse visstoofpot, met garnalen, mosselen en zeeduivel<br></em>$ 26,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Sole meunière</strong><br><em>Gebakken tong in boter, geserveerd met beurre noisette, peterselie en citroen<br></em>$ 28,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Côte de boeuf<br></strong><em>60 dagen gerijpte ribsteak met pepersaus en fondant-aardappelen<br></em>$ 31,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Duck à l'orange<br></strong><em>Geroosterde eendenborst met knapperig vel en romige citrussaus<br></em>$ 26,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Erwten-aspergerisotto</strong><br><em>Met geitenkaas, rucola en erwtenspruit<br></em>$ 22,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Desserts</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Chocolademacarons</strong><br><em>Een klassieke Franse delicatesse, gevuld met een rijke chocoladeganache<br></em>$ 12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Crêpe suzette</strong><br><em>Dunne crêpe in boterige, oranje saus; geflambeerd geserveerd<br></em>$ 13,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Pralinecake</strong><br><em>Praline-chocoladecake in meerdere laagjes met karamel-roomkaas<br></em>$ 12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Tarte tatin</strong><br><em>Kleverige karamelsaus met appels, geserveerd met slagroom</em><br>$ 12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Citroentaart</strong><br><em>Met smaakvolle citroensaus, romige custard en bedekt met meringue</em><br>$ 12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Fruitsalade</strong><br><em>Blauwe bessen, aardbeien, frambozen, pruimen en passievruchten<br></em>$ 28,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"foreground-light\"} -->\n<p style=\"text-align:center;\" class=\"has-text-color has-foreground-light-color\"><em>Onze vis is afkomstig uit duurzame bronnen</em>.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg\",\"id\":217,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Geniet van onze dineerervaring</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Welkom bij Rockfield</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Eigenaar Joan Smith en uitvoerend chef François Lemoine hebben samengewerkt om een van de meest interessante restaurants in Plaats te openen.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Onze specialiteit is heerlijke&nbsp;gerechten, bereid met inventiviteit en passie, en geïnspireerd door de fantastische smaken van&nbsp;Frankrijk. Met zorg en aandacht verbeteren we je favoriete Franse&nbsp;gerechten op nieuwe en creatieve manieren.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg\",\"id\":218,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Ontdek ons menu</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Het menu bestaat uit een combinatie van Franse&nbsp;regionale gerechten en verandert elk seizoen.<br>Vergeet niet om naar de specialiteiten van de dag te vragen!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Voorbeeldmenu</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Voorgerecht</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Fricassée van wilde paddenstoelen</strong><br><em>Gestoofde wilde paddenstoelen, geserveerd met zeewier en vloeibaar stikstof</em><br>$ 14,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Hoofdgerecht</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Coq au vin d'Alsace<br></strong><em>Kip gekookt in Riesling met uien, champignons en kruiden</em><br>$ 25,50<br></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Dessert</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Pompoensoufflé</strong><br><em>Met bourbon-, kaneel- en melasse-saus</em><br>$ 9,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://rockfielddemo.wordpress.com/menu/\">Bekijk het volledige menu</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg\",\"id\":219,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Reserveer jouw tafel</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Om een tafel te reserveren, kun je ons bellen op 012-3456789 of het formulier hieronder gebruiken.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg\",\"id\":220,\"hasParallax\":true,\"dimRatio\":60,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-60 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} -->\n<p style=\"text-align:center;\" class=\"has-huge-font-size\"><strong>Rockfield</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">Bezoekers willen weten wie aan de andere kant van de pagina zit. Gebruik deze ruimte om iets over je bedrijf te vertellen.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":5} -->\n<h5>Openingstijden</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\"><strong>Ma:</strong> gesloten<br><strong>Di - Zo:</strong> 11.30 – 22.00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">Locatie</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">Voorbeeldstraat 1,<br>Plaats, 1234 AB</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">Reservering</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">012-3456789<br>mail@voorbeeld.com</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Opmaken als een pro",
+            "post_content": "<!-- wp:paragraph -->\n<p>De presentatie van het eten is een kunstvorm, die bestaat uit het aanpassen, verwerken, rangschikken of decoreren van de maaltijd om de uiterlijke aantrekkingskracht te verbeteren.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>De visuele presentatie van gerechten wordt door chef-koks vaak gecontroleerd tijdens verschillende fases in de voedselbereiding: van de manier waarop vlees wordt gebonden tot hoe vleeswaren of groenten worden gesneden, tot het type vorm dat wordt gebruikt voor een vloeibaar gerecht. Het gerecht zelf kan worden gedecoreerd zoals dat ook bij decoratieve taarten gebeurt, die worden voorzien van eetbare ornamenten of sculpturen, besprenkeld met sauzen, zaden, poeders of andere toppings. Het kan ook worden aangevuld door eetbare of niet-eetbare garnituren.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Het rangschikken en de algehele vormgeving van een gerecht wanneer dit op het bord wordt gelegd, wordt 'opmaak' genoemd. Tot veelgebruikte stijlen van opmaak behoren een 'klassieke' rangschikking van het hoofdingrediënt aan de voorkant van het bord met groenten of aardappels aan de achterkant, een 'gestapelde' rangschikking van de verschillende onderdelen van het gerecht, of het hoofdingrediënt dat tegen groenten of een bijgerecht aanleunt. De plaats van het gerecht op het bord wordt vaak aangeduid met de wijzers van een klok, waarbij zes uur de positie is die zo dicht mogelijk bij de dineergast ligt.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Een basisregel die moet worden onthouden bij het opmaken (en in sommige gevallen zelfs bij het opdienen), is dat een gerecht uit 5 onderdelen bestaat: proteïnen, normaal gesproken op zes uur, groente op twee uur, aardappels op elf uur, en daarnaast saus en garnituur.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Afkomstig van&nbsp;<a href=\"https://en.wikipedia.org/wiki/Food_presentation\">Wikipedia</a>.</em></p>\n<!-- /wp:paragraph -->",
+            "post_name": "tricks-to-plating-like-a-pro",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 149,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Wintermenu",
+            "post_content": "<!-- wp:paragraph -->\n<p>Kom deze winter bij ons langs en geniet van&#160;vullende soepen en stoofpotten, gratins met kaas en ovenschotels.&#160;Je vindt deze overheerlijke gerechten op onze seizoensmenu's en de specialiteiten veranderen dagelijks.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":142,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg?w=1024\" class=\"wp-image-142\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "winter-menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Kerstviering bij Rockfield",
+            "post_content": "<!-- wp:paragraph -->\n<p>Rockfield is beschikbaar voor kerstvieringen in groepen van elke omvang, dus plan nu je kerstlunch&#160;of&#160;-diner in.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Klik hier&#160;om vandaag nog te reserveren!</p>\n<!-- /wp:paragraph -->",
+            "post_name": "christmas-party-at-rockfields",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 146,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primair",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "Menu",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Nieuwigheden",
+                    "menu-item-db-id": 28,
+                    "menu-item-object-id": "16",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Reserveringen",
+                    "menu-item-db-id": 166,
+                    "menu-item-object-id": "163",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sociaal",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 21,
+                    "menu-item-object-id": "21",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "22",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Foursquare",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://foursquare.com"
+                },
+                {
+                    "menu-item-title": "Yelp",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://yelp.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/cropped-healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2019/08/healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/architecture-bar-ceiling-2225577.jpg"
+    ]
+}
