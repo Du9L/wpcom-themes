@@ -1,0 +1,75 @@
+/*--------------------------------------------------------------*/
+/* !## Site Footer */
+/*--------------------------------------------------------------*/
+
+.site-footer {
+
+	bottom: 0;
+	border-top: 1px solid $color__border-transparent;
+	clear: both;
+	position: relative;
+}
+
+.site-footer-wrap {
+
+	display: table;
+	padding: ($baseline * 1.5) 0;
+	width: 100%;
+}
+
+.site-info {
+
+	margin-bottom: 0;
+}
+
+.site-footer .jetpack-social-navigation,
+.site-info {
+
+	clear: both;
+	float: none;
+	width: 100%;
+	padding: 0 $mobile-gutter;
+}
+
+#wpstats {
+
+	display: none;
+}
+
+// Tablet and up
+@include breakpoint( tablet ) {
+
+	.site-info {
+
+		clear: left;
+		float: left;
+		width: 60%;
+		padding: 0;
+	}
+
+	.site-footer-wrap {
+
+		padding: ($baseline * 1.5) ($gutter * .5);
+	}
+
+	.site-footer {
+
+		border: none;
+		position: fixed;
+		z-index: -1;
+
+		.jetpack-social-navigation {
+
+			clear: right;
+			float: right;
+			padding: 0;
+			width: 40%;
+
+			ul {
+
+				margin-bottom: 0;
+				text-align: right;
+			}
+		}
+	}
+}

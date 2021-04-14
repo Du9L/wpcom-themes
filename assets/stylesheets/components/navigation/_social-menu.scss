@@ -1,0 +1,21 @@
+/*--------------------------------------------------------------*/
+/* !## Footer Social Menu */
+/*--------------------------------------------------------------*/
+
+.site-footer .jetpack-social-navigation {
+
+	ul {
+
+		margin-bottom: ($baseline * .5);
+	}
+
+	li {
+
+		@include font-size(1.5);
+
+		a {
+
+			padding: 0 10px 0 0;
+		}
+	}
+}
