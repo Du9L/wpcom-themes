@@ -1,0 +1,261 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Dara in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Dara package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-30 11:28:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+
+#: functions.php:69
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:84
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:89
+msgid "Blue"
+msgstr "Azul"
+
+#: functions.php:94
+msgid "Dark Blue"
+msgstr "Dark Blue"
+
+#: functions.php:79
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: functions.php:74
+msgid "Medium Gray"
+msgstr "Gris medio"
+
+#: functions.php:64
+msgid "Black"
+msgstr "Negro"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] " %1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] " %1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: inc/woocommerce.php:270
+msgid "View your shopping cart"
+msgstr "Ver carrito de la compra"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:272
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d producto"
+msgstr[1] "%d productos"
+
+#: inc/wpcom-colors.php:21
+msgid "Headings"
+msgstr "Títulos"
+
+#: inc/wpcom-colors.php:66
+msgid "Links"
+msgstr "Enlaces"
+
+#: functions.php:309
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Sigue leyendo <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid "Tagged"
+msgstr "Etiquetado"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Plantilla de ancho completo, sin laterales"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Página en cuadrícula"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Entrada anterior"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Entrada siguiente"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda por: %s"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/customizer.php:29
+msgid "Randomize Front Page Testimonials"
+msgstr "Distribución aleatoria de los testimoniales en la portada"
+
+#: inc/customizer.php:41
+msgid "Front Page: Featured Page One"
+msgstr "Portada: Página destacada uno"
+
+#: inc/customizer.php:53
+msgid "Front Page: Featured Page Two"
+msgstr "Portada: Página destacada dos"
+
+#: inc/customizer.php:65
+msgid "Front Page: Featured Page Three"
+msgstr "Portada: Portada: Página destacada tres"
+
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: functions.php:242
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:250
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:226
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:234
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:103
+msgid "Header"
+msgstr "Cabecera"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:193
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "activa"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda te pueda ayudar."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento pero no hay nada que se ajuste a tus criterios de búsqueda. Por favor, inténtalo de nuevo con palabras claves distintas."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Estás listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Lee todas las entradas de %s"
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: components/testimonials/content-testimonial.php:25 inc/template-tags.php:38
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "Publicado por %s"
+
+#: components/page/content-page.php:21 components/post/content.php:54
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menú"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Orgullosamente ofrecido por %s"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:56 comments.php:76
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments"
+msgstr "Comentarios Recientes"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en &ldquo;%s&rdquo;"
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en esa ubicación ¿quieres probar a buscar?"
+
+#: archive-jetpack-testimonial.php:28
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se pudo encontrar esa página."

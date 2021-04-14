@@ -1,0 +1,232 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Dara in Danish
+# This file is distributed under the same license as the WordPress.com - Themes - Dara package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-29 17:46:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+
+#: functions.php:84
+msgid "White"
+msgstr "Hvid"
+
+#: functions.php:89
+msgid "Blue"
+msgstr "Blå"
+
+#: functions.php:79
+msgid "Light Gray"
+msgstr "Lysegrå"
+
+#: functions.php:74
+msgid "Medium Gray"
+msgstr "Mellemgrå"
+
+#: functions.php:69
+msgid "Dark Gray"
+msgstr "Mørkegrå"
+
+#: functions.php:64
+msgid "Black"
+msgstr "Sort"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar til &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer til &ldquo;%2$s&rdquo;"
+
+#: inc/woocommerce.php:270
+msgid "View your shopping cart"
+msgstr "Se din indkøbskurv"
+
+#: inc/wpcom-colors.php:66
+msgid "Links"
+msgstr "Link"
+
+#: inc/wpcom-colors.php:21
+msgid "Headings"
+msgstr "Overskrifter"
+
+#: functions.php:309
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Læs mere <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid "Tagged"
+msgstr "med emneordet"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Gitterside"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Fuld bredde, ingen sidebar"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Tidligere indl&#230;g"
+
+#: single.php:20
+msgid "Next post"
+msgstr "N&#230;ste indl&#230;g"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: inc/customizer.php:41
+msgid "Front Page: Featured Page One"
+msgstr "Forside: Fremhævet side et"
+
+#: inc/customizer.php:53
+msgid "Front Page: Featured Page Two"
+msgstr "Forside: Fremhævet side to"
+
+#: inc/customizer.php:65
+msgid "Front Page: Featured Page Three"
+msgstr "Forside: Fremhævet side tre"
+
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temafunktioner"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Videre til indhold"
+
+#: functions.php:250
+msgid "Footer 3"
+msgstr "Sidefod 3"
+
+#: functions.php:242
+msgid "Footer 2"
+msgstr "Sidefod 2"
+
+#: functions.php:226
+msgid "Sidebar"
+msgstr "Sidebjælke"
+
+#: functions.php:234
+msgid "Footer 1"
+msgstr "Sidefod 1"
+
+#: functions.php:103
+msgid "Header"
+msgstr "Header"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det lader til, vi ikke kan finde det, du leder efter. Prøv eventuelt at bruge søgefeltet"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Læs resten %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Det lader til, vi ikke kan finde det, du leder efter. Prøv eventuelt at bruge andre søgeord."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Vis alle indlæg fra %s"
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: components/testimonials/content-testimonial.php:25 inc/template-tags.php:38
+msgid "Edit %s"
+msgstr "Redigér %s"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "Offentliggjort af %s"
+
+#: components/page/content-page.php:21 components/post/content.php:54
+msgid "Pages:"
+msgstr "Sider:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s af %2$s."
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menu"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Drevet af %s"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: comments.php:56 comments.php:76
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det ser ud til, at vi ikke kan finde det, du leder efter. Måske vil en søgning hjælpe."
+
+#: archive-jetpack-testimonial.php:28
+msgid "Testimonials"
+msgstr "Anbefalinger"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Denne side kan ikke findes."

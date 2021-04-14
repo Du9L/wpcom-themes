@@ -1,0 +1,221 @@
+# Translation of WordPress.com - Themes - Dara in Latvian
+# This file is distributed under the same license as the WordPress.com - Themes - Dara package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-17 11:30:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lv\n"
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+
+#: functions.php:84
+msgid "White"
+msgstr "Balta"
+
+#: functions.php:89
+msgid "Blue"
+msgstr "Zila"
+
+#: functions.php:79
+msgid "Light Gray"
+msgstr "Gaiši pelēks"
+
+#: functions.php:69
+msgid "Dark Gray"
+msgstr "Tumši pelēks"
+
+#: functions.php:64
+msgid "Black"
+msgstr "Melna"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s doma par &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s domas par &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s domas par &ldquo;%2$s&rdquo;"
+
+#: inc/wpcom-colors.php:66
+msgid "Links"
+msgstr "Saites"
+
+#: inc/wpcom-colors.php:21
+msgid "Headings"
+msgstr "Virsraksti"
+
+#: functions.php:309
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Turpināt lasīt <span class=\"screen-reader-text\">"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid "Tagged"
+msgstr "Tagots"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Režģa lapa"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Pilns platums, bez sānjoslas"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Iepriekšējais ieraksts"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Nākošā ziņa"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Meklēšanas rezultāti: %s"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "% komentāri"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "1 komentārs"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "Atstāt komentāru"
+
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ","
+
+#: inc/customizer.php:41
+msgid "Front Page: Featured Page One"
+msgstr "Sākuma Lapa: Izceltā Lapa Viens"
+
+#: inc/customizer.php:53
+msgid "Front Page: Featured Page Two"
+msgstr "Sākuma Lapa: Izceltā Lapa Divi"
+
+#: inc/customizer.php:65
+msgid "Front Page: Featured Page Three"
+msgstr "Sākuma Lapa: Izceltā Lapa Trīs"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Tēmas opcijas"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Doties uz saturu"
+
+#: functions.php:242
+msgid "Footer 2"
+msgstr "Kājene 2"
+
+#: functions.php:226
+msgid "Sidebar"
+msgstr "Sānumala"
+
+#: functions.php:234
+msgid "Footer 1"
+msgstr "Kājene 1"
+
+#: functions.php:103
+msgid "Header"
+msgstr "Virsraksts"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izskatās, ka mēs nevaram atrast to ko meklējat. Iespējams meklēšana var palīdzēt."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Turpināt lasīšanu  %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Diemžēl, bet nekas netika atrasts. Mēģiniet vēlreiz izmantojot citus atslēgvārdus."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esat gatavi publicēt savu pirmo rakstu? <a href=\"%1$s\">Sāciet te</a>."
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Skatīt visus %s rakstus"
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nekas nav atrasts"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "Publicējis %s"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: components/testimonials/content-testimonial.php:25 inc/template-tags.php:38
+msgid "Edit %s"
+msgstr "Rediģēt %s"
+
+#: components/page/content-page.php:21 components/post/content.php:54
+msgid "Pages:"
+msgstr "Lapas:"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Izvēlne"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Tēma: %1$s no %2$s."
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Lepni darbina %s"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Komentāri ir slēgti."
+
+#: comments.php:56 comments.php:76
+msgid "Older Comments"
+msgstr "Senāki komentāri"
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments"
+msgstr "Jaunāki komentāri"
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr "Komentāru navigācija"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Komentārs par &ldquo;%s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Izskatās, ka šeit nekas netika atrasts. Varbūt izmantojiet meklēšanu?"
+
+#: archive-jetpack-testimonial.php:28
+msgid "Testimonials"
+msgstr "Atsauksmes"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opā! Tāda lapa nav atrodama."

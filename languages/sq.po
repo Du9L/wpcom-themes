@@ -1,0 +1,241 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Dara in Albanian
+# This file is distributed under the same license as the WordPress.com - Themes - Dara package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-17 12:24:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+
+#: functions.php:69
+msgid "Dark Gray"
+msgstr "Gri e Errët"
+
+#: functions.php:84
+msgid "White"
+msgstr "E bardhë"
+
+#: functions.php:89
+msgid "Blue"
+msgstr "Blu"
+
+#: functions.php:79
+msgid "Light Gray"
+msgstr "Gri e Çelët"
+
+#: functions.php:74
+msgid "Medium Gray"
+msgstr "Gri Mesatare"
+
+#: functions.php:64
+msgid "Black"
+msgstr "E zezë"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:272
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekte"
+
+#: inc/woocommerce.php:270
+msgid "View your shopping cart"
+msgstr "Shihni shportën tuaj të blerjeve"
+
+#: inc/wpcom-colors.php:21
+msgid "Headings"
+msgstr "Tituj"
+
+#: inc/wpcom-colors.php:66
+msgid "Links"
+msgstr "Lidhje"
+
+#: functions.php:309
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Vazhdoni leximin e <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid "Tagged"
+msgstr "U etiketua"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Gjerësi e Plotë, Pa Anështyllë"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Faqe Rrjetë"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Postimi i Mëparshëm"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Postimi Pasues"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "% Komente"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "1 Koment"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Mundësi Teme"
+
+#: functions.php:242
+msgid "Footer 2"
+msgstr "Fundfaqe 2"
+
+#: functions.php:250
+msgid "Footer 3"
+msgstr "Fundfaqe 3"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Kaloni te lënda"
+
+#: functions.php:226
+msgid "Sidebar"
+msgstr "Anështyllë"
+
+#: functions.php:234
+msgid "Footer 1"
+msgstr "Fundfaqe 1"
+
+#: functions.php:103
+msgid "Header"
+msgstr "Kryet"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:193
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk gjejmë dot ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin e %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por s&#8217;u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Shihni krejt postimet nga %s"
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "S&#8217;u Gjet Gjë"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: components/testimonials/content-testimonial.php:25 inc/template-tags.php:38
+msgid "Edit %s"
+msgstr "Përpunojeni %s"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "Botuar nga %s"
+
+#: components/page/content-page.php:21 components/post/content.php:54
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s."
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menu"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s."
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#: comments.php:56 comments.php:76
+msgid "Older Comments"
+msgstr "Komente Më të Vjetra"
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments"
+msgstr "Komente Më të Reja"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Një mendim te &ldquo;%s&rdquo;"
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Duket se nuk u gjet gjë në këtë vend. Ndoshta duhet provuar një kërkim?"
+
+#: archive-jetpack-testimonial.php:28
+msgid "Testimonials"
+msgstr "Dëshmi"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe s&#8217;gjendet dot."
