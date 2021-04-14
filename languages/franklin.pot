@@ -1,0 +1,216 @@
+# Copyright (C) 2015 Michael Burrows
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Franklin 1.0.0-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/franklin\n"
+"POT-Creation-Date: 2015-08-22 03:32:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:19 content-single.php:17 image.php:46
+msgid "Edit"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content.php:19 inc/template-tags.php:156
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:94
+msgid ""
+"Widgets in this area will appear in the right sidebar on all pages and posts."
+msgstr ""
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:104
+msgid "Widgets in this area will appear in the left column of the footer."
+msgstr ""
+
+#: functions.php:112
+msgid "Footer Middle"
+msgstr ""
+
+#: functions.php:114
+msgid "Widgets in this area will appear in the middle column of the footer."
+msgstr ""
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr ""
+
+#: functions.php:124
+msgid "Widgets in this area will appear in the right column of the footer."
+msgstr ""
+
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:31
+msgid "Search"
+msgstr ""
+
+#: header.php:60
+msgid "Close"
+msgstr ""
+
+#: header.php:60
+msgid "Menu"
+msgstr ""
+
+#: image.php:54
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:55
+msgid "Next Image"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:81 inc/template-tags.php:83
+msgid "Featured Post"
+msgstr ""
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid "Franklin"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid "http://www.wpmultiverse.com/themes/franklin/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid ""
+"Lightweight theme with a responsive layout designed for bloggers. Theme "
+"consists of a 2 column layout with a widget area on the right, as well as a "
+"widgetized footer."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid "Michael Burrows"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid "http://www.wpmultiverse.com/"
+msgstr ""
