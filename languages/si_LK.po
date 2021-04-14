@@ -1,0 +1,208 @@
+# Translation of Coherent in Sinhala
+# This file is distributed under the same license as the Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-04 03:29:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Coherent\n"
+
+#: functions.php:111
+msgid "show"
+msgstr "පෙන්වන්න"
+
+#: functions.php:112
+msgid "hide"
+msgstr "සඟවන්න"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "පූර්ව ලිපිය:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "ඊළඟ ලිපිය:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s සඳහා සෙවුම් ප්‍රතිඵල"
+
+#: inc/template-tags.php:164
+msgid "Archives"
+msgstr "ලේඛනාගාරය"
+
+#: inc/template-tags.php:158
+msgid "Archives: %s"
+msgstr "ලිපිගොනු: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:162
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y F j"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "කොන් වූ"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "දවස: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "මා ව"
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "මාසය: %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "ව"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "වසර: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "කර්තෘ: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "වර්ගය: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "ටැගය: %s"
+
+#: inc/template-tags.php:121
+msgid "% Comments"
+msgstr "ප්‍රතිචාර %"
+
+#: inc/template-tags.php:121
+msgid "1 Comment"
+msgstr "1 ප්‍රතිචාරයක්"
+
+#: inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr "ප්‍රතිචාරයක් ලබාදෙන්න"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "ලිපි යාත්‍රණය"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107 inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "පූර්ව"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "ඊලග"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "%s පිටුව"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "ලිපි යාත්‍රණය"
+
+#: header.php:26
+msgid "Show"
+msgstr "පෙන්වන්න"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "අන්තර්ගතයට පනින්න"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "පැති පුවරුව"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "සමාජ සබැඳි මෙනුව"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "තේමාව: %2$s විසින් %1$s."
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "ප්‍රධාන මෙනුව"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "සාඩම්බරයෙන් බලගන්වනු ලබන්නේ %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:125
+msgid "Edit"
+msgstr "සංස්කරණය"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "පිටු:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "පෙනී යන ලෙසට ඔබ සොයන දෙය අපට සොයාගත නොහැකිය. ඇතැම් විට සෙවුමක් භාවිතය උදවු විය හැක."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "කණගාටුයි, නමුත් ඔබේ සෙවුම් කොන්දේසි සමඟ කිසිවක් නොගැලපුණි. කරුණාකර වෙනස් වදන් සමඟ නැවත උත්සාහ කරන්න."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "ඔබේ පළමු ලිපිය පළකිරීමට සූදානම් ද? <a href=\"%1$s\">මෙතැනින් අරඹන්න</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "කිසිවක් හමු නොවුණි"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "ප්‍රතිචාර වසාදමා ඇත."
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "පැරණි ප්‍රතිචාර"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "නව ප්‍රතිචාර"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "ප්‍රතිචාර යාත්‍රණය"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; මත එක් සිතිවිල්ලක්"
+msgstr[1] "&ldquo;%2$s&rdquo; මත සිතිවිලි %1$sක්"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "අපොයි! එම පිටුව සොයාගත නොහැක."

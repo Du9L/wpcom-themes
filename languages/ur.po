@@ -1,0 +1,209 @@
+# Translation of WordPress.com - Themes - Coherent in Urdu
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-17 05:36:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-rc.1\n"
+"Language: ur_PK\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#: functions.php:111
+msgid "show"
+msgstr "دکھائیں"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "سابقہ پوسٹ:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "اگلی پوسٹ:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "کے لئے تلاش کے نتائج %s"
+
+#: inc/template-tags.php:158
+msgid "Archives"
+msgstr "محفوظات:"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:156
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:152
+msgid "Archives: %s"
+msgstr "محفوظات: %s"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "ایک طرف"
+
+#: inc/template-tags.php:146
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Day: %s"
+msgstr "دن: %s"
+
+#: inc/template-tags.php:144
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "Month: %s"
+msgstr "مہینہ : %s"
+
+#: inc/template-tags.php:142
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:142
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/template-tags.php:140
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#: inc/template-tags.php:138
+msgid "Tag: %s"
+msgstr "ٹیگ: %s"
+
+#: inc/template-tags.php:136
+msgid "Category: %s"
+msgstr "زمرہ: %s"
+
+#: inc/template-tags.php:115
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: inc/template-tags.php:115
+msgid "1 Comment"
+msgstr "1 تبصرہ"
+
+#: inc/template-tags.php:115
+msgid "Leave a comment"
+msgstr "تبصرہ چھوڑیں"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "%1$s میں پوسٹ کردہ"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+msgid ", "
+msgstr "،"
+
+#: inc/template-tags.php:75
+msgid "Featured:"
+msgstr "نمایاں:"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "پوسٹ نیویگیشن"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "پیچھے"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "اگلا"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پوسٹوں کی نیویگیشن"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "%s صفحہ "
+
+#: header.php:26
+msgid "Show"
+msgstr "دکھائیں"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "چھوڑیں اور مواد پر جائیں"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "بغلی ‌پٹی"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "سماجی رابطوں کا مینیو"
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "مین مینو"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s منجانب %2$s۔"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "کی فخریہ پیشکش %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:119
+msgid "Edit"
+msgstr "تدوین"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "لگتا ہے ہم وہ نہیں ڈھونڈ پا رہے جو آپ چاہ رہے ہیں۔ شاید تلاش مدد کرسکے۔"
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "معزرت، مگر آپکی تلاش کا کوئی لفظ نہ مل سکا۔ برائے مہربانی کچھ دوسرے الفاظ سے دوبارہ کوشش کیجیے۔"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "پہلی تحریر شائع کرنے کے لیے تیار ہیں؟ <a href=\"%1$s\">یہاں سے شروع کیجیے</a>۔"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "کچھ نھیں ملا"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں."
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "تبصرہ نیویگیشن"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "ایک خیال &ldquo;%2$s&rdquo; پہ"
+msgstr[1] "%1$s خیالات &ldquo;%2$s&rdquo; پہ"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ایسا لگتا ہے کہ اس مقام پر کچھ نہیں  ملا۔ ہو سکتا ہے کہ نیچے دیے گئے لنک میں سے کوشش کریں یا تلاش کریں؟"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہ! وہ صفحہ نہیں مل سکا"

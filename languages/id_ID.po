@@ -1,0 +1,275 @@
+# Translation of WordPress.com - Themes - Coherent in Indonesian
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-01 02:10:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29 content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lanjutkan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/wpcom-colors.php:188
+msgid "Teal and Grey"
+msgstr "Teal and Grey"
+
+#: inc/wpcom-colors.php:196
+msgid "Warm Grey"
+msgstr "Warm Grey"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Prem"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "Hijau"
+
+#: inc/wpcom-colors.php:180
+msgid "Orange and Grey"
+msgstr "Orange and Grey"
+
+#: inc/wpcom-colors.php:87
+msgid "Feature image headings"
+msgstr "Heading gambar fitur"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "Merah"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "Latar belakang"
+
+#: inc/wpcom-colors.php:21
+msgid "Main Text"
+msgstr "Teks Utama"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "Dengan kaitkata"
+
+#: functions.php:111
+msgid "show"
+msgstr "tunjukkan"
+
+#: functions.php:112
+msgid "hide"
+msgstr "sembunyikan"
+
+#: single.php:23
+msgid "Previous: "
+msgstr "Sebelumnya:"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Pos sebelumnya:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Berikut:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Pos berikutnya:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/template-tags.php:159
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/template-tags.php:153
+msgid "Archives: %s"
+msgstr "Arsip: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:157
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Samping"
+
+#: inc/template-tags.php:147
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:145
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/template-tags.php:141
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/template-tags.php:137
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:139
+msgid "Tag: %s"
+msgstr "Kaitkata: %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "Meninggalkan komentar"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "Dikirimkan di %1$s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigasi pos"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Berikut"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigasi pos"
+
+#: header.php:26
+msgid "Show"
+msgstr "Tampilkan"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Bilah Sisi"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Menu Tautan Sosial"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Menu utama"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga ditenagai oleh %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://id.wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:120
+msgid "Edit"
+msgstr "Sunting"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak Menemukan Apa-apa"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "Komentar Sebelumnya"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "Komentar Berikutnya"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu pemikiran pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pemikiran pada &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nampaknya tidak ada yang ditemukan di lokasi. Mungkin coba salah satu tautan di bawah atau telusuri?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Halaman itu tidak dapat ditemukan."

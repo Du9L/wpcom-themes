@@ -1,0 +1,261 @@
+# Translation of WordPress.com - Themes - Coherent in Chinese (China)
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-01 02:10:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29 content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "继续阅读<span class=\"screen-reader-text\">“%s”</span>"
+
+#: inc/wpcom-colors.php:188
+msgid "Teal and Grey"
+msgstr "鸭绿色和灰色"
+
+#: inc/wpcom-colors.php:196
+msgid "Warm Grey"
+msgstr "暖灰色"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Plum"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "绿色"
+
+#: inc/wpcom-colors.php:180
+msgid "Orange and Grey"
+msgstr "橙色和灰色"
+
+#: inc/wpcom-colors.php:87
+msgid "Feature image headings"
+msgstr "功能图片标题"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "红色"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "链接"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "背景"
+
+#: inc/wpcom-colors.php:21
+msgid "Main Text"
+msgstr "主要文本"
+
+#: functions.php:111
+msgid "show"
+msgstr "显示"
+
+#: functions.php:112
+msgid "hide"
+msgstr "隐藏"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "上篇文章："
+
+#: single.php:21
+msgid "Next post:"
+msgstr "下篇文章："
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "针对以下内容的搜索结果：%s"
+
+#: inc/template-tags.php:159
+msgid "Archives"
+msgstr "存档页"
+
+#: inc/template-tags.php:153
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:157
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: inc/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: inc/template-tags.php:147
+msgid "Day: %s"
+msgstr "日：%s"
+
+#: inc/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:145
+msgid "Month: %s"
+msgstr "月：%s"
+
+#: inc/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+msgid "Year: %s"
+msgstr "年：%s"
+
+#: inc/template-tags.php:141
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: inc/template-tags.php:139
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: inc/template-tags.php:137
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "%条评论"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1条评论"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "发表在 %1$s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "文章导航"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr "， "
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "上一个"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "下一步"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: header.php:26
+msgid "Show"
+msgstr "显示"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "跳转到内容"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "社交网络链接菜单"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "主题: %1$s 作者 %2$s."
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "主要菜单"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:120
+msgid "Edit"
+msgstr "编辑"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "页面："
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们无法找到您想查找的内容。或许搜索可以帮助您。"
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "您的关键词返回的搜索结果为空，请换一组关键词重试。"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备发布您的第一篇文章？<a href=\"%1$s\">在此处开始</a>。"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "评论功能被关闭。"
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "早前评论"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "一个有关“%2$s”的想法"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在此位置似乎没有找到任何内容。或许您可以尝试点击下面的某个链接或进行搜索？"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "抱歉！无法找到该页面。"

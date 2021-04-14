@@ -1,0 +1,206 @@
+# Translation of WordPress.com - Themes - Coherent in Ukrainian
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-06 21:28:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#: inc/template-tags.php:110
+msgid "Tagged"
+msgstr "Позначено"
+
+#: functions.php:112
+msgid "hide"
+msgstr "Сховати"
+
+#: functions.php:111
+msgid "show"
+msgstr "Відобразити"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Попередній запис:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Наступний запис:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Наступне:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для фрази: %s"
+
+#: inc/template-tags.php:158
+msgid "Archives"
+msgstr "Архіви"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:156
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:152
+msgid "Archives: %s"
+msgstr "Архіви: %s"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Резерви"
+
+#: inc/template-tags.php:146
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: inc/template-tags.php:144
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:144
+msgid "Month: %s"
+msgstr "Місяць: %s"
+
+#: inc/template-tags.php:142
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:142
+msgid "Year: %s"
+msgstr "Рік: %s"
+
+#: inc/template-tags.php:140
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:138
+msgid "Tag: %s"
+msgstr "Мітки: %s"
+
+#: inc/template-tags.php:136
+msgid "Category: %s"
+msgstr "Категорія: %s"
+
+#: inc/template-tags.php:115
+msgid "% Comments"
+msgstr "%s коментарів"
+
+#: inc/template-tags.php:115
+msgid "1 Comment"
+msgstr "1 Коментарій"
+
+#: inc/template-tags.php:115
+msgid "Leave a comment"
+msgstr "Залишити коментар"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Навігація по публікаціям"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Наступн."
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навігація по записах"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Сторінка %s"
+
+#: header.php:26
+msgid "Show"
+msgstr "Відобразити"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Бокова панель"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Меню соціальних посилань"
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Головне меню"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Працює на %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:119
+msgid "Edit"
+msgstr "Редагувати"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Інформацію за запитом знайти не вдалося. Можливо, буде корисний пошук по сайту."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, за вашим запитом нічого не знайдено. Спробуйте інші ключові слова."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати ваш перший пост? <a href=\"%1$s\">Почніть тут</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Коментарі закрито"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "Новіші коментарі"
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "Старіші коментарі"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Навігація по коментарям"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Сторінка не знайдена."

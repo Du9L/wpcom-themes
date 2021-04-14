@@ -1,0 +1,214 @@
+# Translation of WordPress.com - Themes - Coherent in Slovak
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-02 04:08:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.3.0-rc.1\n"
+"Language: sk\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#: inc/template-tags.php:110
+msgid "Tagged"
+msgstr "Označené"
+
+#: functions.php:112
+msgid "hide"
+msgstr "Skryť"
+
+#: functions.php:111
+msgid "show"
+msgstr "Ukázať"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Predchádzajúci článok:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Ďalší článok:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Ďalší:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Výsledky hľadania: %s"
+
+#: inc/template-tags.php:158
+msgid "Archives"
+msgstr "Archív"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:156
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:152
+msgid "Archives: %s"
+msgstr "Archívy: %s"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:146
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: inc/template-tags.php:146
+msgid "Day: %s"
+msgstr "Deň: %s"
+
+#: inc/template-tags.php:144
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:144
+msgid "Month: %s"
+msgstr "Mesiac: %s"
+
+#: inc/template-tags.php:142
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:142
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: inc/template-tags.php:140
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:138
+msgid "Tag: %s"
+msgstr "Heslo: %s"
+
+#: inc/template-tags.php:136
+msgid "Category: %s"
+msgstr "Kategória: %s"
+
+#: inc/template-tags.php:115
+msgid "% Comments"
+msgstr "Komentáre (%)"
+
+#: inc/template-tags.php:115
+msgid "1 Comment"
+msgstr "1 komentár"
+
+#: inc/template-tags.php:115
+msgid "Leave a comment"
+msgstr "Zanechať komentár"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigácia príspevkov"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Predchádzajúci"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Ďalej"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigácia príspevkov"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Stránka %s"
+
+#: header.php:26
+msgid "Show"
+msgstr "Ukázať"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Prejsť na obsah"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Bočný panel"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Menu odkazov sociálnych sietí"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Téma: %1$s od %2$s."
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Hrdo poháňa %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://sk.wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:119
+msgid "Edit"
+msgstr "Upraviť"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vyzerá to, že nemôžeme nájsť čo hľadáte. Možno pomôže vyhladávanie."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ľutujeme, hľadaný výraz sa nenašiel. Prosím, skúste iné kľúčové slová."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pripravený publikovať váš prvý príspevok? <a href=\"%1$s\">Začnite tu</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nič sa nenašlo"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Komentáre sú uzavreté."
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "Novšie komentáre"
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "Staršie komentáre"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Navigácia komentárov"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myšlienka na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myšlienky na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s myšlienok na &ldquo;%2$s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Stránka nebola nájdená."

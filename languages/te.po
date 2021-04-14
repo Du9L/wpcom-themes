@@ -1,0 +1,206 @@
+# Translation of WordPress.com - Themes - Coherent in Telugu
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-06 21:21:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: te\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#: inc/template-tags.php:110
+msgid "Tagged"
+msgstr "అఁటిఁచబడ్డవి"
+
+#: functions.php:112
+msgid "hide"
+msgstr "దాచు"
+
+#: functions.php:111
+msgid "show"
+msgstr "చూపించు"
+
+#: single.php:20
+msgid "Next: "
+msgstr "తదుపరి:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "వెతుకుడు ఫలితాలు: %s"
+
+#: inc/template-tags.php:158
+msgid "Archives"
+msgstr "భాండారం"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:156
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:152
+msgid "Archives: %s"
+msgstr "భాండాగారాలు: %s"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "ఎసైడ్లు"
+
+#: inc/template-tags.php:146
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Day: %s"
+msgstr "రోజు: %s"
+
+#: inc/template-tags.php:144
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:144
+msgid "Month: %s"
+msgstr "నెల: %s"
+
+#: inc/template-tags.php:142
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:142
+msgid "Year: %s"
+msgstr "సంవత్సరం: %s"
+
+#: inc/template-tags.php:140
+msgid "Author: %s"
+msgstr "రచయిత: %s"
+
+#: inc/template-tags.php:138
+msgid "Tag: %s"
+msgstr "టాగు: %s"
+
+#: inc/template-tags.php:136
+msgid "Category: %s"
+msgstr "వర్గం: %s"
+
+#: inc/template-tags.php:115
+msgid "% Comments"
+msgstr "% వ్యాఖ్యలు"
+
+#: inc/template-tags.php:115
+msgid "1 Comment"
+msgstr "1 వ్యాఖ్య"
+
+#: inc/template-tags.php:115
+msgid "Leave a comment"
+msgstr "వ్యాఖ్యానించండి"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "%1$s‌లో వ్రాసారు"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "టపా మార్గదర్శకం"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "మునుపటి"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "తర్వాత"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "టపాల విహరణ"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "పేజీ %s"
+
+#: header.php:26
+msgid "Show"
+msgstr "చూపించు"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "విషయానికి వెళ్ళండి"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "ప్రక్కపట్టీ"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "సామాజిక మాధ్యమాల లింకుల జాబితా"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "అలంకారం: %2$s రూపొందించిన %1$s."
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "%s‌చే సగర్వంగా శక్తిమంతం"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:119
+msgid "Edit"
+msgstr "మార్చు  "
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "పేజీలు:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "మీరు దేనికోసం చూస్తున్నారో మేం కనుక్కోలేకపోయాం. వెతికితే బహుశా దొరకవచచ్చు."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "క్షమించండి, మీరు వెతికిన పదాలకు ఏమీ దొరకలేదు. దయచేసి వేరే కీపదాలతో మళ్ళీ ప్రయత్నించండి."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "మీ మొదటి టపాను ప్రచురించడానికి సిద్ధంగా ఉన్నారా? <a href=\"%1$s\">ఇక్కడ మొదలుపెట్టండి</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "ఏమీ దొరకలేదు"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "వ్యాఖ్యలను మూసేసారు."
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "కొత్త వ్యాఖ్యలు"
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "పాత వ్యాఖ్యలు"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "వ్యాఖ్యల మార్గదర్శకం"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ఈ చిరునామా వద్ద ఏమీ ఉన్నట్టులేదు. ఈ క్రింది లంకెలను ప్రయత్నించవచ్చు లేదా వెతికి చూడొచ్చు కదా?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "అయ్యో! ఆ పేజీ కనబడలేదు."

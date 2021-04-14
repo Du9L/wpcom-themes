@@ -1,0 +1,263 @@
+# Translation of WordPress.com - Themes - Coherent in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-27 20:46:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29 content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Fortsett å lese<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Plomme"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "Grønn"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "Rød"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "Bakgrunn"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "Merket med"
+
+#: functions.php:111
+msgid "show"
+msgstr "vis"
+
+#: functions.php:112
+msgid "hide"
+msgstr "gjem"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Neste:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: inc/template-tags.php:159
+msgid "Archives"
+msgstr "Arkiver"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:157
+msgid "%1$s: %2$s"
+msgstr "%1$s @ %2$s"
+
+#: inc/template-tags.php:153
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:147
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:145
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:141
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: inc/template-tags.php:137
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:139
+msgid "Tag: %s"
+msgstr "Merkelapp: %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "Publisert i %1$s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:75
+msgid "Featured:"
+msgstr "Fremhevet:"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Forrige"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Neste"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Side %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Innleggsnavigasjon"
+
+#: header.php:26
+msgid "Show"
+msgstr "Vis"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Noticia Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:138
+msgctxt "Noticia Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Meny for sosiale lenker"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Hovedmeny"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:120
+msgid "Edit"
+msgstr "endre"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet passet til ditt søkeuttrykk. Vennligst prøv igjen med noen andre nøkkelord."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ut til at intet finnes på plasseringen. Prøve en av lenkene nedenfor eller et søk?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke,"

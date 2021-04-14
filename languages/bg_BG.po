@@ -1,0 +1,275 @@
+# Translation of WordPress.com - Themes - Coherent in Bulgarian
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-15 13:28:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bg\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29 content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Цялата публикация <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/wpcom-colors.php:196
+msgid "Warm Grey"
+msgstr "Топло сиво"
+
+#: inc/wpcom-colors.php:188
+msgid "Teal and Grey"
+msgstr "Синьозелено и сиво"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Слива"
+
+#: inc/wpcom-colors.php:180
+msgid "Orange and Grey"
+msgstr "Оранжево и сиво"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "Зелено"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "Червена"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Връзки"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "Фон"
+
+#: inc/wpcom-colors.php:21
+msgid "Main Text"
+msgstr "Основен текст"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "Маркиран"
+
+#: functions.php:111
+msgid "show"
+msgstr "Показване"
+
+#: functions.php:112
+msgid "hide"
+msgstr "Скриване"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Предишна публикация:"
+
+#: single.php:23
+msgid "Previous: "
+msgstr "Предишна:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Следваща публикация:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Следваща:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: inc/template-tags.php:159
+msgid "Archives"
+msgstr "Архив"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:157
+msgid "%1$s: %2$s"
+msgstr "%1$s @ %2$s"
+
+#: inc/template-tags.php:153
+msgid "Archives: %s"
+msgstr "Архиви: %s"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Бележки"
+
+#: inc/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/template-tags.php:147
+msgid "Day: %s"
+msgstr "Ден: %s"
+
+#: inc/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:145
+msgid "Month: %s"
+msgstr "Месец: %s"
+
+#: inc/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+msgid "Year: %s"
+msgstr "Година: %s"
+
+#: inc/template-tags.php:141
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:139
+msgid "Tag: %s"
+msgstr "Етикет: %s"
+
+#: inc/template-tags.php:137
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "% коментара"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1 Коментар"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "Вашият коментар"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "Публикувано в %1$s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Навигация в публикациите"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:75
+msgid "Featured:"
+msgstr "На фокус:"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Предишна"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Напред"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навигация на публикациите"
+
+#: header.php:26
+msgid "Show"
+msgstr "Показване"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Меню с линкове към социални мрежи"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Главно меню"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://bg.wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:120
+msgid "Edit"
+msgstr "Редактиране"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Страници:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Няма резултати, отговарящи на вашето търсене. Опитайте отново с други ключови думи. "
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Време е за първата ви публикация. <a href=\"%1$s\">Започнете от тук</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Коментари са забранени."
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "По-стари коментари"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "По-нови коментари"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Едно мнение за &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мнения за &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Нищо не бе намерено на това място. Може би трябва да погледнете на друго място или да използвате търсачката."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страницата не е открита."

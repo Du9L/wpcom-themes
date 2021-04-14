@@ -1,0 +1,293 @@
+# Translation of WordPress.com - Themes - Coherent in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-27 09:49:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29 content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuă lectura<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/wpcom-colors.php:188
+msgid "Teal and Grey"
+msgstr "Turcoaz și gri"
+
+#: inc/wpcom-colors.php:196
+msgid "Warm Grey"
+msgstr "Gri cald"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Prună"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "Verde"
+
+#: inc/wpcom-colors.php:180
+msgid "Orange and Grey"
+msgstr "Portocaliu și gri"
+
+#: inc/wpcom-colors.php:87
+msgid "Feature image headings"
+msgstr "Rubrici imagine reprezentativă"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "Roșu"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Legături"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "Fundal"
+
+#: inc/wpcom-colors.php:21
+msgid "Main Text"
+msgstr "Text principal"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "Etichetat"
+
+#: functions.php:111
+msgid "show"
+msgstr "arată"
+
+#: functions.php:112
+msgid "hide"
+msgstr "Ascunde"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Articolul anterior:"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/coherent/style.css
+msgid "Coherent is a simple, structured theme with full screen featured images and a sliding panel sidebar."
+msgstr "Coherent este o temă simplă, structurată, cu imagini reprezentative pe ecran complet și o bară laterală cu panou glisant."
+
+#: single.php:23
+msgid "Previous: "
+msgstr "Anterior:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Următorul:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Articolul următor:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: inc/template-tags.php:159
+msgid "Archives"
+msgstr "Arhive"
+
+#: inc/template-tags.php:153
+msgid "Archives: %s"
+msgstr "Arhive: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:157
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Note"
+
+#: inc/template-tags.php:147
+msgid "Day: %s"
+msgstr "Zi: %s"
+
+#: inc/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:145
+msgid "Month: %s"
+msgstr "Lună: %s"
+
+#: inc/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+msgid "Year: %s"
+msgstr "An: %s"
+
+#: inc/template-tags.php:141
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:137
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: inc/template-tags.php:139
+msgid "Tag: %s"
+msgstr "Etichetă: %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1 comentariu"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "Publicat în %1$s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigare articol"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:75
+msgid "Featured:"
+msgstr "Reprezentativ:"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Următorul"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigare articole"
+
+#: header.php:26
+msgid "Show"
+msgstr "Afișează"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Sări la conţinut"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Noticia Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:138
+msgctxt "Noticia Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Meniu legături sociale"
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:120
+msgid "Edit"
+msgstr "Editează"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nu s-a putut găsi conținutul căutat. Probabil o căutare sau una dintre legăturile de mai jos pot ajuta."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ne pare rau, căutarea nu are nici un rezultat. Vă rugăm să încercați din nou cu unele cuvinte cheie diferite."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pregătit să publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nu a fost găsit nimic"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Navigare comentarii"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un gând despre &ldquo;%2$s&rdquo;"
+msgstr[1] " %1$s gânduri despre &ldquo;%2$s&rdquo;"
+msgstr[2] " %1$s de gânduri despre &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Se pare că nu a fost găsit nimic la această locație. Poate încerci una din legăturile de mai jos sau o căutare?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina nu a fost găsită."

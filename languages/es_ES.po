@@ -1,0 +1,271 @@
+# Translation of WordPress.com - Themes - Coherent in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-01 02:10:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29 content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Sigue leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/wpcom-colors.php:188
+msgid "Teal and Grey"
+msgstr "Verde azulado y gris"
+
+#: inc/wpcom-colors.php:196
+msgid "Warm Grey"
+msgstr "Gris cálido"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Ciruela"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "Verde"
+
+#: inc/wpcom-colors.php:180
+msgid "Orange and Grey"
+msgstr "Naranja y gris"
+
+#: inc/wpcom-colors.php:87
+msgid "Feature image headings"
+msgstr "Encabezados de la imagen destacada"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "Rojo"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/wpcom-colors.php:21
+msgid "Main Text"
+msgstr "Texto principal"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "Etiquetado"
+
+#: functions.php:111
+msgid "show"
+msgstr "Mostrar"
+
+#: functions.php:112
+msgid "hide"
+msgstr "ocultar"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Siguiente:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: inc/template-tags.php:159
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/template-tags.php:153
+msgid "Archives: %s"
+msgstr "Archivos: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:157
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:147
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: inc/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:145
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: inc/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: inc/template-tags.php:141
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:137
+msgid "Category: %s"
+msgstr "Categoría: %s"
+
+#: inc/template-tags.php:139
+msgid "Tag: %s"
+msgstr "Etiqueta: %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navegador de artículos"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Ir a las entradas"
+
+#: header.php:26
+msgid "Show"
+msgstr "Mostrar"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Saltar al contenido."
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:120
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda le pueda ayudar."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincidió con su búsqueda. Por favor inténtelo de nuevo con otras palabras clave."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Quizás pruebes con uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esa página no se puede encontrar."

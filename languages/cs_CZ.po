@@ -1,0 +1,252 @@
+# Translation of WordPress.com - Themes - Coherent in Czech
+# This file is distributed under the same license as the WordPress.com - Themes - Coherent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-25 13:52:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29 content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Pokračovat ve čtení<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "Zelená"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Švestková"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "Červená"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Odkazy"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "Pozadí"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "Označeno tagem"
+
+#: functions.php:112
+msgid "hide"
+msgstr "Skrýt"
+
+#: functions.php:111
+msgid "show"
+msgstr "Zobrazit"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Předchozí příspěvek:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Následující příspěvek:"
+
+#: single.php:20
+msgid "Next: "
+msgstr "Další:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: inc/template-tags.php:159
+msgid "Archives"
+msgstr "Archiv"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:157
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:153
+msgid "Archives: %s"
+msgstr "Archiv: %s"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Poznámky"
+
+#: inc/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j.n.Y"
+
+#: inc/template-tags.php:147
+msgid "Day: %s"
+msgstr "Archiv pro den: %s"
+
+#: inc/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:145
+msgid "Month: %s"
+msgstr "Archiv pro měsíc: %s"
+
+#: inc/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:143
+msgid "Year: %s"
+msgstr "Archiv pro rok: %s"
+
+#: inc/template-tags.php:141
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:139
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:137
+msgid "Category: %s"
+msgstr "Archiv rubriky: %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "Komentáře: %"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "Zveřejněno v %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigace příspěvku"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Předešlé"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Pokračovat"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigace pro příspěvky"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "%s. stránka"
+
+#: header.php:26
+msgid "Show"
+msgstr "Zobrazit"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Menu pro sociální sítě"
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Hlavní menu"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Šablona: %1$s od %2$s."
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://cs.wordpress.org/"
+
+#: content-page.php:41 inc/template-tags.php:120
+msgid "Edit"
+msgstr "Upravit"
+
+#: content-page.php:34 content-single.php:37
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání pomocí zadaného klíčového slova."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale hledaný výraz nebyl na webu nalezen. Zkuste to prosím znovu s nějakým jiným klíčovým slovem."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chystáte se publikovat svůj první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "Navigace v komentářích"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentář: &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře: &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů: &bdquo;%2$s&ldquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."
