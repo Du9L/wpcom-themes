@@ -1,0 +1,216 @@
+# Translation of WordPress.com - Themes - Libre-2 in Saraiki
+# This file is distributed under the same license as the WordPress.com - Themes - Libre-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-27 07:06:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: skr_PK\n"
+"Project-Id-Version: WordPress.com - Themes - Libre-2\n"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:232
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d آئٹم"
+msgstr[1] "%d آئٹم"
+
+#: inc/wpcom-colors.php:26
+msgid "Headings"
+msgstr "سرخیاں"
+
+#: inc/wpcom-colors.php:20
+msgid "Primary Color"
+msgstr "بنیادی رنگ"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76
+msgid "Tagged"
+msgstr "ٹیگ تھی ڳیا"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/libre-2/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "پوری چوڑائی، پاسے آلی پٹی کائناں ہووے"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "پڑھݨ جاری رکھو %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:28
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "ورقے:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "اِین٘ویں لڳدے جو اَساں اُوہ شئے نِسے لبھ سڳدے جین٘دی تُساں ڳویڑ کِیتی ہِے۔ تِھی سڳدے جو ڳویڑ نال کُجھ معاونت مِلے۔ "
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "افسوس، تہاݙی ڳولݨ ٹرم  نال ککھ نی رلدا۔ سوہݨا کجھ ٻنھاں خاص لفظاں نال ڳولݨ دی کوشش کرو۔"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "تہاݙی پہلی پوسٹ شائع تھیوݨ کیتے تیار ہے? <a href=\"%1$s\">اتھ شروع کرو</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "کائی شئے کائنی لبھی"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "%s دیاں ساریاں پوسٹاں ݙیکھو"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "%s کنوں شائع  تھی ڳیا"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav\">اڳلی پوسٹ</span> %title"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">پچھلی پوسٹ</span> %title"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s کیتے نتیجے ڳولو"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70 inc/template-tags.php:76
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:72
+msgid "Posted in %1$s"
+msgstr "%1$s وچ پوسٹ تھی ڳیا"
+
+#: inc/template-tags.php:52
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: inc/template-tags.php:52
+msgid "1 Comment"
+msgstr "١ تبصرہ"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment"
+msgstr "تبصرہ  لکھو"
+
+#: inc/template-tags.php:33
+msgid "Featured"
+msgstr "خاص"
+
+#: header.php:46
+msgid "Menu"
+msgstr "مینیو"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "چھوڑو تے مواد تے ون٘ڄو"
+
+#: functions.php:319
+msgid "Your comment is awaiting moderation."
+msgstr "تہاݙا تبصرہ پدھرا تھیوݨ دی تانگھ وچ ہے"
+
+#: functions.php:314
+msgid "Edit"
+msgstr "تبدیلی کرو"
+
+#: functions.php:145
+msgid "Footer 3"
+msgstr "فوٹر ٣"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Libre Baskerville, translate this to 'off'. Do not
+#. translate
+#. * into your own language.
+#: functions.php:166
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr "چالو"
+
+#: functions.php:254
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span> <span class=\"meta-nav\" aria-hidden=\"true\">&rarr;</span>"
+msgstr "پڑھݨ جاری رکھو <span class=\"screen-reader-text\">%1$s</span> <span class=\"meta-nav\" aria-hidden=\"true\">&rarr;</span>"
+
+#: functions.php:125
+msgid "Footer 1"
+msgstr "فوٹر ١"
+
+#: functions.php:135
+msgid "Footer 2"
+msgstr "فوٹر ٢"
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "پاسے آلی پٹی"
+
+#: functions.php:39
+msgid "Header"
+msgstr "ہیڈر"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s بائی %2$s"
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "%s کنوں فخریہ طاقتور ٻݨیا ہویا"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "تبصرے بند  ہن۔"
+
+#: comments.php:65
+msgid "Older Comments"
+msgstr "پراݨے تبصرے"
+
+#: comments.php:66
+msgid "Newer Comments"
+msgstr "نویں نویں تبصرے"
+
+#: comments.php:62
+msgid "Comment navigation"
+msgstr "تبصریاں دی نیویڳیشݨ"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نے %2$s تے وِچار کِیتے؛"
+msgstr[1] "%1$s نے %2$s تے وِچار کِیتے ہِن؛"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "  &ldquo;%s&rdquo; اُتے ہِک وِچار؛"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "ودھ ورتیاں ڳیاں ون٘کیاں"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "ماہانہ آرکائیواں وچ ݙیکھݨ دی کوشش کرو۔ %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہو! ایہ ورقہ کائنی لبھ سڳا۔"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "اِین٘ویں لڳدے جو اِیں جاء تے کُجھ نئیں لبھیا۔ تھی سڳدے جو تَلّوں آلے لِنکاں تے کوشِش کرو یا ہِک ڳویڑ کرو؟"

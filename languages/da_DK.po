@@ -1,0 +1,212 @@
+# Translation of WordPress.com - Themes - Libre-2 in Danish
+# This file is distributed under the same license as the WordPress.com - Themes - Libre-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-12 10:36:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: WordPress.com - Themes - Libre-2\n"
+
+#: inc/woocommerce.php:230
+msgid "View your shopping cart"
+msgstr "Se din indkøbskurv"
+
+#: inc/wpcom-colors.php:26
+msgid "Headings"
+msgstr "Overskrifter"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76
+msgid "Tagged"
+msgstr "med emneordet"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/libre-2/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Fuld bredde, ingen sidebar"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/libre-2/templates/right-column-page.php
+msgid "Right Content, No Sidebar"
+msgstr "Indhold til højre, ingen sidebar"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Læs resten %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:28
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det lader til, vi ikke kan finde det, du leder efter. Prøv eventuelt at bruge søgefeltet"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Det lader til, vi ikke kan finde det, du leder efter. Prøv eventuelt at bruge andre søgeord."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Vis alle indlæg fra %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Offentliggjort af %s"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">Tidligere opslag</span> %title"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav\">Næste opslag</span> %title"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70 inc/template-tags.php:76
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:72
+msgid "Posted in %1$s"
+msgstr "Skrevet i %1$s"
+
+#: inc/template-tags.php:57 inc/template-tags.php:79
+#: template-parts/content-page.php:18 template-parts/content-page.php:34
+msgid "Edit %1$s"
+msgstr "Rediger %1$s"
+
+#: inc/template-tags.php:52
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:52
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:40
+msgid "by %1$s"
+msgstr "af %1$s"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: inc/template-tags.php:33
+msgid "Featured"
+msgstr "Udvalgt"
+
+#: inc/template-tags.php:28
+msgid "Posted on %1$s"
+msgstr "Opslået den %1$s"
+
+#: header.php:46
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Videre til indhold"
+
+#: functions.php:319
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse."
+
+#: functions.php:314
+msgid "Edit"
+msgstr "Rediger"
+
+#: functions.php:145
+msgid "Footer 3"
+msgstr "Sidefod 3"
+
+#: functions.php:254
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span> <span class=\"meta-nav\" aria-hidden=\"true\">&rarr;</span>"
+msgstr "Læs mere <span class=\"screen-reader-text\">%1$s</span> <span class=\"meta-nav\" aria-hidden=\"true\">&rarr;</span>"
+
+#: functions.php:135
+msgid "Footer 2"
+msgstr "Sidefod 2"
+
+#: functions.php:125
+msgid "Footer 1"
+msgstr "Sidefod 1"
+
+#: functions.php:39
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "Sidebjælke"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s af %2$s."
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "Drevet af %s"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: comments.php:65
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: comments.php:66
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:62
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar til &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer til &ldquo;%2$s&rdquo;"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Mest brugte kategorier"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prøv at kikke i månedsarkiverne %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Denne side kan ikke findes."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Der blev desværre ikke fundet noget resultat. Prøv en af nedenstående links eller en søgning. "
