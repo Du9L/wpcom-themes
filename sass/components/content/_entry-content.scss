@@ -1,0 +1,63 @@
+/**
+ * Entry Content
+ */
+
+.entry-content,
+.entry-summary {
+
+}
+
+.entry-content {
+
+	p {
+		word-wrap: break-word;
+	}
+
+	.more-link {
+		display: block;
+		color: inherit;
+		margin-top: #{map-deep-get($config-global, "spacing", "unit")};
+
+		@include media(mobile) {
+			margin-top: #{map-deep-get($config-global, "spacing", "vertical")};
+		}
+
+		&:after {
+			content: "\02192";
+			display: inline-block;
+			margin-left: 0.5em;
+		}
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+
+	a {
+
+	}
+
+	// Overwrite iframe embeds that have inline styles.
+	> iframe,
+	> iframe[style],
+	> fb\:post {
+		display: block !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		overflow: scroll;
+	}
+
+	// Page links
+	.page-links a {
+
+	}
+
+	// Classic editor audio embeds.
+	.wp-audio-shortcode {
+		@extend %responsive-aligndefault;
+	}
+}
+
+.entry-attachment {
+	text-align: center;
+}
