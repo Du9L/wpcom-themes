@@ -1,0 +1,107 @@
+
+Warning: Packets out of order. Expected 0 received 1. Packet size=23 in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2564 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): MySQL server has gone away in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2564 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): Error while reading greeting packet. PID=1493 in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2564 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2564 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Coutoire in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Coutoire package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-27 14:49:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Coutoire\n"
+
+#: header.php:53
+msgid "Social Links Menu"
+msgstr "Meny för sociala länkar"
+
+#: header.php:37
+msgid "expanded"
+msgstr "expanderad"
+
+#: header.php:38
+msgid "collapsed"
+msgstr "minimerad"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:117
+msgctxt "Work Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: header.php:31
+msgid "Main Navigation"
+msgstr "Primär navigation"
+
+#: header.php:34
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Primär"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "Grå"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:86
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Stort"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Liten"
