@@ -1,0 +1,488 @@
+# Translation of WordPress.com - Themes - Seedlet in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Seedlet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-15 01:15:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+
+#: inc/wpcom.php:160
+msgid "Color Accessibility Warning"
+msgstr "Avertizare pentru accesibilitate la culori"
+
+#: inc/wpcom.php:162
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Pentru a te asigura că vizitatorii îți pot citi site-ul, încearcă să ai un raport mare de contrast între culorile pe care le alegi aici. <a href=\"%s\" target=\"_blank\">Află mai multe despre contrastul culorilor</a>."
+
+#: template-parts/post/author-bio.php:12
+msgid "Published by"
+msgstr "Publicat de"
+
+#: inc/wpcom-editor-colors.php:120
+msgid "Text Color"
+msgstr "Culoare text"
+
+#: inc/wpcom.php:149
+msgid "Hide Homepage Title"
+msgstr "Ascunde titlul pe prima pagină"
+
+#: inc/wpcom.php:150
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Bifează pentru a ascunde titlul paginii dacă prima ta pagină este setată să afișeze o pagină statică."
+
+#: header.php:61 header.php:87
+msgid "submenu"
+msgstr "sub-meniu"
+
+#: classes/class-seedlet-custom-colors.php:26 inc/wpcom-colors.php:236
+#: inc/wpcom-editor-colors.php:148
+msgid "Primary Color"
+msgstr "Culoare principală"
+
+#: classes/class-seedlet-custom-colors.php:27 inc/wpcom-colors.php:368
+#: inc/wpcom-editor-colors.php:200
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: classes/class-seedlet-custom-colors.php:29
+msgid "Borders Color"
+msgstr "Culoare chenare"
+
+#: classes/class-seedlet-custom-colors.php:28 inc/wpcom-colors.php:450
+#: inc/wpcom-editor-colors.php:220
+msgid "Tertiary Color"
+msgstr "A treia culoare"
+
+#: classes/class-seedlet-custom-colors.php:24 inc/wpcom-colors.php:91
+#: inc/wpcom-editor-colors.php:67
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: template-parts/post/author-bio.php:27
+msgid "View more posts"
+msgstr "Vezi mai multe articole"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/seedlet/style.css
+msgid "A simple, text-driven, single-column theme."
+msgstr "O temă simplă, bazată pe text, pe o singură coloană."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:32
+#: template-parts/content/content.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuă lectura<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: template-parts/content/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți. Probabil o căutare poate ajuta."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ești gata să-ți publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: single.php:37
+msgid "Next post:"
+msgstr "Articol următor:"
+
+#: single.php:39
+msgid "Previous Post"
+msgstr "Articol anterior"
+
+#: single.php:40
+msgid "Previous post:"
+msgstr "Articol anterior:"
+
+#: template-parts/content/content-excerpt.php:17
+#: template-parts/content/content.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "Reprezentativ"
+
+#: template-parts/content/content-none.php:15
+msgid "Nothing Found"
+msgstr "N-am găsit nimic"
+
+#: inc/woocommerce.php:138 inc/woocommerce.php:174
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] "%d elemente"
+msgstr[2] "%d de elemente"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:24
+msgid "Search results for:"
+msgstr "Rezultate de căutare pentru:"
+
+#. translators: %s: parent post link
+#: single.php:29
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publicat în</span><span class=\"post-title\">%s</span>"
+
+#: single.php:36
+msgid "Next Post"
+msgstr "Articol următor"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:129 template-parts/content/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editează <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:203
+msgid "Newer posts"
+msgstr "Articole mai noi"
+
+#: inc/template-tags.php:207
+msgid "Older posts"
+msgstr "Articole mai vechi"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:101
+msgid "Posted in"
+msgstr "Publicat în"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:113
+msgid "Tags:"
+msgstr "Etichete:"
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:45
+msgid "Posted by"
+msgstr "Publicat de"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:62
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lasă un comentariu<span class=\"screen-reader-text\"> la %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:95 inc/template-tags.php:107
+msgid ", "
+msgstr ", "
+
+#: inc/template-functions.php:90
+msgid "Daily Archives: "
+msgstr "Arhive zilnice:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:94 inc/template-functions.php:100
+msgid "%s Archives"
+msgstr "Arhive %s:"
+
+#: inc/template-functions.php:104
+msgid "Archives:"
+msgstr "Arhive:"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:169
+msgid "Continue reading %s"
+msgstr "Continuă lectura %s"
+
+#: inc/template-functions.php:88
+msgid "Monthly Archives: "
+msgstr "Arhive lunare:"
+
+#: inc/template-functions.php:88
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: image.php:75
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Dimensiune completă"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicat în</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:80
+msgid "Category Archives: "
+msgstr "Arhive categorie:"
+
+#: inc/template-functions.php:82
+msgid "Tag Archives: "
+msgstr "Arhive etichetă:"
+
+#: inc/template-functions.php:84
+msgid "Author Archives: "
+msgstr "Arhive autor:"
+
+#: inc/template-functions.php:86
+msgid "Yearly Archives: "
+msgstr "Arhive anuale:"
+
+#: inc/template-functions.php:86
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. #-#-#-#-#  seedlet.pot (Seedlet 1.0.2-wpcom)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/block-patterns.php:16 wp-content/themes/pub/seedlet/style.css
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:38 inc/back-compat.php:52 inc/back-compat.php:72
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Seedlet necesită cel puțin versiunea WordPress 4.7. Acum rulezi cu versiunea %s. Te rog actualizează și încearcă din nou."
+
+#: image.php:61
+msgid "Page"
+msgstr "Pagină"
+
+#: image.php:57 template-parts/content/content-page.php:25
+#: template-parts/content/content-single.php:45
+#: template-parts/content/content.php:48
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: header.php:30 header.php:84
+msgid "Cart"
+msgstr "Coș de cumpărături"
+
+#: header.php:89 inc/woocommerce.php:135
+msgid "View your shopping cart"
+msgstr "Vezi coșul tău de cumpărături"
+
+#: header.php:90
+msgid "View your shopping list"
+msgstr "Vezi lista de cumpărături"
+
+#: header.php:97
+msgid "Social Links Menu"
+msgstr "Meniu legături sociale"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Imagine anterioară"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Imaginea următoare"
+
+#: header.php:46
+msgid "Close"
+msgstr "Închide"
+
+#: header.php:31 header.php:37
+msgid "expanded"
+msgstr "extins"
+
+#: header.php:47 header.php:86
+msgid "collapsed"
+msgstr "restrâns"
+
+#: header.php:69
+msgid "Woo Minicart"
+msgstr "Mini-coș Woo"
+
+#: header.php:36
+msgid "Menu"
+msgstr "Meniu"
+
+#: functions.php:336
+msgid "Add widgets here to appear in your footer."
+msgstr "Adaugă piese aici ca să apară în subsol."
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: functions.php:211 inc/wpcom.php:86
+msgid "Diagonal"
+msgstr "Diagonală"
+
+#: functions.php:221 inc/wpcom.php:96
+msgid "Horizontal"
+msgstr "Orizontal"
+
+#: functions.php:251 inc/wpcom.php:126
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:334 template-parts/footer/footer-widgets.php:11
+msgid "Footer"
+msgstr "Subsol"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:300
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:294
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:226 inc/wpcom.php:101
+msgid "Horizontal inverted"
+msgstr "Inversat pe orizontală"
+
+#: functions.php:216 inc/wpcom.php:91
+msgid "Diagonal inverted"
+msgstr "Inversat pe diagonală"
+
+#: functions.php:231 inc/wpcom.php:106
+msgid "Diagonal gradient"
+msgstr "Gradient pe diagonală"
+
+#: functions.php:236 inc/wpcom.php:111
+msgid "Diagonal inverted gradient"
+msgstr "Gradient inversat pe diagonală"
+
+#: functions.php:246 inc/wpcom.php:121
+msgid "Horizontal inverted gradient"
+msgstr "Gradient inversat pe orizontală"
+
+#: functions.php:241 inc/wpcom.php:116
+msgid "Horizontal gradient"
+msgstr "Gradient pe orizontală"
+
+#: functions.php:177 inc/wpcom.php:52
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:182 inc/wpcom.php:57
+msgid "Secondary"
+msgstr "Secundar"
+
+#: functions.php:187 inc/wpcom.php:62
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: functions.php:192 inc/wpcom.php:67
+msgid "Tertiary"
+msgstr "Terțiar"
+
+#: functions.php:197 inc/wpcom.php:72
+msgid "Background"
+msgstr "Fundal"
+
+#: functions.php:151
+msgid "Large"
+msgstr "Mare"
+
+#: functions.php:152
+msgid "L"
+msgstr "L"
+
+#: functions.php:157
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: functions.php:158
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:140
+msgid "S"
+msgstr "S"
+
+#: functions.php:145
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:146
+msgid "M"
+msgstr "M"
+
+#. translators: %s: WordPress.
+#: footer.php:43
+msgid "Proudly powered by %s."
+msgstr "Propulsat cu mândrie de %s."
+
+#: functions.php:66 header.php:44
+msgid "Primary Navigation"
+msgstr "Navigare principală"
+
+#: functions.php:67
+msgid "Footer Navigation"
+msgstr "Navigare în subsol"
+
+#: functions.php:133
+msgid "Tiny"
+msgstr "Minuscul"
+
+#: functions.php:139
+msgid "Small"
+msgstr "Mică"
+
+#: functions.php:134
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:68
+msgid "Social Links Navigation"
+msgstr "Navigare în legături sociale"
+
+#: footer.php:22
+msgid "Footer Menu"
+msgstr "Meniu subsol"
+
+#: footer.php:40
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Un comentariu"
+msgstr[1] "%1$s comentarii"
+msgstr[2] "%1$s de comentarii"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise"
+
+#: classes/class-seedlet-custom-colors.php:173
+msgid "Custom"
+msgstr "Personalizat"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: classes/class-seedlet-custom-colors.php:172
+msgid "Theme Default"
+msgstr "Implicite în temă"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că n-am găsit nimic la această locație. Poate încerci o căutare?"
+
+#: classes/class-seedlet-custom-colors.php:149
+#: classes/class-seedlet-custom-colors.php:170
+msgid "Colors"
+msgstr "Culori"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagina nu poate fi găsită."
