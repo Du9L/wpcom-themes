@@ -1,0 +1,288 @@
+# Translation of WordPress.com - Themes - Editor in French (France)
+# This file is distributed under the same license as the WordPress.com - Themes - Editor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:56:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: WordPress.com - Themes - Editor\n"
+
+#: inc/wpcom-colors.php:59
+msgid "Main Menu, Links, Post Titles and Post Meta"
+msgstr "Menu principal, Liens, Titres des articles et Méta-données d'article"
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr "Méta"
+
+#: search.php:16
+msgid "Results for: %s"
+msgstr "Résultats pour&nbsp;: %s"
+
+#: inc/template-tags.php:132
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#: inc/template-tags.php:121
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: inc/template-tags.php:121
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: inc/template-tags.php:120
+msgid "<cite class=\"comment-cite\">%s</cite>"
+msgstr "<cite class=\"comment-cite\">%s</cite>"
+
+#: inc/template-tags.php:83 template-featured-posts.php:18
+msgid "Featured"
+msgstr "à la Une"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "<span class=\"meta-nav\">Next Post &rarr;</span> %title"
+msgstr "<span class=\"meta-nav\">Article suivant &rarr;</span> %title"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr; Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">&larr; Article précédent</span> %title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">Newer posts <i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+msgstr "<span class=\"meta-nav\">Articles plus récents <i class=\"fa fa-arrow-circle-o-right\"></i></span>"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:44
+msgid "View sidebar"
+msgstr "Voir la colonne latérale"
+
+#: header.php:38
+msgid "View featured posts"
+msgstr "Voir les articles sélectionnés"
+
+#: header.php:32
+msgid "View menu"
+msgstr "Voir le menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Roboto Condensed, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:115
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Source Sans Pro, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:109
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:51
+msgid "Social Links"
+msgstr "Liens Sociaux"
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s"
+msgstr "Thème : %1$s par %2$s"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-search.php:24 content.php:36
+msgid "Continue reading &rarr;"
+msgstr "Lire la Suite &rarr;"
+
+#: content-page.php:23 content-single.php:29 content.php:39
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Contenu Introuvable. Voulez-vous lancer une recherche?"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Contenu Introuvable. Réessayez en modifiant les termes de recherche."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pr&ecirc;t &agrave; publier votre premier article ? <a href=\"%1$s\">Allons-y !</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun Résultat"
+
+#: content-meta.php:31 content-page.php:28
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-meta.php:28
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: content-meta.php:28
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: content-meta.php:28
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: content-meta.php:15
+msgid "All %s posts"
+msgstr "Tous les articles de %s"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires Plus Récents &rarr;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires Pr&eacute;c&eacute;dents"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Un commentaire"
+msgstr[1] "%1$s commentaires"
+
+#: archive.php:97
+msgid "Posts by %s"
+msgstr "Articles par %s"
+
+#: archive.php:73 sidebar.php:16
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:70
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:67
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:64
+msgid "Statuses"
+msgstr "États"
+
+#: archive.php:61
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:58
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:55
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:52
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:49
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:46
+msgid "Asides"
+msgstr "Apart&eacute;s"
+
+#: archive.php:43
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:43
+msgid "Year / %s"
+msgstr "Année / %s"
+
+#: archive.php:40
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:40
+msgid "Month / %s"
+msgstr "Mois / %s"
+
+#: archive.php:37
+msgid "Day / %s"
+msgstr "Jour / %s"
+
+#: archive.php:34
+msgid "<span>Author /</span> %s"
+msgstr "<span>Auteur /</span> %s"
+
+#: archive.php:30
+msgid "Tag / "
+msgstr "Tag / "
+
+#: archive.php:26
+msgid "Category / "
+msgstr "Catégorie / "
+
+#. translators: %1$s: smiley
+#: 404.php:50
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez du c&ocirc;t&eacute; des archives mensuelles. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Please use the search box and links below to locate the content you were looking for."
+msgstr "Il semblerait que rien n'ait été trouvé à cette localisation. Veuillez utiliser le champ de recherche et les liens ci-dessous afin de localiser le contenu que vous cherchiez."
+
+#: 404.php:14
+msgid "404 / Page Not Found"
+msgstr "404 Page introuvable"
