@@ -1,0 +1,161 @@
+# Translation of WordPress.com - Themes - Morden in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Morden package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-29 01:27:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Morden\n"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că n-am găsit nimic la această locație. Poate încerci o căutare?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagina nu poate fi găsită."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuă lectura<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editează <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți. Probabil o căutare poate ajuta."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ești gata să-ți publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "N-am găsit nimic"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Reprezentativ"
+
+#: header.php:55
+msgid "Social Links Menu"
+msgstr "Meniu legături sociale"
+
+#: header.php:40
+msgid "collapsed"
+msgstr "restrâns"
+
+#: header.php:39
+msgid "expanded"
+msgstr "extins"
+
+#: header.php:36
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:33
+msgid "Main Navigation"
+msgstr "Navigare principală"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/morden/style.css
+msgid "Morden is a functional and responsive multi-purpose theme that is the perfect solution for your business's online presence."
+msgstr "Morden este o temă polivalentă, multi-funcțională și responsivă care este soluția perfectă pentru prezența online a afacerii tale."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:134
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:96
+msgid "White"
+msgstr "Alb"
+
+#: functions.php:91
+msgid "Subtle Gray"
+msgstr "Gri subtil"
+
+#: functions.php:86
+msgid "Lighter Gray"
+msgstr "Gri deschis"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "Gri deschis"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "Gri "
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "Gri închis"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Secundar"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Mare"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Mică"
