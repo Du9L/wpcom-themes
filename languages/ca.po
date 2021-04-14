@@ -1,0 +1,198 @@
+# Translation of WordPress.com - Themes - Intergalactic-2 in Catalan
+# This file is distributed under the same license as the WordPress.com - Themes - Intergalactic-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-08 16:08:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: WordPress.com - Themes - Intergalactic-2\n"
+
+#: functions.php:92
+msgid "Dark Green"
+msgstr "Verd fosc"
+
+#: functions.php:77
+msgid "White"
+msgstr "Blanc"
+
+#: functions.php:62
+msgid "Black"
+msgstr "Negre"
+
+#: content.php:14
+msgid "Featured"
+msgstr "Destacat"
+
+#: single.php:27
+msgid "Next"
+msgstr "Següent"
+
+#: single.php:27
+msgid "Previous"
+msgstr "Anterior"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultats de cerca per: %s"
+
+#: inc/wpcom-colors.php:108
+msgid "Blue"
+msgstr "Blau"
+
+#: inc/wpcom-colors.php:101
+msgid "Dark"
+msgstr "Fosc"
+
+#: inc/wpcom-colors.php:94
+msgid "Orange"
+msgstr "Taronja"
+
+#: inc/wpcom-colors.php:87
+msgid "Yellow"
+msgstr "Groc"
+
+#: inc/wpcom-colors.php:80
+msgid "Green"
+msgstr "Verd"
+
+#: functions.php:82 inc/wpcom-colors.php:74
+msgid "Purple"
+msgstr "Violeta"
+
+#: inc/wpcom-colors.php:27
+msgid "Headings"
+msgstr "Capçaleres"
+
+#: inc/wpcom-colors.php:20
+msgid "Links"
+msgstr "Enllaços"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "per %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicat el %s"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Menú"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Vés al contingut"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:226
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:173
+msgid "Footer 3"
+msgstr "Peu 3"
+
+#: functions.php:165
+msgid "Footer 2"
+msgstr "Peu 2"
+
+#: functions.php:157
+msgid "Footer 1"
+msgstr "Peu 1"
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s per %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Gràcies al %s."
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:48
+msgid "Tags:"
+msgstr "Etiquetes:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:45 content-single.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:41 content-single.php:55 content.php:25
+msgid "Edit"
+msgstr "Edita"
+
+#: content-page.php:35 content-single.php:36
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no podem trobar el què estaves buscant. Potser una cerca pot ajudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ho sentim, però res coincideix amb els termes de cerca. Torneu-ho a provar amb algunes paraules clau diferents."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esteu preparats per publicar la primera entrada? <a href=\"%1$s\">Comenceu aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No s'ha trobat res"
+
+#: content-author.php:34
+msgid "View all posts by %s"
+msgstr "Mostra totes les entrades de %s"
+
+#: content-author.php:28
+msgid "Published by %s"
+msgstr "Publicat per %s"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats."
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Comentaris més recents  &rarr;"
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentaris anteriors"
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "Navegació de comentaris"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensament sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensaments sobre &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sembla que no s'ha trobat res aquí. Voleu intentar una cerca?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aquesta pàgina no es pot trobar."
