@@ -1,0 +1,29 @@
+ul,
+ol {
+	@include font-family( map-deep-get($config-list, "font", "family") );
+	margin: 0;
+	padding-left: #{2 * map-deep-get($config-global, "spacing", "horizontal")};
+}
+
+ul {
+	list-style-type: disc;
+}
+
+ol {
+	list-style-type: decimal;
+}
+
+li > ul,
+li > ol {
+
+}
+
+dt {
+	@include font-family( map-deep-get($config-global, "font", "family", "primary") );
+	font-weight: bold;
+}
+
+dd {
+	margin: 0;
+	padding-left: #{2 * map-deep-get($config-global, "spacing", "horizontal")};
+}
