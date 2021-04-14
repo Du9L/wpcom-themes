@@ -1,0 +1,381 @@
+# Translation of WordPress.com - Themes - Libretto in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Libretto package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-09 01:16:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Libretto\n"
+
+#: functions.php:85
+msgid "Red"
+msgstr "Rött"
+
+#: functions.php:80
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:75
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:65
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:60
+msgid "Black"
+msgstr "Svart"
+
+#. translators: used in pagination, as in page "x of y"
+#: inc/template-tags.php:57
+msgid "of"
+msgstr "av"
+
+#: inc/wpcom-colors.php:52
+msgid "Accent"
+msgstr "Accentuering"
+
+#: inc/wpcom-colors.php:34
+msgid "Text"
+msgstr "Text"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130
+msgid "Tagged"
+msgstr "Taggad"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/libretto/style.css
+msgid "http://wordpress.com/themes/"
+msgstr "http://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/libretto/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/libretto/style.css
+msgid "http://wordpress.com/themes/libretto"
+msgstr "http://wordpress.com/themes/libretto"
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/libretto/style.css
+msgid "Libretto"
+msgstr "Libretto"
+
+#: inc/template-tags.php:194
+msgid "Archives"
+msgstr "Arkiv"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:192
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:188
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ljud"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusar"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Länkar"
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier "
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Noteringar"
+
+#: inc/template-tags.php:166
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/template-tags.php:166
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:164
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:164
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: inc/template-tags.php:162
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:162
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:160
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#: inc/template-tags.php:158
+msgid "Tag: %s"
+msgstr "Etikett: %s"
+
+#: inc/template-tags.php:156
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:126
+msgid "Posted in %1$s"
+msgstr "Postat i %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:124 inc/template-tags.php:130
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:107
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: inc/template-tags.php:90
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicerad den %s"
+
+#: inc/template-tags.php:61
+msgid "<span class=\"meta-nav\">Newer posts</span>"
+msgstr "<span class=\"meta-nav\">Nyare inlägg</span>"
+
+#: inc/template-tags.php:52
+msgid "<span class=\"meta-nav\">Older posts</span>"
+msgstr "<span class=\"meta-nav\">Äldre inlägg</span>"
+
+#: inc/template-tags.php:45
+msgctxt "Next post link"
+msgid "Next Article"
+msgstr "Nästa artikel"
+
+#: inc/template-tags.php:41
+msgctxt "Previous post link"
+msgid "Previous Article"
+msgstr "Föregående artikel"
+
+#: inc/template-tags.php:36
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: image.php:63
+msgid "Page"
+msgstr "Sida"
+
+#: image.php:51
+msgid "Next image"
+msgstr "Nästa bild"
+
+#: image.php:48
+msgid "Previous image"
+msgstr "Föregående bild"
+
+#: header.php:96
+msgid "You searched for %s"
+msgstr "Du sökte efter %s"
+
+#: header.php:95
+msgid "Search results"
+msgstr "Sökresultat"
+
+#: header.php:92
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Sidan kunde inte hittas."
+
+#: header.php:91
+msgid "Error"
+msgstr "Fel"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Droid Mono, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:209
+msgctxt "Droid Sans Mono font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "på"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:197
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Libre Baskerville, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:191
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:171
+msgid "Fourth Footer Sidebar"
+msgstr "Fjärde sidopanel i sidfot"
+
+#: functions.php:163
+msgid "Third Footer Sidebar"
+msgstr "Tredje sidopanel i sidfot"
+
+#: functions.php:155
+msgid "Second Footer Sidebar"
+msgstr "Andra sidopanel i sidfot"
+
+#: functions.php:147
+msgid "First Footer Sidebar"
+msgstr "Första sidopanel i sidfot"
+
+#: functions.php:102
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:13
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:12
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:53
+msgid "Read more"
+msgstr "Läs mer"
+
+#: content.php:24 content.php:70 inc/template-tags.php:135
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: content.php:24 content.php:70 inc/template-tags.php:135
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content.php:24 content.php:70 inc/template-tags.php:135
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: content-page.php:14 content.php:26 content.php:72 image.php:70
+#: inc/template-tags.php:139
+msgid "Edit"
+msgstr "Redigera"
+
+#: content-page.php:12 content-single.php:14 image.php:59
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: content-page.php:11
+msgid "read more"
+msgstr "Läs mer"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tyvärr matchade inget din sökning. Prova igen med något eller några andra nyckelord."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#: comments.php:79
+msgid "Comments are now closed."
+msgstr "Kommentarer är nu stängda."
+
+#: comments.php:43 comments.php:68
+msgid "Newer Comments"
+msgstr "Nyare kommentare"
+
+#: comments.php:39 comments.php:64
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:36 comments.php:61
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion på &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner på &rdquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:41
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova att leta i månadsarkiven. %1$s"
+
+#: 404.php:24
+msgid "Most Used Categories"
+msgstr "Mest använda kategorier"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som att det inte finns någonting här. Du kan testa en av länkarna nedan eller att göra en sökning."
