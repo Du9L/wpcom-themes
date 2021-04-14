@@ -1,0 +1,439 @@
+# Translation of WordPress.com - Themes - Radcliffe-2 in Hebrew
+# This file is distributed under the same license as the WordPress.com - Themes - Radcliffe-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-19 12:12:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: WordPress.com - Themes - Radcliffe-2\n"
+
+#: functions.php:189
+msgid "Red"
+msgstr "אדום"
+
+#: functions.php:184
+msgid "Light Gray"
+msgstr "אפור בהיר"
+
+#: functions.php:179
+msgid "Dark Gray"
+msgstr "אפור כהה"
+
+#: functions.php:174
+msgid "White"
+msgstr "לבן"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה כי אין כאן כלום. אולי כדאי לנסות את אפשרות החיפוש."
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:78
+msgid "Tags"
+msgstr "תגיות"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:71
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: contact-info/contact-info-functions.php:79
+msgid "E-mail"
+msgstr "דוא\"ל"
+
+#: contact-info/contact-info-functions.php:61
+msgid "Location"
+msgstr "מיקום"
+
+#: inc/style-packs.php:38
+msgid "For an extra layer of playfulness, from bold color palettes to a vibrant font."
+msgstr "שובבות, עם צבעים בולטים ומשעשעים."
+
+#: inc/style-packs.php:37
+msgid "Timeless, simple elegance, with classic fonts and a touch of sepia."
+msgstr "עיצוב פשוט ואלגנטי, עם נגיעות של ספיה."
+
+#: inc/style-packs.php:36
+msgid "The power of minimalism, embodied in a clean black-and-white design."
+msgstr "מינימליסטיות, בעיצוב שחור לבן."
+
+#: inc/style-packs.php:35
+msgid "A bright, versatile canvas, offering a crisp reading experience for visitors."
+msgstr "בהיר, רב תכליתי, ומאפשר חדות בקריאה."
+
+#: inc/style-packs.php:30
+msgid "Upbeat Pop"
+msgstr "פופ שמח"
+
+#: inc/style-packs.php:29
+msgid "Vintage Paper"
+msgstr "נייר וינטג׳"
+
+#: inc/style-packs.php:28
+msgid "Modern Bauhaus"
+msgstr "באוהוס מודרני"
+
+#: inc/style-packs.php:27
+msgid "Radcliffe Perfect"
+msgstr "רדקליף פרפקט"
+
+#: inc/customizer.php:33
+msgid "A short phrase describing your site"
+msgstr "משפט קצת המתאר את האתר שלך"
+
+#: inc/customizer.php:30
+msgid "Enter a name for your site"
+msgstr "שם האתר שלך"
+
+#: hero-area/hero-area-customizer.php:84
+msgid "http://www.example.com/"
+msgstr "http://www.example.com/"
+
+#: hero-area/hero-area-customizer.php:69
+msgid "Click Me!"
+msgstr "לחצו עלי!"
+
+#: hero-area/hero-area-customizer.php:54
+msgid "Write some compelling text to encourage people to click the button below"
+msgstr "הוסיפו טקסט שיעודד את המבקרים ללחוץ על הכפתור מתחת"
+
+#: hero-area/hero-area-customizer.php:39
+msgid "Write a headline"
+msgstr "הוסיפו כותרת"
+
+#: contact-info/contact-info-customizer.php:89
+msgid "M-F: 9-5pm - Weekends: 10-4pm"
+msgstr ""
+"ראשון עד חמישי: 09:00 עד 19:00\n"
+"שישי: 09:30 עד 14:00"
+
+#: contact-info/contact-info-customizer.php:74
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: contact-info/contact-info-customizer.php:59
+msgid "(555) 123-4567"
+msgstr "054-555-5555"
+
+#: contact-info/contact-info-customizer.php:44
+msgid "123 Main St, Somewhere XY, 98765"
+msgstr "רחוב הרצל 22, נווה חמציצים, 5555555"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/radcliffe-2/style.css
+msgid "A theme for bloggers who want their content to take center stage."
+msgstr "ערכת עיצוב לבלוגרים שרוצים שהתוכן שלהם יהיה בקדמת הבמה."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "המשך קריאה<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "מה שחיפשת לא נמצא. אולי חיפוש יכול לעזור."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לחיפוש. יש לנסות שנית עם מילות מפתח חלופיות."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכנים לפרסם את הפוסט הראשון? <a href=\"%1$s\">התחילו כאן</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "דבר לא נמצא"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "הצגת כל הפוסטים מאת %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "פורסם על ידי %s"
+
+#: single.php:29
+msgid "<span class=\"meta-nav\">Previous</span> %title"
+msgstr "<span class=\"meta-nav\">הקודם</span> %title"
+
+#: single.php:28
+msgid "<span class=\"meta-nav\">Next</span> %title"
+msgstr "<span class=\"meta-nav\">הבא</span> %title"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור %s"
+
+#: inc/wpcom-colors.php:153
+msgid "Main Accent"
+msgstr "דגש עיקרי"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:277
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "פריט אחד"
+msgstr[1] "%d פריטים"
+
+#: inc/woocommerce.php:273 inc/woocommerce.php:274
+msgid "View your shopping cart"
+msgstr "צפה בעגלת הקניות"
+
+#: inc/template-tags.php:154
+msgid "Reply"
+msgstr "הגב"
+
+#: inc/template-tags.php:147
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור."
+
+#: inc/template-tags.php:136
+msgid "(Post author)"
+msgstr "(מחבר הפוסט)"
+
+#: inc/template-tags.php:136
+msgid "Comment by post author"
+msgstr "תגובה מאת מחבר הפוסט"
+
+#: inc/template-tags.php:95 inc/template-tags.php:117 inc/template-tags.php:153
+#: template-parts/content-page.php:50
+msgid "Edit"
+msgstr "עריכה"
+
+#: inc/template-tags.php:114
+msgid "Pingback:"
+msgstr "פינגבאק:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:86 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "עריכה <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:75
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:68
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:45
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "להשאיר תגובה <span class=\"screen-reader-text\"> בנושא %s</span>"
+
+#: inc/template-tags.php:30
+msgid "Featured"
+msgstr "מובחר"
+
+#. translators: %s: Name of current post
+#: inc/template-functions.php:49
+msgid "Continue reading %s"
+msgstr "המשך לקרוא %s"
+
+#: inc/style-packs-core.php:237
+msgid "%s Header Image"
+msgstr "%s תמונת כותרת"
+
+#: inc/style-packs-core.php:114
+msgid "Active Style"
+msgstr "עיצוב פעיל"
+
+#: inc/style-packs-core.php:110 inc/style-packs-core.php:279
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: inc/style-packs-core.php:100
+msgid "Style Packs"
+msgstr "עיצובים שמורים"
+
+#: inc/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "גודל הלוגו"
+
+#: inc/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr "נא להגדיר שם קובץ SVG."
+
+#: inc/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr "נא להגדיר פרמטרים בתצורת מערך."
+
+#: hero-area/hero-area-customizer.php:111
+msgid "Adjust the darkness of the overlay over the background image."
+msgstr "התאימו את הבהירות של תמונת הרקע."
+
+#: hero-area/hero-area-customizer.php:110
+msgid "Background Overlay"
+msgstr "שקיפות הרקע"
+
+#: hero-area/hero-area-customizer.php:96
+msgid "Background Image"
+msgstr "תמונת רקע"
+
+#: hero-area/hero-area-customizer.php:80
+msgid "Button URL Link"
+msgstr "כתובת לקישור הכפתור"
+
+#: hero-area/hero-area-customizer.php:65
+msgid "Button Text"
+msgstr "טקסט של כפתור"
+
+#: hero-area/hero-area-customizer.php:50
+msgid "Description"
+msgstr "תיאור"
+
+#: hero-area/hero-area-customizer.php:35
+msgid "Title"
+msgstr "כותרת"
+
+#: hero-area/hero-area-customizer.php:23
+msgid "Display on the Front Page"
+msgstr "להציג בעמוד הראשי"
+
+#: hero-area/hero-area-customizer.php:12
+msgid "Use this area to promote your most important message to site visitors. You can use a headline, a brief description and prominent link to help drive visitors where you’d like them to go."
+msgstr "עשו שימוש באזור זה כדי לקדם מסר או תוכן חשוב למבקרי האתר. ניתן להוסיף כותרת ותיאור קצר, ולינק שיוביל את המבקרים שלכם למקום הנכון."
+
+#: hero-area/hero-area-customizer.php:11
+msgid "Featured Prompt"
+msgstr "תוכן מודגש"
+
+#: header.php:69
+msgid "Menu"
+msgstr "תפריט"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: functions.php:270
+msgid "Collapse child menu"
+msgstr "לסגור תפריט משני"
+
+#: functions.php:269
+msgid "Expand child menu"
+msgstr "לפתוח תפריט משני"
+
+#: functions.php:241
+msgid "Footer 3"
+msgstr "תחתית העמוד 3"
+
+#: functions.php:231
+msgid "Footer 2"
+msgstr "תחתית העמוד 2"
+
+#: functions.php:221
+msgid "Footer 1"
+msgstr "תחתית העמוד 1"
+
+#: functions.php:48
+msgid "Header"
+msgstr "כותרת"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:27
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s."
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: footer.php:20
+msgid "https://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#: contact-info/contact-info-customizer.php:85
+#: contact-info/contact-info-functions.php:87
+msgid "Hours"
+msgstr "שעות"
+
+#: contact-info/contact-info-customizer.php:70
+msgid "Email"
+msgstr "אימייל"
+
+#: contact-info/contact-info-customizer.php:55
+#: contact-info/contact-info-functions.php:70
+msgid "Phone"
+msgstr "טלפון"
+
+#: contact-info/contact-info-customizer.php:40
+msgid "Address"
+msgstr "כתובת"
+
+#: contact-info/contact-info-customizer.php:29
+msgid "In the footer"
+msgstr "בכותרת תחתונה"
+
+#: contact-info/contact-info-customizer.php:28
+msgid "In the header"
+msgstr "בכותרת עליונה"
+
+#: contact-info/contact-info-customizer.php:24
+msgid "Where would you like to display your contact information?"
+msgstr "היכן להציג את המידע ליצירת קשר?"
+
+#: contact-info/contact-info-customizer.php:12
+msgid "Display your location, hours, and contact information."
+msgstr "הצגת מיקום, שעות פעילות ופרטי קשר."
+
+#: contact-info/contact-info-customizer.php:11
+msgid "Contact Info"
+msgstr "מידע ליצירת קשר"
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+#: comments.php:54 comments.php:76
+msgid "Newer Comments"
+msgstr "תגובות חדשות"
+
+#: comments.php:53 comments.php:75
+msgid "Older Comments"
+msgstr "תגובות ישנות"
+
+#: comments.php:50 comments.php:72
+msgid "Comment navigation"
+msgstr "ניווט תגובות"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "תגובה אחת על ״%2$s״"
+msgstr[1] "%1$s תגובות על ״%2$s״"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "תגובה אחת על &ldquo;%1$s&rdquo;"
+
+#: archive.php:40 index.php:45 search.php:40
+msgid "Newer Posts"
+msgstr "פוסטים חדשים יותר"
+
+#: archive.php:39 index.php:44 search.php:39
+msgid "Older Posts"
+msgstr "פוסטים ישנים יותר"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת לא נמצא."
