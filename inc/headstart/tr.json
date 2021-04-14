@@ -1,0 +1,306 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "primary-menu",
+                "menu-2": "primary-menu",
+                "social": "social-menu"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Yediemin Kurulu",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Bu kuruluşu yönetme sorumluluğunu üstlenmiş olan küçük bir ekibiz. Çocuklara yardım etmeyi seviyor ve bunu tutkuyla yapıyoruz. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:media-text {\"mediaId\":546,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/210d5-adult-3548077_1920-crop-portrait.jpg?w=640\" alt=\"\" class=\"wp-image-546\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Sally Smith</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Yediemin başkanı</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Kişisel geçmişinizi, önemli başarılarınızı veya ilginç bir gerçeği içeren kısa bir biyografi.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Bana e-posta gönderin: <a href=\"mailto:mail@example.com\">eposta@ornek.com</a></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:media-text {\"mediaPosition\":\"right\",\"mediaId\":545,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/97c42-activity-3488324_1920-crop-portrait.jpg?w=640\" alt=\"\" class=\"wp-image-545\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Juan Pérez</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Şirket sekreteri</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Kişisel geçmişinizi, önemli başarılarınızı veya ilginç bir gerçeği içeren kısa bir biyografi.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Bana e-posta gönderin: <a href=\"mailto:mail@example.com\">eposta@ornek.com</a></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:media-text {\"mediaId\":547,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/b14f6-corgi-3697186_1920-crop-portrait.jpg?w=640\" alt=\"\" class=\"wp-image-547\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Samuel the Dog</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Hazinedar</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Kişisel geçmişinizi, önemli başarılarınızı veya ilginç bir gerçeği içeren kısa bir biyografi.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">Bana e-posta gönderin: <a href=\"mailto:mail@example.com\">eposta@ornek.com</a></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Yediemin olmak mı istiyorsunuz?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"#\">İletişime geçin!</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->",
+            "post_name": "board-of-trustees",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 63,
+            "hs_post_parent": 1,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Hedefler",
+            "post_content": "",
+            "post_name": "causes",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 39,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Bağış Yap",
+            "post_content": "<!-- wp:paragraph -->\n<p>Lütfen hedeflerimize ulaşabilmemiz için bağış yapın.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Tek tıkla bağış sistemimizi kullanarak güvenli, rahat ve kolay bir şekilde çevrimiçi bağış yapabilirsiniz. Ayrıca tüm noktalarımızda standart nakit ve çek bağışlar da kabul edilmektedir. </p>\n<!-- /wp:paragraph -->",
+            "post_name": "donate",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 37,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "İletişim",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Hadi konuşalım &amp;#128075 Aşağıdaki iletişim bilgilerini kullanarak bize ulaşabilir veya form aracılığıyla bize mesaj gönderebilirsiniz.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">İletişime Geçin</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">10 Street Road</div><div><span class=\"jetpack-address__city\">Şehir</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">ABD</div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">eposta@ornek.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Bize Mesaj Gönderin</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"Hello there!\",\"to\":\"alves@blackhole.com\",\"hasFormSettingsSet\":\"yes\"} -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea {\"required\":true} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 33,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Kurs: Çocuklara Okumayı Öğretme",
+            "post_content": "<!-- wp:paragraph -->\n<p>Öğretmen eğitim müfredatı geliştirdik ve öğretmenlerle eğitim personeline okumayı öğretmeyle ilgili yeni teknikleri anlattığımız eğitim oturumları düzenledik. Bunun öğretmenlerin sınıflarına daha iyi bir eğitim sunmalarına yardımcı olacağını düşünüyoruz.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "course-teach-kids-to-read",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 15,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://alvesdemo.files.wordpress.com/2019/08/jose-aljovin-s0vmptutzvc-unsplash.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Okul Servisi Girişimi",
+            "post_content": "<!-- wp:paragraph -->\n<p>Son çeyrekte yerel gruplarla birlikte servis ağlarını geliştirme üzerine çalıştık. Kırsal kesimlerde yaşayan çocuklar için servis seçenekleri sunmanın oldukça önemli olduğuna inanıyoruz. Bağışçılarımız sayesinde dünyanın farklı yerlerindeki okullara çocukları taşıyan 50 otobüs ve 200 araç için gerekli fonlamayı yapmayı başardık.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "school-bus-initiative",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://alvesdemo.files.wordpress.com/2019/08/jason-ji-2u8h3fsj-so-unsplash.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Okullara 10.000 Kalem Dağıtıldı",
+            "post_content": "<!-- wp:paragraph -->\n<p>Bu yaz gönüllülerimizin çabası ve sponsorlarımızın cömert bağışları sayesinde 10.000 kalemi ihtiyaç duyan çocuklara ulaştırmayı başardık. En çok ihtiyaç duyan bölgelere ulaşmayı ve yerel okullara bu temel eğitim aracını sağlamayı başardık.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "10000-pencils-delivered-to-schools",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://alvesdemo.files.wordpress.com/2019/08/stijn-kleerebezem-bsk8f6bvshc-unsplash.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Ana Sayfa",
+            "post_content": "<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/jenn-evelyn-ann-uydoe_ayjqs-unsplash.jpg\",\"id\":24,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"focalPoint\":{\"x\":0.5,\"y\":0.5},\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/jenn-evelyn-ann-uydoe_ayjqs-unsplash.jpg');background-position:50% 50%;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\">Yardım Elinizi Uzatın</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center\"} -->\n<p class=\"has-text-align-center\">Kar amacı gütmeyen bir kuruluş olarak tüm çocuklar için daha iyi bir gelecek sunmak üzere işbirliği yaparak dünyayı daha huzurlu bir yer hale getirmeyi amaçlıyoruz.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons {\"align\":\"center\"} -->\n<div class=\"wp-block-buttons aligncenter\"><!-- wp:button -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"#\">Bağış Yap</a></div>\n<!-- /wp:button -->\n\n<!-- wp:button {\"textColor\":\"background\",\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color has-background-color\" href=\"#\">İletişim</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/aaron-burden-1zr3wnstnvy-unsplash.jpg\",\"id\":25,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/aaron-burden-1zr3wnstnvy-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:paragraph {\"className\":\"has-text-align-left margin-bottom-half\"} -->\n<p class=\"has-text-align-left margin-bottom-half\">Hakkımızda</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"align\":\"left\",\"className\":\"margin-top-half\"} -->\n<h2 class=\"has-text-align-left margin-top-half\">İnançlarımız</h2>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":66.66} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:paragraph {\"className\":\"has-text-align-left\"} -->\n<p class=\"has-text-align-left\">Her çocuğun okumayı öğrendiği bir dünya istiyoruz. Misyonumuz, gelecek nesli geliştirmek için çocukların eğitimine yatırım yapmak. Bunun için eğitim programları oluşturuyor ve ihtiyaç duyan bölgelere gerekli kaynakları sağlıyoruz. Fonların akıllı bir şekilde dağıtılması gerektiğine inanıyor ve bu nedenle çok sınırlı bir personelle çalışıyoruz.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/larm-rmah-aeatunvneik-unsplash.jpg\",\"id\":27,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/larm-rmah-aeatunvneik-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Yardım Etmek İçin Yapabilecekleriniz</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4>Bağış Gönderin</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Tek tıkla bağış sistemimizi kullanarak güvenli, rahat ve kolay bir şekilde çevrimiçi bağış yapabilirsiniz. Ayrıca tüm noktalarımızda standart nakit ve çek bağışlar da kabul edilmektedir. </p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4>Gönüllü Olun</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Gönüllü olarak siz de bu ekibe dahil olabilirsiniz. Kaydolduğunuzda, çocukların hayatını olumlu yönde etkileyecek kadar güçlü bir ekibe dahil olacaksınız.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4>Burs Verin</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Hediyeniz çocuklara gerekli kaynakları, eğitimi ve öğretimi sunarak daha iyi bir gelecek elde etmelerine yardımcı olacaktır. Fark yaratmak için hemen kaydolabilirsiniz.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/nathan-anderson-94k_givvl6i-unsplash.jpg\",\"id\":29,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/nathan-anderson-94k_givvl6i-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center has-small-font-size margin-bottom-half\"} -->\n<p class=\"has-text-align-center has-small-font-size margin-bottom-half\">Görüşler</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"align\":\"center\",\"className\":\"margin-top-half\"} -->\n<h2 class=\"has-text-align-center margin-top-half\">İnsanlardan Alıntılar</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Bu kuruluşun cömertliği sayesinde bu zor bölgede eğitim olanaklarına sahip olabiliyorum.</p><cite>Jane Doe</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Bize ve dünyanın farklı yerlerindeki insanlara ihtiyaç duyan çocukların bulunduğu harika bir iş. Grubunuza kesinlikle gönüllü olarak katılacağım.</p><cite>John Doe</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/jordan-whitt-b8rkmfxzjdu-unsplash.jpg\",\"id\":30,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/jordan-whitt-b8rkmfxzjdu-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center margin-bottom-half\"} -->\n<p class=\"has-text-align-center margin-bottom-half\">Haber</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"align\":\"center\",\"className\":\"margin-top-half\"} -->\n<h2 class=\"has-text-align-center margin-top-half\">Güncel Hedefler</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:latest-posts {\"align\":\"wide\",\"postsToShow\":3,\"displayPostContent\":true,\"displayPostDate\":true,\"postLayout\":\"grid\"} /-->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/anna-earl-j-jb1niw1j0-unsplash.jpg\",\"id\":31,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/anna-earl-j-jb1niw1j0-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Gönüllü Olun</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center\"} -->\n<p class=\"has-text-align-center\">Mümkün olduğunca çok insana yardım etmeyi amaçlıyoruz ve bunun için her zaman istekli gönüllülere ihtiyacımız var. Daha fazla bilgi için lütfen bizimle iletişime geçin.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\">İletişim</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Hakkında",
+            "post_content": "<!-- wp:paragraph -->\n<p>Her çocuğun okumayı öğrendiği bir dünya istiyoruz. Misyonumuz, gelecek nesli geliştirmek için çocukların eğitimine yatırım yapmak. Bunun için eğitim programları oluşturuyor ve ihtiyaç duyan bölgelere gerekli kaynakları sağlıyoruz. Fonların akıllı bir şekilde dağıtılması gerektiğine inanıyor ve bu nedenle çok sınırlı bir personelle çalışıyoruz.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "hs_old_id": 1,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary-menu": {
+            "name": "Birincil Menü",
+            "items": [
+                {
+                    "menu-item-title": "Ana Sayfa",
+                    "menu-item-db-id": 80,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Hakkında",
+                    "menu-item-db-id": 81,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Yediemin Kurulu",
+                    "menu-item-db-id": 82,
+                    "menu-item-object-id": "63",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "81",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Hedefler",
+                    "menu-item-db-id": 77,
+                    "menu-item-object-id": "39",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Bağış Yap",
+                    "menu-item-db-id": 78,
+                    "menu-item-object-id": "37",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "İletişim",
+                    "menu-item-db-id": 79,
+                    "menu-item-object-id": "33",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social-menu": {
+            "name": "Sosyal Menü",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 83,
+                    "menu-item-object-id": "83",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://www.facebook.com/WordPresscom/"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 84,
+                    "menu-item-object-id": "84",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 85,
+                    "menu-item-object-id": "85",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://www.instagram.com/wordpressdotcom/"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://alvesdemo.files.wordpress.com/2019/08/logo_alves-2.png",
+        "https://alvesdemo.files.wordpress.com/2019/08/cropped-logo_alves.png",
+        "https://alvesdemo.files.wordpress.com/2019/08/anna-earl-j-jb1niw1j0-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jordan-whitt-b8rkmfxzjdu-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/nathan-anderson-94k_givvl6i-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/larm-rmah-aeatunvneik-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/aaron-burden-1zr3wnstnvy-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jenn-evelyn-ann-uydoe_ayjqs-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jose-aljovin-s0vmptutzvc-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jason-ji-2u8h3fsj-so-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/stijn-kleerebezem-bsk8f6bvshc-unsplash.jpg"
+    ]
+}
