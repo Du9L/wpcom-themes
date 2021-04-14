@@ -1,0 +1,358 @@
+# Translation of WordPress.com - Themes - Shoreditch in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Shoreditch package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-01 15:55:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Shoreditch\n"
+
+#: functions.php:111
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:106
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:101
+msgid "Medium Gray"
+msgstr "Medelgrå"
+
+#: functions.php:96
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:91
+msgid "Blue"
+msgstr "Blått"
+
+#: inc/woocommerce.php:247
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekt"
+
+#: inc/woocommerce.php:246
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#: eventbrite/eventbrite-index.php:50 eventbrite/eventbrite-single.php:40
+msgid "Edit"
+msgstr "Redigera"
+
+#: inc/wpcom-colors.php:648
+msgid "Widget Top Footer Area"
+msgstr "Övre sidfotsområde för widgets"
+
+#: inc/wpcom-colors.php:407
+msgid "Buttons & Highlights"
+msgstr "Knappar och markeringar"
+
+#: inc/wpcom-colors.php:296
+msgid "Headers & Links"
+msgstr "Rubrik och länkar"
+
+#: inc/wpcom-colors.php:243
+msgid "Text"
+msgstr "Text"
+
+#: inc/wpcom-colors.php:194
+msgid "Background"
+msgstr "Bakgrund"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:93
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Publicerad av %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/shoreditch/panel-page.php
+msgid "Panel Page Template"
+msgstr "Panelsidemall"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/shoreditch/full-width-page.php
+msgid "Full Width Page Template"
+msgstr "Fullbred sidmall"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/shoreditch/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/shoreditch/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/shoreditch/style.css
+msgid "Shoreditch is a functional and responsive theme perfect for your business’s online presence. Although its main purpose is business, Shoreditch looks great as a personal blog theme too."
+msgstr "Shoreditch är ett funktionellt och responsivt tema som är perfekt för ditt företags närvaro på nätet. Även om dess huvudsakliga syfte är affärer, ser Shoreditch också bra ut som ett personligt bloggtema."
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/shoreditch/style.css
+msgid "https://wordpress.com/themes/shoreditch/"
+msgstr "https://wordpress.com/themes/shoreditch/"
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/shoreditch/style.css
+msgid "Shoreditch"
+msgstr "Shoreditch"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:34
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">→</span>"
+
+#: template-parts/content-page.php:31 template-parts/content-panel-page.php:33
+#: template-parts/content.php:43
+msgid "Page"
+msgstr "Sida"
+
+#: template-parts/content-page.php:27 template-parts/content-panel-page.php:29
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ledsen, inget matchade dina sökkriterier. Vänligen försök igen med andra nyckelord."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: attachment.php:29
+msgid "Published in"
+msgstr "Publicerat i"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "Föregående inlägg:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Föregående"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Nästa inlägg:"
+
+#: single.php:36
+msgid "Next"
+msgstr "Nästa"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Sök"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Sök &hellip;"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Sök"
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:67 template-parts/content-attachment.php:38
+#: template-parts/content-page.php:41 template-parts/content-panel-page.php:43
+msgid "Edit %s"
+msgstr "Ändra %s"
+
+#: inc/template-tags.php:60
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:60
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:60
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:46
+msgid "Featured Post"
+msgstr "Utvalt inlägg"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:17 inc/template-tags.php:52
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:128
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: inc/customizer.php:46 inc/customizer.php:62
+msgid "3 Columns"
+msgstr "3 kolumner"
+
+#: inc/customizer.php:45 inc/customizer.php:61
+msgid "2 Columns"
+msgstr "2 kolumner"
+
+#: inc/customizer.php:44 inc/customizer.php:60
+msgid "1 Column"
+msgstr "1 kolumn"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#: header.php:43
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: header.php:41
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:242
+msgid "collapse child menu"
+msgstr "minimera undermeny"
+
+#: functions.php:241
+msgid "expand child menu"
+msgstr "expandera undermeny"
+
+#: functions.php:237
+msgid "Back to top"
+msgstr "Tillbaka till toppen"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:194
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:189
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:184
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:159
+msgid "Bottom Footer"
+msgstr "Botten sidfot"
+
+#: functions.php:149
+msgid "Top Footer"
+msgstr "Toppen sidfot"
+
+#: functions.php:139
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Primär"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Kommentarsfältet är stängt."
+
+#: comments.php:56
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:55
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#: archive-jetpack-testimonial.php:49
+msgid "Testimonials navigation"
+msgstr "Omdömesnavigation"
+
+#: archive-jetpack-testimonial.php:48
+msgid "Newer testimonials"
+msgstr "Nyare omdömen"
+
+#: archive-jetpack-testimonial.php:47
+msgid "Older testimonials"
+msgstr "Äldre omdömen"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova att leta i månadsarkiven. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Mest använda kategorier"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som att det inte finns någonting här. Du kan testa en av länkarna nedan eller att göra en sökning."
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kunde inte hittas."
