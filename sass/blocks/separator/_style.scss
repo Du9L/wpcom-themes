@@ -1,0 +1,34 @@
+hr {
+	border-bottom-color: #{map-deep-get($config-global, "color", "border", "default")};
+	border-bottom-width: #{map-deep-get($config-separator, "height")};
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+
+	&.wp-block-separator {
+		border-bottom-color: #{map-deep-get($config-global, "color", "border", "default")};
+
+		&:not(.is-style-wide):not(.is-style-dots) {
+			max-width: #{map-deep-get($config-separator, "width")};
+		}
+
+		/**
+		 * Block Options
+		 */
+		&.is-style-wide {
+			@extend %responsive-aligndefault;
+			border-bottom-color: #{map-deep-get($config-global, "color", "border", "default")};
+			border-bottom-width: #{map-deep-get($config-separator, "height")};
+		}
+
+		&.is-style-dots {
+
+			&:before {
+				color: #{map-deep-get($config-global, "color", "border", "default")};
+				font-size: #{map-deep-get($config-global, "font", "size", "xl")};
+				letter-spacing: #{map-deep-get($config-global, "font", "size", "sm")};
+				padding-left: #{map-deep-get($config-global, "font", "size", "sm")};
+			}
+		}
+	}
+}
