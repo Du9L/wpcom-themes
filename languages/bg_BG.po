@@ -1,0 +1,377 @@
+# Translation of WordPress.com - Themes - Illustratr in Bulgarian
+# This file is distributed under the same license as the WordPress.com - Themes - Illustratr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-15 12:14:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bg\n"
+"Project-Id-Version: WordPress.com - Themes - Illustratr\n"
+
+#: functions.php:107
+msgid "Dark Red"
+msgstr "Тъмночервено"
+
+#: functions.php:102
+msgid "Red"
+msgstr "Червена"
+
+#: functions.php:97
+msgid "White"
+msgstr "Бяла"
+
+#: functions.php:92
+msgid "Light Gray"
+msgstr "Светлосив"
+
+#: functions.php:87
+msgid "Medium Gray"
+msgstr "Нормално сиво"
+
+#: functions.php:82
+msgid "Dark Gray"
+msgstr "Тъмносив"
+
+#: functions.php:77
+msgid "Black"
+msgstr "Черна"
+
+#: inc/wpcom-colors.php:168
+msgid "Accent"
+msgstr "Акцент"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "Фон"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:45 content-audio.php:74 content-gallery.php:62
+#: content-image.php:56 content-link.php:45 content-quote.php:51
+#: content-status.php:49 content-video.php:74 content.php:84
+msgid "Tagged"
+msgstr "Маркиран"
+
+#: inc/jetpack.php:120
+msgid "Older projects"
+msgstr "По-стари проекти"
+
+#: functions.php:158
+msgid "Footer"
+msgstr "Footer"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/illustratr/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Шаблон за портфолио страница"
+
+#: sidebar.php:11
+msgid "Widgets"
+msgstr "Джаджи"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: page-templates/portfolio-page.php:28
+msgid "Pages:"
+msgstr "Страници:"
+
+#: inc/template-tags.php:125
+msgid "Your comment is awaiting moderation."
+msgstr "Коментарът ви очаква одобрение."
+
+#: inc/template-tags.php:109
+msgid "Author"
+msgstr "Автор"
+
+#: inc/template-tags.php:106
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:87
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:65
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:64
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:61
+msgid "Post navigation"
+msgstr "Навигация в публикациите"
+
+#: inc/template-tags.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следваща <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предишна"
+
+#: inc/template-tags.php:28
+msgid "Posts navigation"
+msgstr "Навигация на публикациите"
+
+#: inc/extras.php:104
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:42
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#: header.php:41
+msgid "Menu"
+msgstr "Меню"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Code Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:244
+msgctxt "Source Code Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional PT Serif character subset specific to your
+#. language, translate this to 'cyrillic'. Do not translate into your own
+#. language.
+#: functions.php:216
+msgctxt "PT Serif font: add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "cyrillic"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:212
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Source Sans Pro character subset specific
+#. to your language, translate this to 'vietnamese'. Do not translate into your
+#. own language.
+#: functions.php:184
+msgctxt "Source Sans Pro font: add new subset (vietnamese)"
+msgid "no-subset"
+msgstr "cyrillic"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:180
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:127
+msgid "Social Menu"
+msgstr "Социално меню"
+
+#: functions.php:126
+msgid "Primary Menu"
+msgstr "Главно меню"
+
+#: footer.php:30
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: footer.php:28
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: content-portfolio-single.php:16 content-portfolio.php:21 content.php:42
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-none.php:28 page-templates/portfolio-page.php:90
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Няма резултати, отговарящи на вашето търсене. Опитайте отново с други ключови думи. "
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Време е за първата ви публикация. <a href=\"%1$s\">Започнете от тук</a>."
+
+#: content-none.php:13 page-templates/portfolio-page.php:80
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: content-aside.php:51 content-audio.php:80 content-gallery.php:68
+#: content-image.php:62 content-link.php:51 content-page.php:36
+#: content-portfolio-single.php:43 content-quote.php:57 content-status.php:55
+#: content-video.php:80 content.php:91 inc/template-tags.php:87
+#: inc/template-tags.php:121 page-templates/portfolio-page.php:36
+msgid "Edit"
+msgstr "Редактиране"
+
+#: content-aside.php:48 content-audio.php:77 content-gallery.php:65
+#: content-image.php:59 content-link.php:48 content-page.php:33
+#: content-portfolio-single.php:40 content-quote.php:54 content-status.php:52
+#: content-video.php:77 content.php:88
+msgid "% Comments"
+msgstr "% коментара"
+
+#: content-aside.php:48 content-audio.php:77 content-gallery.php:65
+#: content-image.php:59 content-link.php:48 content-page.php:33
+#: content-portfolio-single.php:40 content-quote.php:54 content-status.php:52
+#: content-video.php:77 content.php:88
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: content-aside.php:48 content-audio.php:77 content-gallery.php:65
+#: content-image.php:59 content-link.php:48 content-page.php:33
+#: content-portfolio-single.php:40 content-quote.php:54 content-status.php:52
+#: content-video.php:77 content.php:88
+msgid "Leave a comment"
+msgstr "Вашият коментар"
+
+#: content-portfolio-single.php:36
+msgid "Tagged %1$s"
+msgstr "С етикети %1$s"
+
+#: content-aside.php:41 content-audio.php:70 content-gallery.php:58
+#: content-image.php:52 content-link.php:41 content-quote.php:47
+#: content-status.php:45 content-video.php:70 content.php:79
+msgid "All %s posts"
+msgstr "Всички %s публикации"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:30 content-aside.php:45 content-audio.php:43
+#: content-audio.php:74 content-gallery.php:31 content-gallery.php:62
+#: content-image.php:25 content-image.php:56 content-link.php:14
+#: content-link.php:45 content-portfolio-single.php:33 content-quote.php:37
+#: content-quote.php:51 content-status.php:35 content-status.php:49
+#: content-video.php:43 content-video.php:74 content.php:34 content.php:84
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:15 content-audio.php:11 content-gallery.php:44
+#: content-image.php:38 content-link.php:27 content-quote.php:15
+#: content-status.php:15 content-video.php:11 content.php:54
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Има още <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Коментари са забранени."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "По-нови коментари &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; По-стари коментари"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Едно мнение за &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мнения за &ldquo;%2$s&rdquo;"
+
+#: archive.php:72
+msgid "Archives"
+msgstr "Архив"
+
+#: archive.php:66
+msgid "Projects"
+msgstr "Проекти"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Чатове"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Аудио"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Състояния"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Връзки"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Цитати"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Видео клипове"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Галерии"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Бележки"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Година: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Месец: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Ден: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Опитайте да потърсите в месечните архиви. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Най-използвани категории"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Нищо не бе намерено на това място. Може би трябва да погледнете на друго място или да използвате търсачката."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страницата не е открита."
