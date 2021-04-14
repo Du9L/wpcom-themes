@@ -1,0 +1,196 @@
+# Translation of WordPress.com - Themes - Spearhead in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Spearhead package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-27 01:35:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Spearhead\n"
+
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "A treia culoare"
+
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "Culoare principală"
+
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "Culoare prim-plan"
+
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#. translators: %s: link to how to support system display modes
+#: inc/wpcom-colors.php:39
+msgid "This theme's default palette will display a dark color palette automatically for users who have dark mode enabled on their devices. <a href='%s' target='_blank'>Learn more about dark mode</a>."
+msgstr "Paleta de culori implicită a acestei teme va afișa automat o paletă de culori închise pentru utilizatorii care au activat modul întunecat pe dispozitivele lor. <a href='%s' target='_blank'>Află mai multe despre modul întunecat</a>."
+
+#: inc/wpcom-colors.php:36
+msgid "Dark Mode"
+msgstr "Mod întunecat"
+
+#: header.php:117
+msgid "Cart"
+msgstr "Coș de cumpărături"
+
+#: header.php:107
+msgid "View your shopping list"
+msgstr "Vezi lista de cumpărături"
+
+#: header.php:105
+msgid "View your shopping cart"
+msgstr "Vezi coșul tău de cumpărături"
+
+#: header.php:84
+msgid "Woo Minicart"
+msgstr "Mini-coș Woo"
+
+#: header.php:78 header.php:118
+msgid "expanded"
+msgstr "extins"
+
+#: header.php:77
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:38 header.php:103
+msgid "collapsed"
+msgstr "restrâns"
+
+#: header.php:37 header.php:101
+msgid "Close"
+msgstr "Închide"
+
+#: header.php:35
+msgid "Main"
+msgstr "Principal"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/spearhead/style.css
+msgid "https://wordpress.com/theme/spearhead"
+msgstr "https://wordpress.com/theme/spearhead"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/spearhead/style.css
+msgid "Share your podcast with the world using Spearhead."
+msgstr "Îți partajezi podcast-urile cu toată lumea folosind Spearhead."
+
+#: search.php:31 template-parts/content/content-excerpt.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "Reprezentativ"
+
+#: inc/block-patterns.php:77
+msgid "Podcast links list"
+msgstr "Listă cu legături la podcast-uri"
+
+#: inc/block-patterns.php:61
+msgid "Podcast available on:"
+msgstr "Podcast disponibil pe:"
+
+#: inc/block-patterns.php:57
+msgid "Podcast links"
+msgstr "Legături la podcast-uri"
+
+#: inc/block-patterns.php:49
+msgid "Categories"
+msgstr "Categorii"
+
+#: inc/block-patterns.php:46
+msgid "Latest Posts"
+msgstr "Ultimele articole"
+
+#: inc/block-patterns.php:42
+msgid "Archive page"
+msgstr "Pagină de arhivă"
+
+#: inc/block-patterns.php:33
+msgid "Related Posts"
+msgstr "Articole similare"
+
+#. #-#-#-#-#  spearhead.pot (Spearhead 1.2.2)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/block-patterns.php:21 wp-content/themes/pub/spearhead/style.css
+msgid "Spearhead"
+msgstr "Spearhead"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:287
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editează <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post.
+#: functions.php:215
+msgid "More"
+msgstr "Mai mult"
+
+#: functions.php:93
+msgid "Background"
+msgstr "Fundal"
+
+#: functions.php:88
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: functions.php:83
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:71
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:70
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: functions.php:64 functions.php:65
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:59
+msgid "L"
+msgstr "L"
+
+#: functions.php:58
+msgid "Large"
+msgstr "Mare"
+
+#: functions.php:53
+msgid "M"
+msgstr "M"
+
+#: functions.php:52
+msgid "Medium"
+msgstr "Medie"
+
+#: functions.php:47
+msgid "S"
+msgstr "S"
+
+#: functions.php:46
+msgid "Small"
+msgstr "Mică"
+
+#: functions.php:41
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:40
+msgid "Tiny"
+msgstr "Minuscul"
