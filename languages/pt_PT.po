@@ -1,0 +1,81 @@
+# Translation of WordPress.com - Themes - Satellite in Portuguese (Portugal)
+# This file is distributed under the same license as the WordPress.com - Themes - Satellite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-03 11:17:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.2.0-beta.1\n"
+"Language: pt\n"
+"Project-Id-Version: WordPress.com - Themes - Satellite\n"
+
+#: header.php:28
+msgid "Primary Menu"
+msgstr "Menu primário"
+
+#: header.php:26
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23 header.php:53
+msgid "Skip to content"
+msgstr "Saltar para o conteúdo"
+
+#. Translators: Used between list items, there is a space after the comma
+#: functions.php:127
+msgid ", "
+msgstr ", "
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Montserrat, translate this to 'off'. Do not translate
+#. * into your own language.
+#. $montserrat = _x( 'on', 'Montserrat font: on or off', 'satellite' );
+#: functions.php:110
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Publicado em %1$s</span><span class=\"byline\"> por %2$s</span>"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:54
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ligado"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Criado com %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://pt.wordpress.org/"
+
+#: content.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar a ler <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:41 content.php:40
+msgid "%"
+msgstr "%"
+
+#: content-single.php:41 content.php:40
+msgid "1"
+msgstr "1"
+
+#: content-single.php:41 content.php:40
+msgid "0"
+msgstr "0"
+
+#: content-page.php:29 content-single.php:47 content.php:46
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:21 content-single.php:21 content.php:28
+msgid "Pages:"
+msgstr "Páginas:"
