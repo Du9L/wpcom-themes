@@ -1,0 +1,108 @@
+{
+    "settings": {
+        "options": [],
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://hemingwayrewrittendemo.wordpress.com/wp-content/themes/pub/hemingway-rewritten/images/header.jpg",
+            "header_image_data": {},
+            "header_textcolor": "ffffff",
+            "background_color": "ffffff",
+            "background_image": "",
+            "background_repeat": "repeat",
+            "background_position_x": "left",
+            "background_attachment": "fixed",
+            "nav_menu_locations": {
+                "primary": null
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-3",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "archives-3",
+            "id_base": "archives",
+            "settings": {
+                "title": "存档",
+                "count": 0,
+                "dropdown": 0
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "nav_menu-3",
+            "id_base": "nav_menu",
+            "settings": {
+                "title": "导航",
+                "nav_menu": "primary"
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "search-4",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "关于",
+            "post_content": "这是“关于”页面的示例。与文章不同，页面更适合显示您希望让人轻松查看并且时限性较低的内容（比如“关于”或“联系信息”）。点击“编辑”链接修改此页或<a href=\"https://wordpress.com/page\">添加另一页</a>。",
+            "post_excerpt": "这只是“关于”&nbsp;页面的一小部分。",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_old_id": 102,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "联系信息",
+            "post_content": "这是“联系信息”页面，其中包括一些基本联系信息和联系表单。[contact-form][contact-field label=\"姓名\" type=\"name\" required=\"1\"/][contact-field label=\"电子邮件\" type=\"email\" required=\"1\"/][contact-field label=\"网站\" type=\"url\"/][contact-field label=\"评论\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "这只是“联系信息”&nbsp;页面的一小部分。",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "第一篇博文",
+            "post_content": "这是您的第一篇文章。点击“编辑”链接修改或删除该文章，或者<a href=\"https://wordpress.com/post\">开始撰写新文章</a>。如果您愿意，可以通过这篇文章告诉读者您创建此博客的原因以及您打算使用它做些什么。",
+            "post_excerpt": "这是您的第一篇&nbsp;文章的摘录。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "hs_old_id": 104
+        }
+    ],
+    "menus": {}
+}

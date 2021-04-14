@@ -1,0 +1,108 @@
+{
+    "settings": {
+        "options": [],
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://hemingwayrewrittendemo.wordpress.com/wp-content/themes/pub/hemingway-rewritten/images/header.jpg",
+            "header_image_data": {},
+            "header_textcolor": "ffffff",
+            "background_color": "ffffff",
+            "background_image": "",
+            "background_repeat": "repeat",
+            "background_position_x": "left",
+            "background_attachment": "fixed",
+            "nav_menu_locations": {
+                "primary": null
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-3",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "archives-3",
+            "id_base": "archives",
+            "settings": {
+                "title": "أرشيف",
+                "count": 0,
+                "dropdown": 0
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "nav_menu-3",
+            "id_base": "nav_menu",
+            "settings": {
+                "title": "الإبحار",
+                "nav_menu": "primary"
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "search-4",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "نبذة عن",
+            "post_content": "هذا مثال لصفحة \"نبذة عن\". على عكس المقالات، تتناسب الصفحات بشكل أفضل مع المحتوى المستمر لفترة طويلة الذي تريد تسهيل الوصول إليه، مثل \"نبذة عنك\" أو \"معلومات الاتصال الخاصة بك\" انقر فوق رابط \"تحرير\" لإجراء تغييرات على هذه الصفحة <a href=\"https://wordpress.com/page\">أو أضف صفحة أخرى</a>.",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة \"نبذة عن\"&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_old_id": 102,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "اتصال",
+            "post_content": "هذه صفحة اتصال تحتوي على بعض معلومات الاتصال الرئيسية ونموذج الاتصال. [contact-form][contact-field label=\"الاسم\" type=\"name\" required=\"1\"/][contact-field label=\"البريد الإلكتروني\" type=\"email\" required=\"1\"/][contact-field label=\"موقع الويب\" type=\"url\"/][contact-field label=\"التعليق\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة \"اتصال\"&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "مقالة أولى على المدونة",
+            "post_content": "هذه هي مقالتك الأولى تمامًا. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها. ",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى &nbsp; تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "hs_old_id": 104
+        }
+    ],
+    "menus": {}
+}

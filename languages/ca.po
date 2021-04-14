@@ -1,0 +1,244 @@
+# Translation of WordPress.com - Themes - Hemingway Rewritten in Catalan
+# This file is distributed under the same license as the WordPress.com - Themes - Hemingway Rewritten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-21 06:43:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: WordPress.com - Themes - Hemingway Rewritten\n"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:105
+msgid "Continue reading %s"
+msgstr "Continua la lectura de %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultats de la cerca per a: %s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:142
+msgid "%1$s at %2$s"
+msgstr "%1$s a les %2$s"
+
+#: inc/template-tags.php:135
+msgid "Your comment is awaiting moderation."
+msgstr "El comentari està esperant moderació."
+
+#: inc/template-tags.php:122
+msgid "Pingback:"
+msgstr "Retroenllaç:"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navegació d'entrades"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entrades més recents <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entrades més antigues"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navegacio d'entrades"
+
+#: inc/extras.php:68
+msgid "Page %s"
+msgstr "Pàgina %s"
+
+#: header.php:40
+msgid "Search"
+msgstr "Cerca"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Vés al contingut"
+
+#: header.php:35
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Gràcies al %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:11 inc/template-tags.php:87
+msgid "Featured"
+msgstr "Destacades"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no podem trobar el que busqueu. Potser el cercador us pot ajudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Res no coincideix amb els termes de cerca. Torneu-ho a provar amb algunes paraules claus diferents."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Preparats per publicar la primera entrada? <a href=\"%1$s\">Comenceu aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No s'ha trobat res"
+
+#. translators: used between list items, there is a space after the comma
+#: content-media.php:35 content-single.php:33
+msgid ", "
+msgstr ", "
+
+#: content-media.php:28 content-page.php:23 content-single.php:16
+#: content.php:28 inc/template-tags.php:122 inc/template-tags.php:151
+msgid "Edit"
+msgstr "Edita"
+
+#: content-media.php:26 content.php:26
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: content-media.php:26 content.php:26
+msgid "1 Comment"
+msgstr "1 comentari"
+
+#: content-media.php:26 content.php:26
+msgid "Leave a comment"
+msgstr "Deixa un comentari"
+
+#: content-media.php:12 content-page.php:18 content-single.php:24
+#: content.php:42
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: content-media.php:9 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua llegint <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Comentaris més recents  &rarr;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentaris anteriors"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "Navegació pels comentaris"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensament sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensaments sobre &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arxius"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Xats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Àudios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Estats"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Enllaços"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Cites"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imatges"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Notes"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Any: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F \\\\d\\\\e Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sembla que no s'ha trobat res aquí. Voleu intentar una cerca?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aquesta pàgina no es pot trobar."

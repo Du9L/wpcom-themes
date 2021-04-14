@@ -1,0 +1,278 @@
+# Translation of WordPress.com - Themes - Hemingway Rewritten in Arabic
+# This file is distributed under the same license as the WordPress.com - Themes - Hemingway Rewritten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-10 10:00:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: WordPress.com - Themes - Hemingway Rewritten\n"
+
+#: inc/wpcom-colors.php:40 inc/wpcom-colors.php:45
+msgid "Color Name"
+msgstr "اسم اللون"
+
+#: inc/wpcom-colors.php:35
+msgid "Secondary Accent"
+msgstr "العنصر الثانوي البارز"
+
+#: inc/wpcom-colors.php:30
+msgid "Main Accent"
+msgstr "العنصر البارز الأساسي"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:105
+msgid "Continue reading %s"
+msgstr "تابع قراءة %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/nosidebar-page.php
+msgid "Full Width, No Sidebar"
+msgstr "عرض كامل، بدون شريط جانبي"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:142
+msgid "%1$s at %2$s"
+msgstr "%1$s الساعة %2$s"
+
+#: inc/template-tags.php:135
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك في انتظار المراجعة."
+
+#: inc/template-tags.php:122
+msgid "Pingback:"
+msgstr "تعقيب:"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&rarr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "التنقل بين التدوينات"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "مشاركات حديثة <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> التدوينات الأقدم"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "تصفح المقالات"
+
+#: inc/extras.php:68
+msgid "Page %s"
+msgstr "الصفحة %s"
+
+#: header.php:40
+msgid "Search"
+msgstr "بحث"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى "
+
+#: header.php:35
+msgid "Menu"
+msgstr "القائمة"
+
+#: functions.php:96
+msgid "Footer 3"
+msgstr "تذييل"
+
+#: functions.php:88
+msgid "Footer 2"
+msgstr "تذييل 2"
+
+#: functions.php:80
+msgid "Footer 1"
+msgstr "تذييل 1"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "القائمة الجانبية"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "مدعوم بواسطة %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:11 inc/template-tags.php:87
+msgid "Featured"
+msgstr "المميز"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكن إيجاد ما تبحث عنه. قد تفيدك خاصية البحث."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر تدوينتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "لم يتم العثور على نتائج"
+
+#. translators: used between list items, there is a space after the comma
+#: content-media.php:35 content-media.php:44 content-single.php:33
+#: content-single.php:42
+msgid ", "
+msgstr "، "
+
+#: content-media.php:28 content-page.php:23 content-single.php:16
+#: content.php:28 inc/template-tags.php:122 inc/template-tags.php:151
+msgid "Edit"
+msgstr "تحرير"
+
+#: content-media.php:26 content.php:26
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: content-media.php:26 content.php:26
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: content-media.php:26 content.php:26
+msgid "Leave a comment"
+msgstr "أضف تعليقا"
+
+#: content-media.php:12 content-page.php:18 content-single.php:24
+#: content.php:42
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: content-media.php:9 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "استمر في القراءة <span class=\"meta-nav\">&larr;</span>"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "تعليقات أقدم &larr;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&rarr; تعليقات أقدم"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "استعراض التعليق"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا أفكار على &rdquo;%2$s&ldquo;"
+msgstr[1] "فكرة واحدة على &rdquo;%2$s&ldquo;"
+msgstr[2] "فكرتان اثنتان على &rdquo;%2$s&ldquo;"
+msgstr[3] "%1$s أفكار على &rdquo;%2$s&ldquo;"
+msgstr[4] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+msgstr[5] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "الأرشيفات"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "دردشات"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "اصوات"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "الحالات"
+
+#: archive.php:54
+msgid "Links"
+msgstr "روابط"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "الإقتباسات"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "الفيديو"
+
+#: archive.php:45
+msgid "Images"
+msgstr "صور"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "المعارض"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "الملاحظات"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "السنة: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "شهر: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "يوم: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "الكاتب: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم إيجاد شيء في هذا المكان. ربما تريد البحث؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوبس! الصفحة غير موجودة."

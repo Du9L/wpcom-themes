@@ -1,0 +1,257 @@
+# Translation of WordPress.com - Themes - Hemingway Rewritten in Urdu
+# This file is distributed under the same license as the WordPress.com - Themes - Hemingway Rewritten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-17 09:44:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ur_PK\n"
+"Project-Id-Version: WordPress.com - Themes - Hemingway Rewritten\n"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:105
+msgid "Continue reading %s"
+msgstr "جاری رکھئیے پڑھنا %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/nosidebar-page.php
+msgid "Full Width, No Sidebar"
+msgstr "مکمل چوڑائی، کوئی سائیڈ بار نہیں"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "کے لئے تلاش کے نتائج %s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:142
+msgid "%1$s at %2$s"
+msgstr "%1$s از %2$s"
+
+#: inc/template-tags.php:135
+msgid "Your comment is awaiting moderation."
+msgstr "آپ کی رائے ماڈریشن کا انتظار کر رہی ہے"
+
+#: inc/template-tags.php:122
+msgid "Pingback:"
+msgstr "پنگ بیک:"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "پوسٹ نیویگیشن"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نئی پوسٹیں <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr " \t<span class=\"meta-nav\">&larr;</span> پرانی پوسٹیں"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پوسٹوں کی نیویگیشن"
+
+#: inc/extras.php:68
+msgid "Page %s"
+msgstr "%s صفحہ "
+
+#: header.php:40
+msgid "Search"
+msgstr "تلاش"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "چھوڑیں اور مواد پر جائیں"
+
+#: header.php:35
+msgid "Menu"
+msgstr "مینو"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato,
+#. * translate this to 'off'. Do not translate into your own language.
+#: functions.php:141
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "فعال کریں"
+
+#: functions.php:96
+msgid "Footer 3"
+msgstr "فوٹر 3"
+
+#: functions.php:88
+msgid "Footer 2"
+msgstr "فوٹر 2"
+
+#: functions.php:80
+msgid "Footer 1"
+msgstr "فوٹر 1"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "بغلی ‌پٹی"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "بنیادی مینیو"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s منجانب %2$s۔"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "کی فخریہ پیشکش %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:11 inc/template-tags.php:87
+msgid "Featured"
+msgstr "نمایاں"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "لگتا ہے ہم وہ نہیں ڈھونڈ پا رہے جو آپ چاہ رہے ہیں۔ شاید تلاش مدد کرسکے۔"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "معزرت، مگر آپکی تلاش کا کوئی لفظ نہ مل سکا۔ برائے مہربانی کچھ دوسرے الفاظ سے دوبارہ کوشش کیجیے۔"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "پہلی تحریر شائع کرنے کے لیے تیار ہیں؟ <a href=\"%1$s\">یہاں سے شروع کیجیے</a>۔"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "کچھ نھیں ملا"
+
+#. translators: used between list items, there is a space after the comma
+#: content-media.php:35 content-single.php:33
+msgid ", "
+msgstr "،"
+
+#: content-media.php:28 content-page.php:23 content-single.php:16
+#: content.php:28 inc/template-tags.php:122 inc/template-tags.php:151
+msgid "Edit"
+msgstr "تدوین"
+
+#: content-media.php:26 content.php:26
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: content-media.php:26 content.php:26
+msgid "1 Comment"
+msgstr "1 تبصرہ"
+
+#: content-media.php:26 content.php:26
+msgid "Leave a comment"
+msgstr "تبصرہ چھوڑیں"
+
+#: content-media.php:12 content-page.php:18 content-single.php:24
+#: content.php:42
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: content-media.php:9 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "پڑھنا جاری رکھیں→"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "&rarr; نئے تبصرے"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "←پرانی رائے"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "تبصرہ نیویگیشن"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "ایک خیال &ldquo;%2$s&rdquo; پہ"
+msgstr[1] "%1$s خیالات &ldquo;%2$s&rdquo; پہ"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "محفوظات:"
+
+#: archive.php:54
+msgid "Links"
+msgstr "روابط"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "اقتباسات"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "ویڈیوز"
+
+#: archive.php:45
+msgid "Images"
+msgstr "تصویریں"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "گیلریز"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "ایک طرف"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "مہینہ : %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "دن: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "لگتا ہے اِس جگہ کچھ نہیں مل سکا۔ شلاش کی کوشش کیجیے؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہ! وہ صفحہ نہیں مل سکا"

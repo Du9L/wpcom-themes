@@ -1,0 +1,108 @@
+{
+    "settings": {
+        "options": [],
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://hemingwayrewrittendemo.wordpress.com/wp-content/themes/pub/hemingway-rewritten/images/header.jpg",
+            "header_image_data": {},
+            "header_textcolor": "ffffff",
+            "background_color": "ffffff",
+            "background_image": "",
+            "background_repeat": "repeat",
+            "background_position_x": "left",
+            "background_attachment": "fixed",
+            "nav_menu_locations": {
+                "primary": null
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-3",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "archives-3",
+            "id_base": "archives",
+            "settings": {
+                "title": "ארכיון",
+                "count": 0,
+                "dropdown": 0
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "nav_menu-3",
+            "id_base": "nav_menu",
+            "settings": {
+                "title": "ניווט",
+                "nav_menu": "primary"
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "search-4",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "אודות",
+            "post_content": "זהו עמוד 'אודות' לדוגמה. להבדיל מפוסטים, עמודים מתאימים יותר ליצירת גישה קלה לתוכן שאינו תלוי בזמן, למשל 'אודות' או 'פרטים ליצירת קשר'. יש ללחוץ על הקישור 'עריכה' כדי לבצע שינויים בעמוד זה או <a href=\"https://wordpress.com/page\">להוסיף עוד עמוד</a>.",
+            "post_excerpt": "זהו תקציר עבור עמוד&nbsp;'אודות'.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_old_id": 102,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "יצירת קשר",
+            "post_content": "זהו דף 'יצירת קשר' שכולל פרטי קשר בסיסיים וכן טופס יצירת קשר. [contact-form][contact-field label=\"שם\" type=\"name\" required=\"1\"/][contact-field label=\"אימייל\" type=\"email\" required=\"1\"/][contact-field label=\"אתר אינטרנט\" type=\"url\"/][contact-field label=\"תגובה\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "זהו תקציר עבור עמוד&nbsp;'יצירת קשר'.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "פוסט ראשון",
+            "post_content": "הפוסט הזה הוא הראשון שלך. יש ללחוץ על הקישור 'עריכה' כדי לשנות או למחוק אותו או <a href=\"https://wordpress.com/post\">להתחיל פוסט חדש</a>. אפשר לנצל את הפוסט הזה כדי להסביר לקוראים מדוע פתחת את הבלוג ומה בכוונתך לעשות אתו. ",
+            "post_excerpt": "זהו התקציר של הפוסט הראשון&nbsp;שלך.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "hs_old_id": 104
+        }
+    ],
+    "menus": {}
+}

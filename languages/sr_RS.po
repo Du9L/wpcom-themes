@@ -1,0 +1,263 @@
+# Translation of WordPress.com - Themes - Hemingway Rewritten in Serbian
+# This file is distributed under the same license as the WordPress.com - Themes - Hemingway Rewritten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-21 11:10:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sr_RS\n"
+"Project-Id-Version: WordPress.com - Themes - Hemingway Rewritten\n"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:105
+msgid "Continue reading %s"
+msgstr "Наставите читати %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/nosidebar-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Пун приказ, без скрола"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати претраживања за: %s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:142
+msgid "%1$s at %2$s"
+msgstr "%1$s у %2$s"
+
+#: inc/template-tags.php:135
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар чека преглед."
+
+#: inc/template-tags.php:122
+msgid "Pingback:"
+msgstr "Повратни пинг: "
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Кретање чланака"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новији чланци <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старији чланци"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Кретање чланака"
+
+#: inc/extras.php:68
+msgid "Page %s"
+msgstr "Страна %s"
+
+#: header.php:40
+msgid "Search"
+msgstr "Претрага"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Скочи на садржај"
+
+#: header.php:35
+msgid "Menu"
+msgstr "Изборник"
+
+#: functions.php:96
+msgid "Footer 3"
+msgstr "Подножје 3"
+
+#: functions.php:88
+msgid "Footer 2"
+msgstr "Подножје 2"
+
+#: functions.php:80
+msgid "Footer 1"
+msgstr "Подножје 1"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "Бочна трака"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Примарни изборник"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s од %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Са поносом покреће %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://sr.wordpress.org/"
+
+#: content.php:11 inc/template-tags.php:87
+msgid "Featured"
+msgstr "Издвојено"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Изгледа да не можемо да пронађемо оно што сте тражили. Можда ће претраживање или једна од веза испод помоћи."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Нажалост, ваша претрага није донела резултате. Молимо вас, покушајте поново са другачијим параметрима."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Спремни сте да објавите свој први чланак? <a href=\"%1$s\">Започните овде</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ништа није пронађено"
+
+#. translators: used between list items, there is a space after the comma
+#: content-media.php:35 content-media.php:44 content-single.php:33
+#: content-single.php:42
+msgid ", "
+msgstr ", "
+
+#: content-media.php:28 content-page.php:23 content-single.php:16
+#: content.php:28 inc/template-tags.php:122 inc/template-tags.php:151
+msgid "Edit"
+msgstr "Уреди"
+
+#: content-media.php:26 content.php:26
+msgid "% Comments"
+msgstr "% коментара"
+
+#: content-media.php:26 content.php:26
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: content-media.php:26 content.php:26
+msgid "Leave a comment"
+msgstr "Оставите коментар"
+
+#: content-media.php:12 content-page.php:18 content-single.php:24
+#: content.php:42
+msgid "Pages:"
+msgstr "Стране:"
+
+#: content-media.php:9 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Наставите са читањем <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Затворено за коментаре."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Новији коментари &rarr;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Старији коментари"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "Кретање коментара"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Једно мишљење на &#0132;%2$s&#0147;"
+msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
+msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Архиве"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Ћаскање"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Аудио записи"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Стања"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Везе"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Цитати"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Видео записи"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Слике"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Галерије"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Напомене"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Година: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Месец: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Дан: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Аутор: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Изгледа да ништа није пронађено на овом месту. Можда да покушате претраживање?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Та страница није пронађена."

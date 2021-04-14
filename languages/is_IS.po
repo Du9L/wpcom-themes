@@ -1,0 +1,282 @@
+# Translation of WordPress.com - Themes - Hemingway Rewritten in Icelandic
+# This file is distributed under the same license as the WordPress.com - Themes - Hemingway Rewritten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-27 22:39:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n % 100 != 1 && n % 100 != 21 && n % 100 != 31 && n % 100 != 41 && n % 100 != 51 && n % 100 != 61 && n % 100 != 71 && n % 100 != 81 && n % 100 != 91);\n"
+"X-Generator: GlotPress/2.3.0-beta.1\n"
+"Language: is\n"
+"Project-Id-Version: WordPress.com - Themes - Hemingway Rewritten\n"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:105
+msgid "Continue reading %s"
+msgstr "Halda áfram að lesa: %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/nosidebar-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Full breidd, engar hliðarstikur"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/style.css
+msgid "Hemingway Rewritten is a classic blog theme with a parallax-scrolling header effect and a minimal, elegant design. The large featured header images make this theme great for photographers, or any users who want to share their visuals in a bold way."
+msgstr "Hemingway Rewritten er hefðbundið bloggþema með haus sem hliðrast við skrun og minimalíska, smekklega hönnun. Stórar myndir í haus gera þetta þema frábært fyrir ljósmyndara, eða hvaða notanda sem er sem vill deila sjónrænum verkum sínum á djarfan hátt."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Leitarniðurstöður fyrir: %s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:142
+msgid "%1$s at %2$s"
+msgstr "%1$s klukkan %2$s"
+
+#: inc/template-tags.php:135
+msgid "Your comment is awaiting moderation."
+msgstr "Ummæli þín bíða samþykkis."
+
+#: inc/template-tags.php:122
+msgid "Pingback:"
+msgstr "Bakvísun:"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Færslu leiðarstýring"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nýrri færslur <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eldri færslur"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Leiðarkerfi færslna"
+
+#: inc/extras.php:68
+msgid "Page %s"
+msgstr "Síða %s"
+
+#: header.php:40
+msgid "Search"
+msgstr "Leita"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Hoppa yfir í efni"
+
+#: header.php:35
+msgid "Menu"
+msgstr "Valmynd"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato,
+#. * translate this to 'off'. Do not translate into your own language.
+#: functions.php:141
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "kveikt"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway,
+#. * translate this to 'off'. Do not translate into your own language.
+#: functions.php:136
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "kveikt"
+
+#: functions.php:96
+msgid "Footer 3"
+msgstr "Fótur 3"
+
+#: functions.php:88
+msgid "Footer 2"
+msgstr "Fótur 2"
+
+#: functions.php:80
+msgid "Footer 1"
+msgstr "Fótur 1"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "Spássía"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Aðalvalmynd"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Þema: %1$s eftir %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Drifið áfram af %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:11 inc/template-tags.php:87
+msgid "Featured"
+msgstr "Efst á baugi"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Það lítur út fyrir að við finnum ekki það sem þú sækist eftir. Hugsanlega hjálpar til að nota leitina."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Því miður, ekkert fannst sem passaði við leitarskilyrðin. Vinsamlega reyndu aftur með öðrum leitarorðum."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Tilbúin(n) til að birta fyrstu færsluna þína? <a href=\"%1$s\">Byrjaðu hér</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ekkert fannst"
+
+#. translators: used between list items, there is a space after the comma
+#: content-media.php:35 content-single.php:33
+msgid ", "
+msgstr ", "
+
+#: content-media.php:28 content-page.php:23 content-single.php:16
+#: content.php:28 inc/template-tags.php:122 inc/template-tags.php:151
+msgid "Edit"
+msgstr "Breyta"
+
+#: content-media.php:26 content.php:26
+msgid "% Comments"
+msgstr "% Ummæli"
+
+#: content-media.php:26 content.php:26
+msgid "1 Comment"
+msgstr "1 athugasemd"
+
+#: content-media.php:26 content.php:26
+msgid "Leave a comment"
+msgstr "Skrá ummæli"
+
+#: content-media.php:12 content-page.php:18 content-single.php:24
+#: content.php:42
+msgid "Pages:"
+msgstr "Síður:"
+
+#: content-media.php:9 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lesa meira <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Ummæli eru ekki leyfð."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Nýrri athugasemdir &raquo;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&laquo; Eldri athugasemdir"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "Leiðastýring athugasemda"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein athugasemd við &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s athugasemdir við &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Sarpur"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Samtöl"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Hljóðskrár"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Stöður"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Tenglar"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Tilvitnanir"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Myndbönd"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Myndir"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Myndasöfn"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Innskot"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Ár: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mánuður: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dagur: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Höfundur: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Svo virðist sem ekkert hafi fundist á þessari slóð. Viltu reyna leitina?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Úbbs! Þessi síða fannst ekki."

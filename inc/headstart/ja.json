@@ -1,0 +1,108 @@
+{
+    "settings": {
+        "options": [],
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://hemingwayrewrittendemo.wordpress.com/wp-content/themes/pub/hemingway-rewritten/images/header.jpg",
+            "header_image_data": {},
+            "header_textcolor": "ffffff",
+            "background_color": "ffffff",
+            "background_image": "",
+            "background_repeat": "repeat",
+            "background_position_x": "left",
+            "background_attachment": "fixed",
+            "nav_menu_locations": {
+                "primary": null
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-3",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "archives-3",
+            "id_base": "archives",
+            "settings": {
+                "title": "アーカイブ化",
+                "count": 0,
+                "dropdown": 0
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "nav_menu-3",
+            "id_base": "nav_menu",
+            "settings": {
+                "title": "ナビゲーション",
+                "nav_menu": "primary"
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "search-4",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "このサイトについて",
+            "post_content": "これは、「このサイトについて」ページのサンプルです。投稿とは違い、ページは時系列に関係なく簡単にアクセスできるようにしたいコンテンツに向いています。たとえば「このサイトについて」や「お問い合わせ」などです。編集リンクをクリックしてこのページに変更を加えるか、<a href=\"https://wordpress.com/page\">新しいページを作成</a>してみましょう。",
+            "post_excerpt": "これは、「このサイトについて」ページの抜粋です。&nbsp;",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_old_id": 102,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "お問い合わせ",
+            "post_content": "これは、「お問い合わせ」ページです。このページには、基本的な連絡先情報とお問い合わせフォームがあります。[contact-form][contact-field label=\"名前\" type=\"name\" required=\"1\"/][contact-field label=\"メール\" type=\"email\" required=\"1\"/][contact-field label=\"サイト\" type=\"url\"/][contact-field label=\"コメント\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "これは、「お問い合わせ」ページの抜粋です。&nbsp;",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "最初のブログ投稿",
+            "post_content": "これは最初の投稿です。編集リンクをクリックしてこの内容の変更や削除を行うか、<a href=\"https://wordpress.com/post\">新しい投稿を追加</a>しましょう。この投稿内で、なぜブログを始めたのか、どんなことについてブログを書いていくのか、といったことを読者に伝えるのもよいでしょう。",
+            "post_excerpt": "これは、最初の投稿の抜粋です。&nbsp;",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "hs_old_id": 104
+        }
+    ],
+    "menus": {}
+}
