@@ -1,0 +1,288 @@
+# Translation of Twenty Fifteen in Basque
+# This file is distributed under the same license as the Twenty Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-02-09 08:38:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Twenty Fifteen\n"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "Aurreko sarrera:"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfifteen/style.css
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr "2015eko defektuzko itxura, garbia, blogetara zuzendutakoa eta garbitasunerako diseinatutakoa da. Twenty Fifteenen letra-mota hainbat pantailatan ondo ikusten da eta hizkuntza askotan ere ondo ikusten da. Diseinua lehenengo eskuko gailuetarako egin da horrela edukiak erdiko gunea artzen duelarik, berdin izanda eskuko telefonotik, tabletetik, ordenagailu eramangarritik edo mahai gaineko ordenagailutik sartu zure webgunera."
+
+#: single.php:34
+msgid "Next post:"
+msgstr "Hurrengo sarrera:"
+
+#: single.php:36
+msgid "Previous"
+msgstr "Aurrekoa"
+
+#: single.php:33
+msgid "Next"
+msgstr "Hurrengoa"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Bilaketaren emaitzak: %s"
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "% iruzkin"
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "Iruzkin 1"
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Tamaina osoa"
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Utzi iruzkin bat"
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Etiketak"
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategoriak"
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formatua"
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Argitaratze-data"
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Egilea"
+
+#: inc/template-tags.php:91 inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr "Destakatuta"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "Erantzun berriagoak"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Erantzun zaharragoak"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Iruzkinetan zehar nabigatu"
+
+#: inc/customizer.php:147
+msgid "Blue"
+msgstr "Urdina"
+
+#: inc/customizer.php:136
+msgid "Purple"
+msgstr "Morea"
+
+#: inc/customizer.php:125
+msgid "Pink"
+msgstr "Arrosa"
+
+#: inc/customizer.php:114
+msgid "Yellow"
+msgstr "Horia"
+
+#: inc/customizer.php:103
+msgid "Dark"
+msgstr "Iluna"
+
+#: inc/customizer.php:92
+msgid "Default"
+msgstr "Defektuzkoa"
+
+#: image.php:84
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Argitaratze-lekua</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fifteenek WordPressen 4.1 bertsioa behar du gutxienez. Zu %s bertsio erabiltzen ari zara. Eguneratu eta saiatu berriz mesedez."
+
+#: inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr "Oinarrizko kolore-eskema"
+
+#: inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr "Goiburuko eta aldameneko barrako testuaren kolorea"
+
+#: inc/customizer.php:47 inc/customizer.php:63 inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Goiburukoari aplikatzen zaio pantaila txikietan eta aldameneko barrari pantaila zabaletan."
+
+#: inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr "Goiburukoaren eta aldameneko barraren atzeko kolorea"
+
+#: image.php:24
+msgid "Next Image"
+msgstr "Hurrengo irudia"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Aurreko irudia"
+
+#: header.php:43
+msgid "Menu and widgets"
+msgstr "Menua eta widgetak"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Edukira joan"
+
+#: functions.php:169
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:177
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:185
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:255
+msgid "expand child menu"
+msgstr "Haurren menua zabaldu"
+
+#: functions.php:256
+msgid "collapse child menu"
+msgstr "Haurren menua itxi"
+
+#: functions.php:133
+msgid "Widget Area"
+msgstr "Widgeten Area"
+
+#: functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Gehitu hemen aldameneko barran agertuko diren widgetak"
+
+#: functions.php:161
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:86
+msgid "Social Links Menu"
+msgstr "Lotura sozialen menua"
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "Menu nagusia"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25 wp-content/themes/pub/twentyfifteen/style.css
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "%s(e)kin eginda"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Badirudi ezin izan dugula bila zabiltzana aurkitu. Erabil ezazu bilaketa mesedez."
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Barkatu, ez dago emaitzik. Saiatu beste gauza bat bilatzen."
+
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Lehenengo bidalketa argitaratzeko prest? <a href=\"%1$s\">Hemen hasi</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Ez da ezer aurkitu"
+
+#: content-link.php:56 content-page.php:35 content-search.php:28
+#: content-search.php:33 content.php:57 image.php:71
+msgid "Edit"
+msgstr "Editatu"
+
+#: content-link.php:36 content-page.php:25 content.php:38 image.php:59
+msgid "Pages:"
+msgstr "Orrialdeak:"
+
+#. translators: %s: Name of current post
+#: content-link.php:31 content.php:33 inc/template-tags.php:237
+msgid "Continue reading %s"
+msgstr "Jarraitu %s irakurtzen"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Iruzkinak itxiak daude."
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Erantzun bat &ldquo;%2$s&rdquo; sarreran"
+msgstr[1] "%1$s erantzun &ldquo;%2$s&rdquo; sarreran"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Argitaratzailea"
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr "%s-ren sarrera guztiak ikusi"
+
+#: archive.php:51 content-link.php:40 content-page.php:29 content.php:42
+#: image.php:63 index.php:48 search.php:40
+msgid "Page"
+msgstr "Orrialdea"
+
+#: archive.php:50 index.php:47 search.php:39
+msgid "Next page"
+msgstr "Hurrengo orrialdea"
+
+#: archive.php:49 index.php:46 search.php:38
+msgid "Previous page"
+msgstr "Aurreko orrialdea"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ez dago ezer helbide honetan. Saiatu bilaketa bat egiten."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Orri hori ezin dugu aurkitu"
