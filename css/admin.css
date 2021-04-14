@@ -1,0 +1,73 @@
+/*--------------------------------------------------------------
+	THEME INFO PAGE
+--------------------------------------------------------------*/
+
+.theme_info_wrapper p span {
+    margin-left: 30px;
+}
+
+.theme_info_wrapper a.fame_social {
+    margin-left: 15px;
+}
+
+.theme_info {
+    margin: 50px 0px;
+}
+
+.theme_info_left {
+    width: 39%;
+    margin-right: 4%;
+    float: left;
+}
+
+.theme_info_right {
+    width: 57%;
+    float: left;
+}
+
+.theme_info_right img {
+    width: 100%;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
+}
+
+.theme_info h3 {
+    font-size: 17px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.theme_info h4 {
+    font-size: 17px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.theme_info .theme_link {
+    margin-bottom: 30px;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+.clearfix {
+    display: block;
+}
+
+@media screen and (max-width:782px) {
+    .theme_info_left {
+        width: 100%;
+        margin-right: none;
+    }
+    .theme_info_right {
+        width: 100%;
+    }
+}
