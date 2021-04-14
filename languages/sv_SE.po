@@ -1,0 +1,397 @@
+# Translation of WordPress.com - Themes - Radcliffe-2 in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Radcliffe-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-02 14:07:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Radcliffe-2\n"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar inte som något kunde hittas för den här platsen. Testa en sökning kanske?"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:78
+msgid "Tags"
+msgstr "Etiketter"
+
+#: contact-info/contact-info-functions.php:79
+msgid "E-mail"
+msgstr "E-post"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:71
+msgid "Categories"
+msgstr "Kategorier"
+
+#: contact-info/contact-info-functions.php:61
+msgid "Location"
+msgstr "Plats"
+
+#: inc/style-packs.php:38
+msgid "For an extra layer of playfulness, from bold color palettes to a vibrant font."
+msgstr "För ett extra lager av lekfullhet, från djärva färgpaletter till ett pulserande typsnitt."
+
+#: inc/style-packs.php:37
+msgid "Timeless, simple elegance, with classic fonts and a touch of sepia."
+msgstr "Tidlös, enkel elegans, med klassiska typsnitt och en touch av sepia."
+
+#: inc/style-packs.php:36
+msgid "The power of minimalism, embodied in a clean black-and-white design."
+msgstr "Minimalismens kraft, innesluten i en ren svartvit design."
+
+#: inc/style-packs.php:35
+msgid "A bright, versatile canvas, offering a crisp reading experience for visitors."
+msgstr "En ljus, mångsidig duk, som erbjuder en skarp läsupplevelse för besökare."
+
+#: inc/style-packs.php:29
+msgid "Vintage Paper"
+msgstr "Vintagepapper"
+
+#: inc/style-packs.php:28
+msgid "Modern Bauhaus"
+msgstr "Modern Bauhaus"
+
+#: hero-area/hero-area-customizer.php:84
+msgid "http://www.example.com/"
+msgstr "http://www.example.com/"
+
+#: hero-area/hero-area-customizer.php:69
+msgid "Click Me!"
+msgstr "Klicka mig!"
+
+#: inc/customizer.php:30
+msgid "Enter a name for your site"
+msgstr "Ange ett namn för din webbplats"
+
+#: contact-info/contact-info-customizer.php:59
+msgid "(555) 123-4567"
+msgstr "(555) 123-4567"
+
+#: inc/customizer.php:33
+msgid "A short phrase describing your site"
+msgstr "En kort fras som beskriver din webbplats"
+
+#: hero-area/hero-area-customizer.php:39
+msgid "Write a headline"
+msgstr "Skriv en rubrik"
+
+#: contact-info/contact-info-customizer.php:74
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: hero-area/hero-area-customizer.php:54
+msgid "Write some compelling text to encourage people to click the button below"
+msgstr "Skriv lite övertygande text för att uppmuntra människor att klicka på knappen nedan"
+
+#: contact-info/contact-info-customizer.php:89
+msgid "M-F: 9-5pm - Weekends: 10-4pm"
+msgstr "M-F: 9-5pm - Helger: 10-4pm"
+
+#: contact-info/contact-info-customizer.php:44
+msgid "123 Main St, Somewhere XY, 98765"
+msgstr "123 Vägen, Någonstans, 98765"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Fortsätt läsa <span class=\"screen-reader-text\">%s</span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/radcliffe-2/style.css
+msgid "A theme for bloggers who want their content to take center stage."
+msgstr "Ett tema för bloggare som vill att innehållet ska stå i centrum."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ledsen, inget matchade dina sökkriterier. Vänligen försök igen med andra nyckelord."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Publicerad av %s"
+
+#: single.php:29
+msgid "<span class=\"meta-nav\">Previous</span> %title"
+msgstr "<span class=\"meta-nav\">Föregående</span> %title"
+
+#: single.php:28
+msgid "<span class=\"meta-nav\">Next</span> %title"
+msgstr "<span class=\"meta-nav\">Nästa</span> %title"
+
+#: inc/template-tags.php:154
+msgid "Reply"
+msgstr "Svara"
+
+#: inc/wpcom-colors.php:153
+msgid "Main Accent"
+msgstr "Huvudaccentuering"
+
+#: inc/woocommerce.php:240 inc/woocommerce.php:241
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:244
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekt"
+
+#: inc/template-tags.php:136
+msgid "Comment by post author"
+msgstr "Kommentar av inläggsförfattaren"
+
+#: inc/template-tags.php:136
+msgid "(Post author)"
+msgstr "(Inläggsförfattare)"
+
+#: inc/template-tags.php:147
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar moderering"
+
+#: inc/template-tags.php:95 inc/template-tags.php:117 inc/template-tags.php:153
+#: template-parts/content-page.php:50
+msgid "Edit"
+msgstr "Redigera"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:75
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:86 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Redigera <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:114
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:68
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:45
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lämna en kommentar<span class=\"screen-reader-text\"> on %s</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-functions.php:49
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: inc/template-tags.php:30
+msgid "Featured"
+msgstr "Utvalda"
+
+#: inc/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr "Definiera ett filnamn för SVG-ikon."
+
+#: inc/style-packs-core.php:107 inc/style-packs-core.php:276
+msgid "Default"
+msgstr "Standard"
+
+#: inc/style-packs-core.php:111
+msgid "Active Style"
+msgstr "Aktiv stil"
+
+#: inc/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Storlek på logga"
+
+#: inc/style-packs-core.php:97
+msgid "Style Packs"
+msgstr "Stilpacket"
+
+#: hero-area/hero-area-customizer.php:96
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: inc/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr "Definiera standardparametrar i form av en array."
+
+#: hero-area/hero-area-customizer.php:65
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: hero-area/hero-area-customizer.php:80
+msgid "Button URL Link"
+msgstr "Knappens URL-länk"
+
+#: hero-area/hero-area-customizer.php:110
+msgid "Background Overlay"
+msgstr "Bakgrundsövertäckning"
+
+#: hero-area/hero-area-customizer.php:50
+msgid "Description"
+msgstr "Beskrivning"
+
+#: header.php:69
+msgid "Menu"
+msgstr "Meny"
+
+#: hero-area/hero-area-customizer.php:35
+msgid "Title"
+msgstr "Rubrik"
+
+#: hero-area/hero-area-customizer.php:23
+msgid "Display on the Front Page"
+msgstr "Visa på startsidan"
+
+#: functions.php:123
+msgid "Footer 3"
+msgstr "Sidfot 3"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:143
+msgid "Expand child menu"
+msgstr "Expandera barnmeny"
+
+#: functions.php:144
+msgid "Collapse child menu"
+msgstr "Minimera barnmeny"
+
+#: functions.php:48
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: functions.php:103
+msgid "Footer 1"
+msgstr "Sidfot 1"
+
+#: functions.php:113
+msgid "Footer 2"
+msgstr "Sidfot 2"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:27
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: contact-info/contact-info-customizer.php:85
+#: contact-info/contact-info-functions.php:87
+msgid "Hours"
+msgstr "Timmar"
+
+#: footer.php:20
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: contact-info/contact-info-customizer.php:70
+msgid "Email"
+msgstr "E-post"
+
+#: contact-info/contact-info-customizer.php:12
+msgid "Display your location, hours, and contact information."
+msgstr "Visa din plats, tid och kontaktinformation."
+
+#: contact-info/contact-info-customizer.php:40
+msgid "Address"
+msgstr "Adress"
+
+#: contact-info/contact-info-customizer.php:55
+#: contact-info/contact-info-functions.php:70
+msgid "Phone"
+msgstr "Telefon"
+
+#: contact-info/contact-info-customizer.php:29
+msgid "In the footer"
+msgstr "i sidfoten"
+
+#: contact-info/contact-info-customizer.php:24
+msgid "Where would you like to display your contact information?"
+msgstr "Var vill du visa din kontaktinformation?"
+
+#: contact-info/contact-info-customizer.php:28
+msgid "In the header"
+msgstr "i sidhuvudet"
+
+#: contact-info/contact-info-customizer.php:11
+msgid "Contact Info"
+msgstr "Kontaktuppgifter"
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr "Kommentarsfunktionen är stängd."
+
+#: comments.php:53 comments.php:75
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:54 comments.php:76
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: archive.php:40 index.php:45 search.php:40
+msgid "Newer Posts"
+msgstr "Nyare inlägg"
+
+#: comments.php:50 comments.php:72
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "En tanke på &ldquo;%1$s&rdquo;"
+
+#: archive.php:39 index.php:44 search.php:39
+msgid "Older Posts"
+msgstr "Äldre inlägg"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Sidan kunde inte hittas."
