@@ -1,0 +1,207 @@
+# Translation of WordPress.com - Themes - Baskerville-2 in Polish
+# This file is distributed under the same license as the WordPress.com - Themes - Baskerville-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-30 23:38:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: WordPress.com - Themes - Baskerville-2\n"
+
+#: functions.php:254
+msgid "Continue Reading &rarr;"
+msgstr "Czytaj dalej &rarr;"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/baskerville-2/templates/no-sidebar-page.php
+msgid "No Sidebar"
+msgstr "Usuń panel boczny"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/baskerville-2/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Pełna szerokość, brak panelu bocznego"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/baskerville-2/templates/contributors-page.php
+msgid "Contributors"
+msgstr "Współtwórcy"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/baskerville-2/style.css
+msgid "Baskerville 2 is a dynamic, grid-based theme for curators. It's the perfect way to showcase your posts, videos, images and galleries, and share your favorite quotes and links."
+msgstr "Baskerville 2 to dynamiczny, oparty na siatce temat dla kuratorów. To doskonały sposób na prezentowanie postów, filmów, zdjęć i galerii oraz udostępnianie ulubionych cytatów i linków."
+
+#: templates/contributors-page.php:71
+msgid "Website"
+msgstr "Witryna internetowa"
+
+#: templates/contributors-page.php:66 templates/contributors-page.php:67
+msgid "Author archive"
+msgstr "Archiwum autora"
+
+#: templates/contributors-page.php:59
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] "%s wpis"
+msgstr[1] "%s wpisy"
+msgstr[2] "%s wpisów"
+
+#: search.php:11
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla zapytania &#8222;%s&#8221;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:61 inc/template-tags.php:68
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:39
+msgid "%s Edit Post "
+msgstr "%s Edytuj wpis"
+
+#: inc/template-tags.php:23
+msgid "Featured"
+msgstr "Wyróżnione"
+
+#: inc/template-tags.php:17
+msgid "Featured post"
+msgstr "Wyróżniony wpis"
+
+#: inc/custom-header.php:33
+msgid "Default Header"
+msgstr "Domyślny nagłówek"
+
+#: header.php:67
+msgid "Open Search"
+msgstr "Szukaj"
+
+#: header.php:56
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:27
+msgid "Search"
+msgstr "Szukaj"
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Przeskocz do treści"
+
+#: functions.php:208
+msgid "Footer 3"
+msgstr "Stopka 3"
+
+#: functions.php:200
+msgid "Footer 2"
+msgstr "Stopka 2"
+
+#: functions.php:192
+msgid "Footer 1"
+msgstr "Stopka 1"
+
+#: functions.php:183
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto Slab, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:121
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:115
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:56
+msgid "To the top"
+msgstr "Na górę"
+
+#: footer.php:52
+msgid "Theme: %1$s by %2$s."
+msgstr "Motyw: %1$s. Autor motywu: %2$s."
+
+#: footer.php:50
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez WordPressa"
+
+#: footer.php:50
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: content-none.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przykro nam, ale nie znaleziono niczego na podstawie wpisanych terminów. Spróbuj ponownie używając innych słów kluczowych."
+
+#: content-author.php:34
+msgid "View all posts by %s"
+msgstr "Zobacz wszystkie wpisy opublikowane przez %s"
+
+#: content-author.php:28
+msgid "Published by %s"
+msgstr "Opublikowane przez %s"
+
+#. translators: %1$s: Pencil icon, %2$s: Name of current post
+#: content-aside.php:62 content-audio.php:73 content-gallery.php:105
+#: content-image.php:76 content-link.php:79 content-page.php:45
+#: content-quote.php:74 content-status.php:59 content-video.php:68
+#: content.php:66
+msgid "%1$s Edit %2$s"
+msgstr "%1$s Edycja %2$s"
+
+#. translators: %s: Name of current post.
+#: content-aside.php:38 content-audio.php:49 content-gallery.php:68
+#: content-image.php:52 content-link.php:49 content-page.php:36
+#: content-quote.php:51 content-status.php:36 content-video.php:45
+#: content.php:45
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: comments.php:45
+msgid "Newer Comments"
+msgstr "Nowsze komentarze"
+
+#: comments.php:44
+msgid "Older Comments"
+msgstr "Starsze komentarze"
+
+#: comments.php:29
+msgid "Add yours"
+msgstr "Dodaj własny"
+
+#: comments.php:21
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myśl na temat &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+
+#: 404.php:31
+msgid "Try looking in the monthly archives."
+msgstr "Spróbuj poszukać w miesięcznym archiwum."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda, że nic nie ma pod tym adresem. Może spróbuj któryś z poniższych linków lub skorzystaj z wyszukiwarki?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ojej! Nie można znaleźć tej strony."
