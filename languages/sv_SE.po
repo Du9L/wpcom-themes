@@ -1,0 +1,281 @@
+# Translation of WordPress.com - Themes - Blask in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Blask package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:12:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Blask\n"
+
+#: inc/wpcom-colors.php:83
+msgid "Links"
+msgstr "Länkar"
+
+#: inc/wpcom-colors.php:25
+msgid "Text"
+msgstr "Text"
+
+#: inc/jetpack.php:108
+msgid "Older projects"
+msgstr "Äldre projekt"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ledsen, inget matchade dina sökkriterier. Vänligen försök igen med andra nyckelord."
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:26
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">→</span>"
+
+#: portfolio-page.php:58 template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: portfolio-page.php:62 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: portfolio-page.php:52 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#: inc/template-tags.php:230
+msgid "Archives"
+msgstr "Arkiv"
+
+#: inc/template-tags.php:224
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:228
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:219
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ljud"
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: inc/template-tags.php:217
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusar"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Länkar"
+
+#: inc/template-tags.php:202
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier "
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Noteringar"
+
+#: inc/template-tags.php:198
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:200
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: inc/template-tags.php:200
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:202
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:192
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:194
+msgid "Tag: %s"
+msgstr "Etikett: %s"
+
+#: inc/template-tags.php:196
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#: inc/template-tags.php:171
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:175 template-parts/content-page.php:20
+msgid "Edit"
+msgstr "Redigera"
+
+#: inc/template-tags.php:171
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:136 inc/template-tags.php:142
+#: inc/template-tags.php:157 inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:138 inc/template-tags.php:159
+msgid "Posted in %1$s"
+msgstr "Postat i %1$s"
+
+#: inc/template-tags.php:144 inc/template-tags.php:165
+msgid "Tagged %1$s"
+msgstr "Taggad %1$s"
+
+#: inc/template-tags.php:171
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:120
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicerad den %s"
+
+#: inc/template-tags.php:61
+msgid "Older posts"
+msgstr "Äldre inlägg"
+
+#: inc/template-tags.php:65
+msgid "Newer posts"
+msgstr "Nyare inlägg"
+
+#: inc/template-tags.php:90
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:27 inc/template-tags.php:57
+msgid "Posts navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:31 template-parts/content-portfolio-archive.php:28
+msgid "Previous"
+msgstr "Föregående"
+
+#: inc/template-tags.php:35 template-parts/content-portfolio-archive.php:29
+msgid "Next"
+msgstr "Nästa"
+
+#: inc/extras.php:94
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: header.php:38
+msgid "Menu"
+msgstr "Meny"
+
+#: inc/extras.php:57
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Social meny"
+
+#: functions.php:141
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Kommentarsfältet är stängt."
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Mest använda kategorier"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Sidan kunde inte hittas."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som att det inte finns någonting här. Du kan testa en av länkarna nedan eller att göra en sökning."

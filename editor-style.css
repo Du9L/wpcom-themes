@@ -1,0 +1,379 @@
+/*
+Theme Name: Blask
+Description: Used to style the TinyMCE editor.
+*/
+
+/* =Global
+-------------------------------------------------------------- */
+
+html .mceContentBody {
+	max-width: 640px;
+}
+
+body {
+	color: #777;
+	font-family: Arimo, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	vertical-align: baseline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	color: #333;
+	font-family: 'Roboto Condensed', Arial, sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 36px;
+	line-height: 1.333;
+	margin-bottom: .6667em;
+}
+
+h2 {
+	font-size: 32px;
+	line-height: 1.5;
+	margin-bottom: .75em;
+}
+
+h3 {
+	font-size: 28px;
+	line-height: 1.7143;
+	margin-bottom: .8571em;
+}
+
+h4 {
+	font-size: 24px;
+	line-height: 1;
+	margin-bottom: 1em;
+}
+
+h5 {
+	font-size: 22px;
+	line-height: 1.0909;
+	margin-bottom: 1.0909em;
+}
+
+h6 {
+	font-size: 18px;
+	line-height: 1.3333;
+	margin-bottom: 1.3333em;
+}
+
+p {
+	margin-bottom: 1.5em;
+}
+
+p:first-child {
+	margin-top: 0;
+}
+
+p:last-child,
+blockquote:last-child {
+	margin-bottom: 0;
+}
+
+blockquote:first-child {
+	margin-top: 0;
+}
+
+blockquote {
+	color: #aaa;
+	font-size: 24px;
+	line-height: 1.5;
+	margin: 1.5em 0;
+}
+
+blockquote cite {
+	display: block;
+	font-size: 14px;
+	font-style: normal;
+	margin-top: .857em;
+	text-transform: uppercase;
+}
+
+blockquote:first-child {
+	margin-top: 0;
+}
+
+blockquote:last-child {
+	margin-bottom: 0;
+}
+
+hr {
+	background-color: #ccc;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
+
+ul,
+ol {
+	list-style-position: outside;
+	margin: 0 0 1.5em 1em;
+	padding: 0;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: 1.5em;
+}
+
+address {
+	margin: 0 0 1.5em;
+}
+
+pre {
+	background: #eee;
+	font-family: 'Courier 10 Pitch', Courier, monospace;
+	font-size: 15px;
+	line-height: 1.5;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, 'Andale Mono', 'DejaVu Sans Mono', monospace;
+	font-size: 15px;
+	line-height: 1.5;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark,
+ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+
+big {
+	font-size: 125%;
+}
+
+sup,
+sub {
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	bottom: 1ex;
+}
+
+sub {
+	top: .5ex;
+}
+
+small {
+	font-size: 75%;
+}
+
+big {
+	font-size: 125%;
+}
+
+figure {
+	margin: 0;
+}
+
+.mce-item-table,
+.mce-item-table th,
+.mce-item-table td {
+	border: none;
+}
+
+.mce-item-table {
+	border-collapse: separate;
+	border-spacing: 0;
+	border-top: 1px solid #eee;
+	margin: 0 0 1.5em;
+	width: 100%;
+}
+
+.mce-item-table th {
+	background: #eee;
+	font-weight: bold;
+}
+
+.mce-item-table th,
+.mce-item-table td {
+	border-bottom: 1px solid #eee;
+	padding: 10px 20px;
+}
+
+img {
+	height: auto;
+	margin-bottom: 1.5em;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+/* Links */
+a {
+	border-bottom: 1px solid #000;
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #333;
+}
+
+a:focus {
+	outline: 2px solid #eee;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+a img {
+	border: 0;
+}
+
+/* Alignment */
+.wp-caption.alignleft,
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+.wp-caption.alignright,
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* =Media
+----------------------------------------------- */
+.wp-caption {
+	max-width: 100%;
+}
+.wp-caption-dd,
+.wp-caption-text {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+	color: #aaa;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 1.7143;
+	margin: .875em 0;
+	text-align: left;
+}
+
+.mceTemp + ul,
+.mceTemp + ol {
+	list-style-position: inside;
+}
+
+.gallery {
+	margin-bottom: 1.5em;
+}
+
+.gallery img {
+	margin-bottom: 12px;
+}
+
+.gallery-item {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+
+.gallery-caption {
+	display: block;
+}
+
+/* RTL */
+html .mceContentBody.rtl {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.rtl ol,
+.rtl ul {
+	margin-left: 0;
+	margin-right: 1em;
+}
+
+.rtl .wp-caption,
+.rtl tr th {
+	text-align: right;
+}
+
+.rtl td {
+	text-align: right;
+}

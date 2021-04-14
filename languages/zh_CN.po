@@ -1,0 +1,263 @@
+# Translation of WordPress.com - Themes - Blask in Chinese (China)
+# This file is distributed under the same license as the WordPress.com - Themes - Blask package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-01 08:19:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: WordPress.com - Themes - Blask\n"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/blask/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "文件夹页面模板"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: portfolio-page.php:58 template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: portfolio-page.php:62 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们无法找到您想查找的内容。或许搜索可以帮助您。"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "针对以下内容的搜索结果：%s"
+
+#: portfolio-page.php:52 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: inc/template-tags.php:230
+msgid "Archives"
+msgstr "归档"
+
+#: inc/template-tags.php:224
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:228
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: inc/template-tags.php:219
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: inc/template-tags.php:217
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引语"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "相册"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: inc/template-tags.php:202
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: inc/template-tags.php:198
+msgid "Year: %s"
+msgstr "年：%s"
+
+#: inc/template-tags.php:198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:200
+msgid "Month: %s"
+msgstr "月：%s"
+
+#: inc/template-tags.php:200
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:202
+msgid "Day: %s"
+msgstr "日：%s"
+
+#: inc/template-tags.php:194
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: inc/template-tags.php:196
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: inc/template-tags.php:192
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: inc/template-tags.php:171
+msgid "% Comments"
+msgstr "%条评论"
+
+#: inc/template-tags.php:175 template-parts/content-page.php:20
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/template-tags.php:171
+msgid "1 Comment"
+msgstr "1条评论"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:136 inc/template-tags.php:142
+#: inc/template-tags.php:157 inc/template-tags.php:163
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:138 inc/template-tags.php:159
+msgid "Posted in %1$s"
+msgstr "发表在 %1$s"
+
+#: inc/template-tags.php:144 inc/template-tags.php:165
+msgid "Tagged %1$s"
+msgstr "已添加标签 %1$s"
+
+#: inc/template-tags.php:171
+msgid "Leave a comment"
+msgstr "发表回复"
+
+#: inc/template-tags.php:61
+msgid "Older posts"
+msgstr "较早的博文"
+
+#: inc/template-tags.php:65
+msgid "Newer posts"
+msgstr "较新的文章"
+
+#: inc/template-tags.php:90
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:27 inc/template-tags.php:57
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "上一"
+
+#: inc/template-tags.php:35
+msgid "Next"
+msgstr "下一"
+
+#: inc/extras.php:106
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: header.php:38
+msgid "Menu"
+msgstr "菜单"
+
+#: inc/extras.php:69
+msgid "Pages:"
+msgstr "页码："
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "社交菜单"
+
+#: functions.php:141
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "跳转到内容"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "主题: %1$s 作者 %2$s."
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://cn.wordpress.org/"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "使用次数最多的种类"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s个想法"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在此位置似乎没有找到任何内容。或许您可以尝试点击下面的某个链接或进行搜索？"

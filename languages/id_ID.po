@@ -1,0 +1,287 @@
+# Translation of WordPress.com - Themes - Blask in Indonesian
+# This file is distributed under the same license as the WordPress.com - Themes - Blask package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-28 09:31:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: WordPress.com - Themes - Blask\n"
+
+#: inc/wpcom-colors.php:83
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/wpcom-colors.php:25
+msgid "Text"
+msgstr "Teks"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/blask/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Templat Halaman Portofolio"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:26
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lanjutkan membaca %s <span class=\"meta-nav\">→</span>"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: portfolio-page.php:62 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: portfolio-page.php:58 template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: portfolio-page.php:52 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak ada yang ditemukan"
+
+#: inc/template-tags.php:230
+msgid "Archives"
+msgstr "Arsip"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:228
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:224
+msgid "Archives: %s"
+msgstr "Arsip: %s"
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Obrolan"
+
+#: inc/template-tags.php:219
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:217
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Gambar"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeri"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Samping"
+
+#: inc/template-tags.php:202
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:202
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/template-tags.php:200
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:200
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/template-tags.php:198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:198
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/template-tags.php:196
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/template-tags.php:194
+msgid "Tag: %s"
+msgstr "Kaitkata: %s"
+
+#: inc/template-tags.php:192
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:175 template-parts/content-page.php:20
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/template-tags.php:171
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:171
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:171
+msgid "Leave a comment"
+msgstr "Meninggalkan komentar"
+
+#: inc/template-tags.php:144 inc/template-tags.php:165
+msgid "Tagged %1$s"
+msgstr "Ditandai %1$s"
+
+#: inc/template-tags.php:138 inc/template-tags.php:159
+msgid "Posted in %1$s"
+msgstr "Dikirimkan di %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:136 inc/template-tags.php:142
+#: inc/template-tags.php:157 inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:120
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Diposkan pada %s"
+
+#: inc/template-tags.php:90
+msgid "Post navigation"
+msgstr "Navigasi pos"
+
+#: inc/template-tags.php:65
+msgid "Newer posts"
+msgstr "Pos-pos Lebih Baru"
+
+#: inc/template-tags.php:61
+msgid "Older posts"
+msgstr "Tulisan yang lebih lama"
+
+#: inc/template-tags.php:35 template-parts/content-portfolio-archive.php:29
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: inc/template-tags.php:31 template-parts/content-portfolio-archive.php:28
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: inc/template-tags.php:27 inc/template-tags.php:57
+msgid "Posts navigation"
+msgstr "Navigasi pos"
+
+#: inc/extras.php:94
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: inc/extras.php:57
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: header.php:38
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: functions.php:141
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:125
+msgctxt "Arimo font: on or off"
+msgid "on"
+msgstr "nyala"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Menu sosial"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga bertenaga %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "Komentar Berikutnya"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "Komentar Sebelumnya"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Kategori Paling Banyak Digunakan"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nampaknya tidak ada yang ditemukan di lokasi. Mungkin coba salah satu tautan di bawah atau telusuri?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."

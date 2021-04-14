@@ -1,0 +1,327 @@
+# Translation of WordPress.com - Themes - Blask in Lithuanian
+# This file is distributed under the same license as the WordPress.com - Themes - Blask package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-09 13:09:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lt\n"
+"Project-Id-Version: WordPress.com - Themes - Blask\n"
+
+#: inc/wpcom-colors.php:83
+msgid "Links"
+msgstr "Nuorodos"
+
+#: inc/wpcom-colors.php:25
+msgid "Text"
+msgstr "Tekstas"
+
+#: template-parts/content-portfolio-archive.php:30
+msgid "Portfolio navigation"
+msgstr "Portfolio meniu"
+
+#: inc/jetpack.php:108
+msgid "Older projects"
+msgstr "Senesni projektai"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/blask/style.css
+msgid "http://wordpress.com/themes/blask"
+msgstr "http://wordpress.com/themes/blask"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/blask/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Portfolio puslapio šablonas"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:26
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/blask/style.css
+msgid "Blask is a modern portfolio theme focused on showcasing your work in a clean and minimal way."
+msgstr "Blask - moderni portfolio tema."
+
+#: portfolio-page.php:58 template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai: %s"
+
+#: portfolio-page.php:62 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nieko nerasta. Pabandykite pasinaudoti paieška."
+
+#: portfolio-page.php:52 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: inc/template-tags.php:230
+msgid "Archives"
+msgstr "Archyvai"
+
+#: inc/template-tags.php:224
+msgid "Archives: %s"
+msgstr "Archyvai: %s"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Nuorodos"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:228
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Pokalbiai"
+
+#: inc/template-tags.php:217
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusai"
+
+#: inc/template-tags.php:219
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerijos"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Paveiksliukai"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citatos"
+
+#: inc/template-tags.php:202
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Užrašai"
+
+#: inc/template-tags.php:202
+msgid "Day: %s"
+msgstr "Diena: %s"
+
+#: inc/template-tags.php:200
+msgid "Month: %s"
+msgstr "Mėnesis: %s"
+
+#: inc/template-tags.php:198
+msgid "Year: %s"
+msgstr "Metai: %s"
+
+#: inc/template-tags.php:200
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:194
+msgid "Tag: %s"
+msgstr "Žymė: %s"
+
+#: inc/template-tags.php:196
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#: inc/template-tags.php:192
+msgid "Category: %s"
+msgstr "Kategorija: %s"
+
+#: inc/template-tags.php:175 template-parts/content-page.php:20
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: inc/template-tags.php:171
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: inc/template-tags.php:171
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:136 inc/template-tags.php:142
+#: inc/template-tags.php:157 inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:138 inc/template-tags.php:159
+msgid "Posted in %1$s"
+msgstr "Paskelbta %1$s"
+
+#: inc/template-tags.php:144 inc/template-tags.php:165
+msgid "Tagged %1$s"
+msgstr "Pažymėta %1$s"
+
+#: inc/template-tags.php:171
+msgid "Leave a comment"
+msgstr "Komentarų: 0"
+
+#: inc/template-tags.php:120
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publikuota %s"
+
+#: inc/template-tags.php:61
+msgid "Older posts"
+msgstr "Ankstesni įrašai"
+
+#: inc/template-tags.php:65
+msgid "Newer posts"
+msgstr "Naujesni įrašai"
+
+#: inc/template-tags.php:90
+msgid "Post navigation"
+msgstr "Įrašo navigacija"
+
+#: inc/template-tags.php:27 inc/template-tags.php:57
+msgid "Posts navigation"
+msgstr "Įrašų navigacija"
+
+#: inc/template-tags.php:31 template-parts/content-portfolio-archive.php:28
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: inc/template-tags.php:35 template-parts/content-portfolio-archive.php:29
+msgid "Next"
+msgstr "Kitas"
+
+#: inc/extras.php:94
+msgid "Page %s"
+msgstr "Puslapis %s"
+
+#: header.php:38
+msgid "Menu"
+msgstr "Meniu"
+
+#: inc/extras.php:57
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: functions.php:141
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "nėra kalbos poaibio"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Socialiniai tinklai"
+
+#: functions.php:185
+msgid "Collapse child menu"
+msgstr "Suskleisti sub-meniu"
+
+#: functions.php:184
+msgid "Expand child menu"
+msgstr "išskleisti sub-meniu"
+
+#: functions.php:102
+msgid "Footer Sidebar 2"
+msgstr "Poraštės sritis 2"
+
+#: functions.php:92
+msgid "Footer Sidebar 1"
+msgstr "Poraštės sritis 1"
+
+#: functions.php:133
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:125
+msgctxt "Arimo font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė: %2$s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Populiariausios kategorijos"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mintis apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mintys apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s minčių apie &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "

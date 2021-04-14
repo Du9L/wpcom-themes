@@ -1,0 +1,311 @@
+# Translation of WordPress.com - Themes - Blask in Portuguese (Brazil)
+# This file is distributed under the same license as the WordPress.com - Themes - Blask package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-09 21:21:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: WordPress.com - Themes - Blask\n"
+
+#: inc/wpcom-colors.php:83
+msgid "Links"
+msgstr "Links"
+
+#: inc/wpcom-colors.php:25
+msgid "Text"
+msgstr "Texto"
+
+#: inc/jetpack.php:108
+msgid "Older projects"
+msgstr "Projetos Antigos"
+
+#: template-parts/content-portfolio-archive.php:30
+msgid "Portfolio navigation"
+msgstr "Navegação do portfólio"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/blask/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Modelo de página de portfólio"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Não encontramos nada para estes termos de busca. Tente novamente com palavras-chave diferentes."
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:26
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar lendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/blask/style.css
+msgid "Blask is a modern portfolio theme focused on showcasing your work in a clean and minimal way."
+msgstr "Blask é um tema de portfólio moderno, focado em mostrar seus trabalhos em uma maneira simples e minimalista."
+
+#: portfolio-page.php:58 template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: portfolio-page.php:62 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não encontramos o que você está procurando. Talvez a ferramenta de pesquisa possa ajudar."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por: %s"
+
+#: portfolio-page.php:52 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenhum resultado"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:217
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/template-tags.php:219
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Áudio"
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:224
+msgid "Archives: %s"
+msgstr "Arquivo: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:228
+msgid "%1$s: %2$s"
+msgstr "%1$s @ %2$s"
+
+#: inc/template-tags.php:230
+msgid "Archives"
+msgstr "Arquivos"
+
+#: inc/template-tags.php:202
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notas"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerias"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imagens"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citações"
+
+#: inc/template-tags.php:198
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: inc/template-tags.php:198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:200
+msgid "Month: %s"
+msgstr "Mês: %s"
+
+#: inc/template-tags.php:200
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:202
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: inc/template-tags.php:192
+msgid "Category: %s"
+msgstr "Categoria: %s"
+
+#: inc/template-tags.php:194
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:196
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:171
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: inc/template-tags.php:175 template-parts/content-page.php:20
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:171
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: inc/template-tags.php:120
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:136 inc/template-tags.php:142
+#: inc/template-tags.php:157 inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:138 inc/template-tags.php:159
+msgid "Posted in %1$s"
+msgstr "Publicado em %1$s"
+
+#: inc/template-tags.php:144 inc/template-tags.php:165
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: inc/template-tags.php:171
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: inc/template-tags.php:61
+msgid "Older posts"
+msgstr "Posts antigos"
+
+#: inc/template-tags.php:65
+msgid "Newer posts"
+msgstr "Posts mais recentes"
+
+#: inc/template-tags.php:90
+msgid "Post navigation"
+msgstr "Navegação de Posts"
+
+#: inc/template-tags.php:27 inc/template-tags.php:57
+msgid "Posts navigation"
+msgstr "Navegação de Posts"
+
+#: inc/template-tags.php:31 template-parts/content-portfolio-archive.php:28
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/template-tags.php:35 template-parts/content-portfolio-archive.php:29
+msgid "Next"
+msgstr "Avançar"
+
+#: inc/extras.php:94
+msgid "Page %s"
+msgstr "Página %s"
+
+#: header.php:38
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/extras.php:57
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Menu social"
+
+#: functions.php:92
+msgid "Footer Sidebar 1"
+msgstr "Bara Lateral de Rodapé 1"
+
+#: functions.php:102
+msgid "Footer Sidebar 2"
+msgstr "Barra lateral do rodapé 2"
+
+#: functions.php:141
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "sem subconjunto"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Ir para conteúdo"
+
+#: functions.php:185
+msgid "Collapse child menu"
+msgstr "Recolher menu filho"
+
+#: functions.php:184
+msgid "Expand child menu"
+msgstr "Expandir menu filho"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s "
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://br.wordpress.org/"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Mantido com %s"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Os comentários estão encerrados."
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Categorias mais Usadas"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Um comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "Navegação dos comentários"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ops! Essa página não pode ser encontrada."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que nada foi encontrado neste lugar. Quem sabe você possa tentar um dos links abaixo ou uma busca?"

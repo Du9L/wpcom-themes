@@ -1,0 +1,265 @@
+/*
+Theme Name: Blask
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+
+ul,
+ol {
+	margin: 0 3em 1.5em 0;
+}
+
+li > ul,
+li > ol {
+	margin-left: auto;
+	margin-right: 40px;
+}
+
+/*--------------------------------------------------------------
+## Links
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+
+.main-navigation ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.main-navigation ul ul a {
+	padding-left: 0;
+	padding-right: 1em;
+}
+
+.main-navigation ul li:hover > ul,
+.main-navigation ul li.focus > ul {
+	left: auto;
+	right: auto;
+}
+
+/* Small menu. */
+.menu-toggle:after {
+	margin-left: auto;
+	margin-right: 2px;
+}
+
+.comment-navigation .nav-previous,
+.posts-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: right;
+}
+
+.comment-navigation .nav-next,
+.posts-navigation .nav-next,
+.post-navigation .nav-next {
+	float: left;
+	text-align: left;
+}
+
+.comment-navigation .nav-next a:after,
+.posts-navigation .nav-next a:after,
+.post-navigation .nav-next a:after {
+	content: '\2190';
+}
+
+.comment-navigation .nav-previous a:before,
+.posts-navigation .nav-previous a:before,
+.post-navigation .nav-previous a:before {
+	content: '\2192';
+}
+
+.comment-navigation .nav-previous a:before,
+.posts-navigation .nav-previous a:before,
+.post-navigation .nav-previous a:before {
+	margin-left: 2px;
+	margin-right: auto;
+}
+
+.comment-navigation .nav-next a:after,
+.posts-navigation .nav-next a:after,
+.post-navigation .nav-next a:after {
+	margin-left: auto;
+	margin-right: 2px;
+}
+
+/* Page links */
+.page-links .page-links-title {
+	padding-left: 10px;
+	padding-right: 0;
+}
+
+.page-links span {
+	border-left: 1px solid rgba(0, 0, 0, .05);
+	border-right: none;
+}
+
+.page-links .page-links-title {
+	padding-left: 10px;
+	padding-right: 0;
+}
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+
+/* Text meant only for screen readers. */
+
+.screen-reader-text:focus {
+	left: auto;
+	right: 5px;
+}
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+.widget li > ul,
+.widget li > ol {
+	margin-left: auto;
+	margin-right: 1em;
+}
+
+/* Calendar widget */
+.widget_calendar #prev {
+	text-align: right;
+}
+
+.widget_calendar #next {
+	text-align: left;
+}
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+.footer-name {
+	margin: 0 2px 0 0;
+}
+
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+.entry-meta span {
+	margin-left: 1em;
+	margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+.comment-list {
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.comment-meta {
+	padding-left: 0;
+	padding-right: 3em;
+}
+
+.comment .avatar {
+	left: auto;
+	right: -3em;
+}
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+.wp-caption-text {
+	text-align: right;
+}
+
+/*--------------------------------------------------------------
+# Media queries
+--------------------------------------------------------------*/
+@media screen and (min-width:768px) {
+	.sidebar {
+		left: auto;
+		position: fixed;
+		right: 40px;
+	}
+
+	.site-content {
+		margin-left: 40px;
+		margin-right: 300px;
+	}
+
+	.footer-widget-area .widget-area {
+		float: right;
+	}
+
+	.footer-widget-area .widget-area:nth-child(1):nth-last-child(2),
+	.footer-widget-area .widget-area:nth-child(2):nth-last-child(1) {
+		margin-left: auto;
+		margin-right: 6%;
+		margin-right: auto;
+	}
+
+	.footer-widget-area .widget-area:nth-child(1):nth-last-child(2):last-of-type,
+	.footer-widget-area .widget-area:nth-child(2):nth-last-child(1):last-of-type {
+		margin-left: 0;
+	}
+
+	.footer-widget-area .widget-area:nth-child(1):nth-last-child(3),
+	.footer-widget-area .widget-area:nth-child(2):nth-last-child(2),
+	.footer-widget-area .widget-area:nth-child(3):nth-last-child(1) {
+		margin-left: 5%;
+		margin-right: auto;
+	}
+
+	.footer-widget-area .widget-area:nth-child(1):nth-last-child(3):last-of-type,
+	.footer-widget-area .widget-area:nth-child(2):nth-last-child(2):last-of-type,
+	.footer-widget-area .widget-area:nth-child(3):nth-last-child(1):last-of-type {
+		margin-left: 0;
+	}
+
+}
+
+@media screen and (min-width:1025px) {
+	.sidebar {
+		left: auto;
+		right: 60px;
+	}
+
+	.site-content {
+		margin-left: auto;
+		margin-right: 360px;
+	}
+
+	.entry-meta {
+		float: left;
+	}
+
+	.entry-content,
+	.entry-summary {
+		float: right;
+	}
+
+}
+
+@media screen and (min-width:1260px) {
+	img.size-big,
+	.wp-caption.caption-big {
+		margin-left: -235px;
+		margin-right: auto;
+	}
+
+	.page .wp-caption.alignright,
+	.page img.alignright,
+	.page blockquote.alignright {
+		margin-left: -120px;
+		margin-right: auto;
+	}
+
+}

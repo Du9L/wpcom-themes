@@ -1,0 +1,268 @@
+# Translation of Blask in Esperanto
+# This file is distributed under the same license as the Blask package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-04 12:18:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Blask\n"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bedaŭrinde, nenio kongruis kun viaj serĉaj kriterioj. Bonvolu provi denove, uzante malsamajn vortojn."
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:26
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Legi plu %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: portfolio-page.php:58 template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ĉu preta por publikigi vian unuan afiŝon? <a href=\"%1$s\">Eku ĉi tie</a>."
+
+#: portfolio-page.php:62 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Ŝajnas, ke ni ne povas trovi tion. Eble serĉo helpos."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Serĉrezultoj por: %s"
+
+#: portfolio-page.php:52 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenio estis trovita"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ligiloj"
+
+#: inc/template-tags.php:217
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statoj"
+
+#: inc/template-tags.php:219
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Aŭdaĵoj"
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Babiloj"
+
+#: inc/template-tags.php:224
+msgid "Archives: %s"
+msgstr "Arkivoj: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:228
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:230
+msgid "Archives"
+msgstr "Arkivoj"
+
+#: inc/template-tags.php:202
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Mencioj"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerioj"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bildoj"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoj"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citaĵoj"
+
+#: inc/template-tags.php:198
+msgid "Year: %s"
+msgstr "Jaro: %s"
+
+#: inc/template-tags.php:198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "J"
+
+#: inc/template-tags.php:200
+msgid "Month: %s"
+msgstr "Monato: %s"
+
+#: inc/template-tags.php:200
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:202
+msgid "Day: %s"
+msgstr "Tago: %s"
+
+#: inc/template-tags.php:192
+msgid "Category: %s"
+msgstr "Kategorio: %s"
+
+#: inc/template-tags.php:194
+msgid "Tag: %s"
+msgstr "Etikedo: %s"
+
+#: inc/template-tags.php:196
+msgid "Author: %s"
+msgstr "Aŭtoro: %s"
+
+#: inc/template-tags.php:171
+msgid "% Comments"
+msgstr "% Komentoj"
+
+#: inc/template-tags.php:175 template-parts/content-page.php:20
+msgid "Edit"
+msgstr "Redakti"
+
+#: inc/template-tags.php:171
+msgid "1 Comment"
+msgstr "1 komento"
+
+#: inc/template-tags.php:120
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Afiŝita en %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:136 inc/template-tags.php:142
+#: inc/template-tags.php:157 inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:138 inc/template-tags.php:159
+msgid "Posted in %1$s"
+msgstr "Afiŝita en %1$s"
+
+#: inc/template-tags.php:144 inc/template-tags.php:165
+msgid "Tagged %1$s"
+msgstr "Etikedita per %1$s"
+
+#: inc/template-tags.php:171
+msgid "Leave a comment"
+msgstr "Lasi respondon"
+
+#: inc/template-tags.php:61
+msgid "Older posts"
+msgstr "Pli malnovaj afiŝoj"
+
+#: inc/template-tags.php:65
+msgid "Newer posts"
+msgstr "Pli novaj afiŝoj"
+
+#: inc/template-tags.php:90
+msgid "Post navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: inc/template-tags.php:27 inc/template-tags.php:57
+msgid "Posts navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Antaŭa"
+
+#: inc/template-tags.php:35
+msgid "Next"
+msgstr "Sekva"
+
+#: inc/extras.php:106
+msgid "Page %s"
+msgstr "Paĝo %s"
+
+#: header.php:38
+msgid "Menu"
+msgstr "Menuo"
+
+#: inc/extras.php:69
+msgid "Pages:"
+msgstr "Paĝoj:"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Socia menuo"
+
+#: functions.php:141
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Iri rekte al la enhavo"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Etoso: %1$s de %2$s. "
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Ĉefa menuo"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Fiere kreata de %s"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "Pli malnovaj komentoj"
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "Pli novaj komentoj"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Komentado estas fermita."
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Plej uzataj kategorioj"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Unu penso pri &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensoj pri &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "Navigado tra komentoj"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ne eblas trovi tiun paĝon."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Aspektas kvazaŭ nenio estis trovita ĉe ĉi tiu loko. Ĉu eble provi unu de la subaj ligiloj aŭ serĉon?"

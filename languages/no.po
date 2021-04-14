@@ -1,0 +1,321 @@
+# Translation of WordPress.com - Themes - Blask in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Blask package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-25 19:48:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Blask\n"
+
+#: inc/wpcom-colors.php:83
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/wpcom-colors.php:25
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/jetpack.php:108
+msgid "Older projects"
+msgstr "Eldre prosjekter"
+
+#: template-parts/content-portfolio-archive.php:30
+msgid "Portfolio navigation"
+msgstr "Porteføljenavigasjon"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/blask/style.css
+msgid "http://wordpress.com/themes/blask"
+msgstr "https://wordpress.com/themes/blask"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/blask/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Porteføljesidemal"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet passet med dine søkeord. Vennligst prøv igjen med andre søkeord."
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:26
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les mer %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: portfolio-page.php:58 template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: portfolio-page.php:62 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: portfolio-page.php:52 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:228
+msgid "%1$s: %2$s"
+msgstr "%1$s @ %2$s"
+
+#: inc/template-tags.php:230
+msgid "Archives"
+msgstr "Arkiver"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/template-tags.php:219
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:224
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Samtaler"
+
+#: inc/template-tags.php:217
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuser"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Sitater"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Filmer"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:202
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:198
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:200
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:200
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:202
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:192
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:194
+msgid "Tag: %s"
+msgstr "Merkelapp: %s"
+
+#: inc/template-tags.php:196
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: inc/template-tags.php:171
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:175 template-parts/content-page.php:20
+msgid "Edit"
+msgstr "endre"
+
+#: inc/template-tags.php:171
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:120
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publiser %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:136 inc/template-tags.php:142
+#: inc/template-tags.php:157 inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:138 inc/template-tags.php:159
+msgid "Posted in %1$s"
+msgstr "Publisert i %1$s"
+
+#: inc/template-tags.php:144 inc/template-tags.php:165
+msgid "Tagged %1$s"
+msgstr "Stikkord %1$s"
+
+#: inc/template-tags.php:171
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:61
+msgid "Older posts"
+msgstr "Eldre innlegg"
+
+#: inc/template-tags.php:65
+msgid "Newer posts"
+msgstr "Nyere innlegg"
+
+#: inc/template-tags.php:90
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/template-tags.php:27 inc/template-tags.php:57
+msgid "Posts navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/template-tags.php:31 template-parts/content-portfolio-archive.php:28
+msgid "Previous"
+msgstr "Forrige"
+
+#: inc/template-tags.php:35 template-parts/content-portfolio-archive.php:29
+msgid "Next"
+msgstr "Neste"
+
+#: inc/extras.php:94
+msgid "Page %s"
+msgstr "Side %s"
+
+#: header.php:38
+msgid "Menu"
+msgstr "Meny"
+
+#: inc/extras.php:57
+msgid "Pages:"
+msgstr "Sider:"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Sosiale medier-meny"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: functions.php:185
+msgid "Collapse child menu"
+msgstr "Lukk undermeny"
+
+#: functions.php:184
+msgid "Expand child menu"
+msgstr "Utvid undermeny"
+
+#: functions.php:125
+msgctxt "Arimo font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:133
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:141
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:92
+msgid "Footer Sidebar 1"
+msgstr "Bunnområde-sidelinje 1"
+
+#: functions.php:102
+msgid "Footer Sidebar 2"
+msgstr "Bunnområde-sidelinje 2"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ble tydeligvis ikke funnet noe her. Kanskje forsøke en av lenkene under eller et søk?"
