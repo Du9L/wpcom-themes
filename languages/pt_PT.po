@@ -1,0 +1,168 @@
+# Translation of WordPress.com - Themes - Button-2 in Portuguese (Portugal)
+# This file is distributed under the same license as the WordPress.com - Themes - Button-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-07 12:09:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt\n"
+"Project-Id-Version: WordPress.com - Themes - Button-2\n"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:221
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d itens"
+
+#: inc/woocommerce.php:219
+msgid "View your shopping cart"
+msgstr "Visualizar os itens do seu carrinho de compras"
+
+#: inc/wpcom-colors.php:90
+msgid "Main Accent"
+msgstr "Acentuação Principal"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa para: %s"
+
+#: inc/template-tags.php:39
+msgid "% Comments"
+msgstr "% comentários"
+
+#: inc/template-tags.php:39
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "Em destaque"
+
+#: inc/template-tags.php:39
+msgid "Leave a comment"
+msgstr "Comentar"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:185
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ativado"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:191
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "ativado"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Saltar para o conteúdo"
+
+#: functions.php:129
+msgid "Footer 1"
+msgstr "Rodapé 1"
+
+#: functions.php:137
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+#: functions.php:145
+msgid "Footer 3"
+msgstr "Rodapé 3"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: functions.php:46
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: footer.php:39
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:37
+msgid "http://wordpress.org/"
+msgstr "http://pt.wordpress.org/"
+
+#: footer.php:37
+msgid "Proudly powered by %s"
+msgstr "Criado com %s"
+
+#. translators: %s: Name of current post.
+#: components/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue a ler %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: components/content-page.php:46 inc/template-tags.php:46
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: components/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não foi possível encontrar o que procurava. Talvez uma pesquisa ajude."
+
+#: components/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "A postos para publicar o seu primeiro artigo? <a href=\"%1$s\">Comece aqui</a>."
+
+#: components/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada correspondeu aos seus critérios de pesquisa. Por favor, tente novamente com palavras-chave diferentes."
+
+#: components/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: components/content-author.php:28
+msgid "Published by %s"
+msgstr "Publicado por %s"
+
+#: components/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Ver todos os artigos de %s"
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que não foi encontrado nada nesta localização. Talvez tentar uma pesquisa?"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Uma opinião sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s opiniões sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Não foi possível encontrar essa página."

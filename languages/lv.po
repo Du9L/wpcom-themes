@@ -1,0 +1,155 @@
+# Translation of WordPress.com - Themes - Button-2 in Latvian
+# This file is distributed under the same license as the WordPress.com - Themes - Button-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-21 17:00:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lv\n"
+"Project-Id-Version: WordPress.com - Themes - Button-2\n"
+
+#: inc/wpcom-colors.php:90
+msgid "Main Accent"
+msgstr "Izceltais saturs"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/button-2/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Pilns platums, bez sānjoslas"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Meklēšanas rezultāti: %s"
+
+#: inc/template-tags.php:136
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Turpināt lasīt <span class=\"screen-reader-text\">"
+
+#: inc/template-tags.php:39
+msgid "% Comments"
+msgstr "% komentāri"
+
+#: inc/template-tags.php:39
+msgid "1 Comment"
+msgstr "1 komentārs"
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "Izceltais"
+
+#: inc/template-tags.php:39
+msgid "Leave a comment"
+msgstr "Komentēt"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Izvēlne"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:185
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Doties uz saturu"
+
+#: functions.php:137
+msgid "Footer 2"
+msgstr "Kājene 2"
+
+#: functions.php:129
+msgid "Footer 1"
+msgstr "Kājene 1"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Sānumala"
+
+#: functions.php:46
+msgid "Header"
+msgstr "Galvene"
+
+#: footer.php:39
+msgid "Theme: %1$s by %2$s."
+msgstr "Tēma: %1$s no %2$s."
+
+#: footer.php:37
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:37
+msgid "Proudly powered by %s"
+msgstr "Lepni darbina %s"
+
+#. translators: %s: Name of current post.
+#: components/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Turpināt lasīšanu  %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: components/content-page.php:46 inc/template-tags.php:46
+msgid "Edit %s"
+msgstr "Rediģēt %s"
+
+#: components/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izskatās, ka mēs nevaram atrast to ko meklējat. Iespējams meklēšana var palīdzēt."
+
+#: components/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esat gatavi publicēt savu pirmo rakstu? <a href=\"%1$s\">Sāciet te</a>."
+
+#: components/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Diemžēl, bet nekas netika atrasts. Mēģiniet vēlreiz izmantojot citus atslēgvārdus."
+
+#: components/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nekas nav atrasts"
+
+#: components/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Skatīt visus autora %s rakstus"
+
+#: components/content-author.php:28
+msgid "Published by %s"
+msgstr "Publicējis %s"
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "Jaunāki komentāri"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentāri ir slēgti."
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "Senāki komentāri"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Izskatās, ka šeit nekas netika atrasts. Varbūt izmantojiet meklēšanu?"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "Komentāru navigācija"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Viena doma par &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s domas par &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s domu par &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm... Tāda lapa nav atrodama."
