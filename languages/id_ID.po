@@ -1,0 +1,287 @@
+# Translation of WordPress.com - Themes - Bushwick in Indonesian
+# This file is distributed under the same license as the WordPress.com - Themes - Bushwick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-08 00:11:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: WordPress.com - Themes - Bushwick\n"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/bushwick/style.css
+msgid "Bushwick is a lightweight, responsive blogging theme, designed to show beautiful content alongside beautiful imagery."
+msgstr "Bushwick adalah tema blogging yang ringan dan responsif, dirancang untuk menampilkan konten indah bersama-sama dengan gambar yang cantik."
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cari untuk:"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: navigation.php:10
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: inc/template-tags.php:241
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s tahun"
+msgstr[1] "%s tahun"
+
+#: inc/template-tags.php:235
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s bulan"
+msgstr[1] "%s bulan"
+
+#: inc/template-tags.php:229
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s minggu"
+msgstr[1] "%s minggu"
+
+#: inc/template-tags.php:223
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s hari"
+msgstr[1] "%s hari"
+
+#: inc/template-tags.php:217
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s jam"
+msgstr[1] "%s jam"
+
+#. translators: min=minute
+#: inc/template-tags.php:211
+msgid "%s min"
+msgid_plural "%s mins"
+msgstr[0] "%s menit"
+msgstr[1] "%s menit"
+
+#: inc/template-tags.php:183 sidebar-single.php:23
+msgid "View all posts by %s"
+msgstr "Lihat semua tulisan milik %s"
+
+#: inc/template-tags.php:103
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang menunggu moderasi."
+
+#: inc/template-tags.php:96
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: inc/template-tags.php:90
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">berkata:</span>"
+
+#: inc/template-tags.php:80
+msgid "Pingback:"
+msgstr "Ping balik:"
+
+#: inc/template-tags.php:55
+msgid "Post navigation"
+msgstr "Navigasi tulisan"
+
+#: inc/template-tags.php:30
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tulisan selanjutnya <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:26
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Tulisan sebelumnya"
+
+#: inc/template-tags.php:22
+msgid "Posts navigation"
+msgstr "Navigasi tulisan"
+
+#: inc/extras.php:54
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: image.php:85
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "trackbacks ditutup,  tetapi kamu dapat <a class=\" comment-link\" href=\"#respond\" title=\" mengirim komentar\" >mengirim komentar</a>."
+
+#: image.php:83
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "komentar ditutup,  tetapi kamu dapat meninggalkan trackback: <a class=\"trackback-link\" href=\" %s\" title=\"trackback alamat web untuk kiriman kamu\" rel=\" trackback\" >trackback url</a>."
+
+#: image.php:81
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Komentar tulisan\">Komentar tulisan</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL dari tulisan anda\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:25
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Selanjutnya <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:24
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Sebelumnya"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "Bilah Sisi"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: footer.php:13
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: footer.php:12
+msgid "Proudly powered by %s."
+msgstr "Dengan bangga menggunakan %s"
+
+#: footer.php:12
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Platform Penerbitan Semantik Pribadi"
+
+#: content.php:17
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Baca lebih lanjut <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:44
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Tulisan ini dipublikasikan di %1$s. Tandai  <a href=\"%3$s\" title=\"Permalink ke %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:42
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Tulisan ini dipublikasikan di %1$s dan tag %2$s. Tandai  <a href=\"%3$s\" title=\"Permalink ke %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:36
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Tandai  <a href=\"%3$s\" title=\"Permalink ke %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:20 content.php:19 image.php:46 page.php:32
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: content-preview.php:17 content-single.php:57 content.php:29 image.php:90
+#: inc/template-tags.php:80 inc/template-tags.php:99 page.php:37
+msgid "Edit"
+msgstr "Edit"
+
+#: content-preview.php:11
+msgid "Read"
+msgstr "Baca"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan tulisan pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Tidak Menemukan Apa-apa"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Selanjutnya &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Sebelumnya"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu pemikiran pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pemikiran pada &ldquo;%2$s&rdquo;"
+
+#: archive.php:60 sidebar.php:17
+msgid "Archives"
+msgstr "Arsip"
+
+#: archive.php:57
+msgid "Links"
+msgstr "Tautan"
+
+#: archive.php:54
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: archive.php:51
+msgid "Videos"
+msgstr "Film"
+
+#: archive.php:48
+msgid "Images"
+msgstr "Gambar"
+
+#: archive.php:45
+msgid "Asides"
+msgstr "Sampingan"
+
+#: archive.php:42
+msgid "Yearly Archives: %s"
+msgstr "Arsip Tahunan: %s"
+
+#: archive.php:39
+msgid "Monthly Archives: %s"
+msgstr "Arsip Bulanan: %s"
+
+#: archive.php:36
+msgid "Daily Archives: %s"
+msgstr "Arsip Harian: %s"
+
+#: archive.php:32
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Coba cari di arsip bulanan. %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Kategori Paling Banyak Digunakan"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nampaknya tidak ada yang ditemukan di lokasi. Mungkin coba salah satu tautan di bawah atau telusuri?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
