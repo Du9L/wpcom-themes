@@ -1,0 +1,326 @@
+/*
+Theme Name: Sapor
+Theme URI: http://wordpress.com/themes/sapor/
+Author: Automattic
+Author URI: http://wordpress.com/themes
+Description: Sapor is a two column blogging theme with a lot of possibilities
+Version: 1.0.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sapor
+Tags: green, white, one-column, two-column, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, infinite-scroll, rtl-language-support, site-logo, sticky-post, translation-ready, blog, design, food, fashion, journal, news, photoblogging, photography, travel, clean, contemporary, elegant, light, minimal, modern, professional, simple
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+sapor is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Layout
+# Elements
+# Forms
+# Navigation
+# Accessibility
+# Alignments
+# Clearings
+# Content
+# Widgets
+# Infinite scroll
+# Media
+# Media Queries
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Layout
+--------------------------------------------------------------*/
+
+.footer-name {
+  margin: 0 2px 0 0;
+}
+
+button.menu-toggle.toggle-on {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.action-text:before {
+  margin: 0 0 0 10px;
+}
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+
+ul,
+ol {
+  margin: 0 10px 10px 0;
+}
+
+li > ul,
+li > ol {
+  margin-right: 10px;
+  margin-left: auto;
+}
+
+th {
+  text-align: right;
+}
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+
+textarea {
+  padding-right: 5px;
+  padding-left: 0;
+}
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+## Links
+--------------------------------------------------------------*/
+
+.comment-content a::after,
+.entry-content a::after,
+.entry-header a::after,
+.comment-respond a::after,
+.site-footer a::after,
+.entry-meta a::after,
+.widget_archive a::after,
+.widget_categories a::after,
+.widget_links a::after,
+.widget_meta a::after,
+.widget_pages a::after,
+.widget_recent_comments a::after,
+.widget_recent_entries a::after,
+.author-info a::after,
+.nav-links a::after {
+  right: 0;
+  left: auto;
+}
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+
+.main-navigation ul {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.main-navigation ul ul li a {
+  padding: 10px 40px 10px 20px;
+}
+
+.main-navigation ul ul ul li a {
+  padding: 10px 60px 10px 20px;
+}
+
+.main-navigation ul ul ul ul li a {
+  padding: 10px 80px 10px 20px;
+}
+
+.showsub-toggle {
+  left: 0;
+  right: auto;
+}
+
+.showsub-toggle:after {
+  left: 11px;
+  right: auto;
+}
+
+.menu-toggle .genericons {
+  margin-left: 20px;
+  margin-right: auto;
+}
+
+.social-links ul li {
+  margin: 0 0 0 -2px;
+}
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers. */
+
+.screen-reader-text:hover, .screen-reader-text:active, .screen-reader-text:focus {
+  right: 5px;
+  left: auto;
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignright {
+  float: right;
+  margin: 5px 0 5px 20px;
+}
+
+.alignleft {
+  float: left;
+  margin: 5px 0 5px 20px;
+}
+
+.aligncenter {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+# Clearings
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# JetPack
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+
+.cat-links {
+  margin: 0 5px 0 0;
+}
+
+.footer-tags {
+  text-align: right;
+}
+
+.footer-tags a {
+  margin: 0 0 2px 2px;
+}
+
+.author-avatar {
+  float: right;
+}
+
+.author-description {
+  float: right;
+}
+
+/*--------------------------------------------------------------
+## Asides
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+
+.comment-content {
+  padding: 20px 70px 0 0;
+}
+
+ol.comment-list .comment-author img.avatar {
+  float: right;
+  margin: 0 0 10px 20px;
+}
+
+.reply {
+  padding: 20px 70px 20px 0;
+}
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+
+h2.widget-title:after {
+  right: 4%;
+  left: auto;
+}
+
+.widget_archive ul ul,
+.widget_categories ul ul,
+.widget_links ul ul,
+.widget_meta ul ul,
+.widget_nav_menu ul ul,
+.widget_pages ul ul,
+.widget_recent_comments ul ul,
+.widget_recent_entries ul ul {
+  margin: 10px 10px 0 0;
+}
+
+/*--------------------------------------------------------------
+# Infinite scroll
+--------------------------------------------------------------*/
+/* Globally hidden elements when Infinite Scroll is supported and in use. */
+
+/* When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before. */
+
+span.infinite-loader {
+  text-align: right;
+}
+
+span.infinite-loader .spinner {
+  right: 10px !important;
+  left: auto;
+}
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+
+/* Make sure embeds and iframes fit their containers. */
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+
+.wp-caption img[class*="wp-image-"] {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+## Galleries
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Media queries
+--------------------------------------------------------------*/
+/* min-width 641px, medium screens */
+/* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+@media only screen and (min-width: 50em) {
+
+/* Make sure embeds and iframes fit their containers. */
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+
+.wp-caption img[class*="wp-image-"] {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+## Galleries
+--------------------------------------------------------------*/
+
+}
+
+@media only screen and (min-width: 64.063em) {
+
+}
+
+
+/* Generated by the RTLer - http://wordpress.org/extend/plugins/rtler/ */

@@ -1,0 +1,213 @@
+# Translation of Sapor in Persian
+# This file is distributed under the same license as the Sapor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-20 01:31:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Sapor\n"
+
+#: template-parts/content.php:22
+msgid "Continue reading"
+msgstr "به خواندن ادامه دهید"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sapor/style.css
+msgid "Sapor is a two column blogging theme with a lot of possibilities"
+msgstr "Sapor یک پوستهٔ وب‌نویسی دوستونه است که امکانات زیادی دارد"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
+
+#: template-parts/content-page.php:24 template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>. "
+
+#: index.php:38
+msgid "Next page"
+msgstr "برگه بعدی"
+
+#: index.php:39
+msgid "Page"
+msgstr "برگه"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: inc/template-tags.php:149
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:211 template-parts/content-search.php:16
+msgid "Featured"
+msgstr "برگزیده"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:255
+msgid "&#8734;"
+msgstr "&#8734;"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:262
+msgid "Continue reading %s"
+msgstr "ادامه خواندن %s"
+
+#: index.php:37
+msgid "Previous page"
+msgstr "برگه قبلی"
+
+#: inc/template-tags.php:132
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: inc/template-tags.php:132
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:132
+msgid "Leave a comment"
+msgstr "دیدگاهی بنویسید"
+
+#: inc/template-tags.php:115
+msgid "Posted in %1$s"
+msgstr "ارسال شده در %1$s"
+
+#: inc/template-tags.php:121
+msgid " Post format: "
+msgstr "قالب نوشته:"
+
+#: inc/template-tags.php:128 template-parts/content-page.php:17
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "پیمایش نوشته ها"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "پیمایش نوشته"
+
+#: inc/template-tags.php:74
+msgid "Featured:"
+msgstr "ویژه:"
+
+#: inc/template-tags.php:105
+msgid " by "
+msgstr "بدست"
+
+#: inc/template-tags.php:106
+msgctxt "By "
+msgid "Author"
+msgstr "نویسنده"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid ", "
+msgstr "، "
+
+#: inc/extras.php:75
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: functions.php:133
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: functions.php:138
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: functions.php:146
+msgctxt "Add new subset (cyrillic)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: header.php:23
+msgid "Show"
+msgstr "نمایش"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr "گزینگان اصلی"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "فهرست شبکه‌های اجتماعی"
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "با افتخار نیرو گرفته از %s"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب %1$s از %2$s."
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "امکان ثبت دیدگاه وجود ندارد."
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr "هدایت دیدگاه"
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr "دیدگاه‌های کهنه‌تر"
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr "دیدگاه‌های تازه‌تر"
+
+#: author-bio.php:27
+msgid "Published by "
+msgstr "منتشرشده بدست"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "دیدن همهٔ نوشته‌ها بر پایهٔ %s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای «%2$s»"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! این برگه پیدا نمی‌شه."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد که چیزی این جا نیست. می‌خواهید از لینک‌های زیر یا جستجو استفاده کنید؟"
