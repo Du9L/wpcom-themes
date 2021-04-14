@@ -1,0 +1,349 @@
+# Translation of WordPress.com - Themes - Libretto in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Libretto package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-05 17:59:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Libretto\n"
+
+#: functions.php:85
+msgid "Red"
+msgstr "Rojo"
+
+#: functions.php:60
+msgid "Black"
+msgstr "Negro"
+
+#: functions.php:65
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:80
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:75
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: functions.php:70
+msgid "Medium Gray"
+msgstr "Gris medio"
+
+#. translators: used in pagination, as in page "x of y"
+#: inc/template-tags.php:57
+msgid "of"
+msgstr "de"
+
+#: inc/wpcom-colors.php:34
+msgid "Text"
+msgstr "Texto"
+
+#: inc/wpcom-colors.php:52
+msgid "Accent"
+msgstr "Color de énfasis"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130
+msgid "Tagged"
+msgstr "Etiquetado"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/libretto/style.css
+msgid "http://wordpress.com/themes/"
+msgstr "http://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/libretto/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: inc/template-tags.php:188
+msgid "Archives: %s"
+msgstr "Archivos: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:192
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:194
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Estatus"
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerías"
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citas"
+
+#: inc/template-tags.php:166
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: inc/template-tags.php:166
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:162
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:164
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: inc/template-tags.php:164
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:160
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:162
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: inc/template-tags.php:126
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: inc/template-tags.php:156
+msgid "Category: %s"
+msgstr "Categoría: %s"
+
+#: inc/template-tags.php:158
+msgid "Tag: %s"
+msgstr "Etiqueta: %s"
+
+#: inc/template-tags.php:90
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/template-tags.php:107
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:124 inc/template-tags.php:130
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:36
+msgid "Post navigation"
+msgstr "Navegador de entradas"
+
+#: image.php:48
+msgid "Previous image"
+msgstr "Imagen anterior"
+
+#: image.php:51
+msgid "Next image"
+msgstr "Próxima imagen"
+
+#: image.php:63
+msgid "Page"
+msgstr "Página"
+
+#: header.php:92
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se pudo encontrar esa página."
+
+#: header.php:95
+msgid "Search results"
+msgstr "Resultados de la búsqueda"
+
+#: header.php:91
+msgid "Error"
+msgstr "Error"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: functions.php:155
+msgid "Second Footer Sidebar"
+msgstr "Segunda barra lateral a pie de página"
+
+#: functions.php:163
+msgid "Third Footer Sidebar"
+msgstr "Tercera barra lateral a pie de página"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:197
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "activado"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Droid Mono, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:209
+msgctxt "Droid Sans Mono font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Libre Baskerville, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:191
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr "Activado"
+
+#: functions.php:102
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: functions.php:147
+msgid "First Footer Sidebar"
+msgstr "Primera barra lateral a pie de página"
+
+#: functions.php:103
+msgid "Social Media Menu"
+msgstr "Menú de redes sociales"
+
+#: footer.php:13
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: content.php:53
+msgid "Read more"
+msgstr "Leer Más"
+
+#: footer.php:12
+msgid "http://wordpress.org/"
+msgstr "http://es.wordpress.org/"
+
+#: content.php:24 content.php:70 inc/template-tags.php:135
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:24 content.php:70 inc/template-tags.php:135
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: content.php:24 content.php:70 inc/template-tags.php:135
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: content-page.php:14 content.php:26 content.php:72 image.php:70
+#: inc/template-tags.php:139
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:12 content-single.php:14 image.php:59
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-page.php:11
+msgid "read more"
+msgstr "Leer Más"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda le pueda ayudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincidió con su búsqueda. Por favor inténtelo de nuevo con otras palabras clave."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:43 comments.php:68
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:39 comments.php:64
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:36 comments.php:61
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:41
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Trata de buscar en los archivos mensuales. %1$s"
+
+#: 404.php:24
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Quizás pruebes con uno de los enlaces de abajo o una búsqueda?"
