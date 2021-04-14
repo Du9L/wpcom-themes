@@ -1,0 +1,90 @@
+# Translation of WordPress.com - Themes - Lyretail in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Lyretail package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-29 02:17:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Lyretail\n"
+
+#: inc/wpcom-colors.php:124
+msgid "Main Accent"
+msgstr "تأکید اصلی"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/lyretail/style.css
+msgid "Lyretail is a minimalist, one-column theme that packs a powerful visual punch. It's great for writing-focused blogs that make use of large featured images. With prominent links to your favorite social networks and a convenient slide-down menu/widget area, Lyretail is sure to be your new favorite theme."
+msgstr "Lyretail یک پوستهٔ مینیمالیست تک‌ستونه است که جلوه‌های دیداری گیرایی دارد. عالی برای نوشتن وب‌نوشت‌های متمرکزی که از تصاویر ویژهٔ بزرگ استفاده می‌کنند. به همراه پیوندهای مهم به شبکه‌های اجتماعی مورد علاقه‌تان و یک گزینگان/پهنهٔ ابزارک لغزنده‌به‌پایین. Lyretail حتماً می‌تواند پوستهٔ مورد علاقهٔ‌ جدیدتان باشد."
+
+#: header.php:30
+msgid "Skip to menu"
+msgstr "جهش به گزینگان"
+
+#: functions.php:114
+msgid "Header Widgets 3"
+msgstr "ابزارک‌های سرایند ۳"
+
+#: functions.php:104
+msgid "Header Widgets 2"
+msgstr "ابزارک‌های سرایند ۲"
+
+#: functions.php:94
+msgid "Header Widgets 1"
+msgstr "ابزارک‌های سرایند ۱"
+
+#: sidebar.php:34
+msgid "Menu"
+msgstr "گزینگان"
+
+#: header.php:40
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: functions.php:197
+msgid "All %s posts"
+msgstr "همهٔ %s نوشته"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Abril Fatface, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:141
+msgctxt "Abril Fatface font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:135
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:28
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن %s ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:22 content.php:35
+msgid "Pages:"
+msgstr "صفحه‌ها:"

@@ -1,0 +1,90 @@
+# Translation of WordPress.com - Themes - Lyretail in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Lyretail package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 07:51:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Lyretail\n"
+
+#: inc/wpcom-colors.php:124
+msgid "Main Accent"
+msgstr "Accent principal"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/lyretail/style.css
+msgid "Lyretail is a minimalist, one-column theme that packs a powerful visual punch. It's great for writing-focused blogs that make use of large featured images. With prominent links to your favorite social networks and a convenient slide-down menu/widget area, Lyretail is sure to be your new favorite theme."
+msgstr "Lyretail este o temă minimalistă pe o singură coloană care comprimă o forță vizuală puternică. Este excelentă pentru bloguri axate mai ales pe scriere care fac uz de imagini reprezentative mari. Cu legături importante către rețelele de socializare preferate și un meniu comod, glisant/o zonă asamblabilă, Lyretail este sigur noua ta temă favorită."
+
+#: header.php:30
+msgid "Skip to menu"
+msgstr "Sari la meniu"
+
+#: functions.php:114
+msgid "Header Widgets 3"
+msgstr "Zonă asamblabilă antet 3"
+
+#: functions.php:104
+msgid "Header Widgets 2"
+msgstr "Zonă asamblabilă antet 2"
+
+#: functions.php:94
+msgid "Header Widgets 1"
+msgstr "Zonă asamblabilă antet 1"
+
+#: sidebar.php:34
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:40
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Sări la conţinut"
+
+#: functions.php:197
+msgid "All %s posts"
+msgstr "Toate cele %s de articole "
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Abril Fatface, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:141
+msgctxt "Abril Fatface font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:135
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "pornit"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:28
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Citește în continuare %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:22 content.php:35
+msgid "Pages:"
+msgstr "Pagini:"

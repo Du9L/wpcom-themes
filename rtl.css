@@ -1,0 +1,171 @@
+/*
+Theme Name: Lyretail
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/* Global */
+
+blockquote:before {
+	border-right: 10px solid white;
+	border-left: 10px solid transparent;
+	right: 0;
+	left: auto;
+}
+
+blockquote:after {
+	border-right: 10px solid transparent;
+	border-left: 10px solid white;
+	left: 0;
+	right: auto;
+}
+
+/* Header */
+
+/* Toggle Menu */
+
+.menu-toggle {
+	left: 0;
+	right: auto;
+}
+
+.menu-toggle:before {
+	right: auto;
+	left: auto;
+}
+
+/* Posts */
+
+.entry-header:before {
+	right: 0;
+	left: auto;
+}
+
+.entry-title {
+	padding-right: .5em;
+	padding-left: .5em;
+}
+
+.entry-title:before {
+	right: -1px;
+	left: auto;
+}
+
+.entry-title:after {
+	left: -1px;
+	right: auto;
+}
+
+/* Entry formats */
+
+.entry-format:before {
+	margin-right: auto;
+	right: auto;
+	left: auto;
+	margin-left: auto;
+}
+
+.entry-format a {
+	margin-right: auto;
+	right: auto;
+	text-align: right;
+	left: auto;
+	margin-left: auto;
+}
+
+.entry-format a:before,
+.format-link .entry-title a:after {
+	margin-left: 3px;
+	margin-right: auto;
+}
+
+/* Wide screens */
+
+@media screen and (min-width: 35em) {
+	.site {
+		right: auto;
+		left: auto;
+	}
+	.slide-menu {
+		left: auto;
+		right: auto;
+	}
+	.wp-caption .size-full + .wp-caption-text,
+		.wp-caption .size-large + .wp-caption-text {
+		right: 0;
+		left: auto;
+	}
+
+	.main-navigation ul {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	.main-navigation li.menu-item-has-children > a:after {
+		margin-right: 3px;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul {
+		float: right;
+		text-align: right;
+		right: 0;
+		left: auto;
+	}
+
+	.main-navigation ul ul ul {
+		right: -999em;
+		left: auto;
+	}
+
+	.main-navigation ul ul li:hover > ul {
+		right: 100%;
+		left: auto;
+	}
+
+}
+
+@media screen and ( min-width: 68em ) {
+	.entry-meta {
+		border-left: 0;
+		padding-left: 0;
+		right: auto;
+		left: auto;
+		padding-right: 0;
+		border-right: none;
+	}
+
+	.widget-area {
+		float: right;
+	}
+
+	.widget-areas > div:nth-child(1):nth-last-child(2),
+	.widget-areas > div:nth-child(2):nth-last-child(1) {
+		margin-left: 4%;
+		margin-right: auto;
+	}
+
+	.widget-areas > div:nth-child(1):nth-last-child(2):last-of-type,
+	.widget-areas > div:nth-child(2):nth-last-child(1):last-of-type {
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+	.widget-areas > div:nth-child(1):nth-last-child(3),
+	.widget-areas > div:nth-child(2):nth-last-child(2),
+	.widget-areas > div:nth-child(3):nth-last-child(1) {
+		margin-left: 5%;
+		margin-right: auto;
+	}
+
+	.widget-areas > div:nth-child(1):nth-last-child(3):last-of-type,
+	.widget-areas > div:nth-child(2):nth-last-child(2):last-of-type,
+	.widget-areas > div:nth-child(3):nth-last-child(1):last-of-type {
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+}
