@@ -1,0 +1,228 @@
+# Translation of WordPress.com - Themes - Ixion in Arabic
+# This file is distributed under the same license as the WordPress.com - Themes - Ixion package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-20 14:32:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: WordPress.com - Themes - Ixion\n"
+
+#: inc/customizer.php:63 inc/customizer.php:83
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/customizer.php:64 inc/customizer.php:84
+msgid "Dark"
+msgstr "غامق"
+
+#: inc/customizer.php:62 inc/customizer.php:82
+msgid "Light"
+msgstr "فاتخ"
+
+#: inc/customizer.php:61 inc/customizer.php:81
+msgid "None"
+msgstr "بدون"
+
+#: inc/wpcom-colors.php:97
+msgid "Links & Buttons"
+msgstr "الروابط و الأزرار"
+
+#: inc/wpcom-colors.php:40
+msgid "Headings"
+msgstr "الترويسات"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "بحث &hellip;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53
+msgid "Tagged"
+msgstr "مصنف"
+
+#: components/features/recent-posts/recent-posts.php:22
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/ixion/templates/full-width-page.php
+msgid "No Sidebar"
+msgstr "لا يوجد شريط جانبي"
+
+#: searchform.php:11 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/template-tags.php:58
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: inc/template-tags.php:58
+msgid "Leave a comment"
+msgstr "أضف تعليق"
+
+#: inc/template-tags.php:58
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: inc/template-tags.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:33 inc/template-tags.php:53
+msgid ", "
+msgstr "، "
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr "خيارات القالب"
+
+#. translators: %s: Name of current post
+#: functions.php:251
+msgid "Continue reading %s"
+msgstr "تابع قراءة %s"
+
+#: functions.php:147
+msgid "Footer 3"
+msgstr "تذييل"
+
+#: functions.php:137
+msgid "Footer 2"
+msgstr "تذييل 2"
+
+#: functions.php:127
+msgid "Footer 1"
+msgstr "تذييل 1"
+
+#: functions.php:51
+msgid "Header"
+msgstr "ترويسة"
+
+#: functions.php:117
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكن إيجاد ما تبحث عنه. قد تفيدك خاصية البحث."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "استمر في القراءة %s <span class=\"meta-nav\">\t</span>"
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسفين, ولكن لا يوجد شئ مطابق لكلمات البحث التي ادخلتها, حاول بكلمات اخرى مرة ثانية."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "نُشر بواسطة %s"
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "عرض جميع المواضيع التي كتبها %s"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:28 components/post/content-meta.php:6
+msgid "Edit %s"
+msgstr "تحرير %s"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "القائمة"
+
+#: components/page/content-page.php:18 components/post/content.php:43
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "الموقع يستخدم %s بكل فخر"
+
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "أحدث التدوينات"
+
+#: components/features/testimonials/content-testimonials.php:24
+msgid "Edit"
+msgstr "تحرير"
+
+#: components/features/recent-posts/recent-posts.php:22
+msgid "More Posts"
+msgstr "المزيد من المنشورات"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا توجد أراء حول &ldquo;%2$s&rdquo;"
+msgstr[1] "رأي واحد حول &ldquo;%2$s&rdquo;"
+msgstr[2] "رأيان حول &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "تصفّح التعليقات"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لا يوجد شيء هنا. ربما حاول استعمال البحث؟"
+
+#: archive-jetpack-testimonial.php:21
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لايمكن العثور على تلك الصفحة."
