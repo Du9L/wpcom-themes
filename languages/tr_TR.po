@@ -1,0 +1,331 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Gazette in Turkish
+# This file is distributed under the same license as the WordPress.com - Themes - Gazette package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-21 11:10:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: WordPress.com - Themes - Gazette\n"
+
+#: functions.php:116
+msgid "White"
+msgstr "Beyaz"
+
+#: functions.php:111
+msgid "Light Gray"
+msgstr "Açık gri"
+
+#: functions.php:101
+msgid "Dark Gray"
+msgstr "Koyu gri"
+
+#: functions.php:96
+msgid "Blue"
+msgstr "Mavi"
+
+#: inc/wpcom-colors.php:460
+msgid "Accent"
+msgstr "Vurgu"
+
+#: inc/wpcom-colors.php:332
+msgid "Background"
+msgstr "Arkaplan"
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#: content.php:44 inc/extras.php:118
+msgid "Continue reading %s"
+msgstr "Okumaya devam et %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:203
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "Seçili"
+
+#: single.php:29
+msgid "Previous post:"
+msgstr "Önceki yazı:"
+
+#: single.php:29
+msgid "Previous"
+msgstr "Önceki"
+
+#: single.php:28
+msgid "Next post:"
+msgstr "Sıradaki Yazı:"
+
+#: single.php:28
+msgid "Next"
+msgstr "Sonraki"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: inc/template-tags.php:191
+msgid "Archives"
+msgstr "Arşivler"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:189
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:185
+msgid "Archives: %s"
+msgstr "Arşivler: %s"
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Sohbetler"
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ses"
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Durumlar"
+
+#: inc/template-tags.php:176
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: inc/template-tags.php:174
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Alıntılar"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videolar"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Görseller"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeriler"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Yan sütun"
+
+#: inc/template-tags.php:163
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:163
+msgid "Day: %s"
+msgstr "Gün: %s"
+
+#: inc/template-tags.php:161
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:161
+msgid "Month: %s"
+msgstr "Ay: %s"
+
+#: inc/template-tags.php:159
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:159
+msgid "Year: %s"
+msgstr "Yıl: %s"
+
+#: inc/template-tags.php:157
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: inc/template-tags.php:155
+msgid "Tag: %s"
+msgstr "Etiket: %s"
+
+#: inc/template-tags.php:153
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:84
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: inc/template-tags.php:84
+msgid "1 Comment"
+msgstr "1 yorum"
+
+#: inc/template-tags.php:84
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76 inc/template-tags.php:133
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Yeni Yazılar"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Eski Yazılar"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#: header.php:40
+msgid "Search"
+msgstr "Ara"
+
+#: header.php:34
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:169
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:164
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:142
+msgid "Footer"
+msgstr "Alt Kısım"
+
+#: functions.php:132 sidebar.php:14
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: footer.php:42
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %2$s tarafından %1$s."
+
+#: footer.php:40
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: footer.php:40
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:25
+msgid "Sticky post"
+msgstr "Sabit Yazı"
+
+#: content-page.php:35 inc/template-tags.php:136
+msgid "Edit"
+msgstr "Düzenle"
+
+#: content-page.php:28 content-single.php:32
+msgid "Page"
+msgstr "Sayfa"
+
+#: content-page.php:24 content-single.php:28
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üzerine bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; üzerine %1$s yorum"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "%s tarafından yazılmış tüm yazıları görüntüle"
+
+#: author-bio.php:24
+msgid "Published by"
+msgstr "Yayınlayan"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Üzgünüz! Bu sayfa bulunamıyor."

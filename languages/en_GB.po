@@ -1,0 +1,372 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Gazette in English (UK)
+# This file is distributed under the same license as the WordPress.com - Themes - Gazette package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-20 00:11:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: WordPress.com - Themes - Gazette\n"
+
+#: functions.php:116
+msgid "White"
+msgstr "White"
+
+#: functions.php:111
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:106
+msgid "Medium Gray"
+msgstr "Medium Gray"
+
+#: functions.php:101
+msgid "Dark Gray"
+msgstr "Dark Grey"
+
+#: functions.php:96
+msgid "Blue"
+msgstr "Blue"
+
+#: inc/wpcom-colors.php:460
+msgid "Accent"
+msgstr "Accent"
+
+#: inc/wpcom-colors.php:332
+msgid "Background"
+msgstr "Background"
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#: content.php:44 inc/extras.php:118
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#: inc/customizer.php:41
+msgid "Unfixed header when scrolling down."
+msgstr "Unfixed header when scrolling down."
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/gazette/style.css
+msgid "A clean and flexible theme perfectly suited for minimalist magazine-style sites, personal blogs, or any content-rich site. It allows you to highlight specific articles on the homepage, and to balance readability with a powerful use of photography — all in a layout that works on any device."
+msgstr "A clean and flexible theme perfectly suited for minimalist magazine-style sites, personal blogs, or any content-rich site. It allows you to highlight specific articles on the homepage, and to balance readability with a powerful use of photography — all in a layout that works on any device."
+
+#. translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:203
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: single.php:29
+msgid "Previous post:"
+msgstr "Previous post:"
+
+#: single.php:29
+msgid "Previous"
+msgstr "Previous"
+
+#: single.php:28
+msgid "Next post:"
+msgstr "Next post:"
+
+#: single.php:28
+msgid "Next"
+msgstr "Next"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:191
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:189
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:185
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:176
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:174
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:163
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:163
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:161
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:161
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:159
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:159
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:157
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:155
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:153
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: inc/template-tags.php:84
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:84
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:84
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:76 inc/template-tags.php:133
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/jetpack.php:21
+msgid "The featured content section displays on the front page above the header."
+msgstr "The featured content section displays on the front page above the header."
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:64
+msgid "Footer Content"
+msgstr "Footer Content"
+
+#: inc/customizer.php:52
+msgid "Show author bio on single posts."
+msgstr "Show author bio on single posts."
+
+#: inc/customizer.php:29
+msgid "Display header image on blog index only."
+msgstr "Display header image on blog index only."
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: header.php:40
+msgid "Search"
+msgstr "Search"
+
+#: header.php:34
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:169
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:164
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:142
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:132 sidebar.php:14
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:71
+msgid "Social Location"
+msgstr "Social Location"
+
+#: functions.php:70
+msgid "Primary Location"
+msgstr "Primary Location"
+
+#: footer.php:42
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:40
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:40
+msgid "http://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content.php:25
+msgid "Sticky post"
+msgstr "Sticky Post"
+
+#: content-page.php:35 inc/template-tags.php:136
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:28 content-single.php:32
+msgid "Page"
+msgstr "Page"
+
+#: content-page.php:24 content-single.php:28
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-link.php:13
+msgid "External link to %s"
+msgstr "External link to %s"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: author-bio.php:24
+msgid "Published by"
+msgstr "Published by"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
