@@ -1,0 +1,381 @@
+# Translation of WordPress.com - Themes - Eighties in French (France)
+# This file is distributed under the same license as the WordPress.com - Themes - Eighties package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:57:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: WordPress.com - Themes - Eighties\n"
+
+#: inc/wpcom-colors.php:132
+msgid "Featured 3"
+msgstr "À la une 3"
+
+#: inc/wpcom-colors.php:127
+msgid "Featured 2"
+msgstr "À la une 2"
+
+#: inc/wpcom-colors.php:122
+msgid "Featured 1"
+msgstr "À la une 1"
+
+#: inc/wpcom-colors.php:42
+msgid "Main Accent"
+msgstr "Accent Principal"
+
+#: inc/jetpack.php:40
+msgid "Older projects"
+msgstr "Projets suivants"
+
+#: inc/custom-header.php:34
+msgctxt "header image description"
+msgid "Times Square"
+msgstr "Times Square"
+
+#: inc/template-tags.php:250
+msgid "by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%1$s\">%2$s</a></span>"
+msgstr "par <span class=\"author vcard\"><a class=\"url fn n\" href=\"%1$s\">%2$s</a></span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/eighties/style.css
+msgid "Hello, my name is Eighties and I am a modern, progressively enhanced theme designed to keep your content front and center. My menu and sidebar are built to stay out of the way until a user wants to see them. When clicked, users get a nice, clean overlay. You can upload a custom header image or select to use the featured image of the post as the header image."
+msgstr "Bonjour, mon nom est Eighties et je suis un thème moderne conçu pour rendre votre contenu roi. Mon menu et la barre latérale sont conçus pour rester en dehors de la vue jusqu'à ce qu&rsquo;un utilisateur veut les voir. Vous pouvez télécharger une image d&rsquo;en-tête personnalisée ou choisir d'utiliser l'image à la Une de l&rsquo;article comme image d&rsquo;en-tête."
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Recherche&hellip;"
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour&nbsp;:"
+
+#: search.php:16
+msgid "Results for: %s"
+msgstr "Résultats pour&nbsp;: %s"
+
+#: inc/template-tags.php:391
+msgid "All %s posts"
+msgstr "Tous les articles de %s"
+
+#: inc/template-tags.php:229
+msgid "Just now"
+msgstr "à l'instant"
+
+#: inc/template-tags.php:223
+msgid "%s Minute Ago"
+msgid_plural "%s Minutes Ago"
+msgstr[0] "Il y a %s minute"
+msgstr[1] "Il y a %s minutes"
+
+#: inc/template-tags.php:215
+msgid "%s Hour Ago"
+msgid_plural "%s Hours Ago"
+msgstr[0] "Il y a %s heure"
+msgstr[1] "Il y a %s heures"
+
+#: inc/template-tags.php:207
+msgid "%s Day Ago"
+msgid_plural "%s Days Ago"
+msgstr[0] "Il y a %s jour"
+msgstr[1] "Il y a %s jours"
+
+#: inc/template-tags.php:97
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#: inc/template-tags.php:88
+msgid "%s "
+msgstr "%s"
+
+#: inc/template-tags.php:79
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title "
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:29
+msgid "Newer Posts"
+msgstr "Articles Plus R&eacute;cents"
+
+#: inc/template-tags.php:25
+msgid "Older Posts"
+msgstr "Articles Pr&eacute;c&eacute;dents"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/extras.php:145
+msgid "Read More"
+msgstr "Lire la Suite"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:47
+msgid "Featured Image"
+msgstr "Image à la Une"
+
+#: inc/customizer.php:46
+msgid "Custom Header Image"
+msgstr "Image d'en-tête personnalisée"
+
+#: inc/customizer.php:42
+msgid "Single Posts Display:"
+msgstr "Ecran pour les articles uniques&nbsp;:"
+
+#: inc/customizer.php:21
+msgid "Theme"
+msgstr "Thème"
+
+#: image.php:71
+msgid "Previous Image"
+msgstr "Image précédente"
+
+#: image.php:70
+msgid "Next Image"
+msgstr "Image suivante"
+
+#: image.php:49
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Les commentaires et r&eacute;troliens sont ferm&eacute;s."
+
+#: image.php:47
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Les r&eacute;troliens sont ferm&eacute;s, mais vous pouvez <a class=\"comment-link\" href=\"#respond\" title=\"Poster un commentaire\">poster un commentaire</a>"
+
+#: image.php:45
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Les commentaires sont fermés mais vous pouvez laisser une rétrolien : <a class=\"trackback-link\" href=\"%s\" title=\"Adresse de rétrolien pour votre article\" rel=\"trackback\">Adresse de rétrolien</a>."
+
+#: image.php:43
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Poster un commentaire\">Poster un commentaire</a> ou un <a class=\"trackback-link\" href=\"%s\" title=\"URL du r&eacute;trolien\" rel=\"trackback\">r&eacute;trolien</a>."
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: header.php:33
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:179
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:160
+msgctxt "Varela Round font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:141
+msgctxt "Righteous font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:120
+msgid "Third widget area for the footer. If no widgets are provided, this footer section will not appear."
+msgstr "Troisième zone de widgets en bas de page. Si vous n&rsquo;ajoutez aucun widget, cette section n&rsquo;apparaîtra pas."
+
+#: functions.php:118
+msgid "Footer Three"
+msgstr "Pied de Page 3"
+
+#: functions.php:109
+msgid "Second widget area for the footer. If no widgets are provided, this footer section will not appear."
+msgstr "Deuxième zone de widgets en bas de page. Si vous n&rsquo;ajoutez aucun widget, cette section n&rsquo;apparaîtra pas."
+
+#: functions.php:107
+msgid "Footer Two"
+msgstr "Pied de Page 2"
+
+#: functions.php:98
+msgid "First widget area for the footer. If no widgets are provided, this footer section will not appear."
+msgstr "Première zone de widgets en bas de page. Si vous n&rsquo;ajoutez aucun widget, cette section n&rsquo;apparaîtra pas."
+
+#: functions.php:96
+msgid "Footer One"
+msgstr "Pied de Page 1"
+
+#: functions.php:87
+msgid "This sidebar opens as a toggle on the right side of a users browser window. If empty, the sidebar with not display."
+msgstr "Cette barre latérale s&rsquo;ouvre sur le côté droit de votre navigateur. Si elle est vide, la barre latérale ne s&rsquo;affiche pas."
+
+#: functions.php:85
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Menu Social"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-aside.php:34 content-audio.php:37 content-audio.php:48
+#: content-gallery.php:41 content-image.php:43 content-link.php:38
+#: content-page.php:22 content-quote.php:34 content-single-portfolio.php:35
+#: content-single.php:37 content-status.php:28 content-video.php:37
+#: content-video.php:47 content.php:27 image.php:56 inc/template-tags.php:104
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-none.php:28
+msgid "It seems we cannot find what you are looking for. Perhaps try a search?"
+msgstr "Il semble que nous ne pouvons pas trouver ce que vous recherchez. Essayez peut-être une recherche&nbsp;!"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pr&ecirc;t &agrave; publier votre premier article ? <a href=\"%1$s\">Allons-y !</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun Résultat"
+
+#. translators: used between list items, there is a space after the comma
+#: content-gallery.php:37 content-page.php:18 content-single-portfolio.php:31
+#: content-single.php:33 image.php:35
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:12 content-audio.php:14 content-gallery.php:12
+#: content-image.php:20 content-link.php:15 content-quote.php:12
+#: content-single.php:17 content-status.php:18 content-video.php:14
+msgid ", "
+msgstr ", "
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:36
+msgid "Newer Comments"
+msgstr "Commentaires Récents"
+
+#: comments.php:35
+msgid "Older Comments"
+msgstr "Commentaires Précédents"
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Un commentaire"
+msgstr[1] "%1$s commentaires"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "États"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Apart&eacute;s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Ann&eacute;e: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: 404.php:22
+msgid "Perhaps try a search?"
+msgstr "Essayez de lancer une recherche."
+
+#: 404.php:17
+msgid "Your request was not found."
+msgstr "Votre demande n&rsquo;a pas été trouvée."
+
+#: 404.php:15
+msgid "404"
+msgstr "404"

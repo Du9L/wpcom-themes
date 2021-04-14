@@ -1,0 +1,376 @@
+# Translation of WordPress.com - Themes - Eighties in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Eighties package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:57:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Eighties\n"
+
+#: inc/wpcom-colors.php:132
+msgid "Featured 3"
+msgstr "Utvald 3"
+
+#: inc/wpcom-colors.php:127
+msgid "Featured 2"
+msgstr "Utvald 2"
+
+#: inc/wpcom-colors.php:122
+msgid "Featured 1"
+msgstr "Utvald 1"
+
+#: inc/wpcom-colors.php:42
+msgid "Main Accent"
+msgstr "Huvudaccentuering"
+
+#: inc/jetpack.php:40
+msgid "Older projects"
+msgstr "Äldre projekt"
+
+#: inc/template-tags.php:250
+msgid "by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%1$s\">%2$s</a></span>"
+msgstr "av <span class=\"author vcard\"><a class=\"url fn n\" href=\"%1$s\">%2$s</a></span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/eighties/style.css
+msgid "Hello, my name is Eighties and I am a modern, progressively enhanced theme designed to keep your content front and center. My menu and sidebar are built to stay out of the way until a user wants to see them. When clicked, users get a nice, clean overlay. You can upload a custom header image or select to use the featured image of the post as the header image."
+msgstr "Hejsan, mitt namn är Eighties och jag är ett modernt, progressivt förbättrat tema designat för att låta ditt innehåll stå i rampljuset. Min meny och sidopanel är byggda för att vara ur vägen tills en besökare vill se dem. När de aktiveras får besökaren se en snygg och stilren panel. Du kan också ladda upp en anpassad bild för sidhuvudet eller välja att använda en utvald bild från ett inlägg som sidhuvudets bild."
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Sök &hellip;"
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Sök"
+
+#: search.php:16
+msgid "Results for: %s"
+msgstr "Resultat för: %s"
+
+#: inc/template-tags.php:391
+msgid "All %s posts"
+msgstr "Alla %s inlägg"
+
+#: inc/template-tags.php:229
+msgid "Just now"
+msgstr "just nu"
+
+#: inc/template-tags.php:223
+msgid "%s Minute Ago"
+msgid_plural "%s Minutes Ago"
+msgstr[0] "%s minut sedan"
+msgstr[1] "%s minuter sedan"
+
+#: inc/template-tags.php:215
+msgid "%s Hour Ago"
+msgid_plural "%s Hours Ago"
+msgstr[0] "%s timme sedan"
+msgstr[1] "%s timmar sedan"
+
+#: inc/template-tags.php:207
+msgid "%s Day Ago"
+msgid_plural "%s Days Ago"
+msgstr[0] "%s dag sedan"
+msgstr[1] "%s dagar sedan"
+
+#: inc/template-tags.php:97
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: inc/template-tags.php:88
+msgid "%s "
+msgstr "%s"
+
+#: inc/template-tags.php:79
+msgid "Pingback:"
+msgstr "Ping:"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title "
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:29
+msgid "Newer Posts"
+msgstr "Nyare inlägg"
+
+#: inc/template-tags.php:25
+msgid "Older Posts"
+msgstr "Äldre inlägg"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/extras.php:145
+msgid "Read More"
+msgstr "Läs mer"
+
+#: inc/extras.php:92
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: inc/customizer.php:47
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: inc/customizer.php:46
+msgid "Custom Header Image"
+msgstr "Anpassad sidhuvudsbild"
+
+#: inc/customizer.php:42
+msgid "Single Posts Display:"
+msgstr "Visning av enskilda inlägg:"
+
+#: inc/customizer.php:21
+msgid "Theme"
+msgstr "Tema"
+
+#: image.php:71
+msgid "Previous Image"
+msgstr "Föregående bild"
+
+#: image.php:70
+msgid "Next Image"
+msgstr "Nästa bild"
+
+#: image.php:49
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Både trackbacks och kommentarer är för tillfället inaktiverade."
+
+#: image.php:47
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbacks är inaktiverade, men du kan <a class=\"comment-link\" href=\"#respond\" title=\"Posta en kommentar\">posta en kommentar</a>."
+
+#: image.php:45
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Kommetarer är inaktiverade, men du kan lämna en trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL för ditt inlägg\" rel=\"trackback\">Trackback URL</a>"
+
+#: image.php:43
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Posta en kommentar\">Posta en kommentar</a> eller lämna en trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL för ditt inlägg\" rel=\"trackback\">Trackback URL</a>."
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: header.php:33
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:179
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:160
+msgctxt "Varela Round font: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:141
+msgctxt "Righteous font: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:120
+msgid "Third widget area for the footer. If no widgets are provided, this footer section will not appear."
+msgstr "Tredje widget i sidfoten. Om ingen widget läggs till kommer denna sidfot inte att synas."
+
+#: functions.php:118
+msgid "Footer Three"
+msgstr "Sidfot tre"
+
+#: functions.php:109
+msgid "Second widget area for the footer. If no widgets are provided, this footer section will not appear."
+msgstr "Andra widget i sidfoten. Om ingen widget läggs till kommer denna sidfot inte att synas."
+
+#: functions.php:107
+msgid "Footer Two"
+msgstr "Sidfot två"
+
+#: functions.php:98
+msgid "First widget area for the footer. If no widgets are provided, this footer section will not appear."
+msgstr "Första widget i sidfoten. Om ingen widget läggs till kommer denna sidfot inte att synas."
+
+#: functions.php:96
+msgid "Footer One"
+msgstr "Sidfot ett"
+
+#: functions.php:87
+msgid "This sidebar opens as a toggle on the right side of a users browser window. If empty, the sidebar with not display."
+msgstr "Detta sidofält syns i högra hörnet i användarens webbläsare. Om den är tom kommer sidofältet inte att synas."
+
+#: functions.php:85
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Social meny"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-aside.php:34 content-audio.php:37 content-audio.php:48
+#: content-gallery.php:41 content-image.php:43 content-link.php:38
+#: content-page.php:22 content-quote.php:34 content-single-portfolio.php:35
+#: content-single.php:37 content-status.php:28 content-video.php:37
+#: content-video.php:47 content.php:27 image.php:56 inc/template-tags.php:104
+msgid "Edit"
+msgstr "Redigera"
+
+#: content-none.php:28
+msgid "It seems we cannot find what you are looking for. Perhaps try a search?"
+msgstr "Det går inte att hitta vad du letar efter, försök med en sökning."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#. translators: used between list items, there is a space after the comma
+#: content-gallery.php:37 content-page.php:18 content-single-portfolio.php:31
+#: content-single.php:33 image.php:35
+msgid "Pages:"
+msgstr "Sidor:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:12 content-audio.php:14 content-gallery.php:12
+#: content-image.php:20 content-link.php:15 content-quote.php:12
+#: content-single.php:17 content-status.php:18 content-video.php:14
+msgid ", "
+msgstr ", "
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Kommentarer inaktiverade."
+
+#: comments.php:36
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:35
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "En kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arkiv"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chattar"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Ljud"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statusar"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Länkar"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "citat"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Noteringar"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#: 404.php:22
+msgid "Perhaps try a search?"
+msgstr "Gör en sökning."
+
+#: 404.php:17
+msgid "Your request was not found."
+msgstr "Inga resultat"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
