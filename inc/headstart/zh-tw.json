@@ -1,0 +1,306 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "primary-menu",
+                "menu-2": "primary-menu",
+                "social": "social-menu"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "董事會",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">我們團隊的規模不大，一肩扛起組織的整體管理工作。我們是一群熱愛幫助兒童的人，對工作充滿熱情。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:media-text {\"mediaId\":546,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/210d5-adult-3548077_1920-crop-portrait.jpg?w=640\" alt=\"\" class=\"wp-image-546\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Sally Smith</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">董事長</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">提供簡短自傳，包括個人經歷、重大成就或趣事。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">透過電子郵件聯絡我：<a href=\"mailto:mail@example.com\">mail@example.com</a></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:media-text {\"mediaPosition\":\"right\",\"mediaId\":545,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/97c42-activity-3488324_1920-crop-portrait.jpg?w=640\" alt=\"\" class=\"wp-image-545\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Juan Pérez</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">公司秘書</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">提供簡短自傳，包括個人經歷、重大成就或趣事。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">透過電子郵件聯絡我：<a href=\"mailto:mail@example.com\">mail@example.com</a></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:media-text {\"mediaId\":547,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/b14f6-corgi-3697186_1920-crop-portrait.jpg?w=640\" alt=\"\" class=\"wp-image-547\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">校犬 Samuel</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">財務長</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">提供簡短自傳，包括個人經歷、重大成就或趣事。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"customFontSize\":16} -->\n<p style=\"font-size:16px;text-align:left;\">透過電子郵件聯絡我：<a href=\"mailto:mail@example.com\">mail@example.com</a></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">想加入董事會？</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"#\">與我們聯絡！</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->",
+            "post_name": "board-of-trustees",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 63,
+            "hs_post_parent": 1,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "目標",
+            "post_content": "",
+            "post_name": "causes",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 39,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "捐贈",
+            "post_content": "<!-- wp:paragraph -->\n<p>請捐款協助我們實現目標。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>透過一鍵捐款功能，以無比安全、方便和簡易的方式線上捐款。我們也在所有服務據點接受標準的現金與支票捐款。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "donate",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 37,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "聯絡頁面",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">與我們討論 &amp;#128075; 如有任何疑問，歡迎利用下方聯絡資訊與我們聯絡，或使用表單傳送訊息給我們。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">與我們聯絡</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">10 Street Road</div><div><span class=\"jetpack-address__city\">City</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">USA</div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">傳送訊息給我們</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"Hello there!\",\"to\":\"alves@blackhole.com\",\"hasFormSettingsSet\":\"yes\"} -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea {\"required\":true} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 33,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "課程︰教導兒童閱讀",
+            "post_content": "<!-- wp:paragraph -->\n<p>我們已發展出一套教師培訓課程，能為教師與教育人員舉辦培訓，教授全新閱讀教學技巧。我們相信此培訓能提升教師在課堂中的教學效率。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "course-teach-kids-to-read",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 15,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://alvesdemo.files.wordpress.com/2019/08/jose-aljovin-s0vmptutzvc-unsplash.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "校車計畫",
+            "post_content": "<!-- wp:paragraph -->\n<p>上學季的重點是與當地團體合作改善公車運輸網路。我們相信為鄉村地區的兒童提供交通方式十分重要。感謝各界捐款人的幫忙，我們才能募得 50 台巴士與 200 輛汽車，為全球各地的兒童提供校車服務。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "school-bus-initiative",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://alvesdemo.files.wordpress.com/2019/08/jason-ji-2u8h3fsj-so-unsplash.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "捐贈 10,000 支鉛筆給學校",
+            "post_content": "<!-- wp:paragraph -->\n<p>感謝志工的付出與贊助者的慷慨解囊，我們得以在今年夏天捐贈 10,000 支鉛筆給需要的兒童。我們能深入最缺乏資源的地區，為當地學校提供這項無比重要的學習工具。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "10000-pencils-delivered-to-schools",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://alvesdemo.files.wordpress.com/2019/08/stijn-kleerebezem-bsk8f6bvshc-unsplash.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "首頁",
+            "post_content": "<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/jenn-evelyn-ann-uydoe_ayjqs-unsplash.jpg\",\"id\":24,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"focalPoint\":{\"x\":0.5,\"y\":0.5},\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/jenn-evelyn-ann-uydoe_ayjqs-unsplash.jpg');background-position:50% 50%;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\">邀請你伸出援手</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center\"} -->\n<p class=\"has-text-align-center\">我們是一個非營利組織，期望能協助彼此，同心協力為所有兒童創造更美好的未來，共創和平世界。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons {\"align\":\"center\"} -->\n<div class=\"wp-block-buttons aligncenter\"><!-- wp:button -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"#\">捐贈</a></div>\n<!-- /wp:button -->\n\n<!-- wp:button {\"textColor\":\"background\",\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color has-background-color\" href=\"#\">聯絡</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/aaron-burden-1zr3wnstnvy-unsplash.jpg\",\"id\":25,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/aaron-burden-1zr3wnstnvy-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:paragraph {\"className\":\"has-text-align-left margin-bottom-half\"} -->\n<p class=\"has-text-align-left margin-bottom-half\">關於我們</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"align\":\"left\",\"className\":\"margin-top-half\"} -->\n<h2 class=\"has-text-align-left margin-top-half\">我們的信念</h2>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":66.66} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:paragraph {\"className\":\"has-text-align-left\"} -->\n<p class=\"has-text-align-left\">我們希望打造出一個所有孩童都能盡情閱讀的世界。我們的使命是投資學前教育，為下個世代培育出優秀的人才。為達成這項使命，我們建立各項教學專案，並為缺乏資源的地區提供所需資源。我們相信智慧資金配置，因此僅僱用最少的員工。</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/larm-rmah-aeatunvneik-unsplash.jpg\",\"id\":27,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/larm-rmah-aeatunvneik-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">你可以如何提供協助</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4>捐款</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">透過一鍵捐款功能，以無比安全、方便或簡易的方式線上捐款。我們也在所有服務據點接受標準的現金與支票捐款。</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4>成為志工</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">只要成為志工，就能立即參與我們的行動。註冊即可加入我們的行列一同帶來改變，而這個強大的網絡能讓孩童生活獲得正向改善。</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4>提供獎學金</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">你的捐款能讓需要的兒童獲得必要資源、訓練和教育，同時應許他們一個更璀璨的未來。註冊即可立即開始改變世界。</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/nathan-anderson-94k_givvl6i-unsplash.jpg\",\"id\":29,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/nathan-anderson-94k_givvl6i-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center has-small-font-size margin-bottom-half\"} -->\n<p class=\"has-text-align-center has-small-font-size margin-bottom-half\">證言</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"align\":\"center\",\"className\":\"margin-top-half\"} -->\n<h2 class=\"has-text-align-center margin-top-half\">使用者評價</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>感謝這個組織的慷慨協助，讓我得以在艱難的環境中繼續把握求學機會。</p><cite>Jane Doe</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>陪伴這些孩子是一份再理想不過的工作，他們需要我們和世界各地人們的幫助。我肯定會加入你們的團隊並擔任志工。</p><cite>John Doe</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/jordan-whitt-b8rkmfxzjdu-unsplash.jpg\",\"id\":30,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/jordan-whitt-b8rkmfxzjdu-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center margin-bottom-half\"} -->\n<p class=\"has-text-align-center margin-bottom-half\">消息</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"align\":\"center\",\"className\":\"margin-top-half\"} -->\n<h2 class=\"has-text-align-center margin-top-half\">近期目標</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:latest-posts {\"align\":\"wide\",\"postsToShow\":3,\"displayPostContent\":true,\"displayPostDate\":true,\"postLayout\":\"grid\"} /-->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:cover {\"url\":\"https://alvesdemo.files.wordpress.com/2019/08/anna-earl-j-jb1niw1j0-unsplash.jpg\",\"id\":31,\"dimRatio\":70,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-foreground-dark-background-color has-background-dim\" style=\"background-image:url('https://alvesdemo.files.wordpress.com/2019/08/anna-earl-j-jb1niw1j0-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">成為志工</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center\"} -->\n<p class=\"has-text-align-center\">我們秉持盡可能協助更多人的目標，因此總是需要更多充滿熱忱的志工。若要瞭解詳情，請聯絡我們。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\">聯絡</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "關於",
+            "post_content": "<!-- wp:paragraph -->\n<p>我們希望打造出一個所有孩童都能盡情閱讀的世界。我們的使命是投資學前教育，為下個世代培育出優秀的人才。為達成這項使命，我們建立各項教學專案，並為缺乏資源的地區提供所需資源。我們相信智慧資金配置，因此僅僱用最少的員工。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "hs_old_id": 1,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary-menu": {
+            "name": "主選單",
+            "items": [
+                {
+                    "menu-item-title": "首頁",
+                    "menu-item-db-id": 80,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "關於",
+                    "menu-item-db-id": 81,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "董事會",
+                    "menu-item-db-id": 82,
+                    "menu-item-object-id": "63",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "81",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "目標",
+                    "menu-item-db-id": 77,
+                    "menu-item-object-id": "39",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "捐贈",
+                    "menu-item-db-id": 78,
+                    "menu-item-object-id": "37",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "聯絡頁面",
+                    "menu-item-db-id": 79,
+                    "menu-item-object-id": "33",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social-menu": {
+            "name": "社交選單",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 83,
+                    "menu-item-object-id": "83",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://www.facebook.com/WordPresscom/"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 84,
+                    "menu-item-object-id": "84",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 85,
+                    "menu-item-object-id": "85",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://www.instagram.com/wordpressdotcom/"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://alvesdemo.files.wordpress.com/2019/08/logo_alves-2.png",
+        "https://alvesdemo.files.wordpress.com/2019/08/cropped-logo_alves.png",
+        "https://alvesdemo.files.wordpress.com/2019/08/anna-earl-j-jb1niw1j0-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jordan-whitt-b8rkmfxzjdu-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/nathan-anderson-94k_givvl6i-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/larm-rmah-aeatunvneik-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/aaron-burden-1zr3wnstnvy-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jenn-evelyn-ann-uydoe_ayjqs-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jose-aljovin-s0vmptutzvc-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/jason-ji-2u8h3fsj-so-unsplash.jpg",
+        "https://alvesdemo.files.wordpress.com/2019/08/stijn-kleerebezem-bsk8f6bvshc-unsplash.jpg"
+    ]
+}
