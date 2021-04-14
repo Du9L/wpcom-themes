@@ -1,0 +1,341 @@
+# Translation of WordPress.com - Themes - Textbook in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Textbook package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-15 01:31:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Textbook\n"
+
+#: functions.php:86
+msgid "Purple"
+msgstr "Lila"
+
+#: functions.php:91
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:101
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:106
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:76
+msgid "Red"
+msgstr "Rött"
+
+#: functions.php:81
+msgid "Green"
+msgstr "Grönt"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "http://wordpress.com/theme/textbook/"
+msgstr "http://wordpress.com/theme/textbook/"
+
+#: inc/wpcom-colors.php:709
+msgid "Black on White"
+msgstr "Svart på vitt"
+
+#: inc/wpcom-colors.php:717
+msgid "Red, Orange & Green"
+msgstr "Röd, orange och grön"
+
+#: inc/wpcom-colors.php:725
+msgid "Pastel Purple, Cream, & Yellow"
+msgstr "Lila pastell, krämfärgad och gul"
+
+#: inc/wpcom-colors.php:685
+msgid "Blue, Red & Yellow"
+msgstr "Blå, röd och gul"
+
+#: inc/wpcom-colors.php:693
+msgid "Navy Blue on Grey"
+msgstr "Marinblå på grå"
+
+#: inc/wpcom-colors.php:701
+msgid "Blue, Yellow & Red"
+msgstr "Blå, gul och röd"
+
+#: inc/wpcom-colors.php:187
+msgid "Category Color 1"
+msgstr "Kategorifärg 1"
+
+#: inc/wpcom-colors.php:256
+msgid "Category Color 2"
+msgstr "Kategorifärg 2"
+
+#: inc/wpcom-colors.php:307
+msgid "Category Color 3"
+msgstr "Kategorifärg 3"
+
+#: inc/wpcom-colors.php:319
+msgid "Dark Color"
+msgstr "Mörk färg"
+
+#: inc/wpcom-colors.php:351
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: inc/wpcom-colors.php:27
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#. translators: used before a list of the post's tags
+#: inc/template-tags.php:85
+msgid "Tags:"
+msgstr "Etiketter:"
+
+#: single.php:22
+msgid "Next"
+msgstr "Nästa"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "TextBook is a theme for colleges, schools and organizations focused on education."
+msgstr "TextBook är ett tema för högskolor, skolor och organisationer som är inriktade på utbildning."
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Föregående"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:87
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post.
+#: components/features/featured-content/content-page-highlight.php:44
+#: inc/template-tags.php:189
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid "Categories: "
+msgstr "Kategorier:"
+
+#: inc/template-tags.php:77
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Författare"
+
+#: inc/template-tags.php:45
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/customizer.php:76
+msgid "Select Featured Page"
+msgstr "Välj utvald sida"
+
+#: inc/template-tags.php:44
+msgid "Add a comment"
+msgstr "Lägg till en kommentar"
+
+#: inc/customizer.php:34
+msgid "Featured Content Title"
+msgstr "Rubrik på utvalt innehåll"
+
+#: inc/customizer.php:55
+msgid "Featured Content Description"
+msgstr "Beskrivning på utvalt innehåll"
+
+#: inc/customizer.php:56
+msgid "Enter a description for the featured content area."
+msgstr "Ange en beskrivning för utvalt innehållsområde."
+
+#: inc/customizer.php:35
+msgid "Enter a custom title for the featured content area."
+msgstr "Ange en anpassad rubrik för utvalt innehållsområde."
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: inc/customizer.php:17
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#: functions.php:322 functions.php:334
+msgid "Close"
+msgstr "Stäng"
+
+#: functions.php:327
+msgid "expand child menu"
+msgstr "expandera undermeny"
+
+#: functions.php:328
+msgid "collapse child menu"
+msgstr "minimera undermeny"
+
+#: functions.php:152
+msgid "Footer Sidebar"
+msgstr "Sidfotens sidopanel"
+
+#. translators: To add an additional Playfair Display SC character subset
+#. specific to your language, translate this to 'greek', 'cyrillic' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:216
+msgctxt "Playfair Display font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display SC, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:210
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Playfair Display SC character subset
+#. specific to your language, translate this to 'greek', 'cyrillic' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:252
+msgctxt "Playfair Display SC font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: To add an additional Libre Franklin character subset specific
+#. to your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do
+#. not translate into your own language.
+#: functions.php:180
+msgctxt "Libre Franklin font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:174
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:55
+msgid "Footer"
+msgstr "Sidfot"
+
+#: functions.php:144
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: components/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:39
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">\t</span>"
+
+#: functions.php:54
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: components/post/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: components/post/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ledsen, inget matchade dina sökkriterier. Vänligen försök igen med andra nyckelord."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget hittat"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31 inc/template-tags.php:95
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: components/navigation/navigation-top.php:2 functions.php:321
+msgid "Menu"
+msgstr "Meny"
+
+#: components/page/content-page.php:22 components/post/content.php:44
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: components/header/site-branding.php:25 functions.php:333
+msgid "Search"
+msgstr "Sök"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: components/features/testimonials/archive-jetpack-testimonial.php:31
+#: components/features/testimonials/display-testimonials.php:22
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: components/features/testimonials/content-testimonials.php:17
+#: components/post/content-card.php:73
+msgid "Edit"
+msgstr "Redigera"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Kommentarsfunktionen är stängd."
+
+#: components/features/featured-content/content-featured-full.php:14
+#: components/features/featured-content/content-featured.php:14
+msgid "Featured"
+msgstr "Utvalda"
+
+#: comments.php:42
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:43
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "En kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Sidan kunde inte hittas."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som att det inte finns någonting här. Du kan testa en av länkarna nedan eller att göra en sökning."

@@ -1,0 +1,293 @@
+# Translation of WordPress.com - Themes - Textbook in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Textbook package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-15 01:31:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Textbook\n"
+
+#: functions.php:106
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:91
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:86
+msgid "Purple"
+msgstr "Morado"
+
+#: functions.php:81
+msgid "Green"
+msgstr "Verde"
+
+#: functions.php:76
+msgid "Red"
+msgstr "Rojo"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://es.wordpress.com/themes/"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "http://wordpress.com/theme/textbook/"
+msgstr "https://wordpress.com/theme/textbook"
+
+#: inc/wpcom-colors.php:725
+msgid "Pastel Purple, Cream, & Yellow"
+msgstr "Púrpura pastel, crema y amarillo"
+
+#: inc/wpcom-colors.php:717
+msgid "Red, Orange & Green"
+msgstr "Rojo, naranja y verde"
+
+#: inc/wpcom-colors.php:709
+msgid "Black on White"
+msgstr "Negro sobre blanco"
+
+#: inc/wpcom-colors.php:701
+msgid "Blue, Yellow & Red"
+msgstr "Azul, amarillo y rojo"
+
+#: inc/wpcom-colors.php:693
+msgid "Navy Blue on Grey"
+msgstr "Azul marino sobre gris"
+
+#: inc/wpcom-colors.php:685
+msgid "Blue, Red & Yellow"
+msgstr "Azul, rojo y amarillo"
+
+#: inc/wpcom-colors.php:351
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/wpcom-colors.php:319
+msgid "Dark Color"
+msgstr "Color oscuro"
+
+#: inc/wpcom-colors.php:307
+msgid "Category Color 3"
+msgstr "Color de la categoría 3"
+
+#: inc/wpcom-colors.php:256
+msgid "Category Color 2"
+msgstr "Color de la categoría 2"
+
+#: inc/wpcom-colors.php:187
+msgid "Category Color 1"
+msgstr "Color de la categoría 1"
+
+#: inc/wpcom-colors.php:27
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#. translators: used before a list of the post's tags
+#: inc/template-tags.php:85
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "TextBook is a theme for colleges, schools and organizations focused on education."
+msgstr "TextBook es un tema para colegios, escuelas y organizaciones centradas en la educación."
+
+#: single.php:22
+msgid "Next"
+msgstr "Siguiente"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Previo"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda por: %s"
+
+#. translators: %s: Name of current post.
+#: components/features/featured-content/content-page-highlight.php:44
+#: inc/template-tags.php:189
+msgid "Continue reading %s"
+msgstr "Sigue leyendo %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:87
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:77
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid "Categories: "
+msgstr "Categorías:"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:45
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:44
+msgid "Add a comment"
+msgstr "Añadir un comentario"
+
+#: inc/customizer.php:55
+msgid "Featured Content Description"
+msgstr "Descripción para Contenidos Destacados."
+
+#: inc/customizer.php:34
+msgid "Featured Content Title"
+msgstr "Título para Contenidos Destacados"
+
+#: inc/customizer.php:17
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:328
+msgid "collapse child menu"
+msgstr "plegar menú inferior"
+
+#: functions.php:327
+msgid "expand child menu"
+msgstr "expande el menú inferior"
+
+#: functions.php:322 functions.php:334
+msgid "Close"
+msgstr "Cerrar"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display SC, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:210
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:152
+msgid "Footer Sidebar"
+msgstr "Pie de página"
+
+#: functions.php:144
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:55
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:54
+msgid "Header"
+msgstr "Cabecera"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:39
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo %s <span class=\"meta-nav\">\t</span>"
+
+#: components/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda te pueda ayudar."
+
+#: components/post/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento pero no hay nada que se ajuste a tus criterios de búsqueda. Por favor, inténtalo de nuevo con palabras claves distintas."
+
+#: components/post/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Estás listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31 inc/template-tags.php:95
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: components/page/content-page.php:22 components/post/content.php:44
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: components/navigation/navigation-top.php:2 functions.php:321
+msgid "Menu"
+msgstr "Menú"
+
+#: components/header/site-branding.php:25 functions.php:333
+msgid "Search"
+msgstr "Buscar"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Orgullosamente ofrecido por %s"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: components/features/testimonials/content-testimonials.php:17
+#: components/post/content-card.php:73
+msgid "Edit"
+msgstr "Editar"
+
+#: components/features/testimonials/archive-jetpack-testimonial.php:31
+#: components/features/testimonials/display-testimonials.php:22
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: components/features/featured-content/content-featured-full.php:14
+#: components/features/featured-content/content-featured.php:14
+msgid "Featured"
+msgstr "Destacado"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:43
+msgid "Newer Comments"
+msgstr "Comentarios Recientes"
+
+#: comments.php:42
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Un comentario"
+msgstr[1] "%1$s Comentarios"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Quizás pruebes con uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se pudo encontrar esa página."
