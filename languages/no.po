@@ -1,0 +1,266 @@
+# Translation of WordPress.com - Themes - Hew in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Hew package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-22 15:28:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Hew\n"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: inc/template-tags.php:335
+msgid "Archives"
+msgstr "Arkiver"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:333
+msgid "%1$s: %2$s"
+msgstr "%1$s @ %2$s"
+
+#: inc/template-tags.php:329
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:326
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Samtaler"
+
+#: inc/template-tags.php:324
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:322
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuser"
+
+#: inc/template-tags.php:320
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/template-tags.php:318
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Sitater"
+
+#: inc/template-tags.php:316
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Filmer"
+
+#: inc/template-tags.php:314
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:312
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: inc/template-tags.php:310
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:307
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:307
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:305
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:305
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:303
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:303
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:301
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: inc/template-tags.php:299
+msgid "Tag: %s"
+msgstr "Merkelapp: %s"
+
+#: inc/template-tags.php:297
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:276
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/template-tags.php:252
+msgid "Newer posts"
+msgstr "Nyere innlegg"
+
+#: inc/template-tags.php:248
+msgid "Older posts"
+msgstr "Eldre innlegg"
+
+#: inc/template-tags.php:244
+msgid "Posts navigation"
+msgstr "Innleggsnavigasjon"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:79
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publiser %s"
+
+#: inc/template-tags.php:50
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#: inc/template-tags.php:40
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/template-tags.php:34
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">sier:</span>"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "Tilbaketråkk:"
+
+#: inc/extras.php:97
+msgid "Page %s"
+msgstr "Side %s"
+
+#: header.php:68 header.php:69
+msgid "Widgets"
+msgstr "Widgeter"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:130
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "på"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:125
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:42
+msgid "Social Menu"
+msgstr "Sosiale medier-meny"
+
+#: functions.php:41 header.php:49
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:15
+msgid "A Semantic Personal Publishing Platform"
+msgstr "En semantisk personlig publiseringsplatform"
+
+#: content-page.php:29 inc/template-tags.php:23 inc/template-tags.php:43
+#: inc/template-tags.php:116
+msgid "Edit"
+msgstr "endre"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet passet til ditt søkeuttrykk. Vennligst prøv igjen med noen andre nøkkelord."
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: content-image.php:47 content-link.php:28 content-page.php:21
+#: content-quote.php:26 content-single.php:28 content.php:30
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-image.php:7 content-link.php:25 content-quote.php:23
+#: content-single.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les videre <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det ble ikke funnet noe her. Kanskje du kan prøve å søke?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke,"

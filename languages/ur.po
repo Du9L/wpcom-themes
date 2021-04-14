@@ -1,0 +1,256 @@
+# Translation of WordPress.com - Themes - Hew in Urdu
+# This file is distributed under the same license as the WordPress.com - Themes - Hew package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-03 09:45:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ur_PK\n"
+"Project-Id-Version: WordPress.com - Themes - Hew\n"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "کے لئے تلاش کے نتائج %s"
+
+#: inc/template-tags.php:335
+msgid "Archives"
+msgstr "محفوظات:"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:333
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:329
+msgid "Archives: %s"
+msgstr "محفوظات: %s"
+
+#: inc/template-tags.php:326
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "بات چیت"
+
+#: inc/template-tags.php:324
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "آڈیو"
+
+#: inc/template-tags.php:322
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "اسٹیٹسز"
+
+#: inc/template-tags.php:320
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "لنکس"
+
+#: inc/template-tags.php:318
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "حوالے"
+
+#: inc/template-tags.php:316
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "ویڈیوز"
+
+#: inc/template-tags.php:314
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصاویر"
+
+#: inc/template-tags.php:312
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گیلیریز"
+
+#: inc/template-tags.php:310
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "ایک طرف"
+
+#: inc/template-tags.php:307
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:307
+msgid "Day: %s"
+msgstr "دن: %s"
+
+#: inc/template-tags.php:305
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:305
+msgid "Month: %s"
+msgstr "مہینہ : %s"
+
+#: inc/template-tags.php:303
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:303
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/template-tags.php:301
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#: inc/template-tags.php:299
+msgid "Tag: %s"
+msgstr "ٹیگ: %s"
+
+#: inc/template-tags.php:297
+msgid "Category: %s"
+msgstr "زمرہ: %s"
+
+#: inc/template-tags.php:276
+msgid "Post navigation"
+msgstr "پوسٹ نیویگیشن"
+
+#: inc/template-tags.php:252
+msgid "Newer posts"
+msgstr "تازہ ترین پوسٹیں"
+
+#: inc/template-tags.php:248
+msgid "Older posts"
+msgstr "پرانی پوسٹیں"
+
+#: inc/template-tags.php:244
+msgid "Posts navigation"
+msgstr "پوسٹوں کی نیویگیشن"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+msgid ", "
+msgstr "،"
+
+#: inc/template-tags.php:50
+msgid "Your comment is awaiting moderation."
+msgstr "آپ کی رائے ماڈریشن کا انتظار کر رہی ہے"
+
+#: inc/template-tags.php:34
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">کہتے ہیں:</span>"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "پنگ بیک:"
+
+#: inc/extras.php:97
+msgid "Page %s"
+msgstr "%s صفحہ "
+
+#: header.php:68 header.php:69
+msgid "Widgets"
+msgstr "ویجٹس"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "چھوڑیں اور مواد پر جائیں"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:130
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "استعمال"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:125
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "پر"
+
+#: functions.php:42
+msgid "Social Menu"
+msgstr "سوشل مینو"
+
+#: functions.php:41 header.php:49
+msgid "Primary Menu"
+msgstr "بنیادی مینیو"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s منجانب %2$s۔"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "کی فخریہ پیشکش %s"
+
+#: footer.php:15
+msgid "A Semantic Personal Publishing Platform"
+msgstr "سیمینٹک ذاتی پبلشنگ پلیٹ فارم"
+
+#: content-page.php:29 inc/template-tags.php:23 inc/template-tags.php:43
+#: inc/template-tags.php:116
+msgid "Edit"
+msgstr "تدوین"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "لگتا ہے ہم وہ نہیں ڈھونڈ پا رہے جو آپ چاہ رہے ہیں۔ شاید تلاش مدد کرسکے۔"
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "معزرت، مگر آپکی تلاش کا کوئی لفظ نہ مل سکا۔ برائے مہربانی کچھ دوسرے الفاظ سے دوبارہ کوشش کیجیے۔"
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "پہلی تحریر شائع کرنے کے لیے تیار ہیں؟ <a href=\"%1$s\">یہاں سے شروع کیجیے</a>۔"
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "کچھ نھیں ملا"
+
+#: content-image.php:47 content-link.php:28 content-page.php:21
+#: content-quote.php:26 content-single.php:28 content.php:30
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: content-image.php:7 content-link.php:25 content-quote.php:23
+#: content-single.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "پڑھنا جاری رکھیں→"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "&rarr; نئے تبصرے"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "←پرانی رائے"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "تبصرہ نیویگیشن"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "ایک خیال &ldquo;%2$s&rdquo; پہ"
+msgstr[1] "%1$s خیالات &ldquo;%2$s&rdquo; پہ"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "لگتا ہے اِس جگہ کچھ نہیں مل سکا۔ شلاش کی کوشش کیجیے؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہ! وہ صفحہ نہیں مل سکا"

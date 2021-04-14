@@ -1,0 +1,258 @@
+# Translation of WordPress.com - Themes - Hew in Galician
+# This file is distributed under the same license as the WordPress.com - Themes - Hew package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-22 23:32:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.2.0-alpha\n"
+"Language: gl_ES\n"
+"Project-Id-Version: WordPress.com - Themes - Hew\n"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados da procura de: %s"
+
+#: inc/template-tags.php:335
+msgid "Archives"
+msgstr "Arquivo"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:333
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:329
+msgid "Archives: %s"
+msgstr "Arquivos: %s"
+
+#: inc/template-tags.php:326
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:324
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:322
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Estatus"
+
+#: inc/template-tags.php:320
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ligazóns"
+
+#: inc/template-tags.php:318
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citas"
+
+#: inc/template-tags.php:316
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:314
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imaxes"
+
+#: inc/template-tags.php:312
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerías"
+
+#: inc/template-tags.php:310
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:307
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:307
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: inc/template-tags.php:305
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:305
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: inc/template-tags.php:303
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:303
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: inc/template-tags.php:301
+msgid "Author: %s"
+msgstr "Autor/a: %s"
+
+#: inc/template-tags.php:299
+msgid "Tag: %s"
+msgstr "Etiqueta: %s"
+
+#: inc/template-tags.php:276
+msgid "Post navigation"
+msgstr "Navegación de artigos"
+
+#: inc/template-tags.php:252
+msgid "Newer posts"
+msgstr "Artigos máis recentes"
+
+#: inc/template-tags.php:248
+msgid "Older posts"
+msgstr "Artigos máis antigos"
+
+#: inc/template-tags.php:244
+msgid "Posts navigation"
+msgstr "Navegación de artigos"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:79
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado o %s"
+
+#: inc/template-tags.php:50
+msgid "Your comment is awaiting moderation."
+msgstr "O teu comentario está á espera de moderación."
+
+#: inc/template-tags.php:40
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s ás %2$s"
+
+#: inc/template-tags.php:34
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">di:</span>"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/extras.php:97
+msgid "Page %s"
+msgstr "Páxina %s"
+
+#: header.php:68 header.php:69
+msgid "Widgets"
+msgstr "Widgets"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Saltar ao contido"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:130
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "aceso"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:125
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "activada"
+
+#: functions.php:41 header.php:49
+msgid "Primary Menu"
+msgstr "Menú primario"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Fornecido con orgullo por %s"
+
+#: content-quote.php:11 inc/template-tags.php:132
+msgid "All %s posts"
+msgstr "Todos os artigos de %s"
+
+#: content-page.php:29 inc/template-tags.php:23 inc/template-tags.php:43
+#: inc/template-tags.php:116
+msgid "Edit"
+msgstr "Editar"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que non atopamos o que estás a buscar. Quizais unha procura axude. "
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sentímolo, non hai nada que coincida cos termos de busca. Podes tentar de novo con palabras diferentes."
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Preparado/a para publicar o teu primeiro artigo? <a href=\"%1$s\">Comeza aquí</a>."
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "Non se atopou nada"
+
+#: content-image.php:47 content-link.php:28 content-page.php:21
+#: content-quote.php:26 content-single.php:28 content.php:30
+msgid "Pages:"
+msgstr "Páxinas:"
+
+#: content-image.php:7 content-link.php:25 content-quote.php:23
+#: content-single.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir lendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Os comentarios están pechados."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios máis recentes &rarr;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios máis antigos"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que non hai nada nesa ubicacion ¿queres probar a buscar?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Vaia! Non atopamos esa páxina."
