@@ -1,0 +1,545 @@
+/*
+Theme Name: Quadra
+Theme URI: https://wordpress.com/themes/quadra/
+Description: Quadra is a tumblelog-style theme for your personal blog. Featured images are supported, and different post formats are highlighted with a unique icon in a square shape. The design is responsive and looks great on any device, large or small.
+Version: 1.0.4
+Author: Automattic
+Author URI: https://wordpress.com/themes/
+Template: hexa-wpcom
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: quadra
+*/
+
+@import url(../hexa/style.css);
+
+* html {
+  font-size: 112.5%;
+}
+
+html {
+  font-size: 18px;
+  line-height: 1.6em;
+}
+
+.entry-format {
+  background-color: #d05b1c;
+  left: -13px;
+  width: 60px;
+  text-indent: 0;
+  text-align: center;
+}
+.entry-format:before {
+  border: 0;
+  left: 0;
+  line-height: 60px;
+  width: 100%;
+}
+.entry-format:after {
+  display: none;
+}
+@media screen and (max-width: 48.81em) {
+  .entry-format {
+    width: 42px;
+    height: 42px;
+    right: 28px;
+    left: auto;
+    text-indent: 0;
+    text-align: center;
+    top: 28px;
+  }
+  .entry-format:before {
+    line-height: 42px;
+  }
+}
+
+.toggles {
+  margin-top: 0;
+}
+.toggles #menu-toggle {
+  text-indent: 0;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles {
+    margin: 14px 0 0;
+    max-width: 100%;
+  }
+}
+.toggles .toggle {
+  margin-right: 7px;
+  position: relative;
+  text-align: center;
+  text-indent: 0;
+  width: 50px;
+}
+.toggles .toggle:nth-of-type(1) {
+  top: auto;
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(1) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:nth-of-type(2) {
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(2) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:nth-of-type(3) {
+  top: auto;
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(3) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:nth-of-type(4) {
+  top: auto;
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(4) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:before {
+  border: 0 none;
+  color: rgba(255, 255, 255, 0.6);
+  left: auto;
+  display: block;
+  line-height: 50px;
+  width: 100%;
+}
+.toggles .toggle:after {
+  display: none;
+}
+
+.author-archives-img {
+  border-color: #f7f7f7;
+}
+
+.comment .comment .avatar-wrapper img {
+  max-width: 40px;
+}
+
+body {
+  background: #f7f7f7;
+  color: #2d3433;
+  font-family: "PT Serif", Georgia, Times, serif;
+}
+
+button,
+input,
+select,
+textarea {
+  color: #228897;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #228897;
+}
+
+h6 {
+  letter-spacing: 1px;
+}
+
+hr {
+  background-color: #228897;
+}
+
+blockquote {
+  color: #5c6b69;
+  border-left: 5px solid #d05b1c;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  background-color: #228897;
+}
+button:hover, button:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+  background-color: #d05b1c;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"] {
+  background: white;
+  border: 1px solid #f7f7f7;
+}
+input[type="text"]:hover, input[type="text"]:focus,
+input[type="email"]:hover,
+input[type="email"]:focus,
+input[type="url"]:hover,
+input[type="url"]:focus,
+input[type="password"]:hover,
+input[type="password"]:focus,
+input[type="search"]:hover,
+input[type="search"]:focus {
+  background: white;
+  border: 1px solid #dedede;
+}
+
+textarea {
+  background: white;
+  border: 1px solid #f7f7f7;
+}
+textarea:focus {
+  background: white;
+  border: 1px solid #dedede;
+}
+
+abbr, acronym {
+  border-bottom: 1px dotted #ababab;
+}
+
+td {
+  border-bottom: 1px solid rgba(171, 171, 171, 0.25);
+}
+
+a {
+  color: #d05b1c;
+}
+a:visited {
+  color: #d05b1c;
+}
+a:hover, a:focus, a:active {
+  color: #2d3433;
+}
+
+img.alignleft,
+.wp-caption.alignleft,
+img.alignright,
+.wp-caption.alignright {
+  border-color: #f7f7f7;
+}
+
+.site-header {
+  border-left: 8px solid #d05b1c;
+  padding-right: 0;
+}
+
+.site-footer {
+  border-left: 8px solid #228897;
+  color: #228897;
+  letter-spacing: 1px;
+}
+.site-footer a {
+  color: #228897;
+}
+
+.site-title a {
+  color: #d05b1c;
+}
+
+.site-description {
+  font-size: 0.77778em;
+  line-height: 2.05714em;
+  color: #ababab;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.toggles .toggle {
+  background-color: #d05b1c;
+}
+.toggles .toggle:last-of-type {
+  margin-right: 0;
+}
+.toggles #menu-toggle {
+  background-color: #d05b1c;
+}
+.toggles #sidebar-toggle {
+  background-color: #2d3433;
+}
+.toggles #social-links-toggle {
+  background-color: #646d6b;
+}
+.toggles #search-toggle {
+  background-color: #228897;
+}
+
+.panel {
+  background: #d05b1c;
+}
+.panel .search-wrapper input[type="submit"] {
+  background: #d05b1c;
+}
+
+.main-navigation a {
+  color: rgba(255, 255, 255, 0.75);
+  letter-spacing: 1px;
+}
+.main-navigation ul ul:before {
+  border-bottom-color: #228897;
+}
+.main-navigation li li {
+  background: #228897;
+}
+
+.hentry {
+  border-left: 8px solid #d05b1c;
+}
+.hentry.sticky {
+  border-color: #228897;
+}
+.hentry.sticky .entry-format {
+  background-color: #228897;
+}
+.hentry.format-gallery, .hentry.format-aside {
+  border-color: #ababab;
+}
+.hentry.format-gallery .entry-format, .hentry.format-aside .entry-format {
+  background: #ababab;
+}
+.hentry.format-link {
+  border-color: #279bac;
+}
+.hentry.format-link .entry-format {
+  background: #279bac;
+}
+.hentry.format-video, .hentry.format-audio {
+  border-color: #5c6b69;
+}
+.hentry.format-video .entry-format, .hentry.format-audio .entry-format {
+  background: #5c6b69;
+}
+.hentry.format-status, .hentry.format-quote {
+  border-color: #646d6b;
+}
+.hentry.format-status .entry-format, .hentry.format-quote .entry-format {
+  background: #646d6b;
+}
+.hentry.format-image, .hentry.format-gallery {
+  border-color: #2d3433;
+}
+.hentry.format-image .entry-format, .hentry.format-gallery .entry-format {
+  background-color: #2d3433;
+}
+.hentry .entry-format:before {
+  background-color: #d05b1c;
+}
+
+.page-links {
+  color: #5c6b69;
+}
+.page-links span.active-link {
+  background-color: #d05b1c;
+}
+.page-links a span.active-link {
+  background-color: #228897;
+}
+.page-links a:hover span.active-link {
+  background-color: #d05b1c;
+}
+
+a.more-link {
+  color: #5c6b69;
+}
+a.more-link:hover {
+  color: #2d3433;
+}
+
+.entry-title {
+  color: #d05b1c;
+}
+.entry-title a {
+  color: #d05b1c;
+}
+
+.entry-meta, #cancel-comment-reply-link, .reply {
+  letter-spacing: 1px;
+  color: #ababab;
+}
+.entry-meta a, #cancel-comment-reply-link a, .reply a {
+  color: #ababab;
+}
+
+.page-header {
+  border-left: 8px solid #228897;
+}
+
+.page-title {
+  color: #228897;
+}
+
+.author-archives-img {
+  margin-top: -14px;
+}
+
+.taxonomy-description {
+  color: #ababab;
+}
+
+.wp-caption {
+  background: #f7f7f7;
+}
+
+.wp-caption-text {
+  color: #5c6b69;
+}
+
+.post-navigation,
+.paging-navigation {
+  left: -4px;
+  width: 108px;
+  background: transparent;
+}
+.post-navigation a,
+.paging-navigation a {
+  background: transparent;
+}
+.post-navigation a:before,
+.paging-navigation a:before {
+  background: #228897;
+}
+.post-navigation a:hover:before,
+.paging-navigation a:hover:before {
+  background: #d05b1c;
+}
+.post-navigation:before,
+.paging-navigation:before {
+  border-left: 8px solid #228897;
+  content: "";
+  display: block;
+  height: 100%;
+  margin-left: -4px;
+  position: absolute;
+  left: 50%;
+  z-index: -1;
+}
+
+@media screen and (max-width: 48.81em) {
+	.post-navigation,
+	.paging-navigation {
+		left: 36.8px;
+	}
+	.post-navigation:before,
+	.paging-navigation:before {
+	  margin-left: -4px;
+	  left: -32.8px;
+	}
+}
+
+.comment-metadata, .comment-metadata a {
+  color: #ababab;
+}
+
+.comment-navigation .nav-previous a {
+  color: #ababab;
+}
+.comment-navigation .nav-next a {
+  color: #ababab;
+}
+
+.comments-area {
+  border-left: 8px solid #228897;
+}
+
+.comment-author {
+  color: #d05b1c;
+}
+.comment-author a:hover {
+  color: #d05b1c;
+}
+.comment-author .avatar-wrapper {
+  border-color: #f7f7f7;
+  margin-top: -14px;
+}
+@media screen and (max-width: 48.81em) {
+  .comment-author .avatar-wrapper {
+    border: 3px solid #228897;
+  }
+}
+
+.comment .comment .avatar-wrapper {
+  border: 5px solid #228897;
+}
+
+.bypostauthor > .comment-body .comment-author:second-of-type .avatar-wrapper {
+  border-color: #d05b1c;
+}
+
+.comment-metadata, .comment-metadata a {
+  color: #ababab;
+}
+
+.comments-title {
+  color: #228897;
+}
+
+.required {
+  color: #d05b1c;
+}
+
+.form-allowed-tags {
+  color: #ababab;
+}
+
+.no-comments {
+  color: #ababab;
+}
+
+.widget-title {
+  color: #228897;
+}
+
+.widget_search input {
+  border-color: #eaeaea;
+}
+
+.wp_widget_tag_cloud div a,
+.widget_tag_cloud .tagcloud a {
+  color: #d05b1c;
+}
+
+#infinite-footer .container {
+  background: rgba(247, 247, 247, 0.5);
+  color: #ababab;
+}
+#infinite-footer .container a {
+  color: #ababab;
+}
+#infinite-footer .container a:hover {
+	color: #ababab;
+}
+
+.infinite-loader {
+  border-left: 8px solid #d05b1c;
+}
+
+@media only screen and (max-width: 48.81em) {
+  #infinite-handle {
+    border-left: 8px solid #d05b1c;
+  }
+}
+
+#infinite-handle span {
+  background: #228897;
+  letter-spacing: 1px;
+}
+#infinite-handle span:hover, #infinite-handle span:focus {
+  background: #d05b1c;
+}
