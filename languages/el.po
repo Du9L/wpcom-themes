@@ -1,0 +1,301 @@
+
+Warning: mysqli_real_connect(): (08004/1040): Too many connections in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:115 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:528 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Lovecraft in Greek
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-23 00:35:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#: inc/wpcom-colors.php:61
+msgid "Main Accent"
+msgstr "Κύριο Χρώμα"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "Συνεχίστε την ανάγνωση %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lovecraft/full-width-page-template.php
+msgid "Full Width, No Sidebar"
+msgstr "Πλήρες πλάτος, χωρίς πλαϊνή μπάρα"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/lovecraft/style.css
+msgid "Lovecraft is a beautiful two-column theme for bloggers. It features a responsive design, great typography, a full-width header image (which is replaced with the post thumbnail on single posts/pages), custom logo support, editor style support, and a full-width template."
+msgstr "Το Lovecraft είναι ένα όμορφο Θέμα με δύο στήλες ειδικά φτιαγμένο για bloggers. Λειτουργεί άψογα σε κάθε είδους οθόνη, συμπεριλαμβανομένων κινητών και tablets. Χρησιμοποιεί όμορφες γραμματοσειρές, εικόνα στην κεφαλίδα που καλύπτει όλο το μήκος της οθόνης, λογότυπο της επιλογής σας, εργαλείο παραμετροποίησης του στυλ και πρότυπο σχεδίασης για κάλυψη όλης της οθόνης."
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια ανάγνωσης %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Προβεβλημένα"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Δε βρέθηκε τίποτα"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Αναζήτηση για:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα για %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Αρχείο"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Ιστορικό: %s"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Συνομιλίες"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Αρχεία ήχου"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Καταστάσεις"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Ρήσεις"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Βίντεο"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Εικόνες"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Συλλογές"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Εμπρόθετα άρθρα"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "Ημέρα: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "Μήνας: %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "Έτος: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "Συντάκτης: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "Κατηγορία: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "% σχόλια"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 Σχολιο"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "Σχολιάστε"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Φαίνεται ότι δεν βρέθηκε τίποτα σε αυτή την τοποθεσία. Μήπως να δοκιμάζατε μια αναζήτηση;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Πλοήγηση άρθρων"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Νεότερα άρθρα"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Παλαιότερες αναρτήσεις"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Πλοήγηση δημοσιεύσεων"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας θα ελεγχθεί πρώτα από συντονιστή."
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(Διόρθωση)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "Παράθεμα:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια &rarr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; παλαιότερα σχόλια"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s στις %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Κύριο μενού"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Θέμα: %1$s από %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Κατασκευασμένο με %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειστά."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μια σκέψη σχετικά μέ το &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις σχετικά με το &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."

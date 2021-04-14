@@ -1,0 +1,323 @@
+# Translation of WordPress.com - Themes - Lovecraft in Italian
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-03 08:52:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#: inc/wpcom-colors.php:61
+msgid "Main Accent"
+msgstr "Accento Principale"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "Leggi tutto %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua a leggere %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "In evidenza"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Non riusciamo a trovare quello che cerchi. Forse eseguire una ricerca potrebbe essere di aiuto."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Spiacente, nulla corrisponde ai termini della tua ricerca. Riprova con parole chiave diverse."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sei pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Comincia da qui</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cerca"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Ricerca per:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Archivi"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Archivi: %s"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stati"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Link"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citazioni"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Immagini"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerie"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Digressioni"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "Giorno: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "Mese: %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "Anno: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "Autore: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "Categoria: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "% commenti"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 commento"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: inc/template-tags.php:102
+msgid "In %1$s"
+msgstr "in %1$s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sembra che non ci sia nulla. Provare una ricerca?"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "On %s"
+msgstr "su %s"
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "By %s"
+msgstr "da %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigazione articolo"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Articoli più recenti"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Articoli meno recenti"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigazione articoli"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "Cerca"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento deve ancora venire moderato."
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti meno recenti"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "Modifica"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s alle %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "acceso"
+
+#: functions.php:110
+msgid "Footer Widgets 1"
+msgstr "Widget a piè di pagina 1"
+
+#: functions.php:120
+msgid "Footer Widgets 2"
+msgstr "Widget piè di pagina 2"
+
+#: functions.php:130
+msgid "Footer Widgets 3"
+msgstr "Widget piè di pagina 3"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Playfair Display, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s di %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Funziona grazie a %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri su &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Impossibile trovare la pagina."

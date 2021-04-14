@@ -1,0 +1,311 @@
+# Translation of WordPress.com - Themes - Lovecraft in Azerbaijani
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 07:49:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: az\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#: inc/wpcom-colors.php:61
+msgid "Main Accent"
+msgstr "Əsas Vurğu"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "%s oxumağa davam et"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/lovecraft/style.css
+msgid "Lovecraft is a beautiful two-column theme for bloggers. It features a responsive design, great typography, a full-width header image (which is replaced with the post thumbnail on single posts/pages), custom logo support, editor style support, and a full-width template."
+msgstr "Lovecraft blqqerlər üçün dizayn edilmiş, responsiv dizayna və mükəmməl tipoqrafiyaya sahib iki-sütunlu bir mövzudur."
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Oxumağa davam et %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Xüsusi"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Səhifələr:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Axtardığınız səhifə tapılmadı. Bəlkə axtarış qutusu axtardığınızı tapmaqda sizə kömək edər."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bağışlayın, axtarış kriteriyalarınıza uyğun heç bir şey tapılmadı. Bəzi fərqli açar kəlmələrdən istifadə edərək təkrar yoxlayın."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı dərc etməyə hazırsınızmı? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Heç Nə Tapılmadı"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Axtar"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Axtarış:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr " %s üçün Axtarışın Nəticələri:"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Arxivlər"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Arxivlər: %s"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Canlı Söhbətlər"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuslar"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Sitatlar"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videolar"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Təsvirlər"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Qalereyalar"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Yan sütun"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "Gün: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "Ay: %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "İl: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "Müəllif: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "Etiket: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "Kateqoriya: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "% Şərh"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 şərh"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "Bir şərh yazın"
+
+#: inc/template-tags.php:102
+msgid "In %1$s"
+msgstr "%1$s içində"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Deyəsən burada heç bir şey tapılmadı. Yüngülcə bir axtarışa nə deyirsiniz?"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "By %s"
+msgstr "%s tərəfindən"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Yazı naviqasiyası"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Yeni yazılar"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Daha köhnə yazılar"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Yazı naviqasiyası"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Səhifə %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "Axtar"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Menyu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Mühtəviyyata keç"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "Şərhiniz yoxlama gözləyir."
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(Redaktə et)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "Geri izləmə:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Yeni şərhlər &rarr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Əski şərhlər"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "Redaktə et"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Playfair Display, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "açıq"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Yan menyu"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Əsas menyu"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Mövzu: %1$s tərəfindən %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "%s qürurla təqdim edər"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Şərh üçün bağlıdır."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Şərh naviqasiyası"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üzərinə bir şərh"
+msgstr[1] "&ldquo;%2$s&rdquo; üzərinə %1$s şərh"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Bağışlayın! Bu səhifə tapılmır."

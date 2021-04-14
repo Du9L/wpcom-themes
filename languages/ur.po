@@ -1,0 +1,305 @@
+# Translation of WordPress.com - Themes - Lovecraft in Urdu
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-15 08:41:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ur_PK\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "جاری رکھئیے پڑھنا %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lovecraft/full-width-page-template.php
+msgid "Full Width, No Sidebar"
+msgstr "مکمل چوڑائی، کوئی سائیڈ بار نہیں"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span> کو پڑھنا جاری رکھیں"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "نمایاں"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "لگتا ہے ہم وہ نہیں ڈھونڈ پا رہے جو آپ چاہ رہے ہیں۔ شاید تلاش مدد کرسکے۔"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "معزرت، مگر آپکی تلاش کا کوئی لفظ نہ مل سکا۔ برائے مہربانی کچھ دوسرے الفاظ سے دوبارہ کوشش کیجیے۔"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "پہلی تحریر شائع کرنے کے لیے تیار ہیں؟ <a href=\"%1$s\">یہاں سے شروع کیجیے</a>۔"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "کچھ نھیں ملا"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "تلاش کریں"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "تلاش برائے:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "کے لئے تلاش کے نتائج %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "محفوظات:"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "محفوظات: %s"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "بات چیت"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "آڈیو"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "اسٹیٹسز"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "لنکس"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "حوالے"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "ویڈیوز"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصاویر"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گیلیریز"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "ایک طرف"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "دن: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "مہینہ : %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "ٹیگ: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "زمرہ: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 تبصرہ"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "تبصرہ چھوڑیں"
+
+#: inc/template-tags.php:102
+msgid "In %1$s"
+msgstr "%1$s میں"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "لگتا ہے اِس جگہ کچھ نہیں مل سکا۔ شلاش کی کوشش کیجیے؟"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr "،"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "پوسٹ نیویگیشن"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "تازہ ترین پوسٹیں"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "پرانی پوسٹیں"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پوسٹوں کی نیویگیشن"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "%s صفحہ "
+
+#: header.php:43
+msgid "Search"
+msgstr "تلاش"
+
+#: header.php:39
+msgid "Menu"
+msgstr "مینو"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "چھوڑیں اور مواد پر جائیں"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "آپ کی رائے ماڈریشن کا انتظار کر رہی ہے"
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(ترمیم کریں)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "پنگ بیک:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "&rarr; نئے تبصرے"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "←پرانی رائے"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "تدوین"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "فعال کریں"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Playfair Display, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "پر"
+
+#: functions.php:110
+msgid "Footer Widgets 1"
+msgstr "فوٹر ویجٹس 1"
+
+#: functions.php:120
+msgid "Footer Widgets 2"
+msgstr "فوٹر ویجٹس 2"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "بغلی ‌پٹی"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "بنیادی مینیو"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s منجانب %2$s۔"
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "کی فخریہ پیشکش %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "تبصرہ نیویگیشن"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "ایک خیال &ldquo;%2$s&rdquo; پہ"
+msgstr[1] "%1$s خیالات &ldquo;%2$s&rdquo; پہ"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہ! وہ صفحہ نہیں مل سکا"

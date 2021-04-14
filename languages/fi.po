@@ -1,0 +1,321 @@
+# Translation of WordPress.com - Themes - Lovecraft in Finnish
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-07 04:23:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.2.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "Jatka artikkeliin %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lovecraft/full-width-page-template.php
+msgid "Full Width, No Sidebar"
+msgstr "Täysi leveys ilman sivupalkkia"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Jatka lukemista %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Suositeltu"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen kirjoituksesi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">Edellinen</span> <h4>%title</h4>"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">Seuraava</span> <h4>%title</h4>"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hae"
+
+#: searchform.php:4
+msgctxt "lovecraft"
+msgid "Search …"
+msgstr "Hae …"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Haku:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hakutulokset kohteelle: %s"
+
+#: inc/template-tags.php:184
+msgid "Archives"
+msgstr "Arkistot"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:182
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:178
+msgid "Archives: %s"
+msgstr "Arkistot: %s"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Keskustelut"
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Äänitiedostot"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Tilapäivitykset"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Linkit"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Lainaukset"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videot"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Kuvat"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleriat"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Sivuhuomautukset"
+
+#: inc/template-tags.php:156
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j.n.Y"
+
+#: inc/template-tags.php:156
+msgid "Day: %s"
+msgstr "Päivä: %s"
+
+#: inc/template-tags.php:154
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:154
+msgid "Month: %s"
+msgstr "Kuukausi: %s"
+
+#: inc/template-tags.php:152
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:152
+msgid "Year: %s"
+msgstr "Vuosi: %s"
+
+#: inc/template-tags.php:150
+msgid "Author: %s"
+msgstr "Kirjoittaja: %s"
+
+#: inc/template-tags.php:148
+msgid "Tag: %s"
+msgstr "Tagi: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:146
+msgid "Category: %s"
+msgstr "Kategoria: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: inc/template-tags.php:102
+msgid "In %1$s"
+msgstr "Kategoria(t): %1$s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Näyttää siltä että täällä ei ole mitään. Kokeilepa hakua?"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "By %s"
+msgstr "Tekijä %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Vanhemmat artikkelit"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "Haku"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Valikko"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa hyväksymistä."
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(Muokkaa)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "Päivitysilmoitus:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Uudemmat kommentit &rarr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanhemmat kommentit"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s klo %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Playfair Display, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Teema: %1$s tekijä %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Voimanlähteenä %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Kommenttien selaus"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi kommentti artikkeliin &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommenttia artikkeliin &rdquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Tätä sivua ei löydy."

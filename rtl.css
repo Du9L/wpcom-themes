@@ -1,0 +1,626 @@
+/*
+Theme Name: Lovecraft
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+
+textarea {
+	padding-right: 3px;
+	padding-left: 0;
+}
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+
+.comment-navigation .nav-previous,
+.posts-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: right;
+	text-align: right;
+}
+
+.comment-navigation .nav-next,
+.posts-navigation .nav-next,
+.post-navigation .nav-next {
+	float: left;
+	text-align: left;
+}
+
+/* Layout */
+
+.content-area {
+	float: right;
+	margin: -120px 0 0 -26.3%;
+}
+
+.site-main {
+	margin: 0 0 0 31.3%;
+}
+
+.site-content .widget-area {
+	float: left;
+}
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers. */
+
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignright {
+	float: right;
+	margin: .75em 0 .75em 1.5em;
+}
+
+.alignleft {
+	float: left;
+	margin: .75em 1.5em .75em 0;
+}
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+
+.widget ul {
+	margin-right: 0;
+	padding-right: 1.5em;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+.widget > div > ul:first-of-type,
+.widget > ul:first-of-type {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.site-branding {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* -------------------------------------------------------------------------------- */
+/*	4. Navigation
+*/
+
+.main-navigation ul > li + li {
+	margin-right: 40px;
+	margin-left: auto;
+}
+
+.main-navigation ul > li + li:before {
+	right: -25px;
+	left: auto;
+}
+
+.main-navigation ul > .page_item_has_children > a,
+.main-navigation ul > .menu-item-has-children > a {
+	padding-left: 18px;
+	padding-right: 0;
+}
+
+.main-navigation ul > .page_item_has_children > a:after,
+.main-navigation ul > .menu-item-has-children > a:after {
+	left: 0;
+	right: auto;
+}
+
+/* Sub menus --------------------------------------- */
+
+.main-navigation ul ul {
+	right: -9999px;
+	left: auto;
+}
+
+.main-navigation ul > li > ul:before {
+	right: 50%;
+	margin-right: -8px;
+	left: auto;
+	margin-left: auto;
+}
+
+.main-navigation ul ul > li + li {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+.main-navigation ul ul .page_item_has_children:after,
+.main-navigation ul ul .menu-item-has-children:after {
+	border-left-color: transparent;
+	border-right-color: rgba(255,255,255,0.4);
+	left: 10px;
+	right: auto;
+}
+
+.main-navigation ul ul .page_item_has_children:hover:after,
+.main-navigation ul ul .menu-item-has-children:hover:after {
+	border-left-color: transparent;
+	border-right-color: #222;
+	left: -12px;
+	right: auto;
+}
+
+.main-navigation ul > li:hover > ul,
+.main-navigation ul > li.focus > ul {
+	right: 50%;
+	margin-right: -120px;
+	left: auto;
+	margin-left: auto;
+}
+
+/* Deep down --------------------------------------- */
+
+.main-navigation ul ul ul .page_item_has_children:hover:after,
+.main-navigation ul ul ul .menu-item-has-children:hover:after {
+	border-left-color: transparent;
+	border-right-color: #333;
+}
+
+.main-navigation ul ul ul ul .page_item_has_children:hover:after,
+.main-navigation ul ul ul ul .menu-item-has-children:hover:after {
+	border-left-color: transparent;
+	border-right-color: #444;
+}
+
+.main-navigation ul ul ul ul ul .page_item_has_children:hover:after,
+.main-navigation ul ul ul ul ul .menu-item-has-children:hover:after {
+	border-left-color: transparent;
+	border-right-color: #555;
+}
+
+.main-navigation ul ul ul ul ul ul .page_item_has_children:hover:after,
+.main-navigation ul ul ul ul ul ul .menu-item-has-children:hover:after {
+	border-left-color: transparent;
+	border-right-color: #666;
+}
+
+.main-navigation ul li > ul > li:hover > ul {
+	right: 240px;
+	margin-right: 0;
+	left: auto;
+	margin-left: auto;
+}
+
+.sticky-post {
+	left: 3.75%;
+	right: auto;
+}
+
+.sticky-post .genericon {
+	right: 50%;
+	margin-right: -8px;
+	left: auto;
+	margin-left: auto;
+}
+
+.sticky-post:after {
+	border-right-color: #ca2017;
+	border-left-color: #ca2017;
+	left: 0;
+	right: auto;
+}
+
+.page-links {
+	padding: 0 10px 0 0;
+}
+
+.page-links a:first-child,
+.page-links span:first-child {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+.tags-links a,
+.tagcloud a {
+	padding: 5px 3px 6px 6px;
+	margin: 0 11px 8px 3px;
+}
+
+.tags-links a {
+	margin-left: 18px;
+	margin-right: auto;
+}
+
+.site-footer .tagcloud a:before {
+	border-left-color: #eee;
+	border-right-color: transparent;
+}
+
+.tags-links a:before,
+.tagcloud a:before {
+	border-right-width: 0;
+	border-left-width: 11px;
+	border-left-color: #ddd;
+	right: -11px;
+	left: auto;
+}
+
+.tags-links a:hover:before,
+.tagcloud a:hover:before {
+	border-left-color: #ca2017;
+	border-right-color: transparent;
+}
+
+.post-navigation:before {
+	right: 50%;
+	left: auto;
+}
+
+.nav-previous,
+.nav-next {
+	float: right;
+}
+
+.nav-next {
+	float: left;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.nav-next h4 {
+	text-align: left;
+}
+
+.entry-content blockquote {
+	padding: 30px 90px 30px 30px;
+}
+
+.entry-content blockquote:after {
+	right: 0px;
+	left: auto;
+}
+
+.entry-content input[type="submit"] + input[type="reset"],
+.entry-content input[type="submit"] + input[type="button"],
+.entry-content input[type="reset"] + input[type="submit"],
+.entry-content input[type="reset"] + input[type="button"],
+.entry-content input[type="button"] + input[type="reset"],
+.entry-content input[type="submit"] + input[type="submit"] {
+	margin-right: 5px;
+	margin-left: auto;
+}
+.comments-title span a {
+	left: 0;
+	right: auto;
+}
+
+.comment-list .children {
+	margin-right: 25px;
+	margin-left: auto;
+}
+
+.comment:not(.pingback):not(.trackback) .avatar {
+	right: -80px;
+	left: auto;
+}
+
+.comment:not(.pingback):not(.trackback) .comment-body {
+	margin-right: 80px;
+	margin-left: auto;
+}
+
+.bypostauthor .comment-author img {
+	right: -4px;
+	left: auto;
+}
+
+.comment:not(.pingback):not(.trackback) .comment-body:before {
+	border-left-color: #f1f1f1;
+	border-right-color: transparent;
+	right: -20px;
+	left: auto;
+}
+
+.comment-reply-link {
+	float: left;
+}
+
+.comment-metadata time:before,
+.comment .edit-link:before,
+.comment .comment-reply-link:before {
+	margin-left: 3px;
+	margin-right: auto;
+}
+
+.comment .edit-link:before {
+	margin-right: 12px;
+	margin-left: auto;
+}
+
+.pingback .edit-link,
+.trackback .edit-link {
+	float: left;
+}
+
+.comment-list #cancel-comment-reply-link {
+	margin-right: 3px;
+	margin-left: auto;
+}
+.page-template-full-width-page-template-php .site-main {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.search-field {
+	padding: 20px 20px 20px 60px;
+}
+
+.search-submit {
+	border-right: 1px solid #ddd;
+	left: 0;
+	right: auto;
+	border-left: none;
+}
+.widget ol,
+.widget ul {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+
+.more-link:after {
+	content: "\f430";
+}
+
+.widget_nav_menu li:before,
+.widget_pages li:before {
+	content: '\f430';
+}
+
+/* Search Widget --------------------------------------- */
+
+.widget .search-field {
+	padding: 20px 20px 20px 60px;
+}
+
+.widget .search-submit {
+	border-right: 1px solid #ddd;
+	left: 0;
+	right: auto;
+	border-left: none;
+}
+
+.widget_archive li:before,
+.widget_categories li:before,
+.widget_meta li:before,
+.widget_nav_menu li:before,
+.widget_pages li:before,
+.widget_authors ul ul li:before,
+.widget_recent_comments li:before {
+	margin-left: 8px;
+	margin-right: auto;
+}
+
+.widget_rss .widget-title img {
+	margin-left: 2px;
+	margin-right: auto;
+}
+
+#wp-calendar th,
+#wp-calendar td {
+	border-left: 1px solid #ddd;
+	border-right: none;
+}
+
+#wp-calendar th:first-child,
+#wp-calendar tbody td:first-child {
+	border-right: 1px solid #ddd;
+	border-left: none;
+}
+
+#wp-calendar tfoot #prev a {
+	text-align: right;
+}
+
+#wp-calendar tfoot #next a {
+	text-align: left;
+}
+
+.footer-widgets .widget-area {
+	float: right;
+	margin-right: 5%;
+	margin-left: auto;
+}
+
+.footer-widgets .widget-area:first-child {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+/* Media Queries */
+
+@media screen and ( max-width: 1000px ) {
+
+	.menu-toggle {
+		float: right;
+	}
+
+	.menu-toggle .bar {
+		right: 50%;
+		margin-right: -15px;
+		left: auto;
+		margin-left: auto;
+	}
+
+	/* Search Toggle */
+
+		.search-toggle {
+		float: left;
+	}
+
+	.main-navigation {
+		text-align: right;
+	}
+
+	.main-navigation ul > li + li {
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+	.main-navigation ul > .page_item_has_children > a,
+	.main-navigation ul > .menu-item-has-children > a {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.main-navigation ul ul {
+		right: auto;
+		left: auto;
+	}
+
+	.main-navigation ul ul li {
+		text-align: right;
+	}
+
+	.main-navigation ul > li:hover > ul {
+		right: auto;
+		margin-right: auto;
+		left: auto;
+		margin-left: auto;
+	}
+
+	.main-navigation ul li > ul > li:hover > ul {
+		right: auto;
+		margin-right: auto;
+		left: auto;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul a {
+		padding-right: 10%;
+		padding-left: 0;
+	}
+
+	.main-navigation ul ul ul a {
+		padding-right: 15%;
+		padding-left: 0;
+	}
+
+	.main-navigation ul ul ul ul a {
+		padding-right: 20%;
+		padding-left: 0;
+	}
+
+	.main-navigation ul ul ul ul ul a {
+		padding-right: 25%;
+		padding-left: 0;
+	}
+
+	.main-navigation ul ul ul ul ul ul a {
+		padding-right: 30%;
+		padding-left: 0;
+	}
+
+	.mobile-search .search-field {
+		padding: 20px 20px 20px 84px;
+	}
+
+	.mobile-search .search-submit {
+		border-right: 1px solid #eee;
+		left: 0;
+		right: auto;
+		border-left: none;
+	}
+
+	.content-area {
+		float: none;
+		margin: 0;
+	}
+
+	.site-main {
+		margin: 0;
+	}
+
+	.site-content .widget-area {
+		float: none;
+	}
+
+}
+
+@media screen and ( max-width: 600px ) {
+
+	.search-toggle {
+		left: 3%;
+		right: auto;
+	}
+
+	.menu-toggle .bar {
+		margin-right: -12px;
+		margin-left: auto;
+	}
+
+	.entry-content blockquote {
+		padding: 20px 70px 20px 20px;
+	}
+
+	.bypostauthor .comment-author .avatar {
+		right: -8px;
+		left: auto;
+	}
+
+	.comment-content {
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+}
+
+@media ( max-width: 500px ) {
+
+	.sticky-post {
+		left: 2.5%;
+		right: auto;
+	}
+
+	.sticky-post:after {
+		border-left-width: 10px;
+		border-right-width: 10px;
+	}
+
+	.entry-meta span + span:before {
+		margin: 0 6px 0 10px;
+	}
+
+	.site-main .posts-navigation,
+	.site-main .post-navigation {
+		border-right: 0;
+		border-left: 0;
+	}
+
+	.comment-list .children {
+		margin-right: 20px;
+		margin-left: auto;
+	}
+
+	.footer-widgets .tagcloud a:before {
+		border-left-color: #ddd;
+	}
+
+	.footer-widgets .tagcloud a:hover:before {
+		border-left-color: #ca2017;
+	}
+
+}

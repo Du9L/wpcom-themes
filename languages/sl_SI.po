@@ -1,0 +1,348 @@
+# Translation of WordPress.com - Themes - Lovecraft in Slovenian
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-24 10:29:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sl_SI\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#: inc/wpcom-colors.php:61
+msgid "Main Accent"
+msgstr "Glavni povdarek"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "Nadaljuj z branjem %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lovecraft/full-width-page-template.php
+msgid "Full Width, No Sidebar"
+msgstr "Polna širina, brez stranske vrstice"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nadaljuj z branjem %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/lovecraft/style.css
+msgid "Lovecraft is a beautiful two-column theme for bloggers. It features a responsive design, great typography, a full-width header image (which is replaced with the post thumbnail on single posts/pages), custom logo support, editor style support, and a full-width template."
+msgstr "Lovecraft je čudovita tema z dvema stolpcema. Prilagojena je vsem napravam, s krasno tipografijo, sliko čez celotno širino (ki se pri posamezni objavi zamenja s prikazno sliko), podporo za logotip in urejevalnikom."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Izbrani prispevki"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Strani:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Oprostite, ne najdemo kar ste iskali! Mogoče bo drugačno iskanje pomagalo."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Oprostite, nič se ne ujema z iskanim. Poskusite ponovno z drugačnimi ključnimi besedami."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Si pripravljen za objavo prvega prispevka? <a href=\"%1$s\">Začni tukaj</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "NIč ni najdeno"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">Prejšnja objava</span> <h4>%title</h4>"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">Naslednja objava</span> <h4>%title</h4>"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Poišči"
+
+#: searchform.php:4
+msgctxt "lovecraft"
+msgid "Search …"
+msgstr "Išči ..."
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Išči"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Rezultati iskanja za: %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Arhivi"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Arhiv objav: %s"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Pogovori"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Avdio posnetki"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusi"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Povezave"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citati"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video posnetki"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Slike"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerije"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Odloži na stran"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "Dan: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "Mesec: %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "Leto: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "Avtor: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "Ključna beseda: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "Kategorija: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "% Komentarjev"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "Komentiraj"
+
+#: inc/template-tags.php:102
+msgid "In %1$s"
+msgstr "Značka %1$s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Izgleda nič ni najdeno na tem naslovu. Mogoče poskusiš z iskanjem?"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "By %s"
+msgstr "Avtor %s"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "On %s"
+msgstr "Dodano %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigacija po objavah"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Nove objave"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Starejše objave"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigacija po objavah"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Stran %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "Iskanje"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Meni"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Pojdi na vsebino"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čaka na potrditev"
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(uredi)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Novejši komentarji &arr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Starejši komentarji"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "Uredi"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s ob %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Playfair Display, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:130
+msgid "Footer Widgets 3"
+msgstr "Pripomočki Noga 3"
+
+#: functions.php:120
+msgid "Footer Widgets 2"
+msgstr "Pripomočki Noga 2"
+
+#: functions.php:110
+msgid "Footer Widgets 1"
+msgstr "Pripomočki Noga 1"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Stranska vrstica"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Glavni meni"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Predloga: %1$s, ki jo je izdelal %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Ponosno poganja %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentarji so zaprti."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Navigacija po komentarjih"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Razmišljanje o &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s razmišljanji o &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s razmišljanja o &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s razmišljanj o &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Te strani ni mogoče najti."

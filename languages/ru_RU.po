@@ -1,0 +1,322 @@
+# Translation of WordPress.com - Themes - Lovecraft in Russian
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-03 11:01:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#: inc/wpcom-colors.php:61
+msgid "Main Accent"
+msgstr "Основной акцент"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "Читать далее %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lovecraft/full-width-page-template.php
+msgid "Full Width, No Sidebar"
+msgstr "Полная ширина, без боковой панели"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Избранное"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">Дальше</span> <h4>%title</h4>"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">Предыдущие</span> <h4>%title</h4>"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:4
+msgctxt "lovecraft"
+msgid "Search …"
+msgstr "Поиск …"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Архивы"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Заметки"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-tags.php:102
+msgid "In %1$s"
+msgstr "В %1$s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "On %s"
+msgstr "Дата: %s"
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "By %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Следующие записи"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "Поиск"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s, автор: %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://ru.wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: Один комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка. Страница не найдена."

@@ -1,0 +1,286 @@
+# Translation of WordPress.com - Themes - Lovecraft in Armenian
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-07 04:23:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.2.0-alpha\n"
+"Language: hy_AM\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "Շարունակել կարդալ %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Շարունակել կարդալ %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Առաջատար"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Էջեր՝"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Կարծես թե մենք չենք գտնում ձեր փնտրածը։ Միգուցե փորձեք ա՞յլ բան որոնել։"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ցավոք, ձեր որոնման հարցումով ոչինչ չի գտնվել։ Փորձեք որոնել այլ հիմնաբառերով։"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Պատրա՞ստ եք հրատարակել առաջին գրառումը։ <a href=\"%1$s\">Գնացի՛նք</a>։"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ոչինչ չի գտնվել"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Որոնում"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Որոնել՝"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s որոնման արդյունքները"
+
+#: inc/template-tags.php:184
+msgid "Archives"
+msgstr "Պահոց"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:182
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:178
+msgid "Archives: %s"
+msgstr "Պահոցներ՝ %s"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Զրույցներ"
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ձայնանյութեր"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Կարգավիճակներ"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Հղումներ"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Մեջբերումներ"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Տեսանյութեր"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Պատկերներ"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Պատկերասրահներ"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Նշումներ"
+
+#: inc/template-tags.php:156
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/template-tags.php:156
+msgid "Day: %s"
+msgstr "Օրը՝ %s"
+
+#: inc/template-tags.php:154
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:154
+msgid "Month: %s"
+msgstr "Ամիսը՝ %s"
+
+#: inc/template-tags.php:152
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:152
+msgid "Year: %s"
+msgstr "Տարին՝ %s"
+
+#: inc/template-tags.php:150
+msgid "Author: %s"
+msgstr "Հեղինակ՝ %s"
+
+#: inc/template-tags.php:148
+msgid "Tag: %s"
+msgstr "Պիտակ՝ %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:146
+msgid "Category: %s"
+msgstr "Կարգ՝ %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "Մեկնաբանություններ (%)"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 մեկնաբանություն"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "Թողնել մեկնաբանություն"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Այս հասցեով ոչինչ չի գտնվել։ Փորձեք օգտվել որոնման համակարգից։"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Գրառումների նավարկում"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Ավելի նոր գրառումները"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Ավելի հին գրառումներ"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Գրառումների նավարկում"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Էջ %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "Որոնում"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Ընտրացանկ"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Անցնել բովանդակությանը"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "Ձեր մեկնաբանությունը սպասում է ստուգմանը։"
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(Խմբագրել)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "Ծանուցում՝"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Ավելի նոր մեկնաբանություններ &rarr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Ավելի հին մեկնաբանություններ"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "Խմբագրել"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s, ժ. %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Կողագոտի"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Հիմնական ընտրացանկ"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Տեսաձև %1$s, հեղինակ՝ %2$s։"
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Հպարտությամբ օժանդակվում է %s -ով"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://hy.wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Մեկնաբանությունները փակված են։"
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Մեկնաբանությունների նավարկումը"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Մեկ կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+msgstr[1] "%1$s կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ապսո՜ս, էջը չի գտնվել։"

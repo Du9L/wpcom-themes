@@ -1,0 +1,345 @@
+# Translation of WordPress.com - Themes - Lovecraft in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-29 02:17:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Lovecraft\n"
+
+#: inc/wpcom-colors.php:61
+msgid "Main Accent"
+msgstr "تأکید اصلی"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:90
+msgid "Continue reading %s"
+msgstr "ادامه خواندن %s"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lovecraft/full-width-page-template.php
+msgid "Full Width, No Sidebar"
+msgstr "تمام‌پهنا، بدون نوار کناری"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/lovecraft/style.css
+msgid "Lovecraft is a beautiful two-column theme for bloggers. It features a responsive design, great typography, a full-width header image (which is replaced with the post thumbnail on single posts/pages), custom logo support, editor style support, and a full-width template."
+msgstr "Lovecraft یک پوستهٔ‌ زیبای دوستونه برای وب‌نویسان است. از ویژگی‌های آن داشتن طراحی پاسخگو، تایپوگرافی عالی، تصویر تمام‌پهنا در سرایند (که در نوشته‌ها و صفحه‌های تکی با تصویر بندانگشتی نوشته جایگزین می‌شود)، پشتیبانی از نشان‌وارهٔ سفارشی، پشتیبانی از سبک ویرایشگر، و قالب تمام‌پهنا است."
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن %s ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "برگزیده"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>. "
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">قبلی:</span> <h4>%title</h4>"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next</span> <h4>%title</h4>"
+msgstr "<span class=\"meta-nav\">بعدی:</span> <h4>%title</h4>"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "جستجو"
+
+#: searchform.php:4
+msgctxt "lovecraft"
+msgid "Search …"
+msgstr "جست‌وجو …"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "جست‌وجو برای:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جست‌وجو برای: %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "بایگانی"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "بایگانی‌ها: %s"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "گپ‌ها"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "صوت"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "پیوندها"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "گفتاوردها"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "فیلم‌ها"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصویرها"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گالری‌‌ها"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "در حاشیه‌ها"
+
+#: inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "برچسب‌ها: %s"
+
+#: inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "دسته: %s"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: inc/template-tags.php:102
+msgid "In %1$s"
+msgstr "در %1$s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "به نظر می‌رسد چیزی اینجا نیست. مایل هستید جستجو کنید؟"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:100
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "By %s"
+msgstr "به دست %s"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "On %s"
+msgstr "در %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "نوشته‌های تازه‌تر"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "نوشته‌های پیشین"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "ناوبری نوشته‌ها"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#: header.php:43
+msgid "Search"
+msgstr "جست‌وجو"
+
+#: header.php:39
+msgid "Menu"
+msgstr "گزینگان"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما چشم به راه بررسی است."
+
+#: functions.php:222
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: functions.php:222
+msgid "Pingback:"
+msgstr "بازتاب:"
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: functions.php:252 inc/template-tags.php:112
+#: template-parts/content-page.php:29
+msgid "Edit"
+msgstr "ویرایش"
+
+#: functions.php:249
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: functions.php:175
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Playfair Display, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: functions.php:130
+msgid "Footer Widgets 3"
+msgstr "ابزارک‌های پاورقی ۳"
+
+#: functions.php:120
+msgid "Footer Widgets 2"
+msgstr "ابزارک‌های پاورقی ۲"
+
+#: functions.php:110
+msgid "Footer Widgets 1"
+msgstr "ابزارک‌های پاورقی ۱"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نظر برای &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."
