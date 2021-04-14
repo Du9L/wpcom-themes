@@ -1,0 +1,213 @@
+# Translation of WordPress.com - Themes - Revelar in Lithuanian
+# This file is distributed under the same license as the WordPress.com - Themes - Revelar package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-09 12:52:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lt\n"
+"Project-Id-Version: WordPress.com - Themes - Revelar\n"
+
+#: inc/wpcom-colors.php:251
+msgid "Leaf"
+msgstr "Lapas"
+
+#: inc/wpcom-colors.php:243
+msgid "Smoke"
+msgstr "Dūmai"
+
+#: inc/wpcom-colors.php:235
+msgid "Blue"
+msgstr "Mėlyna"
+
+#: inc/wpcom-colors.php:227
+msgid "Dark"
+msgstr "Tamsi"
+
+#: inc/wpcom-colors.php:219
+msgid "Charcoal"
+msgstr "Anglis"
+
+#: inc/wpcom-colors.php:211
+msgid "Rouge"
+msgstr "Rožinė"
+
+#: inc/wpcom-colors.php:110
+msgid "Accent color"
+msgstr "Akcento spalva"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/revelar/style.css
+msgid "Revelar is a single-column blogging theme, designed to showcase your gorgeous photography and highlight your writing, while providing an immersive experience for your visitors."
+msgstr "Revelar - vieno stulpelio tinklaraščio tema, sukurta specialiai nuotraukų demonstravimui, turinio skelbimui ir malonumo suteikimui Jūsų lankytojams."
+
+#: template-parts/content-video.php:8
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Panašu, kad nepavyko rasti jūsų ieškomo puslapio. Galbūt jums padės paieškos galimybė."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: template-parts/content-gallery.php:33 template-parts/content-page.php:18
+#: template-parts/content-video.php:43 template-parts/content.php:38
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai: %s"
+
+#: inc/template-tags.php:156
+msgid "All %s posts"
+msgstr "Visi %s įrašai"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102 template-parts/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:87 template-parts/content-page.php:25
+msgid "Edit"
+msgstr "Test!"
+
+#: inc/template-tags.php:83
+msgid "% Comments"
+msgstr "Komentarai: %"
+
+#: inc/template-tags.php:83
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: inc/template-tags.php:83
+msgid "Leave a comment"
+msgstr "Komentarų: 0"
+
+#: inc/template-tags.php:77
+msgid "Tagged %1$s"
+msgstr "Pažymėta %1$s"
+
+#: inc/template-tags.php:71
+msgid "Posted in %1$s"
+msgstr "Paskelbta %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69 inc/template-tags.php:75
+msgid ", "
+msgstr ", "
+
+#: header.php:41
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:172
+msgctxt "Abril Fatface font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:166
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:160
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:116
+msgid "Third Footer Widget Area"
+msgstr "Trečia poraštės valdiklių sritis"
+
+#: functions.php:107
+msgid "Second Footer Widget Area"
+msgstr "Antra poraštės valdiklių sritis"
+
+#: functions.php:98
+msgid "First Footer Widget Area"
+msgstr "Pirma poraštės valdiklių sritis"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %1$s | Sukūrė: %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mintis apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mintys apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s minčių apie &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pabandykite pažiūrėti mėnesio archyve. %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Populiariausios kategorijos"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."

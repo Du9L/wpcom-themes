@@ -1,0 +1,178 @@
+# Translation of WordPress.com - Themes - Revelar in Chinese (China)
+# This file is distributed under the same license as the WordPress.com - Themes - Revelar package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:33:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: WordPress.com - Themes - Revelar\n"
+
+#: inc/wpcom-colors.php:251
+msgid "Leaf"
+msgstr "叶绿色系"
+
+#: inc/wpcom-colors.php:243
+msgid "Smoke"
+msgstr "烟色系"
+
+#: inc/wpcom-colors.php:235
+msgid "Blue"
+msgstr "蓝"
+
+#: inc/wpcom-colors.php:227
+msgid "Dark"
+msgstr "暗色"
+
+#: inc/wpcom-colors.php:219
+msgid "Charcoal"
+msgstr "炭黑"
+
+#: inc/wpcom-colors.php:211
+msgid "Rouge"
+msgstr "胭脂红"
+
+#: inc/wpcom-colors.php:110
+msgid "Accent color"
+msgstr "强调色"
+
+#: template-parts/content-video.php:8
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们无法找到您想查找的内容。或许搜索可以帮助您。"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: template-parts/content-gallery.php:33 template-parts/content-page.php:18
+#: template-parts/content-video.php:43 template-parts/content.php:38
+msgid "Pages:"
+msgstr "页码："
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "针对以下内容的搜索结果：%s"
+
+#: inc/template-tags.php:156
+msgid "All %s posts"
+msgstr "所有 %s 文章"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102 template-parts/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 %s <span class=\"meta-nav\">→</span>"
+
+#: inc/template-tags.php:87 template-parts/content-page.php:25
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/template-tags.php:83
+msgid "% Comments"
+msgstr "%条评论"
+
+#: inc/template-tags.php:83
+msgid "1 Comment"
+msgstr "1条评论"
+
+#: inc/template-tags.php:83
+msgid "Leave a comment"
+msgstr "发表回复"
+
+#: inc/template-tags.php:77
+msgid "Tagged %1$s"
+msgstr "已添加标签 %1$s"
+
+#: inc/template-tags.php:71
+msgid "Posted in %1$s"
+msgstr "发表在 %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69 inc/template-tags.php:75
+msgid ", "
+msgstr "、"
+
+#: header.php:41
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "跳转到内容"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:160
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s"
+msgstr "主题: %1$s 作者 %2$s"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://cn.wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s个想法"
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "尝试在每月的档案中查找。%1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "使用次数最多的种类"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在此位置似乎没有找到任何内容。或许您可以尝试点击下面的某个链接或进行搜索？"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
