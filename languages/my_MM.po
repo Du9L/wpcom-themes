@@ -1,0 +1,436 @@
+# Translation of Twenty Fourteen in Burmese
+# This file is distributed under the same license as the Twenty Fourteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-03-25 04:02:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Twenty Fourteen\n"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/style.css
+msgid "https://wordpress.org/"
+msgstr "https:/mya.wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-aside.php:48 content-audio.php:48 content-gallery.php:48
+#: content-image.php:48 content-link.php:48 content-quote.php:48
+#: content-video.php:48 content.php:56 inc/template-tags.php:222
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer.php:31 inc/customizer.php:32
+msgid "May only be visible on wide screens."
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/style.css
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "၂၀၁၄ တွင်၊ ဆွဲဆောင်မှုကောင်းပြီး ခေတ်သစ် ဒီဇိုင်းဖြင့် တုံ့ပြန်လွယ်သော မဂ္ဂဇင်းဝဘ်ဆိုဒ်တစ်ခုအား ကွျနု်ပ်တို့၏ မူလအခင်းအကျင်းအားသုံး၍ ဖန်တီးနိုင်ပါပြီ။ သင့်စိတ်ကြိုက် အဖွင့်စာမျက်နှာ အကြောင်းအရာများအား ဇယားကွက် သို့မဟုတ် စလိုက်ကိုသုံး၍ ဦးစားပေး ဖော်ပြလိုက်ပါ။ သင့်ဝဘ်ဆိုဒ်အား စိတ်ကြိုက်ပြုပြင်ရန် ဝစ်ဂျက် ဧရိယာ သုံးခုအား သုံးပါ။ သင့်ဆိုဒ် အကြောင်းအရာများ နေရာချထားပုံအား မျက်နှာပြင်ပြည့် စာမျက်နှာ တန်းပလိတ်(စံပုံစံ)နှင့် သင့်ဆိုဒ်စာရေးသူများစာရင်းအားပြရန် ပံ့ပိုးကူညီသူ စာမျက်နှာတို့အား သုံး၍ ပြောင်းလဲပါ။ WordPress အသုံးပြုပြီး မဂ္ဂဇင်းဆိုဒ်တစ်ခုလုပ်ရန် ဘယ်တုန်းကမှ ယခုလောက် မလွယ်ကူခဲ့ဖူးပါ။"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/page-templates/contributors.php
+msgid "Contributor Page"
+msgstr "ကူညီပံ့ပိုးသူ စာမျက်နှာ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/page-templates/full-width.php
+msgid "Full Width Page"
+msgstr "မြင်ကွင်းကျယ် စာမျက်နှာ"
+
+#: tag.php:22
+msgid "Tag Archives: %s"
+msgstr "စကားစုတွဲ မှတ်တမ်းများ - %s"
+
+#: inc/widgets.php:261
+msgid "Post format to show:"
+msgstr "ပြန်ရန် စာမူပုံစံ အမျိုးအစား - "
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s အတွက် ရှာဖွေ တွေ့ရှိမှု ရလဒ်များ"
+
+#: inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr "ပြထားရန် စာမူအရေအတွက် - "
+
+#: inc/widgets.php:162
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "ဒီပြခန်းတွင် <a href=\"%1$s\" rel=\"bookmark\">ဓါတ်ပုံ %2$s ပုံ</a>ပါဝင်သည်။"
+msgstr[1] "ဒီပြခန်းတွင် <a href=\"%1$s\" rel=\"bookmark\">ဓါတ်ပုံများ %2$s ပုံ</a>ပါဝင်သည်။"
+
+#. translators: used with More archives link
+#: inc/widgets.php:206
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/widgets.php:255
+msgid "Title:"
+msgstr "ခေါင်းစဉ် - "
+
+#: inc/widgets.php:80
+msgid "More asides"
+msgstr "နောက်ထပ်စာစုများ"
+
+#: inc/widgets.php:79 taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "စကားချပ်များ"
+
+#: inc/widgets.php:75
+msgid "More galleries"
+msgstr "နောက်ထပ်ပြခန်းများ"
+
+#: inc/widgets.php:71
+msgid "More links"
+msgstr "နောက်ထပ်လိပ်စာများ"
+
+#: inc/widgets.php:74 taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "ပြခန်းများ"
+
+#: inc/widgets.php:70 taxonomy-post_format.php:45
+msgid "Links"
+msgstr "လိပ်စာများ"
+
+#: inc/widgets.php:67
+msgid "More quotes"
+msgstr "နောက်ထပ်ကိုးကားချက်များ"
+
+#: inc/widgets.php:63
+msgid "More audio"
+msgstr "နောက်ထပ် တေးသီချင်းများ"
+
+#: inc/widgets.php:66 taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "ကိုးကားချက်များ"
+
+#: inc/widgets.php:62 taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "အသံ"
+
+#: inc/widgets.php:59
+msgid "More videos"
+msgstr "နောက်ထပ် ဗွီဒီယိုများ"
+
+#: inc/widgets.php:55
+msgid "More images"
+msgstr "နောက်ထပ်ရုပ်ပံုများ"
+
+#: inc/widgets.php:58 taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "ဗွီဒီယိုများ"
+
+#: inc/widgets.php:54 taxonomy-post_format.php:33
+msgid "Images"
+msgstr "ရုပ်ပုံများ"
+
+#: inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr "နှစ်ဆယ် ဆယ့်လေး ကြော်ငြာဘုတ်"
+
+#: inc/widgets.php:36
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "သင့်လတ်တလော စာစုများ၊ ကိုးကားချက်များ၊ ဗွီဒီယို၊ တေးသီချင်း၊ ရုပ်ပံု၊ ပြခန်းနှင့် စာမူများအား စာရင်းပြထားရန် ဒီဝစ်ဂျက်အား သံုးပါ။"
+
+#: inc/template-tags.php:109
+msgid "Sticky"
+msgstr "အရေးကြီးစာမူ"
+
+#: inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "%title<span class=\"meta-nav\">တွင်ဖော်ပြထားသည်</span>"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">ရှေ့က စာမူ</span>%title"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">နောက် စာမူ</span>%title"
+
+#: inc/template-tags.php:85
+msgid "Post navigation"
+msgstr "စာမူ လမ်းကြောင်းပြ"
+
+#: inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr "စာမူလမ်းကြောင်းပြ"
+
+#: inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr "ရှေ့ဆက်သွား &rarr;"
+
+#: inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr "&larr; နောက်ပြန်သွား"
+
+#: inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr "ရှေ့မျက်နှာစာတွင် စကားစုတွဲအား မဖော်ပြပါနှင့်။"
+
+#: inc/customizer.php:110
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "အသေးစိတ် ကျူတိုရီရယ်နှင့် အလွယ်သုံးနည်းနှင့် မှတ်သားရန် နောက်ထပ်အချက်အလက်များအတွက် <a href=\"%s\">နှစ်ဆယ် ဆယ့်လေး လမ်းညွှန်ချက်စာတမ်း</a> အားသွားဖတ်ပါ။"
+
+#: inc/featured-content.php:426
+msgid "Tag Name"
+msgstr "စကားစုတွဲ အမည်"
+
+#: inc/customizer.php:61
+msgid "Slider"
+msgstr "စလိုက်"
+
+#: inc/customizer.php:108
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr " <a href=\"%1$s\">စကားစုတွဲ</a>;များဖြင့် ထိန်းချုပ်ပြီး စာမူ ၆ ပုဒ်အထိ ဇယားကွက်ပံုစံ သို့မဟုတ် စလိုက်ဖြင့် အဖွင့်စာမျက်နှာတွင် အထူးဦးစားပေးဖော်ပြထားနိုင်သည်။ စကားစုတွဲနှင့် ပံုစံချထားပံုအား <a href=\"%2$s\">အသွင်အပြင် &rarr; စိတ်ကြိုက်ပြင်ရန်</a> တွင် ပြောင်းနိုင်သည်။ စကားစုတွဲတွင် မည်သည့်စာမူမျှ မရှိပါက <a href=\"%3$s\">အမြဲပြရန် စာမူများ</a> အား အစားထိုးဖော်ပြပေးမည်။"
+
+#: inc/customizer.php:109
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "ထူးထူးခြားခြားဖော်ပြလိုသော စာမူများအား <a href=\"%s\">အထူး ရုပ်ပုံများ</a> (စာမူ သရုပ်ဖော်ပုံ အဖြစ်လည်း သိထားကြသည်) အားသုံးပြီး သင့်ဆိုဒ် ဒီဇီုင်းအား ပိုမို ချဲ့ထွင်လိုက်ပါ။ ဒီနည်းဖြင့် ရုပ်ပုံတစ်ပုံအား စာမူအတွင်း မထည့်သွင်းဘဲ ဆက်စပ်ထားနိုင်ရန် ခွင့်ပြုပေးသည်။ နှစ်ဆယ် ဆယ်လေးတွင် စာမူများနှင့် စာမျက်နှာများအတွက် အထူး ရုပ်ပုံများအား &mdash;ခေါင်းစဉ် အပေါ်ဘက်တွင်&mdash; အသုံးပြုပြီး အဖွင့်စာမျက်နှာရှိ အထူးဖော်ပြချက် ဧရိယာတွင်လည်း အသုံးပြုသည်။"
+
+#: inc/customizer.php:60
+msgid "Grid"
+msgstr "ဇယားကွက်"
+
+#: inc/customizer.php:41 inc/featured-content.php:404
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "သင့်စာမူများအား အထူး ဦးစားပေးဖော်ပြရန် <a href=\"%1$s\">စကားစုတွဲ</a>တစ်ခုကို သုံးပါ။ စကားစုတွဲဖြင့် ကိုက်ညီသော စာမူမရှိလျှင် <a href=\"%2$s\">အာရုံစိုက်ရန် စာမူများအား</a> အစားထိုးဖော်ပြပေးပါမည်။"
+
+#: inc/customizer.php:42 inc/customizer.php:108 inc/featured-content.php:405
+#: inc/featured-content.php:414 inc/featured-content.php:474
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "အထူးဦးစားပေး"
+
+#: inc/customizer.php:56
+msgid "Layout"
+msgstr "ပုံစံချထားမှု"
+
+#: inc/customizer.php:40 inc/featured-content.php:403
+msgid "Featured Content"
+msgstr "ဦးစားပေး အကြောင်းအရာ"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "နှစ်ဆယ် ဆယ်လေးသည်  WordPress ဗားရှင်း ၃.၆ အား အနိမ့်ဆုံးအနြဖေင့် လိုအပ်ပါသည်။ သင်သုံးစွဲထားသည်မှာ ဗားရှင်း %s ဖြစ်သည်။ အဆင့်မြှင့်တင်ပြီးမှ ပြန်စမ်းကြည့်ပါ။"
+
+#: inc/customizer.php:34 inc/customizer.php:35
+msgid "Background may only be visible on wide screens."
+msgstr "မြင်ကွင်းကျယ်သော ဖန်သားပြင်များတွင်သာ နောက်ခံပုံအား တွေ့မြင်ရနိုင်ပါသည်။"
+
+#: inc/customizer.php:24
+msgid "Site Title Color"
+msgstr "ဆိုဒ်ခေါင်းစဉ် အရောင်"
+
+#: inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr "ဆိုဒ်ခေါင်းစဉ် &amp; လက်သုံးစကား ဖော်ပြရန်"
+
+#: image.php:66
+msgid "Next Image"
+msgstr "နောက်ရုပ်ပုံ"
+
+#: image.php:65
+msgid "Previous Image"
+msgstr "အရင်ရုပ်ပုံ"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "စာကိုယ်ပိုင်းသို့ သွားရန်"
+
+#: header.php:52
+msgid "Primary Menu"
+msgstr "အဓိက မီနူး"
+
+#: header.php:48
+msgid "Search"
+msgstr "ရှာရန်"
+
+#: functions.php:495
+msgid "Page %s"
+msgstr "စာမျက်နှာ %s"
+
+#: functions.php:376
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "ဆောင်းပါး  %d ပုဒ်"
+msgstr[1] "ဆောင်းပါးများ  %d ပုဒ်"
+
+#: functions.php:259
+msgid "Next"
+msgstr "နောက်"
+
+#: functions.php:258
+msgid "Previous"
+msgstr "အရင်က"
+
+#: functions.php:191
+msgid "Appears in the footer section of the site."
+msgstr "ဆိုဒ်အောက်ခြအေပိုင်းတွင် ပေါ်သည်။"
+
+#: functions.php:213
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr "ညာဘက်တွင်ပေါ်မည့် ထပ်ဆောင်း ဘေးဘား။"
+
+#: functions.php:189
+msgid "Footer Widget Area"
+msgstr "အောက်ခြဝေစ်ဂျက် ဧရိယာ"
+
+#: functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr "ဘယ်ဘက်တွင်ပေါ်မည့် အဓိကဘေးဘား"
+
+#: functions.php:180
+msgid "Content Sidebar"
+msgstr "အကြောင်းအရာ ဘေးဘား"
+
+#: functions.php:171
+msgid "Primary Sidebar"
+msgstr "အဓိက ဘေးဘား"
+
+#: functions.php:83
+msgid "Top primary menu"
+msgstr "ထိပ်ပိုင်း အဓိက မီနူး"
+
+#: functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr "ဘယ်ဘက်ဘေးဘားရှိ ဒုတိယ မီနူး"
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "%s မှ ကူညီထောက်ပံ့ပေးထားသည်။"
+
+#: footer.php:21
+msgid "http://wordpress.org/"
+msgstr "http://mya.wordpress.org/"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "သင်တွေ့လိုသည်ကို ကွျန်ုပ်တို့ ရှာမတွေ့ပါ။ ရှာဖွြခေင်းမှ အကူအညီရနိုင်လောက်သည်။"
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "သင်ရှာသော ဝေါဟာရနှင့် ကိုက်ညီသည်ကို မတွေ့ပါ။ အခြားသော့ချက်စကားလုံးတစ်ခုခုဖြင့် နောက်တစ်ကြိမ်ကြိုးစားကြည့်ပါ။"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "သင့်ပထမဆုံးစာမူကို ထုတ်ဝေရန် အသင့်ဖြစ်ပြီလား။ <a href=\"%1$s\">ဒီမှာ စလိုက်ပါ။</a>။"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "ဘာမှ မတွေ့ပါ"
+
+#: content-aside.php:53 content-audio.php:53 content-gallery.php:53
+#: content-image.php:53 content-link.php:53 content-page.php:22
+#: content-quote.php:53 content-video.php:53 content.php:61 image.php:54
+msgid "Pages:"
+msgstr "စာမျက်နှာများ -"
+
+#: inc/widgets.php:127 inc/widgets.php:172
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ဆက်ဖတ်မည် <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40 content-audio.php:40 content-gallery.php:40
+#: content-image.php:40 content-link.php:40 content-page.php:28
+#: content-quote.php:40 content-video.php:40 content.php:42 image.php:34
+#: page-templates/contributors.php:35
+msgid "Edit"
+msgstr "ပြုပြင်ရန်"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:194
+msgid "% Comments"
+msgstr "မှတ်ချက်များ % ခု"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:194
+msgid "1 Comment"
+msgstr "မှတ်ချက် တစ်ခု"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:194
+msgid "Leave a comment"
+msgstr "ထင်မြင်ချက်ပေးရန်။"
+
+#: content-aside.php:17 content-audio.php:17 content-featured-post.php:28
+#: content-gallery.php:17 content-image.php:17 content-link.php:17
+#: content-quote.php:17 content-video.php:17 content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "၊ "
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "မှတ်ချက်ပေးခြင်းကို ပိတ်ထားသည်။"
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "မှတ်ချက် အသစ်များ &rarr;"
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; မှတ်ချက် အဟောင်းများ"
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; အတွက် အတွေးတစ်ချက်"
+msgstr[1] "&ldquo;%2$s&rdquo; အတွက် အတွေးများ %1$s"
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr "မှတ်ချက် လမ်းကြောင်းပြများ"
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "ကဏ္ဍ မှတ်တမ်းများ - %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "%s ရေးသားခဲ့သော စာမူများ အားလုံး"
+
+#: archive.php:40 taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "မှတ်တမ်းများ"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "နှစ်အလိုက် မှတ်တမ်းများ - %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "လ အလိုက် မှတ်တမ်းများ - %s"
+
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "နေ့စဉ် မှတ်တမ်းများ - %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ဒီနေရာမှာရှာမတော့ဘူးဖြစ်နေပါတယ်။ ကြိုးစားပြီးထပ်ရှာမလား။"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "မတွေ့ပါ"
