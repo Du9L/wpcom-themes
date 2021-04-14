@@ -1,0 +1,289 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "primary-menu",
+                "social": "social-menu"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Om",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left\">Besökare vill veta vem som finns på andra sidan om sidan. Använd det här utrymmet för att skriva om dig själv, din webbplats, din verksamhet eller vad du vill. Använd intygen nedan för att citera andra som talar om samma sak med sina egna ord.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left\">Det här är exempelinnehåll som ingår med mallen för att illustrera dess funktioner. Ta bort eller byt ut mot dina egna ord och egen media.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":3} -->\n<h3 class=\"has-text-align-center\">Vad folk säger</h3>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} -->\n<div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Det bästa sättet att komma igång är att sluta prata och börja göra.</p><cite>Walt Disney</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Det är våra val, Harry, som visar vilka vi verkligen är, mer än våra talanger.</p><cite>J. K. Rowling</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Gråt inte för att det är över, le för att det hände.</p><cite>Dr. Seuss</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Vi tar och bygger något tillsammans.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"#\">Kontakta oss!</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 150,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Idéer för att stärka ditt hems attraktionskraft",
+            "post_content": "Oavsett om det gäller små projekt runt om i huset eller att genomföra stora renoveringar, är det bäst att se till att det görs ordentligt. Projekt som är dåligt genomförda kommer att försämra utseendet och kosta dig pengar i det långa loppet. Det är också viktigt att se till att eventuella exteriörförbättringar görs enligt din grannförenings riktlinjer.",
+            "post_name": "ideas-to-increase-your-homes-curb-appeal",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 114,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://rivingtondemo.files.wordpress.com/2019/08/jared-rice-ahiunolb7cg-unsplash1.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Blogg",
+            "post_content": "Det här är den sida där användarna hittar din webbplats blogg",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 103,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Hur undviker man att göra misstag när man investerar i fastigheter?",
+            "post_content": "Fastigheter kan vara en fantastisk investeringsmöjlighet. Egendom och fastigheter tenderar att stiga i värde över tid, vilket ger en avkastning på din initiala investering. Ett annat alternativ är att hyra ut en fastighet och njuta av extrainkomsten. Med det sagt finns det faror och vanliga misstag som är lätta att göra när du investerar i fastigheter. Genom att utbilda dig själv kan du undvika dem och få ut det mesta möjliga av dina investeringar.",
+            "post_name": "how-to-avoid-mistakes-investing-in-real-estate",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 94,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://rivingtondemo.files.wordpress.com/2019/08/cacti-cactus-prickly-1903747-1.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Tjänster",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left\">Vi har ett brett utbud av tjänster för att hjälpa dig uppnå de resultat du är ute efter. Är du osäker på vad du behöver, eller vad det kostar? Vi kan förklara vilka tjänster som passar dig och berätta mer om våra avgifter. Ta kontakt nedan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} -->\n<div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":120,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://rivingtondemo.files.wordpress.com/2019/08/dane-deaner-qrfmb-ioqje-unsplash.jpg?w=750\" alt=\"\" class=\"wp-image-120\" /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Inredningsdesign</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">En kort beskrivning av ditt företag och de tjänster du erbjuder.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":125,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://rivingtondemo.files.wordpress.com/2019/08/mark-west-fg_4wn1r0bu-unsplash.jpg?w=819\" alt=\"\" class=\"wp-image-125\" /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Strategi</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">En kort beskrivning av ditt företag och de tjänster du erbjuder.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":135,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://rivingtondemo.files.wordpress.com/2019/08/chuttersnap-11jrs2zy_ca-unsplash.png?w=819\" alt=\"\" class=\"wp-image-135\" /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Fokus</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">En kort beskrivning av ditt företag och de tjänster du erbjuder.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Letar du efter fastigheter?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"#\">Kontakta oss!</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->",
+            "post_name": "services",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 73,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Kontakta oss",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left\">Vi tar och snackar &amp;#128075; Tveka inte att ta kontakt med uppgifterna nedan eller skicka ett meddelande med formuläret.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":3} -->\n<h3 class=\"has-text-align-left\">Kontakta oss</h3>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"Gatuvägen 10\",\"city\":\"Stad\",\"postal\":\"10100\",\"country\":\"Sverige\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Gatuvägen 10</div><div><span class=\"jetpack-address__city\">Stad</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">Sverige</div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"adress@exempel.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:adress@exempel.com\">adress@exempel.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone --></div>\n<!-- /wp:jetpack/contact-info -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>Öppettider</h3>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/business-hours /--></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":3} -->\n<h3 class=\"has-text-align-left\">Skicka oss ett meddelande</h3>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea {\"required\":true} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 71,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Hem",
+            "post_content": "<!-- wp:columns {\"align\":\"full\"} -->\n<div class=\"wp-block-columns alignfull\"><!-- wp:column {\"width\":66.66} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%\"><!-- wp:jetpack/slideshow {\"ids\":[57,59,64,63,62,61,60,58,65]} -->\n<div class=\"wp-block-jetpack-slideshow aligncenter\" data-effect=\"slide\"><div class=\"wp-block-jetpack-slideshow_container swiper-container\"><ul class=\"wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper\"><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-57\" data-id=\"57\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/alberto-castillo-q-mx4mskk9zeo-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-59\" data-id=\"59\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-2d4laqalbda-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-64\" data-id=\"64\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/sidekix-media-f1rd2hsoknk-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-63\" data-id=\"63\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/nastuh-abootalebi-rspmla5rita-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-62\" data-id=\"62\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/naomi-hebert-mp0bgas_d1c-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-61\" data-id=\"61\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/jason-briscoe-uv81e0oxxwq-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-60\" data-id=\"60\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-fqqiavjejto-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-58\" data-id=\"58\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/deborah-floden-hcvvx5xz0he-unsplash-5.jpg\" /></figure></li><li class=\"wp-block-jetpack-slideshow_slide swiper-slide\"><figure><img alt=\"\" class=\"wp-block-jetpack-slideshow_image wp-image-65\" data-id=\"65\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/steven-ungermann-d-zkucfjbww-unsplash-5.jpg\" /></figure></li></ul><a class=\"wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white\" role=\"button\"></a><a class=\"wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white\" role=\"button\"></a><a aria-label=\"Pause Slideshow\" class=\"wp-block-jetpack-slideshow_button-pause\" role=\"button\"></a><div class=\"wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white\"></div></div></div>\n<!-- /wp:jetpack/slideshow --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%\"><!-- wp:jetpack/tiled-gallery {\"className\":\"is-style-square\",\"ids\":[61,62,64,58,57,60,59,63,65]} -->\n<div class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-square\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row columns-3\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"5472\" data-id=\"61\" data-link=\"https://rivingtondemo.wordpress.com/jason-briscoe-uv81e0oxxwq-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/jason-briscoe-uv81e0oxxwq-unsplash-5.jpg\" data-width=\"3648\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/jason-briscoe-uv81e0oxxwq-unsplash-5.jpg?resize=2000%2C2000\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"1993\" data-id=\"62\" data-link=\"https://rivingtondemo.wordpress.com/naomi-hebert-mp0bgas_d1c-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/naomi-hebert-mp0bgas_d1c-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/naomi-hebert-mp0bgas_d1c-unsplash-5.jpg?resize=1993%2C1993\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"64\" data-link=\"https://rivingtondemo.wordpress.com/sidekix-media-f1rd2hsoknk-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/sidekix-media-f1rd2hsoknk-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/sidekix-media-f1rd2hsoknk-unsplash-5.jpg?resize=2000%2C2000\" /></figure></div></div><div class=\"tiled-gallery__row columns-3\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"58\" data-link=\"https://rivingtondemo.wordpress.com/deborah-floden-hcvvx5xz0he-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/deborah-floden-hcvvx5xz0he-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/deborah-floden-hcvvx5xz0he-unsplash-5.jpg?resize=2000%2C2000\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"57\" data-link=\"https://rivingtondemo.wordpress.com/alberto-castillo-q-mx4mskk9zeo-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/alberto-castillo-q-mx4mskk9zeo-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/alberto-castillo-q-mx4mskk9zeo-unsplash-5.jpg?resize=2000%2C2000\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"60\" data-link=\"https://rivingtondemo.wordpress.com/ialicante-mediterranean-homes-fqqiavjejto-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-fqqiavjejto-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-fqqiavjejto-unsplash-5.jpg?resize=2000%2C2000\" /></figure></div></div><div class=\"tiled-gallery__row columns-3\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"59\" data-link=\"https://rivingtondemo.wordpress.com/ialicante-mediterranean-homes-2d4laqalbda-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-2d4laqalbda-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-2d4laqalbda-unsplash-5.jpg?resize=2000%2C2000\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"63\" data-link=\"https://rivingtondemo.wordpress.com/nastuh-abootalebi-rspmla5rita-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/nastuh-abootalebi-rspmla5rita-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/nastuh-abootalebi-rspmla5rita-unsplash-5.jpg?resize=2000%2C2000\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"1993\" data-id=\"65\" data-link=\"https://rivingtondemo.wordpress.com/steven-ungermann-d-zkucfjbww-unsplash/\" data-url=\"https://rivingtondemo.files.wordpress.com/2019/08/steven-ungermann-d-zkucfjbww-unsplash-5.jpg\" data-width=\"3000\" src=\"https://rivingtondemo.files.wordpress.com/2019/08/steven-ungermann-d-zkucfjbww-unsplash-5.jpg?resize=1993%2C1993\" /></figure></div></div></div></div>\n<!-- /wp:jetpack/tiled-gallery --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":66.66} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%\"><!-- wp:heading {\"level\":1,\"className\":\"margin-bottom-half\"} -->\n<h1 class=\"margin-bottom-half\">Prisbelönt modernt hus i medelhavsstil</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"margin-top-half\"} -->\n<p class=\"margin-top-half\">123 Any Street, HJ 12345</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%\"><!-- wp:paragraph {\"className\":\"has-text-align-right has-huge-font-size\"} -->\n<p class=\"has-text-align-right has-huge-font-size\"><strong>700 000 USD</strong></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"normal\",\"className\":\"has-text-align-center margin-bottom-none\"} -->\n<p style=\"text-align:center\" class=\"has-normal-font-size has-text-align-center margin-bottom-none\"><strong>Byggt år</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"customFontSize\":50,\"className\":\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"} -->\n<p style=\"font-size:50px;text-align:center\" class=\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"><strong>2017</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide margin-top-half\"} -->\n<hr class=\"wp-block-separator is-style-wide margin-top-half\" />\n<!-- /wp:separator --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"normal\",\"className\":\"has-text-align-center margin-bottom-none\"} -->\n<p style=\"text-align:center\" class=\"has-normal-font-size has-text-align-center margin-bottom-none\"><strong>Sovrum</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"customFontSize\":50,\"className\":\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"} -->\n<p style=\"font-size:50px;text-align:center\" class=\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"><strong>5</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide margin-top-half\"} -->\n<hr class=\"wp-block-separator is-style-wide margin-top-half\" />\n<!-- /wp:separator --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"normal\",\"className\":\"has-text-align-center margin-bottom-none\"} -->\n<p style=\"text-align:center\" class=\"has-normal-font-size has-text-align-center margin-bottom-none\"><strong>Badrum</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"customFontSize\":50,\"className\":\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"} -->\n<p style=\"font-size:50px;text-align:center\" class=\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"><strong>3</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide margin-top-half\"} -->\n<hr class=\"wp-block-separator is-style-wide margin-top-half\" />\n<!-- /wp:separator --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"normal\",\"className\":\"has-text-align-center margin-bottom-none\"} -->\n<p style=\"text-align:center\" class=\"has-normal-font-size has-text-align-center margin-bottom-none\"><strong>Våningar</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"customFontSize\":50,\"className\":\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"} -->\n<p style=\"font-size:50px;text-align:center\" class=\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"><strong>2</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide margin-top-half\"} -->\n<hr class=\"wp-block-separator is-style-wide margin-top-half\" />\n<!-- /wp:separator --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"normal\",\"className\":\"has-text-align-center margin-bottom-none\"} -->\n<p style=\"text-align:center\" class=\"has-normal-font-size has-text-align-center margin-bottom-none\"><strong>Kvadratmeter</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"customFontSize\":50,\"className\":\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"} -->\n<p style=\"font-size:50px;text-align:center\" class=\"has-text-align-center margin-top-none margin-bottom-half has-custom-size\"><strong>302</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide margin-top-half\"} -->\n<hr class=\"wp-block-separator is-style-wide margin-top-half\" />\n<!-- /wp:separator --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:group {\"backgroundColor\":\"foreground-light\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-foreground-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%\"><!-- wp:heading -->\n<h2>Byggt för framtiden.</h2>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":66.66} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%\"><!-- wp:paragraph -->\n<p>Detta hem, med 5 sovrum och 3 badrum, är nästan 371 kvadratmeter stort totalt, med nästan 3 tunnland och privat tillgång till Haywards River.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Omfattande uppgraderingar och grundligt underhåll har hållit detta hem i utmärkt skick. Trägolv och nya mattor skapar en mycket bekväm bostadsyta.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:cover {\"url\":\"https://rivingtondemo.files.wordpress.com/2019/08/alberto-castillo-q-mx4mskk9zeo-unsplash-5.jpg\",\"id\":57,\"dimRatio\":70,\"overlayColor\":\"primary\",\"focalPoint\":{\"x\":0.5,\"y\":0.5},\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-primary-background-color has-background-dim\" style=\"background-image:url(https://rivingtondemo.files.wordpress.com/2019/08/alberto-castillo-q-mx4mskk9zeo-unsplash-5.jpg);background-position:50% 50%\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Lyxigt och miljömedvetet boende.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-text-align-center\"} -->\n<p class=\"has-text-align-center\">Omfattande uppgraderingar och grundligt underhåll har hållit detta hem i utmärkt skick. Trägolv och nya mattor skapar en mycket bekväm bostadsyta.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":143,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://rivingtondemo.files.wordpress.com/2019/08/confidence-elegant-fashionable-2505053.jpg?w=683\" alt=\"\" class=\"wp-image-143\" /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} -->\n<h3>Om agenten.</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Juan Pérez är en certifierad bostadsspecialist med över 12 års erfarenhet av att hjälpa lokala kunder att sälja sina hem. Han blev framgångsrik tack vare sitt engagemang för att erbjuda vackra hem i Sussex. </p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":3} -->\n<h3 class=\"has-text-align-left\">Boka en privat visning.</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"margin-bottom-none\"} -->\n<p class=\"margin-bottom-none\"><strong>Rivington Real Estate Team</strong>:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/contact-info {\"className\":\"margin-top-none\"} -->\n<div class=\"wp-block-jetpack-contact-info margin-top-none\"><!-- wp:jetpack/email {\"email\":\"adress@exempel.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:adress@exempel.com\">adress@exempel.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(123)-456-789\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:123456789\">(123)-456-789</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:jetpack/address {\"address\":\"1 Example Street, \",\"region\":\"Anytown,\",\"postal\":\"10100\",\"country\":\"USA\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">1 Example Street, </div><div><span class=\"jetpack-address__region\">Anytown,</span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">USA</div></div>\n<!-- /wp:jetpack/address --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 5,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Hitta en lovande stadsdel innan alla hipsters flyttar in",
+            "post_content": "Att bo i centrum är fantastiskt, men alla stadsdelar du tittat på är för dyra. Att köpa fastigheter i ett lovande område är varje investerares dröm. Du får fantastisk egendom till ett fantastiskt pris, och efter ett kort tag bor du på en av de mest eftertraktade platserna i stan.",
+            "post_name": "our-up-and-coming-area-is-worth-investing-in",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 107,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://rivingtondemo.files.wordpress.com/2019/08/peter-gonzalez-5al-73jsjw4-unsplash-1.jpg"
+        }
+    ],
+    "menus": {
+        "primary-menu": {
+            "name": "Primary Menu",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 77,
+                    "menu-item-object-id": "5",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "About",
+                    "menu-item-db-id": 154,
+                    "menu-item-object-id": "150",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Services",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "73",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 105,
+                    "menu-item-object-id": "103",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Contact",
+                    "menu-item-db-id": 76,
+                    "menu-item-object-id": "71",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social-menu": {
+            "name": "Social Menu",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 79,
+                    "menu-item-object-id": "79",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://www.facebook.com/WordPresscom/"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 80,
+                    "menu-item-object-id": "80",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 81,
+                    "menu-item-object-id": "81",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://www.instagram.com/wordpressdotcom/"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://rivingtondemo.files.wordpress.com/2019/08/logo_rivington.png",
+        "https://rivingtondemo.files.wordpress.com/2019/08/confidence-elegant-fashionable-2505053.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/chuttersnap-11jrs2zy_ca-unsplash.png",
+        "https://rivingtondemo.files.wordpress.com/2019/08/sonnie-hiles-l0baowhfe4c-unsplash.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/mark-west-fg_4wn1r0bu-unsplash.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/zane-lee-x8inu4s5n1k-unsplash1.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/andrew-neel-qlqnalpe0ra-unsplash1.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/austin-distel-wawefydpkag-unsplash.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/dane-deaner-qrfmb-ioqje-unsplash.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/jared-rice-ahiunolb7cg-unsplash1.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/cacti-cactus-prickly-1903747-1.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/peter-gonzalez-5al-73jsjw4-unsplash-1.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/steven-ungermann-d-zkucfjbww-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/sidekix-media-f1rd2hsoknk-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/nastuh-abootalebi-rspmla5rita-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/naomi-hebert-mp0bgas_d1c-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/jason-briscoe-uv81e0oxxwq-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-fqqiavjejto-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/ialicante-mediterranean-homes-2d4laqalbda-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/deborah-floden-hcvvx5xz0he-unsplash-5.jpg",
+        "https://rivingtondemo.files.wordpress.com/2019/08/alberto-castillo-q-mx4mskk9zeo-unsplash-5.jpg"
+    ]
+}
