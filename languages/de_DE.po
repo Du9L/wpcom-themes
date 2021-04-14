@@ -1,0 +1,145 @@
+# Translation of WordPress.com - Themes - Morden in German
+# This file is distributed under the same license as the WordPress.com - Themes - Morden package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-05 01:29:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: WordPress.com - Themes - Morden\n"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "Suchergebnisse für:"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte leider nicht gefunden werden."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Wie es aussieht, wurde an dieser Stelle nichts gefunden. Bitte die Suche verwenden."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Bearbeite <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Weiterlesen <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft eine Suche."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Erste Schritte</a>."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Zu den Suchbegriffen wurde leider nichts passendes gefunden. Bitte versuche es erneut mit anderen Suchbegriffen."
+
+#: header.php:55
+msgid "Social Links Menu"
+msgstr "Social-Links-Menü"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nicht gefunden"
+
+#: header.php:33
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: header.php:36
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: functions.php:96
+msgid "White"
+msgstr "Weiss"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:134
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Groß"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Hauptblog"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "Dunkelgrau"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "Grau"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "Hellgrau"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Groß"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Klein"

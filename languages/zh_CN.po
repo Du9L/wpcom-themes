@@ -1,0 +1,155 @@
+
+Warning: Packets out of order. Expected 0 received 1. Packet size=23 in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): MySQL server has gone away in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): Error while reading greeting packet. PID=26440 in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): (HY000/1040): Too many connections in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:124 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:534 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Morden in Chinese (China)
+# This file is distributed under the same license as the WordPress.com - Themes - Morden package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-05 01:29:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: WordPress.com - Themes - Morden\n"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "针对以下查询的搜索结果："
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "这儿似乎什么都没有，试试搜索？"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "编辑<span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "继续阅读<span class=\"screen-reader-text\">“%s”</span>"
+
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "页码："
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们无法找到您想查找的内容。或许搜索可以帮助您。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: header.php:55
+msgid "Social Links Menu"
+msgstr "社交网络链接菜单"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "特色"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: header.php:33
+msgid "Main Navigation"
+msgstr "主要导航"
+
+#: header.php:36
+msgid "Menu"
+msgstr "选单"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳转到内容"
+
+#: functions.php:96
+msgid "White"
+msgstr "白色"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:134
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "巨大"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "主要"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "次要"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "深灰色"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "灰"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "浅灰色"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "正常"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "大"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:30
+msgid "Small"
+msgstr "小"
