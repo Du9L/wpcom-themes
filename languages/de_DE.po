@@ -1,0 +1,225 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Intergalactic-2 in German
+# This file is distributed under the same license as the WordPress.com - Themes - Intergalactic-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-26 14:48:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: WordPress.com - Themes - Intergalactic-2\n"
+
+#: functions.php:92
+msgid "Dark Green"
+msgstr "Dunkelgrün"
+
+#: functions.php:62
+msgid "Black"
+msgstr "Schwarz"
+
+#: functions.php:67
+msgid "Dark Gray"
+msgstr "Dunkelgrau"
+
+#: functions.php:77
+msgid "White"
+msgstr "Weiss"
+
+#: functions.php:72
+msgid "Light Gray"
+msgstr "Hellgrau"
+
+#: content.php:14
+msgid "Featured"
+msgstr "Bemerkenswert"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/intergalactic-2/style.css
+msgid "Intergalactic 2 is a stunning specimen for your personal blog. Bold featured images act as the backdrop to your text, giving you a high-contrast, readable theme that's perfect for making your content pop. The one-column layout provides a distraction-free environment for reading, while the slide-out menu keeps your navigation and secondary content readily accessible."
+msgstr "Intergalactic 2 ist ein fantastisches Theme für dein persönliches Blog. Starke Bilder bilden den Hintergrund für deinen Text und sorgen für ein kontrastreiches, gut lesbares Design, das perfekt geeignet ist, um deine Inhalte in den Vordergrund zu stellen. Das einspaltige Layout sorgt für eine ablenkungsfreie Leseumgebung, während das Ausklappmenü deine Navigation und sekundären Inhalte leicht zugänglich macht."
+
+#: single.php:27
+msgid "Next"
+msgstr "Weiter"
+
+#: single.php:27
+msgid "Previous"
+msgstr "Vorherige"
+
+#: inc/wpcom-colors.php:108
+msgid "Blue"
+msgstr "Blau"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: inc/wpcom-colors.php:101
+msgid "Dark"
+msgstr "Dunkel"
+
+#: inc/wpcom-colors.php:87
+msgid "Yellow"
+msgstr "Gelb"
+
+#: inc/wpcom-colors.php:94
+msgid "Orange"
+msgstr "Orange"
+
+#: inc/wpcom-colors.php:80
+msgid "Green"
+msgstr "Grün"
+
+#: inc/wpcom-colors.php:27
+msgid "Headings"
+msgstr "Überschriften"
+
+#: functions.php:82 inc/wpcom-colors.php:74
+msgid "Purple"
+msgstr "Violett"
+
+#: inc/wpcom-colors.php:20
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Veröffentlicht am %s"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "von %s"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Menü"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:226
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:249
+msgid "Read More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Weiterlesen <span class=\"screen-reader-text\">%1$s</span>"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: functions.php:157
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:165
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:173
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s von %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Mit freundlicher Unterstützung von %s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:48
+msgid "Tags:"
+msgstr "Schlagwörter:"
+
+#: content-single.php:51
+msgid "<span class=\"heading\">Categories:</span> %1$s"
+msgstr "<span class=\"heading\">Kategorien:</span> %1$s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:45 content-single.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:41 content-single.php:55 content.php:25
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content-page.php:35 content-single.php:36
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft eine Suche."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Leider konnte zu dem Suchbegriff nichts gefunden werden. Bitte mit einigen anderen Suchbegriffen erneut suchen."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Erste Schritte</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nicht gefunden"
+
+#: content-author.php:34
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: content-author.php:28
+msgid "Published by %s"
+msgstr "Veröffentlicht von %s"
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Wie es aussieht, wurde an dieser Stelle nichts gefunden. Möchtest du danach suchen?"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar zu &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s Kommentare zu &bdquo;%2$s&ldquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Diese Seite konnte leider nicht gefunden werden."

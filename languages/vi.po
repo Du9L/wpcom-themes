@@ -1,0 +1,215 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Intergalactic-2 in Vietnamese
+# This file is distributed under the same license as the WordPress.com - Themes - Intergalactic-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-06 06:35:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: WordPress.com - Themes - Intergalactic-2\n"
+
+#: functions.php:92
+msgid "Dark Green"
+msgstr "Xanh lá cây đậm"
+
+#: functions.php:87
+msgid "Dark Purple"
+msgstr "Tím đậm"
+
+#: functions.php:62
+msgid "Black"
+msgstr "Đen"
+
+#: functions.php:77
+msgid "White"
+msgstr "Trắng"
+
+#: functions.php:72
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:67
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: content.php:14
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: single.php:27
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: single.php:27
+msgid "Previous"
+msgstr "Trước"
+
+#: inc/wpcom-colors.php:108
+msgid "Blue"
+msgstr "Màu xanh da trời"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/wpcom-colors.php:101
+msgid "Dark"
+msgstr "Màu tối"
+
+#: inc/wpcom-colors.php:87
+msgid "Yellow"
+msgstr "Vàng"
+
+#: inc/wpcom-colors.php:94
+msgid "Orange"
+msgstr "Cam"
+
+#: inc/wpcom-colors.php:80
+msgid "Green"
+msgstr "Xanh lá cây"
+
+#: functions.php:82 inc/wpcom-colors.php:74
+msgid "Purple"
+msgstr "Màu tím"
+
+#: inc/wpcom-colors.php:27
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#: inc/wpcom-colors.php:20
+msgid "Links"
+msgstr "Liên kết"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Đăng vào %s"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:226
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#: functions.php:173
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:165
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:157
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:48
+msgid "Tags:"
+msgstr "Nhãn:"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:45 content-single.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:41 content-single.php:55 content.php:25
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: content-page.php:35 content-single.php:36
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: content-author.php:34
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết bằng %s"
+
+#: content-author.php:28
+msgid "Published by %s"
+msgstr "Đăng bởi %s"
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
