@@ -1,0 +1,360 @@
+# Copyright (C) 2016 CrestaProject
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nucleare 1.0.4-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/nucleare\n"
+"POT-Creation-Date: 2016-04-23 05:25:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:37
+msgid "Reply"
+msgstr ""
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:33 content-single.php:83
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:41 content.php:95 inc/template-tags.php:136
+msgid "Edit"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content-single.php:10 content.php:10
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:24
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Social Links"
+msgstr ""
+
+#: functions.php:103
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Footer Widgets 1"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer Widgets 2"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer Widgets 3"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Roboto, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#: functions.php:174
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Playfair Display, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#: functions.php:180
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:225
+msgid "Read More &raquo;"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:30
+msgid "Open Menu"
+msgstr ""
+
+#: header.php:39
+msgid "Search"
+msgstr ""
+
+#: header.php:50
+msgid "Close"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Theme"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Hide search from header"
+msgstr ""
+
+#: inc/extras.php:64
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older Posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "All %s posts"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgctxt "post date"
+msgid "<i class=\"fa fa-clock-o space-left-right\"></i>%s"
+msgstr ""
+
+#: inc/template-tags.php:96
+msgctxt "post author"
+msgid "<i class=\"fa fa-user space-left-right\"></i>%s"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgid " / "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "<i class=\"fa fa-tags space-right\"></i>%1$s"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:155
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:183
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:187
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "Archives"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/nucleare/style.css
+msgid "Nucleare"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/nucleare/style.css
+msgid "http://crestaproject.com/downloads/nucleare/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/nucleare/style.css
+msgid ""
+"Nucleare is a classic blog theme with a crisp, elegant design and plenty of "
+"handy features. A built-in search box, links to your favorite social "
+"networks, four widget areas, and beautifully styled post formats make this "
+"an ideal theme for your personal blog."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/nucleare/style.css
+msgid "CrestaProject"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/nucleare/style.css
+msgid "http://crestaproject.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/nucleare/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr ""

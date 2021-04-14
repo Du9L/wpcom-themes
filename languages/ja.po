@@ -1,0 +1,307 @@
+# Translation of WordPress.com - Themes - Nucleare in Japanese
+# This file is distributed under the same license as the WordPress.com - Themes - Nucleare package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-11 12:51:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WordPress.com - Themes - Nucleare\n"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/nucleare/style.css
+msgid "Nucleare is a classic blog theme with a crisp, elegant design and plenty of handy features. A built-in search box, links to your favorite social networks, four widget areas, and beautifully styled post formats make this an ideal theme for your personal blog."
+msgstr "Nucleare は、さっぱりした上品なデザインと数多くの便利な機能を備えた古典的なブログのテーマです。ビルトイン検索ボックス、お気に入りの SNS へのリンク、4つのウィジェットエリア、美しくスタイリングされた投稿フォーマットが、このテーマを個人的ブログに理想的なものにしています。"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/nucleare/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "全幅、サイドバーなし"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/template-tags.php:189
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: inc/template-tags.php:183
+msgid "Archives: %s"
+msgstr "アーカイブ: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:187
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "チャット"
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "ステータス"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音声"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "リンク"
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "動画"
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引用"
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "画像"
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: inc/template-tags.php:163
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/template-tags.php:163
+msgid "Day: %s"
+msgstr "﻿日: %s"
+
+#: inc/template-tags.php:161
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:161
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: inc/template-tags.php:159
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:159
+msgid "Year: %s"
+msgstr "﻿年: %s"
+
+#: inc/template-tags.php:157
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: inc/template-tags.php:155
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: inc/template-tags.php:153
+msgid "Category: %s"
+msgstr "カテゴリー: %s"
+
+#: inc/template-tags.php:114
+msgid " / "
+msgstr "/"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:104
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:104
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: inc/template-tags.php:75
+msgid "All %s posts"
+msgstr "すべての%s投稿"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:29
+msgid "Newer Posts"
+msgstr "新しい投稿"
+
+#: inc/template-tags.php:25
+msgid "Older Posts"
+msgstr "過去の投稿"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/extras.php:64
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/customizer.php:19
+msgid "Theme"
+msgstr "テーマ名"
+
+#: header.php:50
+msgid "Close"
+msgstr "閉じる"
+
+#: header.php:39
+msgid "Search"
+msgstr "検索"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Roboto, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:174
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Playfair Display, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:180
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:225
+msgid "Read More &raquo;"
+msgstr "続きを読む &raquo;"
+
+#: functions.php:113
+msgid "Footer Widgets 1"
+msgstr "フッターウィジェット1"
+
+#: functions.php:123
+msgid "Footer Widgets 2"
+msgstr "フッターウィジェット2"
+
+#: functions.php:133
+msgid "Footer Widgets 3"
+msgstr "フッターウィジェット3"
+
+#: functions.php:56
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+#: functions.php:103
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:24
+msgid "Back to top"
+msgstr "トップへ戻る"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#. translators: %s: Name of current post
+#: content-single.php:10 content.php:10
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s の続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:41 content.php:95 inc/template-tags.php:136
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:33 content-single.php:83
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:46
+msgid "Newer Comments"
+msgstr "より新しいコメント"
+
+#: comments.php:45
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:37
+msgid "Reply"
+msgstr "返信"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
