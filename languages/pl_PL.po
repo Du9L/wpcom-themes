@@ -1,0 +1,369 @@
+# Translation of WordPress.com - Themes - Lodestar in Polish
+# This file is distributed under the same license as the WordPress.com - Themes - Lodestar package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-13 12:43:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: WordPress.com - Themes - Lodestar\n"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Jedna odpowiedź na &ldquo;%1$s&rdquo;"
+
+#: archive-jetpack-portfolio.php:27
+msgid "Portfolio navigation"
+msgstr "Pokaż nawigację portfolio"
+
+#: archive-jetpack-portfolio.php:25
+msgid "Older projects"
+msgstr "Starsze projekty"
+
+#: archive-jetpack-portfolio.php:26
+msgid "Newer projects"
+msgstr "Nowsze projekty"
+
+#: inc/woocommerce.php:213
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d produkt"
+msgstr[1] "%d produkty"
+msgstr[2] "%d produkty"
+
+#: inc/woocommerce.php:212
+msgid "View your shopping cart"
+msgstr "Zobacz swój koszyk"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lodestar/templates/portfolio-page.php
+msgid "Portfolio Template"
+msgstr "Szablon portfela"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/lodestar/templates/testimonial-page.php
+msgid "Testimonial Template"
+msgstr "Szablon referencyjny"
+
+#: single.php:22
+msgid "Previous Post"
+msgstr "Poprzedni wpis"
+
+#: single.php:23
+msgid "Next Post"
+msgstr "Następny wpis"
+
+#: single-jetpack-portfolio.php:19
+msgid "Next Project"
+msgstr "Następny projekt"
+
+#: single-jetpack-portfolio.php:18
+msgid "Previous Project"
+msgstr "Poprzedni projekt"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla zapytania %s"
+
+#: inc/wpcom-colors.php:478
+msgid "White, Red, and Grey"
+msgstr "Biały, czerwony i szary"
+
+#: inc/wpcom-colors.php:472
+msgid "Beige, Blue, and Orange"
+msgstr "Beżowy, niebieski i pomarańczowy"
+
+#: inc/wpcom-colors.php:466
+msgid "White, Brown, and Blue"
+msgstr "Biały, brązowy i niebieski"
+
+#: inc/wpcom-colors.php:460
+msgid "Light Grey and Pink"
+msgstr "Jasnoszary i różowy"
+
+#: inc/wpcom-colors.php:232
+msgid "Link"
+msgstr "Odnośnik"
+
+#: inc/wpcom-colors.php:454
+msgid "Blue"
+msgstr "Niebieski"
+
+#: inc/wpcom-colors.php:448
+msgid "Grey and Green"
+msgstr "Szary i zielony"
+
+#: inc/wpcom-colors.php:18
+msgid "Background"
+msgstr "Tło"
+
+#: inc/wpcom-colors.php:191
+msgid "Text"
+msgstr "Tekst"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:144
+msgid "Edit %1$s %2$s"
+msgstr "Edytuj %1$s %2$s"
+
+#: inc/template-tags.php:139
+msgid "Post"
+msgstr "Wpis"
+
+#: inc/template-tags.php:137
+msgid "Page"
+msgstr "Strona"
+
+#: inc/template-tags.php:119
+msgid "% Comments"
+msgstr "% komentarzy"
+
+#: inc/template-tags.php:119
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+#: inc/template-tags.php:112
+msgid "Tagged %1$s"
+msgstr "Otagowano %1$s"
+
+#: inc/template-tags.php:119
+msgid "Leave a comment"
+msgstr "Dodaj komentarz"
+
+#: inc/template-tags.php:34
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Opublikowane %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:86
+msgid "Edit %s"
+msgstr "Edytuj %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108
+msgid "Tagged"
+msgstr "Otagowane"
+
+#: inc/template-tags.php:41
+msgctxt "post author"
+msgid "by"
+msgstr "przez"
+
+#: inc/template-tags.php:70
+msgctxt "prefaces list of categories assigned to post"
+msgid "Type: "
+msgstr "Typ "
+
+#: inc/template-tags.php:50
+msgctxt "prefaces list of categories assigned to the post"
+msgid "in"
+msgstr "w"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:17 inc/template-tags.php:69 inc/template-tags.php:103
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:243
+msgid "All"
+msgstr "Wszystkie"
+
+#: inc/customizer.php:91
+msgid "Panel 2"
+msgstr "Płyta 2"
+
+#: inc/customizer.php:125
+msgid "Panel 3"
+msgstr "Płyta 3"
+
+#: inc/customizer.php:159
+msgid "Panel 4"
+msgstr "Płyta 4"
+
+#: inc/jetpack.php:239
+msgid "Types:"
+msgstr "Rodzaje:"
+
+#: inc/customizer.php:84 inc/customizer.php:118 inc/customizer.php:152
+#: inc/customizer.php:186 inc/customizer.php:229
+msgid "One Column"
+msgstr "Jedna kolumna"
+
+#: inc/customizer.php:85 inc/customizer.php:119 inc/customizer.php:153
+#: inc/customizer.php:187 inc/customizer.php:230
+msgid "Two Column"
+msgstr "Dwukolumnowy"
+
+#: inc/customizer.php:80 inc/customizer.php:114 inc/customizer.php:148
+#: inc/customizer.php:182
+msgid "Panel Layout"
+msgstr "Układ panelu"
+
+#: inc/customizer.php:23
+msgid "Configure your theme settings"
+msgstr "Skonfiguruj ustawienia motywu"
+
+#: inc/customizer.php:28
+msgid "Header Top Text"
+msgstr "Tekst nagłówka"
+
+#: inc/customizer.php:41
+msgid "Header Top Text 1"
+msgstr "Tekst nagłówka 1"
+
+#: inc/customizer.php:52
+msgid "Header Top Text 2"
+msgstr "Tekst nagłówka 2"
+
+#: inc/customizer.php:57
+msgid "Panel 1"
+msgstr "Płyta 1"
+
+#: inc/customizer.php:69 inc/customizer.php:103 inc/customizer.php:137
+#: inc/customizer.php:171
+msgid "Panel Content"
+msgstr "Zawartość panelu"
+
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: functions.php:174
+msgid "Footer 3"
+msgstr "Stopka 3"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Przeskocz do treści"
+
+#: functions.php:154
+msgid "Footer 1"
+msgstr "Stopka 1"
+
+#: functions.php:164
+msgid "Footer 2"
+msgstr "Stopka 2"
+
+#: functions.php:144
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:113
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "włączyć"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Work Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:107
+msgctxt "work_sans font: on or off"
+msgid "on"
+msgstr "włączyć"
+
+#: components/post/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: functions.php:57
+msgid "Top"
+msgstr "Góra"
+
+#: front-page.php:61
+msgid "Panel %1$s Placeholder"
+msgstr "Płyta %1$s Symbol zastępczy"
+
+#: components/post/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przykro nam, ale nie znaleziono niczego na podstawie wpisanych terminów. Spróbuj ponownie używając innych słów kluczowych."
+
+#: components/post/content-none.php:13
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: components/post/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotów, by opublikować pierwszy post? <a href=\"%1$s\">Zacznij tutaj</a>."
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#: components/page/content-front-page-panels.php:50
+#: components/post/content.php:40 inc/template-tags.php:195
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj Dalej %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/page/content-front-page-panels.php:18
+msgid "Panel %1$s"
+msgstr "Płyta %1$s"
+
+#: components/navigation/navigation-top.php:1
+msgid "Top Menu"
+msgstr "Menu górne"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menu"
+
+#: components/footer/site-info.php:5
+msgid "Theme: %1$s by %2$s."
+msgstr "Motyw: %1$s. Autor motywu: %2$s."
+
+#: components/footer/site-info.php:3
+msgid "https://wordpress.org/"
+msgstr "https://pl.wordpress.org/"
+
+#: components/footer/site-info.php:3
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez WordPressa"
+
+#: components/footer/footer-image.php:17 inc/customizer.php:193
+#: inc/customizer.php:205
+msgid "Footer Image"
+msgstr "Obraz stopki"
+
+#: components/features/portfolio/content-portfolio-single.php:35
+#: components/page/content-front-page.php:8 components/page/content-page.php:21
+#: components/post/content.php:45
+msgid "Pages:"
+msgstr "Strony:"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: archive-jetpack-testimonial.php:29
+msgid "Testimonials"
+msgstr "Referencje"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myśl na temat &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+
+#: 404.php:48
+msgid "Try looking in the monthly archives."
+msgstr "Spróbuj poszukać w miesięcznym archiwum."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda, że nic nie ma pod tym adresem. Może spróbuj któryś z poniższych linków lub skorzystaj z wyszukiwarki?"
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr "Popularne kategorie"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ojej! Nie można znaleźć tej strony."
