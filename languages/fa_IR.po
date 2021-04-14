@@ -1,0 +1,319 @@
+# Translation of Cerauno in Persian
+# This file is distributed under the same license as the Cerauno package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-26 06:25:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Cerauno\n"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/cerauno/nosidebar-page.php
+msgid "No Sidebars"
+msgstr "بدون نوار کناری"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "Cerauno is a polished, user-friendly magazine theme with plenty of customizable features. Add secondary content in up to five widget areas, brand your content with a Site Logo or Custom Header, and add Featured Images to grab your readers’ attention."
+msgstr "Cerauno یک پوستهٔ مجله‌وار، تروتمیز و کاربرپسند است. شمار زیاد ویژگی‌های سفارشی‌شدنی. می‌توانید مطالب ثانویه را به ۵ پهنهٔ ابزارک گوناگون بیفزایید. مطالبتان را با نشان‌وارهٔ وب‌گاه یا سرایند سفارشی نمانام ببخشید. با افزودن تصاویر ویژه توجه مخاطب خود را به دست آورید."
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:19
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>. "
+
+#: single.php:24
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav\">نوشتهٔ پسین</span> %title"
+
+#: single.php:24
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">نوشتهٔ پیشین</span> %title"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: inc/template-tags.php:200
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:198
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "گپ‌ها"
+
+#: inc/template-tags.php:194
+msgid "Archives: %s"
+msgstr "بایگانی‌ها: %s"
+
+#: inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+#: inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "صوت"
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "پیوندها"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "فیلم‌ها"
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "گفتاوردها"
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گالری‌‌ها"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصویرها"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "در حاشیه‌ها"
+
+#: inc/template-tags.php:172
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: inc/template-tags.php:172
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:170
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:170
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: inc/template-tags.php:168
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:166
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: inc/template-tags.php:168
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/template-tags.php:164
+msgid "Tag: %s"
+msgstr "برچسب‌ها: %s"
+
+#: inc/template-tags.php:162
+msgid "Category: %s"
+msgstr "دسته: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131 inc/template-tags.php:137
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:93
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:93
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: inc/template-tags.php:93
+msgid "Leave a comment"
+msgstr "دیدگاهی بنویسید"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "نوشته‌های تازه‌تر"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "پیمایش نوشته"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "نوشته‌های پیشین"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پیمایش نوشته ها"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: header.php:27
+msgid "Menu"
+msgstr "فهرست"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#: functions.php:277
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار بررسی است."
+
+#: functions.php:264 inc/template-tags.php:97 inc/template-tags.php:145
+#: template-parts/content-page.php:26
+msgid "Edit"
+msgstr "ویرایش"
+
+#: functions.php:126
+msgid "Footer Sidebar 3"
+msgstr "نوار کناری پسایند ۳"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Karla, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:165
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Montserrat, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:171
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: functions.php:211
+msgid "Read More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "بیشتر بخوانید <span class=\"screen-reader-text\">%1$s</span>"
+
+#: functions.php:261
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: functions.php:99
+msgid "Sidebar 2"
+msgstr "نوار کناری ۲"
+
+#: functions.php:108
+msgid "Footer Sidebar 1"
+msgstr "نوار کناری پسایند ۱"
+
+#: functions.php:117
+msgid "Footer Sidebar 2"
+msgstr "نوار کناری پسایند ۲"
+
+#: functions.php:48
+msgid "Social Links"
+msgstr "پیوندهای شبکه‌های اجتماعی"
+
+#: functions.php:90
+msgid "Sidebar 1"
+msgstr "نوار کناری ۱"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "فهرست اصلی"
+
+#: footer.php:57
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب %1$s از %2$s."
+
+#: footer.php:55
+msgid "Proudly powered by %s"
+msgstr "با افتخار نیرو گرفته از %s"
+
+#: footer.php:55
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "امکان ثبت دیدگاه وجود ندارد."
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments"
+msgstr "دیدگاه‌های تازه‌تر"
+
+#: comments.php:41 comments.php:64
+msgid "Older Comments"
+msgstr "دیدگاه‌های کهنه‌تر"
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "هدایت دیدگاه"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای «%2$s»"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان پیدا نشده. ممکن است جستجو کمک کند؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! این برگه پیدا نمی‌شه."
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "http://wordpress.com/themes/"
+msgstr "http://wordpress.com/themes/"
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "Cerauno"
+msgstr "Cerauno"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "http://wordpress.com/themes/cerauno/"
+msgstr "http://wordpress.com/themes/cerauno/"

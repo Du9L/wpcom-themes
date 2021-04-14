@@ -1,0 +1,167 @@
+# Translation of Cerauno in Esperanto
+# This file is distributed under the same license as the Cerauno package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-11 03:48:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Cerauno\n"
+
+#: inc/template-tags.php:170
+msgid "Month: %s"
+msgstr "Monato: %s"
+
+#: inc/template-tags.php:168
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "J"
+
+#: inc/template-tags.php:168
+msgid "Year: %s"
+msgstr "Jaro: %s"
+
+#: inc/template-tags.php:166
+msgid "Author: %s"
+msgstr "Aŭtoro: %s"
+
+#: inc/template-tags.php:164
+msgid "Tag: %s"
+msgstr "Etikedo: %s"
+
+#: inc/template-tags.php:162
+msgid "Category: %s"
+msgstr "Kategorio: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131 inc/template-tags.php:137
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:93
+msgid "% Comments"
+msgstr "% Komentoj"
+
+#: inc/template-tags.php:93
+msgid "1 Comment"
+msgstr "1 komento"
+
+#: inc/template-tags.php:93
+msgid "Leave a comment"
+msgstr "Komenti"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Pli novaj afiŝoj"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Pli malnovaj afiŝoj"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Paĝo %s"
+
+#: header.php:27
+msgid "Menu"
+msgstr "Menuo"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Iri rekte al enhavo"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ŝajne nenio estis trovita je ĉi tiu loko. Ĉu eble provi serĉon?"
+
+#: functions.php:285
+msgid "Your comment is awaiting moderation."
+msgstr "Via komento atendas aprobon."
+
+#: functions.php:272 inc/template-tags.php:97 inc/template-tags.php:145
+#: template-parts/content-page.php:26
+msgid "Edit"
+msgstr "Redakti"
+
+#: functions.php:269
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s je %2$s"
+
+#: functions.php:99
+msgid "Sidebar 2"
+msgstr "Flankpanelo 2"
+
+#: functions.php:90
+msgid "Sidebar 1"
+msgstr "Flankpanelo 1"
+
+#: functions.php:48
+msgid "Social Links"
+msgstr "Sociaj ligiloj"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Ĉefa menuo"
+
+#: footer.php:57
+msgid "Theme: %1$s by %2$s."
+msgstr "Etoso: %1$s de %2$s. "
+
+#: footer.php:55
+msgid "Proudly powered by %s"
+msgstr "Fiere kreata de %s"
+
+#: footer.php:55
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentado estas fermita."
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments"
+msgstr "Pli novaj komentoj"
+
+#: comments.php:41 comments.php:64
+msgid "Older Comments"
+msgstr "Pli malnovaj komentoj"
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Navigado tra komentoj"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Penso pri &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensoj pri &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provu rigardi en la monataj arkivoj: %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Plej uzataj kategorioj"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Aspektas kvazaŭ nenio estis trovita ĉe ĉi tiu loko. Ĉu eble provi unu de la subaj ligiloj aŭ serĉon?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ne eblas trovi tiun paĝon."

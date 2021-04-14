@@ -1,0 +1,171 @@
+# Translation of Cerauno in Arabic
+# This file is distributed under the same license as the Cerauno package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-11 03:48:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Cerauno\n"
+
+#: inc/template-tags.php:170
+msgid "Month: %s"
+msgstr "شهر: %s"
+
+#: inc/template-tags.php:168
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:168
+msgid "Year: %s"
+msgstr "السنة: %s"
+
+#: inc/template-tags.php:166
+msgid "Author: %s"
+msgstr "الكاتب: %s"
+
+#: inc/template-tags.php:164
+msgid "Tag: %s"
+msgstr "الوسم: %s"
+
+#: inc/template-tags.php:162
+msgid "Category: %s"
+msgstr "التصنيف: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131 inc/template-tags.php:137
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:93
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: inc/template-tags.php:93
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: inc/template-tags.php:93
+msgid "Leave a comment"
+msgstr "أضف تعليقاً "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "التنقل بين التدوينات"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "التدوينات الأحدث"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "تدوينات أقدم "
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "تصفح المقالات"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "الصفحة %s"
+
+#: header.php:27
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى "
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم إيجاد شيء في هذا المكان. ربما تريد البحث؟"
+
+#: functions.php:285
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك في انتظار المراجعة."
+
+#: functions.php:272 inc/template-tags.php:97 inc/template-tags.php:145
+#: template-parts/content-page.php:26
+msgid "Edit"
+msgstr "تحرير"
+
+#: functions.php:269
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s في %2$s"
+
+#: functions.php:99
+msgid "Sidebar 2"
+msgstr "الشريط الجانبي 2"
+
+#: functions.php:90
+msgid "Sidebar 1"
+msgstr "الشريط الجانبي 1"
+
+#: functions.php:48
+msgid "Social Links"
+msgstr "الروابط الاجتماعية"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:57
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:55
+msgid "Proudly powered by %s"
+msgstr "مدعوم بواسطة %s"
+
+#: footer.php:55
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:41 comments.php:64
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "استعراض التعليق"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا أفكار على &rdquo;%2$s&ldquo;"
+msgstr[1] "فكرة واحدة على &rdquo;%2$s&ldquo;"
+msgstr[2] "فكرتان اثنتان على &rdquo;%2$s&ldquo;"
+msgstr[3] "%1$s أفكار على &rdquo;%2$s&ldquo;"
+msgstr[4] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+msgstr[5] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول ان تبحث في الأرشيفات الشهرية. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "أكثر التصنيفات إستخداماً"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "يظهر انه لا يوجد شئ في هذا المكان. ربما يجب ان تجرب إستخدام واحد من الروابط بالأسفل او تجرب البحث؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "الصفحة التي طلبتها غير موجودة."

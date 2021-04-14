@@ -1,0 +1,331 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cerauno 1.0.2-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/cerauno\n"
+"POT-Creation-Date: 2016-01-01 03:47:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:55
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:55
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:57
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Social Links"
+msgstr ""
+
+#: functions.php:90
+msgid "Sidebar 1"
+msgstr ""
+
+#: functions.php:99
+msgid "Sidebar 2"
+msgstr ""
+
+#: functions.php:108
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:117
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Karla, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#: functions.php:165
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Montserrat, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#: functions.php:171
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:211
+msgid "Read More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr ""
+
+#: functions.php:261
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:264 inc/template-tags.php:97 inc/template-tags.php:145
+#: template-parts/content-page.php:26
+msgid "Edit"
+msgstr ""
+
+#: functions.php:277
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:27
+msgid "Menu"
+msgstr ""
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "% Comments"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131 inc/template-tags.php:137
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:162
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:198
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:200
+msgid "Archives"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:24
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr ""
+
+#: single.php:24
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:19
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "Cerauno"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "http://wordpress.com/themes/cerauno/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid ""
+"Cerauno is a polished, user-friendly magazine theme with plenty of "
+"customizable features. Add secondary content in up to five widget areas, "
+"brand your content with a Site Logo or Custom Header, and add Featured "
+"Images to grab your readers’ attention."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "http://wordpress.com/themes/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/cerauno/nosidebar-page.php
+msgid "No Sidebars"
+msgstr ""

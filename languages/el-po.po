@@ -1,0 +1,179 @@
+# Translation of Cerauno in Greek (Polytonic)
+# This file is distributed under the same license as the Cerauno package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-11 03:48:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Cerauno\n"
+
+#: inc/template-tags.php:170
+msgid "Month: %s"
+msgstr "Μῆνας: %s"
+
+#: inc/template-tags.php:168
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:168
+msgid "Year: %s"
+msgstr "Ἔτος: %s"
+
+#: inc/template-tags.php:166
+msgid "Author: %s"
+msgstr "Συγγραφέας: %s"
+
+#: inc/template-tags.php:164
+msgid "Tag: %s"
+msgstr "Ἐτικέττα: %s"
+
+#: inc/template-tags.php:162
+msgid "Category: %s"
+msgstr "Κατηγορία: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131 inc/template-tags.php:137
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:93
+msgid "% Comments"
+msgstr "% Σχόλια"
+
+#: inc/template-tags.php:93
+msgid "1 Comment"
+msgstr "1 σχόλιο"
+
+#: inc/template-tags.php:93
+msgid "Leave a comment"
+msgstr "Σχολιάστε"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Περιήγηση ἄρθρων"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Νεότερα ἄρθρα"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Παλαιότερα ἄρθρα"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Περιήγηση ἄρθρων"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+#: header.php:27
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Πηγαίνετε στὸ περιεχόμενο τοῦ ἱστολογίου"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ὡς φαίνεται, τίποτε δὲν βρέθηκε στὴν τοποθεσία αὐτήν. Νὰ δοκιμάζατε μήπως μιὰ ἀναζήτηση;"
+
+#: functions.php:285
+msgid "Your comment is awaiting moderation."
+msgstr "Τὸ σχόλιό σας περιμένει ἔλεγχο γιὰ ἐνδεχόμενες ἀκρότητες."
+
+#: functions.php:272 inc/template-tags.php:97 inc/template-tags.php:145
+#: template-parts/content-page.php:26
+msgid "Edit"
+msgstr "Ἐπεξεργασία"
+
+#: functions.php:269
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s στὶς %2$s"
+
+#: functions.php:117
+msgid "Footer Sidebar 2"
+msgstr "Δεύτερη πλαϊνὴ στήλη ὑποσελίδου"
+
+#: functions.php:126
+msgid "Footer Sidebar 3"
+msgstr "Τρίτη πλαϊνὴ στήλη ὑποσελίδου"
+
+#: functions.php:99
+msgid "Sidebar 2"
+msgstr "Πλαϊνὴ στήλη 2"
+
+#: functions.php:108
+msgid "Footer Sidebar 1"
+msgstr "Πρώτη πλαϊνὴ στήλη ὑποσελίδου"
+
+#: functions.php:90
+msgid "Sidebar 1"
+msgstr "Πλαϊνὴ στήλη 1"
+
+#: functions.php:48
+msgid "Social Links"
+msgstr "Σύνδεσμοι πρὸς κοινωνικὰ δίκτυα"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Πρωτεῦον μενού"
+
+#: footer.php:57
+msgid "Theme: %1$s by %2$s."
+msgstr "Θέμα: %1$s ἀπὸ τὸν/τὴν %2$s."
+
+#: footer.php:55
+msgid "Proudly powered by %s"
+msgstr "Λειτουργεῖ μὲ τὴν βοήθεια τοῦ %s"
+
+#: footer.php:55
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Ἡ ὑποβολὴ σχολίων ἔχει κλείσει."
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: comments.php:41 comments.php:64
+msgid "Older Comments"
+msgstr "Παλαιότερα σχόλια"
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Πλοήγηση στὰ σχόλια"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μιὰ σκέψη πάνω στὸ &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις πάνω στὸ &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Προσπαθῆστε νὰ ψάξετε στὰ μηνιαῖα ἀρχεῖα. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Οἱ πιὸ χρησιμοποιημένες κατηγορίες"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Στὴν τοποθεσία αὐτὴν δὲν βρέθηκε τίποτε. Ἂν θέλετε δοκιμάστε κάποιον ἀπὸ τοὺς κατωτέρω συνδέσμους ἢ μιὰν ἀναζήτηση."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ἡ σελίδα αὐτὴ δὲν βρέθηκε."

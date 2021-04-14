@@ -1,0 +1,302 @@
+# Translation of Cerauno in French (France)
+# This file is distributed under the same license as the Cerauno package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-12 07:44:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Cerauno\n"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:19
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Contenu Introuvable. Voulez-vous lancer une nouvelle recherche&nbsp;?"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</a>&nbsp;!"
+
+#: single.php:24
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav\">Article suivant</span> %title"
+
+#: single.php:24
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">Article précédent</span> %title"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultat de Recherche pour: %s"
+
+#: inc/template-tags.php:200
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:198
+msgid "%1$s: %2$s"
+msgstr "%1$s&nbsp;: %2$s"
+
+#: inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:194
+msgid "Archives: %s"
+msgstr "Archives&nbsp;: %s"
+
+#: inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuts"
+
+#: inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Son"
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartés"
+
+#: inc/template-tags.php:172
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: inc/template-tags.php:172
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:170
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:170
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: inc/template-tags.php:168
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:166
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/template-tags.php:168
+msgid "Year: %s"
+msgstr "Ann&eacute;e: %s"
+
+#: inc/template-tags.php:164
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:162
+msgid "Category: %s"
+msgstr "Cat&eacute;gorie: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131 inc/template-tags.php:137
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:93
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/template-tags.php:93
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: inc/template-tags.php:93
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Articles Plus R&eacute;cents"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Articles Pr&eacute;c&eacute;dents"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:27
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Accéder au contenu principal"
+
+#: functions.php:277
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#: functions.php:264 inc/template-tags.php:97 inc/template-tags.php:145
+#: template-parts/content-page.php:26
+msgid "Edit"
+msgstr "Modifier"
+
+#: functions.php:126
+msgid "Footer Sidebar 3"
+msgstr "Zone de Pied de Page 3"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Montserrat, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:171
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:211
+msgid "Read More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Lire la suite <span class=\"screen-reader-text\">%1$s</span>"
+
+#: functions.php:261
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: functions.php:99
+msgid "Sidebar 2"
+msgstr "Sidebar 2"
+
+#: functions.php:108
+msgid "Footer Sidebar 1"
+msgstr "Zone de Pied de Page 1"
+
+#: functions.php:117
+msgid "Footer Sidebar 2"
+msgstr "Zone de Pied de Page 2"
+
+#: functions.php:48
+msgid "Social Links"
+msgstr "Liens Sociaux"
+
+#: functions.php:90
+msgid "Sidebar 1"
+msgstr "Sidebar 1"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:57
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème&nbsp;: %1$s par %2$s."
+
+#: footer.php:55
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:55
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:41 comments.php:64
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+msgstr[1] "%1$s réflexions au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Il semblerait que rien n&rsquo;ai été trouvé à cette adresse. Essayez peut-être une recherche&nbsp;?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "http://wordpress.com/themes/"
+msgstr "http://wordpress.com/themes/"
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "Cerauno"
+msgstr "Cerauno"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/cerauno/style.css
+msgid "http://wordpress.com/themes/cerauno/"
+msgstr "http://wordpress.com/themes/cerauno/"
