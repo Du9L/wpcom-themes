@@ -1,0 +1,224 @@
+# Translation of WordPress.com - Themes - Penscratch-2 in Bulgarian
+# This file is distributed under the same license as the WordPress.com - Themes - Penscratch-2 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-15 10:07:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bg\n"
+"Project-Id-Version: WordPress.com - Themes - Penscratch-2\n"
+
+#: functions.php:104
+msgid "White"
+msgstr "Бяла"
+
+#: functions.php:99
+msgid "Light Gray"
+msgstr "Светлосив"
+
+#: functions.php:94
+msgid "Medium Gray"
+msgstr "Нормално сиво"
+
+#: functions.php:89
+msgid "Dark Gray"
+msgstr "Тъмносив"
+
+#: inc/template-tags.php:33
+msgid "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+
+#: inc/wpcom-colors.php:65
+msgid "Teal"
+msgstr "Синьо-зелено"
+
+#: inc/wpcom-colors.php:70
+msgid "Red"
+msgstr "Червена"
+
+#: functions.php:84 inc/wpcom-colors.php:55
+msgid "Dark Green"
+msgstr "Тъмно зелен"
+
+#: inc/wpcom-colors.php:60
+msgid "Purple"
+msgstr "Лилаво"
+
+#: inc/wpcom-colors.php:50
+msgid "Dark Blue"
+msgstr "Тъмно синьо"
+
+#: inc/wpcom-colors.php:45
+msgid "Blue & Red"
+msgstr "Синьо и червено"
+
+#: inc/wpcom-colors.php:24
+msgid "Links"
+msgstr "Връзки"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/penscratch-2/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Пълна широчина, без странична лента"
+
+#: single.php:17
+msgid "Next &rsaquo;"
+msgstr "Следваща &rsaquo;"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: single.php:17
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Предишна"
+
+#: inc/template-tags.php:21
+msgid "Featured"
+msgstr "Избрано"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Меню"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:39
+msgid "Continue reading %s"
+msgstr "Нататък %s"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto Slab, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:220
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:167
+msgid "Footer 3"
+msgstr "Футър 3"
+
+#: functions.php:159
+msgid "Footer 2"
+msgstr "Футър 2"
+
+#: functions.php:151
+msgid "Footer 1"
+msgstr "Футър 1"
+
+#: functions.php:143
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#: functions.php:47
+msgid "Header"
+msgstr "Заглавна картинка"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://bg.wordpress.org/"
+
+#: content.php:21
+msgid "1 Comment"
+msgstr "има 1 коментар"
+
+#: content.php:21
+msgid "% Comments"
+msgstr "% Коментари"
+
+#: content.php:21
+msgid "Leave a comment"
+msgstr "Вашият коментар"
+
+#: content-single.php:51
+msgid "Posted in %1$s"
+msgstr "Публикувано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: content-page.php:31 content-single.php:21 content.php:27
+msgid "Edit %s"
+msgstr "Редактиране %s"
+
+#. translators: %s: Name of current post.
+#: content-single.php:33 content.php:43
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Има още <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: content-page.php:22 content-single.php:38 content.php:48
+msgid "Pages:"
+msgstr "Страници:"
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Няма резултати, отговарящи на вашето търсене. Опитайте отново с други ключови думи. "
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Време е за първата ви публикация. <a href=\"%1$s\">Започнете от тук</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: content-author.php:34
+msgid "View all posts by %s"
+msgstr "Всички публикации от %s"
+
+#: content-author.php:28
+msgid "Published by %s"
+msgstr "Публикувано от %s "
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Коментарите са затворени."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rsaquo;"
+msgstr "По-нови коментари &rsaquo;"
+
+#: comments.php:39 comments.php:57
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; По-стари коментари"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Един коментар към &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментара към &ldquo;%2$s&rdquo;"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Тук няма нищо. Опитайте с търсене?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страницата не е открита."
