@@ -1,0 +1,111 @@
+# Translation of WordPress.com - Themes - Sidekick in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-10 17:20:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#: inc/wpcom-colors.php:32
+msgid "Links & Accents"
+msgstr "Länkar och accentueringar"
+
+#: inc/wpcom-colors.php:51
+msgid "Headings & Accents"
+msgstr "Rubriker och accentueringar"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "The single-column, widget-free child theme of Superhero."
+msgstr "Ett barntema av Superhero med en kolumn och utan widgetar."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Meny"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "En semantisk plattform för personlig publicering"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: content.php:64
+msgid "Tagged %1$s"
+msgstr "Taggad %1$s"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Postat i %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Läs mer <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Det här inlägget postades i %1$s. Bokmärk <a href=\"%3$s\" title=\"Permalänk till %4$s\" rel=\"bookmark\">permalänken</a>. "
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Det här inlägget postades i %1$s och har märkts med etiketterna %2$s. Bokmärk <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalänken</a>."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bokmärk <a href=\"%3$s\" title=\"Permalänk till %4$s\" rel=\"bookmark\">permalänk</a>."
+
+#: content-single.php:47
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Detta inlägg var märkt %2$s. Bokmärk <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalänken</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:76 content.php:74
+msgid "Edit"
+msgstr "Redigera"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Det verkar inte som det finns något här. Testa en sökning?"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan, sidan kunde inte hittas."

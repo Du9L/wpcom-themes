@@ -1,0 +1,104 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Sidekick in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-27 20:50:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#: inc/wpcom-colors.php:32
+msgid "Links & Accents"
+msgstr "Lenker og aksenter"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Meny"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "En semantisk personlig publiseringsplatform"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: content.php:64
+msgid "Tagged %1$s"
+msgstr "Stikkord %1$s"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Publisert i %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les videre <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dette innlegget ble publisert i %1$s. Bokmerk <a href=\"%3$s\" title=\"Permalenke til %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dette innlegget ble publisert i %1$s og merket med %2$s. Bokmerk <a href=\"%3$s\" title=\"Permalenke til %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bokmerk <a href=\"%3$s\" title=\"Permalenke til %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#: content-single.php:47
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Denne oppføringen ble merket som %2$s. Bokmerk <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalenken</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:76 content.php:74
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Sider:"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke."

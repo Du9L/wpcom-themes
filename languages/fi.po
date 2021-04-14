@@ -1,0 +1,90 @@
+# Translation of WordPress.com - Themes - Sidekick in Finnish
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-06 19:27:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Valikko"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Teema: %1$s tekijä %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Voimanlähteenä %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Merkityksellinen henkilökohtainen julkaisualusta"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: content.php:64
+msgid "Tagged %1$s"
+msgstr "Avainsanat %1$s"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Kategoriassa %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lue loppuun <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Kategoria(t): %1$s. Lisää <a href=\"%3$s\" title=\"Kestolinkki artikkeliin %4$s\" rel=\"bookmark\">kestolinkki</a> kirjanmerkkeihisi."
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Kategoria(t): %1$s Avainsana(t): %2$s. Lisää <a href=\"%3$s\" title=\"Kestolinkki artikkeliin %4$s\" rel=\"bookmark\">kestolinkki</a> kirjanmerkkeihisi."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Lisää <a href=\"%3$s\" title=\"Kestolinkki julkaisuun %4$s\" rel=\"bookmark\">kestolinkki</a> kirjanmerkkeihisi."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:71 content.php:74
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Tätä sivua ei löydy."

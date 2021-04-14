@@ -1,0 +1,111 @@
+# Translation of WordPress.com - Themes - Sidekick in Albanian
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-30 19:07:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#: inc/wpcom-colors.php:51
+msgid "Headings & Accents"
+msgstr "Krye & Theksime"
+
+#: inc/wpcom-colors.php:32
+msgid "Links & Accents"
+msgstr "Lidhje & Theksime"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "The single-column, widget-free child theme of Superhero."
+msgstr "Tema bijë e Superhero-s, me një shtyllë të vetme, pa widget-e."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Hidhu te lënda"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Platformë Semantike Publikimesh Personale"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% Komente"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 Koment"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: content.php:64
+msgid "Tagged %1$s"
+msgstr "Etiketuar me %1$s"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Postuar te %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ky zë u postua te %1$s. Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ky zë u postua te %1$s dhe u etiketua si %2$s. Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#: content-single.php:47
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ky zë u etiketua me %2$s. Faqeruani <a href=\"%3$s\" title=\"Permalidhje për te %4$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:76 content.php:74
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Duket sikur në këtë vend nuk u gjet gjë. Ndoshta të provohet një kërkim?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hëm! Ajo faqe nuk gjendet dot."

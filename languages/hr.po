@@ -1,0 +1,90 @@
+# Translation of WordPress.com - Themes - Sidekick in Croatian
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-09 11:21:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Skoči do sadržaja"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Izbornik"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s od %2$s "
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Ponosno pokreće %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Semantička Osobna Platforma Za Objavljivanje"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% Komentara"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Komentiraj"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Objavljeno u %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nastavi čitati <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ovaj unos je objavljen u %1$s. Bookmarkirajte <a href=\"%3$s\" title=\"Stalna veza na %4$s\" rel=\"bookmark\">stalnu vezu</a>."
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ovaj unos je objavljen u %1$s i označen sa %2$s. Bookmarkirajte <a href=\"%3$s\" title=\"Stalna veza na %4$s\" rel=\"bookmark\">stalnu vezu</a>."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bookmarkirajte <a href=\"%3$s\" title=\"Stalna veza na %4$s\" rel=\"bookmark\">stalnu vezu</a>."
+
+#: content-single.php:47
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Zapis je označen s %2$s. Zabilježite <a href=\"%3$s\" title=\"Poveznica na %4$s\" rel=\"bookmark\">poveznicu</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:71 content.php:74
+msgid "Edit"
+msgstr "Uredi"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Tu stranicu nije moguće pronaći."

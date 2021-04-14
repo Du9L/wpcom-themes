@@ -1,0 +1,106 @@
+# Translation of WordPress.com - Themes - Sidekick in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:54:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#: inc/wpcom-colors.php:32
+msgid "Links & Accents"
+msgstr "Enlaces y detalles"
+
+#: inc/wpcom-colors.php:51
+msgid "Headings & Accents"
+msgstr "Cabeceras y detalles"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://es.wordpress.com/themes/"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Saltar al contenido."
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menú"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Una Plataforma de Publicación Semántica Personal"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: content.php:64
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esta entrada fue publicada en %1$s. Guarda el <a href=\"%3$s\" title=\"Enlace permanente a %4$s\" rel=\"bookmark\">enlace permanente</a>."
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esta entrada fue publicada en %1$s y etiquetada %2$s. Guarda el <a href=\"%3$s\" title=\"Enlace Permanente a %4$s\" rel=\"bookmark\">enlace permanente</a>."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Guarda el <a href=\"%3$s\" title=\"Enlace permanente a %4$s\" rel=\"bookmark\">enlace permanente</a>."
+
+#: content-single.php:47
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esta entrada fue etiquetada %2$s. Añadir a marcadores el <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">enlace permanente</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:76 content.php:74
+msgid "Edit"
+msgstr "Editar"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Parece que no se encontró nada en este lugar. ¿Vuelves a intentarlo?"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esa página no se puede encontrar."

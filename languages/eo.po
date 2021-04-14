@@ -1,0 +1,91 @@
+# Translation of WordPress.com - Themes - Sidekick in Esperanto
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-01-09 02:02:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Language: eo\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "The single-column, widget-free child theme of Superhero."
+msgstr "La unukolumna infana etoso de Superhero sen kromprogrametoj."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Iri rekte al enhavo"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menuo"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Etoso: %1$s de %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Fiere kreata de %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Semantika ilo por persona publikigado"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% Komentoj"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 komento"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Komenti"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Afiŝita en %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Legi plu <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Tiu ĉi enskribo estis afiŝita en %1$s. Legosigni la <a href=\"%3$s\" title=\"Fiksligilo al %4$s\" rel=\"bookmark\">fiksligilon</a>. "
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Tiu ĉi enskribo estis afiŝita en %1$s kaj ricevis la etikedojn %2$s. Legosigni la <a href=\"%3$s\" title=\"Fiksligilo al %4$s\" rel=\"bookmark\">fiksligilon</a>. "
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Legosigni la <a href=\"%3$s\" title=\"Fiksligilo al %4$s\" rel=\"bookmark\">fiksligilon</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:71 content.php:74
+msgid "Edit"
+msgstr "Redakti"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Paĝoj:"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ne eblas trovi tiun paĝon."

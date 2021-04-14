@@ -1,0 +1,111 @@
+# Translation of WordPress.com - Themes - Sidekick in Portuguese (Brazil)
+# This file is distributed under the same license as the WordPress.com - Themes - Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:54:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: WordPress.com - Themes - Sidekick\n"
+
+#: inc/wpcom-colors.php:32
+msgid "Links & Accents"
+msgstr "Links & Cores"
+
+#: inc/wpcom-colors.php:51
+msgid "Headings & Accents"
+msgstr "Cabeçalhos e destaques"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sidekick/style.css
+msgid "The single-column, widget-free child theme of Superhero."
+msgstr "Um parente do tema Superhero: Coluna única e sem widgets."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s. "
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Orgulhosamente mantido com %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Plataforma de publicação pessoal semântica"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: content.php:64
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Postado em %1$s"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar lendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esse post foi publicado em %1$s. Bookmark o <a href=\"%3$s\" title=\"Link permanente para %4$s\" rel=\"bookmark\">link permanente</a>."
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esse post foi publicado em %1$s e marcado %2$s. Guardar <a href=\"%3$s\" title=\"Link permanente para %4$s\" rel=\"bookmark\">link permanente</a>."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Marcar como favorito o <a href=\"%3$s\" title=\"Link permanente para %4$s\" rel=\"bookmark\">link permanente</a>. "
+
+#: content-single.php:47
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esta publicação foi marcada %2$s. Marcar como favorito o <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">link permanente</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ", "
+
+#: content-page.php:34 content-single.php:76 content.php:74
+msgid "Edit"
+msgstr "Editar"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Parece que nada foi encontrado neste local. Quem sabem pesquisando?"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Páginas"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opa! Esta página não pode ser encontrada."

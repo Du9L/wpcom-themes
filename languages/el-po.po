@@ -1,0 +1,88 @@
+# Translation of Sidekick in Greek (Polytonic)
+# This file is distributed under the same license as the Sidekick package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-27 21:28:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Sidekick\n"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Πηγαίνετε στὸ περιεχόμενο τοῦ ἱστολογίου"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Μενού"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Θέμα: %1$s ἀπὸ τὸν/τὴν %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Λειτουργεῖ μὲ τὴν βοήθεια τοῦ %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Μιὰ πλατφόρμα σημασιολογικῶν προσωπικῶν ἐκδόσεων"
+
+#: content.php:71
+msgid "% Comments"
+msgstr "% Σχόλια"
+
+#: content.php:71
+msgid "1 Comment"
+msgstr "1 Σχόλιο"
+
+#: content.php:71
+msgid "Leave a comment"
+msgstr "Σχολιάστε"
+
+#: content.php:64
+msgid "Tagged %1$s"
+msgstr "Σημειώθηκε ὡς %1$s"
+
+#: content.php:53
+msgid "Posted in %1$s"
+msgstr "Ἀναρτήθηκε στὸ '%1$s'"
+
+#: content.php:40
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:57
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Καταχωρίσθηκε στὴν κατηγορία %1$s. Φυλάξτε τὸν <a href=\"%3$s\" title=\"Μόνιμος σύνδεσμος πρὸς τὸ '%4$s'\" rel=\"bookmark\">μόνιμο σύνδεσμο</a> στὰ ἀγαπημένα σας."
+
+#: content-single.php:55
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Καταχωρίσθηκε στὴν κατηγορία %1$s καὶ σημειώθηκε ὡς %2$s. Φυλάξτε τὸν <a href=\"%3$s\" title=\"Μόνιμος σύνδεσμος πρὸς τὸ '%4$s'\" rel=\"bookmark\">μόνιμο σύνδεσμο</a> στὰ ἀγαπημένα σας."
+
+#: content-single.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Φυλάξτε τὸν <a href=\"%3$s\" title=\"Μόνιμος σύνδεσμος πρὸς τὸ %4$s\" rel=\"bookmark\">μόνιμο σύνδεσμο</a> στὰ ἀγαπημένα σας."
+
+#: content-single.php:47
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Αὐτὴ ἡ καταχώριση σημειώθηκε ὡς %2$s. Ἀποθηκεῦστε <a href=\"%3$s\" title=\"Μόνιμος σύνδεσμος πρὸς %4$s\" rel=\"bookmark\">τὸν μόνιμο σύνδεσμο</a> στὰ ἀγαπημένα σας."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:49 content.php:59
+msgid ", "
+msgstr ","
+
+#: content-page.php:34 content-single.php:71 content.php:74
+msgid "Edit"
+msgstr "Ἐπεξεργασία"
+
+#: content-page.php:31 content-single.php:33 content.php:41
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ἡ σελίδα αὐτὴ δὲν βρέθηκε."

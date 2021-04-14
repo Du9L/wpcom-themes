@@ -1,0 +1,15 @@
+/* Main column width */
+.wp-block {
+    max-width: 810px;
+}
+
+/* Match the font size to the front end*/
+body {
+    font-size: 1em
+}
+
+/* Remove styles added in the theme the conflict with the block toolbar */
+button {
+	background: none;
+	border: 0;
+}
