@@ -1,0 +1,297 @@
+# Copyright (C) 2016 Graph Paper Press
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Snaps 1.1.0-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/snaps\n"
+"POT-Creation-Date: 2016-06-16 04:03:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:43
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40 comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:41 comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: content-gallery.php:53 content-image.php:48 content-link.php:51
+#: content-page.php:23 content-status.php:47 content.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-gallery.php:54 content-image.php:49 content-link.php:52
+#: content-page.php:24 content-portfolio-single.php:24 content-status.php:48
+#: content.php:50 page-templates/portfolio-page.php:27
+msgid "Pages:"
+msgstr ""
+
+#: content-gallery.php:67 content-image.php:62 content-link.php:65
+#: content-portfolio-single.php:39 content-status.php:61 content.php:63
+msgid "Leave a comment"
+msgstr ""
+
+#: content-gallery.php:67 content-image.php:62 content-link.php:65
+#: content-portfolio-single.php:39 content-status.php:61 content.php:63
+msgid "1 Comment"
+msgstr ""
+
+#: content-gallery.php:67 content-image.php:62 content-link.php:65
+#: content-portfolio-single.php:39 content-status.php:61 content.php:63
+msgid "% Comments"
+msgstr ""
+
+#: content-gallery.php:70 content-image.php:65 content-link.php:68
+#: content-page.php:25 content-portfolio-single.php:43 content-status.php:64
+#: content.php:66 page-templates/portfolio-page.php:28
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-portfolio-single.php:33
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: content-portfolio-single.php:34
+msgid "Type"
+msgstr ""
+
+#: content-portfolio-single.php:35
+msgid "Tags"
+msgstr ""
+
+#: content-portfolio.php:28
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-portfolio.php:36
+msgid "View Project"
+msgstr ""
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Social Links"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Lato, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#: functions.php:121
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:187
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:187 functions.php:210
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:197
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: functions.php:200
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:208
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:251
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:259
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:267
+msgid "Footer Three"
+msgstr ""
+
+#: header.php:48
+msgid "Menu"
+msgstr ""
+
+#: header.php:49
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Hide title and content on Portfolio Page Template"
+msgstr ""
+
+#: inc/extras.php:52
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "Older projects"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Newer projects"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:146
+msgid ""
+"<span class=\"entry-meta entry-specs\">\n"
+"\t\t<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a>\n"
+"\t\t<span class=\"byline\"> by\n"
+"\t\t\t<span class=\"author vcard\">\n"
+"\t\t\t\t<a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">"
+"%6$s</a>\n"
+"\t\t\t</span>\n"
+"\t\t</span>\n"
+"\t\t</span>"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgid "View all posts by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:178 inc/template-tags.php:181
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:186 inc/template-tags.php:192
+msgid "<span class=\"entry-meta meta-tags\">Tags: %2$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgid "<span class=\"entry-meta meta-catgories\">Categories: %1$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid "<span class=\"entry-meta meta-categories\">Categories: %1$s</span>"
+msgstr ""
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/snaps/style.css
+msgid "Snaps"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/snaps/style.css
+msgid "http://graphpaperpress.com/themes/snaps/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/snaps/style.css
+msgid "A portfolio theme perfect for showcasing portrait images and galleries."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/snaps/style.css
+msgid "Graph Paper Press"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/snaps/style.css
+msgid "http://graphpaperpress.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/snaps/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr ""

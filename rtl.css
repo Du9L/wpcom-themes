@@ -1,0 +1,401 @@
+/*
+Theme Name: Snaps
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+Numbered headers match style.css
+
+*/
+
+/**
+ * 1. Global Styles
+ * ----------------------------------------------------------------------------
+ *
+ * General styles for HTML tags and CSS classes
+ */
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/* Text elements ------------------------------------ */
+
+
+ul,
+ol {
+	margin: 0 3em 1.5em 0;
+}
+
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+	margin-left: auto;
+	margin-right: 1.5em;
+}
+
+blockquote {
+	padding-left: 0;
+	padding-right: 2em;
+}
+
+blockquote:before {
+	left: auto;
+	right: 0;
+	-ms-transform: rotate(0);
+	-webkit-transform: rotate(0);
+	transform: rotate(0);
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+/* Form elements ------------------------------------ */
+
+textarea {
+	padding-left: 0;
+	padding-right: 5px;
+}
+
+/* Assistive Text ------------------------------------ */
+
+.assistive-text:focus {
+	left: auto;
+	right: 5px;
+}
+
+/**
+ * 3. Navigation
+ * ----------------------------------------------------------------------------
+ *
+ * Styles for the theme's primary navigation and dropdown menus
+ */
+
+/* center main nav without making links themselves centered */
+
+/* second level - dropdowns */
+.main-navigation ul ul {
+	float: right;
+	left: auto;
+	right: -9999em;
+	text-align: right;
+}
+
+/* 3+ level - dropdowns */
+.main-navigation ul ul li {
+	left: auto;
+	right: 0;
+}
+
+/* Open/close menu */
+.main-navigation ul li:hover > ul,
+.main-navigation ul li.focus > ul {
+	right: auto;
+}
+
+.main-navigation ul ul li:hover > ul,
+.main-navigation ul ul li.focus > ul {
+	left: auto;
+	right: 100%;
+}
+
+/**
+ * 4.1 Posts
+ * ----------------------------------------------------------------------------
+ *
+ * Styles specifically for posts
+ */
+
+
+/* Post Navigation - previous and next links*/
+.site-content .nav-previous {
+	float: right;
+}
+
+.site-content .nav-previous a:before {
+	content: "\2192";
+	margin-left: 3px;
+	margin-right: 0;
+}
+
+.site-content .nav-next {
+	float: left;
+	text-align: left;
+}
+
+.site-content .nav-next a:after {
+	content: "\2190";
+	margin-left: 0;
+	margin-right: 3px;
+}
+
+
+/* Index, Archive and Search view of Posts */
+
+/* Sticky Post */
+#posts .sticky .entry-specs:before {
+	margin-left: 4px;
+	margin-right: 0;
+}
+
+/* Single Posts */
+.single .entry-header {
+	float: left;
+	margin-left: 0;
+	margin-right: 37%;
+}
+
+.single .entry-meta-wrap {
+	float: right;
+	margin-left: 3%;
+	margin-right: 0;
+}
+
+.single .entry-content-wrap {
+	float: left;
+}
+
+.single .post-navigation {
+	float: left;
+}
+
+/* Post Formats ------------------------------------ */
+
+/* Quote Format */
+#posts .format-quote blockquote {
+	margin-left: 0;
+	margin-right: -2.0em;
+}
+
+/* No Results Format */
+.no-results .entry-header {
+	margin-right: 0;
+}
+
+
+/**
+ * 4.2 Pages
+ * ----------------------------------------------------------------------------
+ *
+ * Styles specifically for pages
+ */
+
+.page .entry-header {
+	margin-right: 0;
+}
+
+
+/**
+ * 5. Portfolio
+ * ----------------------------------------------------------------------------
+ *
+ * Styles for Jetpack's Portfolio post type
+ */
+
+ #projects article {
+ 	float: right;
+ }
+
+/**
+ * 6. Comments
+ * ----------------------------------------------------------------------------
+ *
+ * Styles for the post comments on single posts and pages
+ */
+
+div#respond {
+	float: left;
+}
+
+.comments-title {
+	margin-left: 0;
+	margin-right: 25%;
+}
+
+article.comment footer {
+	float: right;
+	margin-left: 3%;
+	margin-right: 0;
+}
+
+li.post p {
+	margin-left: 0;
+	margin-right: 25%;
+}
+
+li.comment ul.children {
+	margin-left: 0;
+	margin-right: 5%;
+}
+
+.avatar {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+/* Lines up 'comments closed' message with content when no other comments exist */
+#comments p.nocomments:first-child {
+	margin-left: 0;
+	margin-right: 25%;
+}
+
+/**
+ * 7.1 Widgets
+ * ----------------------------------------------------------------------------
+ *
+ * Styles for the theme's footer widgets
+ */
+
+ /* Recent Comments */
+#secondary .widget_recent_comments td {
+	text-align: right;
+}
+
+/* Calendar Widget */
+#wp-calendar #prev {
+	text-align: right;
+}
+
+#wp-calendar #next {
+	text-align: left;
+}
+
+/* Comment Widget */
+.widget_recent_comments td {
+	text-align: right;
+}
+
+/**
+ * 7.2 Infinite Scroll
+ * ----------------------------------------------------------------------------
+ *
+ * Styles for when Infinite Scroll is enabled
+ */
+
+#infinite-handle span:before {
+	content: '\2192';
+	margin-left: 3px;
+	margin-right: 0;
+}
+
+
+/**
+ * 8. Media Queries
+ * ----------------------------------------------------------------------------
+ *
+ * Styles to get the theme behaving responsively on smaller screens
+ */
+
+@media screen and (max-width: 800px) {
+
+	/* menu */
+	.menu-toggle:before {
+		margin-left: 10px;
+		margin-right: 0;
+	}
+
+	.main-navigation ul {
+		left: auto;
+	}
+
+	.main-navigation .menu {
+		left: auto;
+		right: -99999em;
+		text-align: right;
+	}
+
+	.main-navigation.open-menu .menu,
+	.main-navigation .menu li,
+	.main-navigation .menu ul {
+		right: auto;
+	}
+
+	.main-navigation ul a {
+		padding-left: 0;
+		padding-right: 1.5em;
+	}
+
+	.main-navigation ul ul a {
+		padding-left: 0;
+		padding-right: 3em;
+	}
+
+	.main-navigation ul ul ul a {
+		padding-left: 0;
+		padding-right: 4.5em;
+	}
+
+	.main-navigation ul ul ul ul a {
+		padding-left: 0;
+		padding-right: 6em;
+	}
+
+	.main-navigation ul ul ul ul ul a {
+		padding-right: 7.5em;
+	}
+
+	.main-navigation ul ul li:hover > ul,
+	.main-navigation ul ul li.focus > ul {
+		right: auto;
+	}
+
+	/* menu - social media icons */
+	.menu-social-links li a {
+		text-align: right;
+	}
+
+	.menu-social-links li a:before {
+		margin-left: 6px;
+		margin-right: 0;
+	}
+
+	/* content */
+	#posts .format-quote blockquote {
+		margin-right: auto;
+	}
+
+	/* single post */
+	.single .entry-header,
+	.single .entry-meta-wrap,
+	.single .entry-content-wrap,
+	.single .post-navigation,
+	div#respond   {
+		margin-right: auto;
+	}
+
+	/* comments */
+	article.comment .comment-content,
+	article.comment footer {
+		float: none;
+	}
+
+	#comments p.nocomments:first-child {
+		margin-right: 0;
+	}
+}
+
+
+@media screen and (max-width: 600px) {
+
+	/* index, article posts */
+	.post-navigation .nav-previous,
+	.post-navigation .nav-next {
+		float: none;
+		text-align: right;
+		width: 100%;
+	}
+
+	/* comments */
+	.comments-title {
+		margin-right: 0;
+	}
+}

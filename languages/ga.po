@@ -1,0 +1,167 @@
+# Translation of Snaps in Irish
+# This file is distributed under the same license as the Snaps package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-03 04:26:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Snaps\n"
+
+#. translators: 1: date, 2: time
+#: functions.php:208
+msgid "%1$s at %2$s"
+msgstr "%1$s ag %2$s"
+
+#: functions.php:200
+msgid "Your comment is awaiting moderation."
+msgstr "Tá do fhreagra fós le ceadú."
+
+#: functions.php:197
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "<span class=\"says\">Arsa</span> %s:"
+
+#: functions.php:187 functions.php:210
+msgid "(Edit)"
+msgstr "(Eagar)"
+
+#: functions.php:187
+msgid "Pingback:"
+msgstr "Pingeáil:"
+
+#: functions.php:57
+msgid "Social Links"
+msgstr "Naisc Shóisialta"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:121
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Príomhroghchlár"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Téama: %1$s le %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Le cumhacht %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-portfolio.php:36
+msgid "View Project"
+msgstr "Breathnaigh ar an Tionscadal"
+
+#: content-portfolio.php:28
+msgid "Permalink to %s"
+msgstr "Buan-nasc le %s"
+
+#: content-portfolio-single.php:35
+msgid "Tags"
+msgstr "Clibeanna"
+
+#: content-portfolio-single.php:34
+msgid "Type"
+msgstr "Cineál"
+
+#: content-portfolio-single.php:33
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sén chaoi nár frítheadh an rud a bhí tú a iarraidh. B’fhéidir go gcuartófá é."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sén chaoi nár frítheadh na téarmaí a chuartaigh tú. D’fhéadfá focla eile a chuartú."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "bhFuil tú réidh le halt a fhoilsiú? <a href=\"%1$s\">Féadfaidh tú tosaí anseo</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Dheamhan toradh air"
+
+#: content-gallery.php:70 content-image.php:65 content-link.php:68
+#: content-page.php:25 content-portfolio-single.php:43 content-status.php:64
+#: content.php:66 page-templates/portfolio-page.php:28
+msgid "Edit"
+msgstr "Eagar"
+
+#: content-gallery.php:67 content-image.php:62 content-link.php:65
+#: content-portfolio-single.php:39 content-status.php:61 content.php:63
+msgid "% Comments"
+msgstr "Freagraí: %"
+
+#: content-gallery.php:67 content-image.php:62 content-link.php:65
+#: content-portfolio-single.php:39 content-status.php:61 content.php:63
+msgid "1 Comment"
+msgstr "1 fhreagra amháin"
+
+#: content-gallery.php:67 content-image.php:62 content-link.php:65
+#: content-portfolio-single.php:39 content-status.php:61 content.php:63
+msgid "Leave a comment"
+msgstr "Freagra"
+
+#: content-gallery.php:54 content-image.php:49 content-link.php:52
+#: content-page.php:24 content-portfolio-single.php:24 content-status.php:48
+#: content.php:50 page-templates/portfolio-page.php:27
+msgid "Pages:"
+msgstr "Leathanaigh:"
+
+#: content-gallery.php:53 content-image.php:48 content-link.php:51
+#: content-page.php:23 content-status.php:47 content.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tuilleadh <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Freagraí dúnta."
+
+#: comments.php:41 comments.php:61
+msgid "Newer Comments"
+msgstr "Freagraí Níos Nuacha"
+
+#: comments.php:40 comments.php:60
+msgid "Older Comments"
+msgstr "Seanfhreagraí"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Treoraíocht freagartha"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Smaoineamh amháin ar “%2$s”"
+msgstr[1] "%1$s smaoineamh ar “%2$s”"
+msgstr[2] "%1$s smaoineamh ar “%2$s”"
+msgstr[3] "%1$s smaoineamh ar “%2$s”"
+msgstr[4] "%1$s smaoineamh ar “%2$s”"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Ranganna Coitianta"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sén chaoi nár fríothadh tada anseo. B’fhéidir go mbreathnófá ar cheann de na naisc seo thíos nó go gcuartófá rud éigin."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ab bu búna! Dheamhan fáil ar bith ar an leathanach sin."
