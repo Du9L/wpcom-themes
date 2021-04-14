@@ -1,0 +1,255 @@
+# Translation of WordPress.com - Themes - Hexa in Finnish
+# This file is distributed under the same license as the WordPress.com - Themes - Hexa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-14 16:33:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: WordPress.com - Themes - Hexa\n"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hae"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Haku:"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Haku &hellip;"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hakutulokset kohteelle: %s"
+
+#: inc/template-tags.php:138 inc/template-tags.php:149
+msgid "View all posts by %s"
+msgstr "Näytä kaikki artikkelit kirjoittajalta %s"
+
+#: inc/template-tags.php:116
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s klo %2$s"
+
+#: inc/template-tags.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa hyväksymistä."
+
+#: inc/template-tags.php:92
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">sanoo:</span>"
+
+#: inc/template-tags.php:82
+msgid "Pingback:"
+msgstr "Paluuviite:"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: header.php:69 header.php:70
+msgid "Search"
+msgstr "Haku"
+
+#: header.php:65 header.php:66
+msgid "Social Links"
+msgstr "Some-linkit"
+
+#: header.php:60 header.php:61
+msgid "Widgets"
+msgstr "Vimpaimet"
+
+#: header.php:56 header.php:57
+msgid "Menu"
+msgstr "Valikko"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:180
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: functions.php:100
+msgid "Sidebar 1"
+msgstr "Sivupalkki 1"
+
+#: functions.php:108
+msgid "Sidebar 2"
+msgstr "Sivupalkki 2"
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "Somevalikko"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Teema: %1$s tekijä %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Voimanlähteenä %s"
+
+#: content.php:51
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: content.php:51
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: content.php:51
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lue loppuun <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34 content.php:41
+msgid ", "
+msgstr ", "
+
+#: content-page.php:19 content-single.php:41 content.php:54
+#: inc/template-tags.php:82 inc/template-tags.php:119
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen kirjoituksesi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Uudemmat kommentit &rarr;"
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanhemmat kommentit"
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr "Kommenttien selaus"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi kommentti artikkeliin &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommenttia artikkeliin &rdquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arkistot"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Keskustelut"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Tilat"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Äänet"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Linkit"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Lainaukset"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videot"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Kuvat"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galleriat"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Sivuhuomautukset"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Vuosi: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Päivä: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Kuukausi: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Kirjoittaja: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Näyttää siltä että täällä ei ole mitään. Kokeilepa hakua?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Tätä sivua ei löydy."

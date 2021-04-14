@@ -1,0 +1,271 @@
+# Translation of WordPress.com - Themes - Hexa in Dutch
+# This file is distributed under the same license as the WordPress.com - Themes - Hexa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 07:27:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: WordPress.com - Themes - Hexa\n"
+
+#: inc/wpcom-colors.php:114
+msgid "Headings"
+msgstr "Koppen"
+
+#: inc/wpcom-colors.php:51
+msgid "Video and Audio Posts"
+msgstr "Berichten met video en audio"
+
+#: inc/wpcom-colors.php:20
+msgid "Quote and Status Posts"
+msgstr "Citaat- en statusberichten"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoek &hellip;"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoek op:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/template-tags.php:138 inc/template-tags.php:149
+msgid "View all posts by %s"
+msgstr "Bekijk alle berichten van %s"
+
+#: inc/template-tags.php:116
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: inc/template-tags.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: inc/template-tags.php:92
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">zegt:</span>"
+
+#: inc/template-tags.php:82
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Berichtennavigatie"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: header.php:69 header.php:70
+msgid "Search"
+msgstr "Zoeken"
+
+#: header.php:65 header.php:66
+msgid "Social Links"
+msgstr "Sociale Links"
+
+#: header.php:60 header.php:61
+msgid "Widgets"
+msgstr "Widgets"
+
+#: header.php:56 header.php:57
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:180
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:116
+msgid "Sidebar 3"
+msgstr "Zijbalk 3"
+
+#: functions.php:100
+msgid "Sidebar 1"
+msgstr "Zijbalk1"
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "Socialelinksmenu"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Met trots ondersteund door %s"
+
+#: content.php:46
+msgid "% Comments"
+msgstr "% reacties"
+
+#: content.php:46
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: content.php:46
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34 content.php:41
+msgid ", "
+msgstr ", "
+
+#: content-single.php:18 content.php:17
+msgid "All %s posts"
+msgstr "Alle %s berichten"
+
+#: content-page.php:19 content-single.php:36 content.php:49
+#: inc/template-tags.php:82 inc/template-tags.php:119
+msgid "Edit"
+msgstr "Bewerken"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien kan zoeken helpen."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets kwam overeen met je zoektermen. Gelieve het opnieuw te proberen met een aantal andere trefwoorden."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwe reacties &rarr;"
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachtes over &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archief"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statussen"
+
+#: archive.php:54 inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Gezegden"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Video&#39;s"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Opmerkingen"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets werd gevonden op deze locatie. Misschien een zoekopdracht  proberen?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kon niet worden gevonden."

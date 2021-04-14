@@ -1,0 +1,265 @@
+# Translation of WordPress.com - Themes - Hexa in Russian
+# This file is distributed under the same license as the WordPress.com - Themes - Hexa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-20 11:21:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: WordPress.com - Themes - Hexa\n"
+
+#: inc/wpcom-colors.php:114
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/wpcom-colors.php:51
+msgid "Video and Audio Posts"
+msgstr "Записи с видео и аудио"
+
+#: inc/wpcom-colors.php:20
+msgid "Quote and Status Posts"
+msgstr "Записи с цитатами и статусом"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/hexa/style.css
+msgid "A colorful personal blogging theme with support for post formats and a flair for geometry."
+msgstr "Цветная тема для личных блогов с поддержкой форматов сообщений и геометрическим стилем."
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Найти:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/template-tags.php:138 inc/template-tags.php:149
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи автора %s"
+
+#: inc/template-tags.php:116
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/template-tags.php:92
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s<span class=\"says\">:</span>"
+
+#: inc/template-tags.php:82
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:69 header.php:70
+msgid "Search"
+msgstr "Поиск"
+
+#: header.php:60 header.php:61
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: header.php:56 header.php:57
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:180
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:100
+msgid "Sidebar 1"
+msgstr "Сайдбар 1"
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "Меню социальных ссылок"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s, автор: %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: content.php:46
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: content.php:46
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: content.php:46
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34 content.php:41
+msgid ", "
+msgstr ", "
+
+#: content-page.php:19 content-single.php:36 content.php:49
+#: inc/template-tags.php:82 inc/template-tags.php:119
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Не найдено"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: Один комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Архивы"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Чаты"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Аудиозаписи"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Статусы"
+
+#: archive.php:54 inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Галереи"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Заметки"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."

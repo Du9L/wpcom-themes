@@ -1,0 +1,284 @@
+# Translation of WordPress.com - Themes - Hexa in Albanian
+# This file is distributed under the same license as the WordPress.com - Themes - Hexa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 07:27:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: WordPress.com - Themes - Hexa\n"
+
+#: inc/wpcom-colors.php:114
+msgid "Headings"
+msgstr "Tituj"
+
+#: inc/wpcom-colors.php:51
+msgid "Video and Audio Posts"
+msgstr "Postim Video dhe Audio"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/hexa/style.css
+msgid "A colorful personal blogging theme with support for post formats and a flair for geometry."
+msgstr "Një temë blogu plot ngjyra, me mbulim për formate postimesh dhe me një prirje drejt gjeometrisë."
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Kërkoni"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Kërkim &hellip;"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Kërko për:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/template-tags.php:143
+msgid "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span><span class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span><span class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:138 inc/template-tags.php:149
+msgid "View all posts by %s"
+msgstr "Shihni tërë postimet nga %s"
+
+#: inc/template-tags.php:134
+msgid "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">Featured</a></span><span class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" rel=\"author\">%5$s</a></span></span>"
+msgstr "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">I zgjedhur</a></span><span class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" rel=\"author\">%5$s</a></span></span>"
+
+#: inc/template-tags.php:116
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s te %2$s"
+
+#: inc/template-tags.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Komenti juaj po pret moderimin."
+
+#: inc/template-tags.php:92
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">thotë:</span>"
+
+#: inc/template-tags.php:82
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Lëvizje te postimet"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Lëvizje te postimet"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Faqe %s"
+
+#: header.php:69 header.php:70
+msgid "Search"
+msgstr "Kërko"
+
+#: header.php:65 header.php:66
+msgid "Social Links"
+msgstr "Lidhje Shoqërore"
+
+#: header.php:60 header.php:61
+msgid "Widgets"
+msgstr "<em>Widget</em>-e"
+
+#: header.php:56 header.php:57
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Hidhu te lënda"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:180
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:116
+msgid "Sidebar 3"
+msgstr "Anështyllë 3"
+
+#: functions.php:108
+msgid "Sidebar 2"
+msgstr "Anështyllë 2"
+
+#: functions.php:100
+msgid "Sidebar 1"
+msgstr "Anështyllë 1"
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "Menu Lidhjesh Shoqërore"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Menuja Parësore"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: content.php:46
+msgid "% Comments"
+msgstr "% Koment"
+
+#: content.php:46
+msgid "1 Comment"
+msgstr "1 Koment"
+
+#: content.php:46
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34 content.php:41
+msgid ", "
+msgstr ", "
+
+#: content-single.php:18 content.php:17
+msgid "All %s posts"
+msgstr "Krejt postimet %s"
+
+#: content-page.php:19 content-single.php:36 content.php:49
+#: inc/template-tags.php:82 inc/template-tags.php:119
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk qemë në gjendje të gjenim ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por nuk u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nuk u Gjet Gjë"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Komentet janë mbyllur."
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Komentet Më të Reja &rarr;"
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentet Më të Vjetra"
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Një mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arkiva"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Fjalosje"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Gjendje"
+
+#: archive.php:54 inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Lidhje"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citime"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Video"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Figura"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeri"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Anësore"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Vit: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Muaj: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Ditë: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Duket se nuk u gjet gjë në këtë vend. Të provohet një kërkim ndoshta?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe nuk gjendet dot."

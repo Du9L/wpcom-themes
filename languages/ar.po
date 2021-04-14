@@ -1,0 +1,275 @@
+# Translation of WordPress.com - Themes - Hexa in Arabic
+# This file is distributed under the same license as the WordPress.com - Themes - Hexa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 07:27:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: WordPress.com - Themes - Hexa\n"
+
+#: inc/wpcom-colors.php:114
+msgid "Headings"
+msgstr "الترويسات"
+
+#: inc/wpcom-colors.php:51
+msgid "Video and Audio Posts"
+msgstr "مقالات الفيديو والصوت"
+
+#: inc/wpcom-colors.php:20
+msgid "Quote and Status Posts"
+msgstr "مقالات الاقتباسات والحالات"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "بحث &hellip;"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/template-tags.php:138 inc/template-tags.php:149
+msgid "View all posts by %s"
+msgstr "شاهد كل التدوينات عن طريق %s"
+
+#: inc/template-tags.php:116
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s في %2$s"
+
+#: inc/template-tags.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك في انتظار المراجعة."
+
+#: inc/template-tags.php:92
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "<span class=\"says\">يقول</span> %s:"
+
+#: inc/template-tags.php:82
+msgid "Pingback:"
+msgstr "تعقيب:"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "التنقل بين التدوينات"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "تصفح المقالات"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "الصفحة %s"
+
+#: header.php:69 header.php:70
+msgid "Search"
+msgstr "بحث"
+
+#: header.php:65 header.php:66
+msgid "Social Links"
+msgstr "الروابط الاجتماعية"
+
+#: header.php:60 header.php:61
+msgid "Widgets"
+msgstr "المربعات الجانبية"
+
+#: header.php:56 header.php:57
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى "
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:180
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "تفعيل"
+
+#: functions.php:108
+msgid "Sidebar 2"
+msgstr "الشريط الجانبي 2"
+
+#: functions.php:100
+msgid "Sidebar 1"
+msgstr "الشريط الجانبي 1"
+
+#: functions.php:50
+msgid "Social Links Menu"
+msgstr "قائمة الروابط الإجتماعية"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "مدعوم بواسطة %s"
+
+#: content.php:46
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: content.php:46
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: content.php:46
+msgid "Leave a comment"
+msgstr "أضف تعليقا"
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "استمر في القراءة <span class=\"meta-nav\">&larr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34 content.php:41
+msgid ", "
+msgstr "، "
+
+#: content-single.php:18 content.php:17
+msgid "All %s posts"
+msgstr "كل %s المقالات"
+
+#: content-page.php:19 content-single.php:36 content.php:49
+#: inc/template-tags.php:82 inc/template-tags.php:119
+msgid "Edit"
+msgstr "تحرير"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكن إيجاد ما تبحث عنه. قد تفيدك خاصية البحث."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر تدوينتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "لم يتم العثور على نتائج"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "تعليقات أقدم &larr;"
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&rarr; تعليقات أقدم"
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr "استعراض التعليق"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا أفكار على &rdquo;%2$s&ldquo;"
+msgstr[1] "فكرة واحدة على &rdquo;%2$s&ldquo;"
+msgstr[2] "فكرتان اثنتان على &rdquo;%2$s&ldquo;"
+msgstr[3] "%1$s أفكار على &rdquo;%2$s&ldquo;"
+msgstr[4] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+msgstr[5] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "الأرشيفات"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "دردشات"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "اصوات"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "الحالات"
+
+#: archive.php:54 inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "روابط"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "الإقتباسات"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "الفيديو"
+
+#: archive.php:45
+msgid "Images"
+msgstr "صور"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "المعارض"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "الملاحظات"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "السنة: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "شهر: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "يوم: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "الكاتب: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم إيجاد شيء في هذا المكان. ربما تريد البحث؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوبس! الصفحة غير موجودة."
