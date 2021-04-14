@@ -1,0 +1,426 @@
+# Translation of WordPress.com - Themes - Singl in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Singl package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-03 00:55:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Singl\n"
+
+#: inc/customizer.php:189
+msgid "Email Address"
+msgstr "رایانشانی"
+
+#: header.php:203 header.php:204
+msgid "Email"
+msgstr "رایانشانی"
+
+#: inc/wpcom-colors.php:474
+msgid "Site Title"
+msgstr "عنوان وب‌گاه"
+
+#: inc/wpcom-colors.php:455
+msgid "Header & Footer"
+msgstr "سرآیند و پسایند"
+
+#: inc/wpcom-colors.php:269
+msgid "Accent"
+msgstr "تأکید"
+
+#: inc/wpcom-colors.php:212
+msgid "Post"
+msgstr "نوشته"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "پس‌زمینه"
+
+#: header.php:139 header.php:140
+msgid "WordPress"
+msgstr "وردپرس"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/singl/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/singl/page-templates/front-page.php
+msgid "Front Page"
+msgstr "برگهٔ نخست"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "جستجو"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "جستجو &hellip;"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جست‌وجو برای: %s"
+
+#: inc/template-tags.php:153
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">منتشرشده در %1$s</span><span class=\"byline\"> بدست %2$s</span>"
+
+#: inc/template-tags.php:125
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما چشم به راه بررسی است."
+
+#: inc/template-tags.php:118
+msgctxt "time"
+msgid "%s ago"
+msgstr "%s پیش"
+
+#: inc/template-tags.php:109
+msgid "Reply"
+msgstr "پاسخ"
+
+#: inc/template-tags.php:101
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/template-tags.php:82
+msgid "Pingback:"
+msgstr "بازتاب: "
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "Next Post &raquo;"
+msgstr "نوشتۀ پسین &raquo;"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "&laquo; Previous Post"
+msgstr "&laquo; نوشتهٔ پیشین"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/template-tags.php:31
+msgid "Newer posts &raquo;"
+msgstr "نوشته‌های تازه‌تر &raquo;"
+
+#: inc/template-tags.php:27
+msgid "&laquo; Older posts"
+msgstr "&laquo; نوشته‌های قدیمی‌تر"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "ناوبری نوشته‌ها"
+
+#: inc/extras.php:89
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#: inc/customizer.php:162
+msgid "iTunes Link"
+msgstr "پیوند iTunes"
+
+#: inc/customizer.php:153
+msgid "Spotify Link"
+msgstr "پیوند Spotify"
+
+#: inc/customizer.php:144
+msgid "Last.fm Link"
+msgstr "پیوند Last.fm"
+
+#: inc/customizer.php:135
+msgid "SoundCloud Link"
+msgstr "پیوند SoundCloud"
+
+#: inc/customizer.php:108
+msgid "Vimeo Link"
+msgstr "پیوند Vimeo"
+
+#: inc/customizer.php:99
+msgid "YouTube Link"
+msgstr "پیوند یوتیوب"
+
+#: inc/customizer.php:90
+msgid "Instagram Link"
+msgstr "پیوند اینستاگرام"
+
+#: inc/customizer.php:81
+msgid "Google+ Link"
+msgstr "پیوند گوگل+"
+
+#: inc/customizer.php:72
+msgid "Pinterest Link"
+msgstr "پیوند پین‌ترست"
+
+#: inc/customizer.php:63
+msgid "Facebook Link"
+msgstr "پیوند فیسبوک"
+
+#: inc/customizer.php:54
+msgid "Twitter Link"
+msgstr "پیوند توییتر"
+
+#: inc/customizer.php:44
+msgid "Subscribe Form"
+msgstr "فرم اشتراک"
+
+#: inc/customizer.php:34
+msgid "Full Page Background Image"
+msgstr "تصویر پس‌زمینهٔ تمام‌صفحه"
+
+#: inc/customizer.php:25
+msgid "Theme Options"
+msgstr "گزینه‌های پوسته"
+
+#: header.php:179 header.php:180
+msgid "iTunes"
+msgstr "آی‌تونز"
+
+#: header.php:155 header.php:156
+msgid "SoundCloud"
+msgstr "سوندکلود"
+
+#: header.php:131 header.php:132
+msgid "Vimeo"
+msgstr "ویمیو"
+
+#: header.php:123 header.php:124
+msgid "YouTube"
+msgstr "یوتیوب"
+
+#: header.php:115 header.php:116
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: header.php:107 header.php:108
+msgid "Google Plus"
+msgstr "گوگل پلاس"
+
+#: header.php:99 header.php:100
+msgid "Pinterest"
+msgstr "پین‌ترست"
+
+#: header.php:91 header.php:92
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: header.php:83 header.php:84
+msgid "Twitter"
+msgstr "توئیتر"
+
+#: header.php:67
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: header.php:66
+msgid "Menu"
+msgstr "گزینگان"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:115
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "فعال"
+
+#: functions.php:98
+msgid "Footer Widget Area Three"
+msgstr "پهنهٔ ابزارک پسایند سه"
+
+#: functions.php:89
+msgid "Footer Widget Area Two"
+msgstr "پهنهٔ ابزارک پسایند دو"
+
+#: functions.php:80
+msgid "Footer Widget Area One"
+msgstr "پهنهٔ ابزارک پسایند یک"
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:41
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:21 footer.php:22
+msgid "Widgets"
+msgstr "ابزارک‌ها"
+
+#: content.php:11
+msgid "Permalink to %s"
+msgstr "پایاپیوند به %s"
+
+#: content-video.php:10 content.php:45
+msgid "Continue reading"
+msgstr "به خواندن ادامه دهید"
+
+#: content-single.php:73 content-video.php:89 content.php:78
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این ورودی در %1$s نوشته شده است. نشانک‌گذاری <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a>."
+
+#: content-single.php:71 content-video.php:87 content.php:76
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این ورودی در %1$s نوشته شده و با %2$s برچسب خورده است. نشانک‌گذاری <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a>."
+
+#: content-single.php:65 content-video.php:81 content.php:70
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "نشانک‌گذاری <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a>."
+
+#: content-single.php:63 content-video.php:79 content.php:68
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این ورودی با %2$s برچسب خورده است. نشانک‌گذاری <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content-video.php:71
+#: content-video.php:74 content.php:60 content.php:63
+msgid ", "
+msgstr "، "
+
+#: content-single.php:35 content-video.php:44 content.php:33
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: content-single.php:35 content-video.php:44 content.php:33
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: content-single.php:35 content-video.php:44 content.php:33
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: content-single.php:32 content-video.php:42 content.php:30
+msgid "All %s posts"
+msgstr "همهٔ %s نوشته"
+
+#: content-page.php:30 content-single.php:92 content-video.php:107
+#: content.php:96 eventbrite/eventbrite-index.php:49
+#: eventbrite/eventbrite-single.php:39 inc/template-tags.php:82
+#: inc/template-tags.php:121
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، موردی مطابق با جستجوی شما پیدا نشد. لطفا برای جستجو از کلیدواژه‌های دیگری استفاده کنید."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:54 comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:53 comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:52 comments.php:60
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s دیدگاه"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "بایگانی"
+
+#: archive.php:63
+msgid "Galleries"
+msgstr "گالری‌ها"
+
+#: archive.php:60
+msgid "Links"
+msgstr "پیوندها"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "گفتاورد"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "ویدئوها"
+
+#: archive.php:51
+msgid "Images"
+msgstr "تصویرها"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "کلمات قصار"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "بد نیست نگاهی به بایگانی ماهانه بیندازید. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "پراستفاده‌ترین دسته‌ها"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان نیست. شاید بخواهید یکی از پیوندهای زیر یا جست‌وجو را آزمایش کنید."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."
