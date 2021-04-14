@@ -1,0 +1,253 @@
+# Translation of WordPress.com - Themes - Tonal in Hebrew
+# This file is distributed under the same license as the WordPress.com - Themes - Tonal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-01 10:23:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: WordPress.com - Themes - Tonal\n"
+
+#. translators: used before a list of the post's tags
+#: content.php:73
+msgid "Tagged"
+msgstr "מתויג"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/tonal/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/tonal/style.css
+msgid "Tonal takes its cue from your content, with a minimal style that changes based on your background color. This theme has large featured images, full-width videos, and post formats that look great on any device."
+msgstr "<span dir=rtl>Tonal מתאים עצמו לתוכן שלך, עם סגנון מינימלי שמשתנה בהתאם לצבע הרקע.</span> <span dir=rtl>ערכת העיצוב הזו כוללת תמונות גדולות, סרטוני וידאו ברוחב מלא וכן פורמטים לפוסטים שנראים מצוין בכל מכשיר.</span>"
+
+#: sidebar.php:9
+msgid "Skip to content"
+msgstr "דילוג לתוכן"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "תוצאות החיפוש: %s"
+
+#: inc/template-tags.php:85
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">פורסם ב-%1$s</span><span class=\"byline\"> על ידי %2$s</span>"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&rarr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "ניווט ברשומות"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "רשומות חדשות יותר <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&rarr;</span> רשומות ישנות יותר"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "ניווט בין הרשומות"
+
+#: inc/extras.php:62
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s"
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: content.php:81
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: content.php:81
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: content.php:81
+msgid "Leave a comment"
+msgstr "השארת תגובה"
+
+#: content.php:67
+msgid "Posted in %1$s"
+msgstr "פורסם ב-%1$s"
+
+#: content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להמשיך לקרוא <span class=\"meta-nav\">&larr;</span>"
+
+#: content-single.php:64
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<span dir=rtl>סמן את <a href=\"%3$s\" rel=\"bookmark\">הקישור הקבוע</a>.</span>"
+
+#: content-single.php:62
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<span dir=rtl>רשומה זו תויגה כ%2$s.</span> <span dir=rtl>סמן את <a href=\"%3$s\" rel=\"bookmark\">הקישור הקבוע</a>.</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:57 content.php:63 content.php:75
+msgid ", "
+msgstr ", "
+
+#: content-single.php:28 content.php:28
+msgid "Permalink to %s"
+msgstr "קישור קבוע לרשומה %s"
+
+#: content-single.php:12 content.php:12
+msgid "All %s posts"
+msgstr "כל הרשומות של %s"
+
+#: content-page.php:24 content-single.php:90 content.php:84
+#: eventbrite/eventbrite-index.php:53 eventbrite/eventbrite-single.php:42
+msgid "Edit"
+msgstr "עריכה"
+
+#: content-page.php:18 content-single.php:44 content.php:49
+msgid "Pages:"
+msgstr ":עמודים"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה כי לא ניתן למצוא את מה שחיפשת, אולי חיפוש יעזור."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "מצוערים, אבל לא נמצאה התאמה. אפשר לנסות שוב עם מילות חיפוש שונות."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הרשומה הראשונה שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "לא מצאתי כלום"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &larr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&rarr; תגובות ישנות יותר"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "מחשבה אחת על &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s מחשבות על &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "ארכיון"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "צ'טים"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "קבצי אודיו"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "סטטוסים"
+
+#: archive.php:54
+msgid "Links"
+msgstr "קישורים"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "ציטוטים"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "סרטונים"
+
+#: archive.php:45
+msgid "Images"
+msgstr "תמונות"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "גלריות"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "קצרצרים"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "שנה: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "חודש: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "יום: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "מחבר: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "כדאי לחפש בארכיון החודשי. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "קטגוריות בולטות"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "לא הצלחנו למצוא שום דבר בכתובת זו. כדאי לנסות את הקישורים הבאים, או את החיפוש."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת אינו קיים."

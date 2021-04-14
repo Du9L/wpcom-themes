@@ -1,0 +1,280 @@
+# Translation of Tonal in Spanish (Spain)
+# This file is distributed under the same license as the Tonal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-30 17:26:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Tonal\n"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/tonal/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.com/themes/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Tonal takes its cue from your content, with a minimal style that changes based on your background color. This theme has large featured images, full-width videos, and post formats that look great on any device."
+msgstr "Tonal se basa en tu contenido, gracias a un estilo minimalista que cambia en función del color de fondo. Este tema incorpora imágenes grandes, vídeos a tamaño completo y formatos de entradas que se ven genial en cualquier dispositivo."
+
+#: sidebar.php:9
+msgid "Skip to content"
+msgstr "Saltar al contenido."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:85
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navegador de artículos"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entradas más nuevas <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas más antiguas"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Ir a las entradas"
+
+#: functions.php:66
+msgid "Sidebar One"
+msgstr ""
+
+#: functions.php:74
+msgid "Sidebar Two"
+msgstr ""
+
+#: functions.php:82
+msgid "Sidebar Three"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:105
+msgctxt "Oxygen serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:62
+msgid "Page %s"
+msgstr "Página %s"
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: content.php:83
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:83
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:83
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: content.php:77
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#: content.php:67
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: content-single.php:62
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esta entrada se ha etiquetado como %2$s. Marca el <a href=\"%3$s\" rel=\"bookmark\">vínculo permanente</a>."
+
+#: content-single.php:64
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Marca el <a href=\"%3$s\" rel=\"bookmark\">vínculo permanente</a>."
+
+#: content-single.php:70
+msgid "This entry was posted in <span class=\"cat-list\">%1$s</span> and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:72
+msgid "This entry was posted in <span class=\"cat-list\">%1$s</span>. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:57 content.php:63 content.php:73
+msgid ", "
+msgstr ", "
+
+#: content-single.php:28 content.php:28
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+#: content-single.php:12 content.php:12
+msgid "All %s posts"
+msgstr "Las %s entradas"
+
+#: content-page.php:24 content-single.php:85 content.php:86
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:18 content-single.php:44 content.php:49
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda le pueda ayudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincidió con su búsqueda. Por favor inténtelo de nuevo con otras palabras clave."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archivos"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chat"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Estados"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Enlaces"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citas"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imágenes"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerías"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Apartados"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Trata de buscar en los archivos mensuales. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Quizás pruebes con uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esa página no se puede encontrar."

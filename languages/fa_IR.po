@@ -1,0 +1,293 @@
+# Translation of WordPress.com - Themes - Tonal in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Tonal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-27 04:56:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-beta.1\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Tonal\n"
+
+#. translators: used before a list of the post's tags
+#: content.php:73
+msgid "Tagged"
+msgstr "برچسب‌خورده با"
+
+#: eventbrite/eventbrite-index.php:32 eventbrite/eventbrite-single.php:19
+msgid "Eventbrite events"
+msgstr "رویدادهای Eventbrite "
+
+#: eventbrite/eventbrite-index.php:31 eventbrite/eventbrite-single.php:18
+msgid "All events"
+msgstr "همهٔ رویدادها"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/tonal/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/tonal/style.css
+msgid "https://wordpress.com/themes/tonal/"
+msgstr "https://wordpress.com/themes/tonal/"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/tonal/style.css
+msgid "Tonal takes its cue from your content, with a minimal style that changes based on your background color. This theme has large featured images, full-width videos, and post formats that look great on any device."
+msgstr "Tonal سرنخ‌ها را از مطالب شما می‌گیرد. با سبکی مینیمالی که متناسب با رنگ پس‌‌زمینهٔ شما عوض می‌شود. این پوسته تصاویر ویژهٔ بزرگی دارد، ویدئوهای تمام‌پهنا، و قالب‌های نوشته‌ای که روی هر ابزاری عالی به نظر می‌رسد."
+
+#: sidebar.php:9
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جست‌وجو برای: %s"
+
+#: inc/template-tags.php:85
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">منتشرشده در %1$s</span><span class=\"byline\"> بدست %2$s</span>"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نوشته‌های تازه‌تر <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> نوشته‌های پیشین"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "ناوبری نوشته‌ها"
+
+#: inc/extras.php:62
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Oxygen serif font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: functions.php:96
+msgid "Sidebar Three"
+msgstr "نوار کناری سه"
+
+#: functions.php:88
+msgid "Sidebar Two"
+msgstr "نوار کناری دو"
+
+#: functions.php:80
+msgid "Sidebar One"
+msgstr "نوار کناری یک"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: content.php:81
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: content.php:81
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: content.php:81
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: content.php:67
+msgid "Posted in %1$s"
+msgstr "فرستاده‌شده در %1$s"
+
+#: content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:72
+msgid "This entry was posted in <span class=\"cat-list\">%1$s</span>. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این مدخل در <span class=\"cat-list\">%1$s</span> فرستاده شد. <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a> آن را نشانگ‌گذاری کنید."
+
+#: content-single.php:70
+msgid "This entry was posted in <span class=\"cat-list\">%1$s</span> and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این ورودی در<span class=\"cat-list\">%1$s</span> فرستاده شده و با %2$s برچسب خورده است. <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a> آن را نشانگ‌گذاری کنید."
+
+#: content-single.php:64
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "نشانک‌گذاری <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a>."
+
+#: content-single.php:62
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "این ورودی با %2$s برچسب خورده است. نشانک‌گذاری <a href=\"%3$s\" rel=\"bookmark\">پایاپیوند</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:57 content.php:63 content.php:75
+msgid ", "
+msgstr "، "
+
+#: content-single.php:28 content.php:28
+msgid "Permalink to %s"
+msgstr "پایاپیوند به %s"
+
+#: content-single.php:12 content.php:12
+msgid "All %s posts"
+msgstr "همهٔ %s نوشته"
+
+#: content-page.php:24 content-single.php:90 content.php:84
+#: eventbrite/eventbrite-index.php:53 eventbrite/eventbrite-single.php:42
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-page.php:18 content-single.php:44 content.php:49
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، موردی مطابق با جستجوی شما پیدا نشد. لطفا برای جستجو از کلیدواژه‌های دیگری استفاده کنید."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نظر برای &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "بایگانی"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "گفتگوها"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "صوت‌ها"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+#: archive.php:54
+msgid "Links"
+msgstr "پیوندها"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "گفتاورد"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "ویدئوها"
+
+#: archive.php:45
+msgid "Images"
+msgstr "تصویرها"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "گالری‌ها"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "کلمات قصار"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "بد نیست نگاهی به بایگانی ماهانه بیندازید. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "پراستفاده‌ترین دسته‌ها"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان نیست. شاید بخواهید یکی از پیوندهای زیر یا جست‌وجو را آزمایش کنید."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."

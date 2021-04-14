@@ -1,0 +1,256 @@
+# Translation of WordPress.com - Themes - Tonal in Albanian
+# This file is distributed under the same license as the WordPress.com - Themes - Tonal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-27 04:56:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: WordPress.com - Themes - Tonal\n"
+
+#. translators: used before a list of the post's tags
+#: content.php:73
+msgid "Tagged"
+msgstr "U etiketua"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/tonal/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: sidebar.php:9
+msgid "Skip to content"
+msgstr "Hidhu te lënda"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/template-tags.php:85
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Postuar më %1$s</span><span class=\"byline\"> nga %2$s</span>"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Lëvizje te postimet"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Postime më të reja <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Postime më të vjetra"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Lëvizje te postimet"
+
+#: inc/extras.php:62
+msgid "Page %s"
+msgstr "Faqe %s"
+
+#: functions.php:88
+msgid "Sidebar Two"
+msgstr "Anështylla Dy"
+
+#: functions.php:80
+msgid "Sidebar One"
+msgstr "Anështylla Një"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Menuja Parësore"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: content.php:81
+msgid "% Comments"
+msgstr "% Koment"
+
+#: content.php:81
+msgid "1 Comment"
+msgstr "1 Koment"
+
+#: content.php:81
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: content.php:67
+msgid "Posted in %1$s"
+msgstr "Postuar te %1$s"
+
+#: content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:64
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Fqeruani <a href=\"%3$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#: content-single.php:62
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ky zë u etiketua me %2$s. Faqeruani <a href=\"%3$s\" rel=\"bookmark\">permalidhjen</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:57 content.php:63 content.php:75
+msgid ", "
+msgstr ", "
+
+#: content-single.php:28 content.php:28
+msgid "Permalink to %s"
+msgstr "Permalidhje te %s"
+
+#: content-single.php:12 content.php:12
+msgid "All %s posts"
+msgstr "Krejt postimet %s"
+
+#: content-page.php:24 content-single.php:90 content.php:84
+#: eventbrite/eventbrite-index.php:53 eventbrite/eventbrite-single.php:42
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: content-page.php:18 content-single.php:44 content.php:49
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk qemë në gjendje të gjenim ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por nuk u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nuk u Gjet Gjë"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentet janë mbyllur."
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Komentet Më të Reja &rarr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentet Më të Vjetra"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Një mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arkiva"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Fjalosje"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Gjendje"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Lidhje"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citime"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Video"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Figura"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeri"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Anësore"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Vit: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Muaj: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Ditë: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provoni të shihni arkivat mujorë. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Kategoritë Më të Përdorura"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Duket se s&#8217;u gjend gjë në këtë vend. Të provohet një nga lidhjet më poshtë ose një kërkim?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe nuk gjendet dot."

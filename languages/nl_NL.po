@@ -1,0 +1,256 @@
+# Translation of WordPress.com - Themes - Tonal in Dutch
+# This file is distributed under the same license as the WordPress.com - Themes - Tonal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-09 11:09:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: WordPress.com - Themes - Tonal\n"
+
+#. translators: used before a list of the post's tags
+#: content.php:73
+msgid "Tagged"
+msgstr "Getagged"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/tonal/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: sidebar.php:9
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Berichtennavigatie"
+
+#: inc/extras.php:62
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Oxygen serif font: on or off"
+msgid "on"
+msgstr "op"
+
+#: functions.php:96
+msgid "Sidebar Three"
+msgstr "Sidebar drie"
+
+#: functions.php:88
+msgid "Sidebar Two"
+msgstr "Sidebar twee"
+
+#: functions.php:80
+msgid "Sidebar One"
+msgstr "Sidebar een"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Met trots ondersteund door %s"
+
+#: content.php:81
+msgid "% Comments"
+msgstr "% reacties"
+
+#: content.php:81
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: content.php:81
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: content.php:67
+msgid "Posted in %1$s"
+msgstr "Geplaatst in %1$s"
+
+#: content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:64
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bookmark de <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:62
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dit bericht is getagd met %2$s. Bookmark de <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:57 content.php:63 content.php:75
+msgid ", "
+msgstr ", "
+
+#: content-single.php:28 content.php:28
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: content-single.php:12 content.php:12
+msgid "All %s posts"
+msgstr "Alle %s berichten"
+
+#: content-page.php:24 content-single.php:90 content.php:84
+#: eventbrite/eventbrite-index.php:53 eventbrite/eventbrite-single.php:42
+msgid "Edit"
+msgstr "Bewerken"
+
+#: content-page.php:18 content-single.php:44 content.php:49
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien kan zoeken helpen."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets kwam overeen met je zoektermen. Gelieve het opnieuw te proberen met een aantal andere trefwoorden."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Niks gevonden"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwe reacties &rarr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachtes over &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archief"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statussen"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Gezegden"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Video&#39;s"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Opmerkingen"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Probeer eens te zoeken in het maandelijks archief. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Meest gebruikte categorie&#235;n"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Het lijkt erop dat niets werd gevonden op deze locatie. Probeer dan misschien een van de links hieronder of een zoekopdracht?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kon niet worden gevonden."
