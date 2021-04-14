@@ -1,0 +1,208 @@
+# Translation of WordPress.com - Themes - Capoverso in Catalan
+# This file is distributed under the same license as the WordPress.com - Themes - Capoverso package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-06 19:06:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: WordPress.com - Themes - Capoverso\n"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/capoverso/home-page.php
+msgid "Front Page"
+msgstr "Pàgina Principal"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultats de la cerca per a: %s"
+
+#: inc/template-tags.php:120
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: inc/template-tags.php:120
+msgid "1 Comment"
+msgstr "1 comentari"
+
+#: inc/template-tags.php:120
+msgid "Leave a comment"
+msgstr "Deixa un comentari"
+
+#: inc/template-tags.php:84
+msgctxt "post author"
+msgid "by %s"
+msgstr "per %s"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navegació d'entrades"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entrades més recents <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entrades més antigues"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navegació d'entrades"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Pàgina %s"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Vés al contingut"
+
+#: functions.php:85
+msgid "Footer Widgets"
+msgstr "Ginys del peu de pàgina"
+
+#: functions.php:77
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Gràcies al %s"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua llegint %s <span class=\"meta-nav\">&rarr;</span> "
+
+#: content-page.php:25 inc/template-tags.php:124
+msgid "Edit"
+msgstr "Edita"
+
+#: content-page.php:18 content-single.php:20 content.php:29
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: content-none.php:28 no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no podem trobar el que busqueu. Potser el cercador us pot ajudar."
+
+#: content-none.php:23 no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Res no coincideix amb els termes de cerca. Torneu-ho a provar amb algunes paraules claus diferents."
+
+#: content-none.php:19 no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Preparats per publicar la primera entrada? <a href=\"%1$s\">Comenceu aquí</a>."
+
+#: content-none.php:13 no-results.php:13
+msgid "Nothing Found"
+msgstr "No s'ha trobat res"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats."
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Comentaris més recents  &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentaris anteriors"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Navegació pels comentaris"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensament sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensaments sobre &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arxius"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Xats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Àudios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Estats"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Enllaços"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Cites"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imatges"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Notes"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Any: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F \\d\\e Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aquesta pàgina no es pot trobar."

@@ -1,0 +1,219 @@
+# Translation of WordPress.com - Themes - Capoverso in Chinese (Taiwan)
+# This file is distributed under the same license as the WordPress.com - Themes - Capoverso package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:28:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: WordPress.com - Themes - Capoverso\n"
+
+#: inc/wpcom-colors.php:16
+msgid "Headings & Links"
+msgstr "標題和連結"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/capoverso/home-page.php
+msgid "Front Page"
+msgstr "首頁"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s 的搜尋結果："
+
+#: inc/template-tags.php:180
+msgid "All %1$s posts"
+msgstr "所有%1$s文章"
+
+#: inc/template-tags.php:117
+msgid "% Comments"
+msgstr "% 則迴響"
+
+#: inc/template-tags.php:117
+msgid "1 Comment"
+msgstr "1 則迴響"
+
+#: inc/template-tags.php:117
+msgid "Leave a comment"
+msgstr "發表留言"
+
+#: inc/template-tags.php:84
+msgctxt "post author"
+msgid "by %s"
+msgstr "由%s撰寫"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "文章分頁導航"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "較新的文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 較舊的文章"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "文章導覽"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "%s 頁"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "直接觀看文章"
+
+#: functions.php:85
+msgid "Footer Widgets"
+msgstr "底部工具"
+
+#: functions.php:77
+msgid "Sidebar"
+msgstr "邊欄"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "佈景主題：%1$s，發表者：%2$s。"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "自豪的使用  %s"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "http://tw.wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr " \t繼續閱讀 %s <span class=\"meta-nav\">&rarr;</span> "
+
+#: content-page.php:25 inc/template-tags.php:121
+msgid "Edit"
+msgstr "編輯"
+
+#: content-page.php:18 content-single.php:20 content.php:29
+msgid "Pages:"
+msgstr "頁次："
+
+#: content-none.php:28 no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我們似乎找不到你正在尋找的項目。請嘗試搜尋功能。"
+
+#: content-none.php:23 no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，沒有項目符合你的搜尋字詞。請再嘗試其他不同的關鍵字！"
+
+#: content-none.php:19 no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發表你的第一篇文章了嗎？<a href=\"%1$s\">自這裡開始</a>。"
+
+#: content-none.php:13 no-results.php:13
+msgid "Nothing Found"
+msgstr "什麼都沒找到"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "迴響已被關閉。"
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "較新的評論 &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; 較早的評論"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "評論分頁導航"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "對「%2$s」的想法"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "彙整"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "閒聊"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "音訊"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "狀態"
+
+#: archive.php:54
+msgid "Links"
+msgstr "鏈結"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "引文"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "影片"
+
+#: archive.php:45
+msgid "Images"
+msgstr "圖片"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "藝廊"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "旁白"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "看來這裡找不到東西。也許可以試試看搜尋？"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"

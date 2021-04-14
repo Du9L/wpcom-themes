@@ -1,0 +1,290 @@
+/*
+Theme Name: Capoverso
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/* =Reset
+-------------------------------------------------------------- */
+
+caption, th, td {
+	text-align: right;
+}
+
+/* =Global
+----------------------------------------------- */
+
+/* Text elements */
+
+ul, ol {
+	margin: 0 3em 1.5em 0;
+}
+
+li > ul,
+li > ol {
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+textarea {
+	padding-right: 3px;
+	padding-left: 0;
+}
+
+/* Links */
+
+/* Alignment */
+.alignright {
+	float: right;
+	margin-left: 1.5em;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+/* Text meant only for screen readers */
+
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+
+
+/* =Content
+----------------------------------------------- */
+
+.single .entry-header .entry-meta {
+	margin-left: .375em;
+	left: 0;
+	right: auto;
+	margin-right: auto;
+}
+.page-template-home-page-php {
+	text-align: right;
+}
+
+/* =Navigation
+----------------------------------------------- */
+
+.comment-navigation .nav-previous,
+.paging-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: right;
+}
+
+.comment-navigation .nav-next,
+.paging-navigation .nav-next,
+.post-navigation .nav-next {
+	float: left;
+	text-align: left;
+}
+
+/* =Widgets
+----------------------------------------------- */
+
+.widget ul,
+.widget ol {
+	padding-right: 1.5em;
+	padding-left: 0;
+}
+
+/* =Footer Widgets */
+
+.site-footer .widget ul,
+.site-footer .widget ol {
+	margin: 0 1.5em 0 0;
+}
+
+/* =Header */
+
+.site-title a {
+	margin-left: -11px;
+	margin-right: auto;
+}
+
+/* =Home Page Menu */
+
+.page-template-home-page-php .menu li {
+	padding: .375em 0 .375em .75em;
+}
+
+/* =Extras */
+
+.tags-links a:before,
+.entry-format a:before,
+.cat-links a:before {
+	float: right;
+	margin-right: .75em;
+	margin-left: 2px;
+}
+.comments-link a {
+	margin-left: .75em;
+	margin-right: auto;
+}
+
+/* =Navigation Menu */
+
+#secondary .menu,
+#secondary .menu ul,
+#secondary .widget_pages,
+#secondary .widget_pages ul,
+.main-navigation,
+.main-navigation ul {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+#secondary .menu {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+#secondary .menu > ul,
+#secondary .widget_pages > ul,
+.main-navigation > ul {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+#secondary .menu ul ul,
+#secondary .widget_pages ul ul,
+.main-navigation ul ul {
+	margin-right: .75em;
+	margin-left: auto;
+}
+
+#secondary .menu li a,
+#secondary .widget_pages li a,
+.main-navigation li a {
+	padding: .375em 8px .375em 0;
+}
+
+/* =Comments: List */
+
+.comments-area li > ul,
+.comments-area li > ol {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+/* =Each comment  */
+.comment-list .comment {
+	margin: 0 3em 0 0;
+}
+
+.comment-author img {
+	float: right;
+	margin-right: -3em;
+	margin-left: 10px;
+}
+
+.comment-author cite {
+	margin: 0 .75em 0 0;
+}
+
+.menu a[href*='wordpress.org']:before,
+.menu a[href*='facebook.com']:before,
+.menu a[href*='twitter.com']:before,
+.menu a[href*='dribbble.com']:before,
+.menu a[href*='plus.google.com']:before,
+.menu a[href*='pinterest.com']:before,
+.menu a[href*='github.com']:before,
+.menu a[href*='tumblr.com']:before,
+.menu a[href*='youtube.com']:before,
+.menu a[href*='flickr.com']:before,
+.menu a[href*='vimeo.com']:before,
+.menu a[href*='instagram.com']:before,
+.menu a[href*='codepen.io']:before,
+.menu a[href*='linkedin.com']:before,
+.menu a[href*='foursquare.com']:before,
+.menu a[href*='reddit.com']:before,
+.menu a[href*='digg.com']:before,
+.menu a[href*='getpocket.com']:before,
+.menu a[href*='path.com']:before,
+.menu a[href*='stumbleupon.com']:before,
+.menu a[href*='spotify.com']:before,
+.menu a[href*='twitch.tv']:before,
+.menu a[href*='dropbox.com']:before,
+.menu a[href*='/feed']:before,
+.menu a[href*='skype']:before,
+.menu a[href*='mailto']:before {
+	margin-right: auto;
+	margin-left: 4px;
+}
+
+
+/* =Media Queries
+--------------------------------------------*/
+
+/* Tablets */
+@media screen and ( min-width: 48em ) {
+
+	.content-area {
+		float: right;
+		margin: 0 0 0 -205px;
+	}
+
+	.site-main {
+		margin: 0 0 0 245px;
+	}
+
+	.site-content .widget-area {
+		float: left;
+	}
+
+	.page .content-area {
+		float: left;
+		margin: 0 -205px 0 0;
+	}
+
+	.page .site-main {
+		margin: 0 245px 0 0;
+	}
+
+	.page .site-content .widget-area {
+		float: right;
+	}
+
+	.site-footer .widget {
+		float: right;
+		margin-left: 5%;
+		margin-right: auto;
+	}
+
+	.site-footer .widget:nth-of-type(3n) {
+		margin-left: 0;
+		margin-right: auto;
+	}
+}
+
+@media screen and ( min-width: 63em ) {
+
+	.content-area {
+		margin: 0 0 0 -255px;
+	}
+
+	.site-main {
+		margin: 0 0 0 295px;
+	}
+
+	.page .content-area {
+		margin: 0 -255px 0 0;
+	}
+
+	.page .site-main {
+		margin: 0 295px 0 0;
+	}
+
+	.page-template-home-page-php .content-area {
+		margin: 1.5em 18em 5em 0;
+	}
+
+}

@@ -1,0 +1,224 @@
+# Translation of WordPress.com - Themes - Capoverso in Dutch
+# This file is distributed under the same license as the WordPress.com - Themes - Capoverso package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:28:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: WordPress.com - Themes - Capoverso\n"
+
+#: inc/wpcom-colors.php:16
+msgid "Headings & Links"
+msgstr "Kopteksten & links"
+
+#: header.php:24
+msgid "Skip to navigation"
+msgstr "Direct naar navigatie"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/capoverso/home-page.php
+msgid "Front Page"
+msgstr "Startpagina"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/template-tags.php:180
+msgid "All %1$s posts"
+msgstr "Alle %1$s posts"
+
+#: inc/template-tags.php:117
+msgid "% Comments"
+msgstr "% reacties"
+
+#: inc/template-tags.php:117
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/template-tags.php:117
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: inc/template-tags.php:84
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Berichtennavigatie"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#: functions.php:85
+msgid "Footer Widgets"
+msgstr "Footer widgets"
+
+#: functions.php:77
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Met trots ondersteund door %s"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "http://nl.wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:25 inc/template-tags.php:121
+msgid "Edit"
+msgstr "Bewerken"
+
+#: content-page.php:18 content-single.php:20 content.php:29
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: content-none.php:28 no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien kan zoeken helpen."
+
+#: content-none.php:23 no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets kwam overeen met je zoektermen. Gelieve het opnieuw te proberen met een aantal andere trefwoorden."
+
+#: content-none.php:19 no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: content-none.php:13 no-results.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwe reacties &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachtes over &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archieven"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statussen"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Gezegden"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Video&#39;s"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Opmerkingen"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets werd gevonden op deze locatie. Misschien een zoekopdracht  proberen?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kon niet worden gevonden."
