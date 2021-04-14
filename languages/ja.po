@@ -1,0 +1,341 @@
+# Translation of WordPress.com - Themes - Varia in Japanese
+# This file is distributed under the same license as the WordPress.com - Themes - Varia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-01 01:56:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:176
+msgid "Continue reading %s"
+msgstr "続きを読む %s"
+
+#: inc/woocommerce.php:103 inc/woocommerce.php:211
+msgid "View your shopping cart"
+msgstr "ショッピングカートを表示"
+
+#: inc/woocommerce.php:106 inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d項目"
+
+#: inc/woocommerce.php:208
+msgid "Cart"
+msgstr "カート"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "前の画像"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "次の画像"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "投稿者: %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "他の投稿を表示"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "次の投稿"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "次の投稿:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "過去の投稿"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "過去の投稿:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "おすすめ"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120 inc/template-tags.php:185
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "次の投稿"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "過去の投稿"
+
+#: inc/wpcom.php:43
+msgid "Hide Homepage Title"
+msgstr "ホームページでタイトルを非表示"
+
+#: inc/wpcom.php:44
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "ホームページに固定ページを表示するよう設定している場合、チェックを入れるとページのタイトルを非表示にします。"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "検索結果:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%sに</span>コメント"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98 inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr "、"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:92 inc/template-tags.php:157
+msgid "Posted in"
+msgstr "カテゴリー:"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:104 inc/template-tags.php:169
+msgid "Tags:"
+msgstr "タグ:"
+
+#: inc/template-functions.php:94
+msgid "Monthly Archives: "
+msgstr "月別アーカイブ:"
+
+#: inc/template-functions.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-functions.php:96
+msgid "Daily Archives: "
+msgstr "日別アーカイブ:"
+
+#: inc/template-functions.php:98
+msgid "Post Type Archives: "
+msgstr "投稿タイプアーカイブ:"
+
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:102
+msgid "%s Archives:"
+msgstr "%sアーカイブ: "
+
+#: inc/template-functions.php:104
+msgid "Archives:"
+msgstr "アーカイブ:"
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "投稿者:"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "フルサイズ"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">投稿:</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:86
+msgid "Category Archives: "
+msgstr "カテゴリーアーカイブ:"
+
+#: inc/template-functions.php:88
+msgid "Tag Archives: "
+msgstr "タグアーカイブ:"
+
+#: inc/template-functions.php:90
+msgid "Author Archives: "
+msgstr "投稿者アーカイブ:"
+
+#: inc/template-functions.php:92
+msgid "Yearly Archives: "
+msgstr "年別アーカイブ:"
+
+#: inc/template-functions.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: image.php:58 template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: image.php:62
+msgid "Page"
+msgstr "ページ"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: header.php:42
+msgid "Main Navigation"
+msgstr "メインナビゲーション"
+
+#: header.php:45
+msgid "Menu"
+msgstr "メニュー"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "ダークグレー"
+
+#: functions.php:168
+msgid "Gray"
+msgstr "グレー"
+
+#: functions.php:173
+msgid "Light Gray"
+msgstr "ライトグレー"
+
+#: functions.php:188
+msgid "White"
+msgstr "白"
+
+#: functions.php:219 template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:221
+msgid "Add widgets here to appear in your footer."
+msgstr "フッターに表示するウィジェットを追加します。"
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "通常"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:129
+msgid "Large"
+msgstr "大サイズ"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "特大"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:158
+msgid "Secondary"
+msgstr "サブ"
+
+#. translators: 1: WordPress link, 2: WordPress.
+#: footer.php:49
+msgid "https://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: functions.php:59 functions.php:153
+msgid "Primary"
+msgstr "メイン"
+
+#: footer.php:27 functions.php:60
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:61 header.php:64
+msgid "Social Links Menu"
+msgstr "﻿ソーシャルリンクメニュー"
+
+#: functions.php:117
+msgid "Small"
+msgstr "小"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」に%1$s件のコメントがあります"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "コメントは承認待ちです。"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#. translators: %s: comment author link
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">さんの発言:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s%2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "編集する"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "﻿ページが見つかりません。"

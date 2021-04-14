@@ -1,0 +1,333 @@
+# Translation of WordPress.com - Themes - Varia in Chinese (Taiwan)
+# This file is distributed under the same license as the WordPress.com - Themes - Varia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-01 01:56:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:176
+msgid "Continue reading %s"
+msgstr "繼續閱讀 %s"
+
+#: inc/woocommerce.php:103 inc/woocommerce.php:211
+msgid "View your shopping cart"
+msgstr "打開購物車"
+
+#: inc/woocommerce.php:106 inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 個商品"
+
+#: inc/woocommerce.php:208
+msgid "Cart"
+msgstr "購物車"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "前張圖片"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "下一張圖片"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "繼續閱讀<span class=\"screen-reader-text\">「%s」</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "發表者：%s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "檢視更多文章"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，沒有項目符合你的搜尋字詞。請再嘗試其他不同的關鍵字！"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我們似乎找不到你正在尋找的項目。請嘗試搜尋功能。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發表你的第一篇文章了嗎? <a href=\"%1$s\">從這裡開始</a>"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "新文章"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "下一篇文章："
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "舊文章"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "上一篇文章："
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "精選內容"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "找不到任何內容"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120 inc/template-tags.php:185
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編輯 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "較新的文章"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "較舊的文章"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "以下內容的搜尋結果："
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "留下一則評論<span class=\"screen-reader-text\"> 在 %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98 inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr "，"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:92 inc/template-tags.php:157
+msgid "Posted in"
+msgstr "發表於"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:104 inc/template-tags.php:169
+msgid "Tags:"
+msgstr "標籤："
+
+#: inc/template-functions.php:94
+msgid "Monthly Archives: "
+msgstr "每月彙整: "
+
+#: inc/template-functions.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:96
+msgid "Daily Archives: "
+msgstr "每日彙整: "
+
+#: inc/template-functions.php:98
+msgid "Post Type Archives: "
+msgstr "內容類型彙整: "
+
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:102
+msgid "%s Archives:"
+msgstr "「%s」彙整:"
+
+#: inc/template-functions.php:104
+msgid "Archives:"
+msgstr "文章彙整："
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "分類："
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "原始尺寸"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">上層內容:</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:86
+msgid "Category Archives: "
+msgstr "分類彙整: "
+
+#: inc/template-functions.php:88
+msgid "Tag Archives: "
+msgstr "標籤彙整: "
+
+#: inc/template-functions.php:90
+msgid "Author Archives: "
+msgstr "作者彙整: "
+
+#: inc/template-functions.php:92
+msgid "Yearly Archives: "
+msgstr "年份彙整: "
+
+#: inc/template-functions.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:58 template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "頁面："
+
+#: image.php:62
+msgid "Page"
+msgstr "頁"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳至內容區"
+
+#: header.php:42
+msgid "Main Navigation"
+msgstr "主要選單列"
+
+#: header.php:45
+msgid "Menu"
+msgstr "選單"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "暗灰色"
+
+#: functions.php:168
+msgid "Gray"
+msgstr "灰"
+
+#: functions.php:173
+msgid "Light Gray"
+msgstr "亮灰色"
+
+#: functions.php:188
+msgid "White"
+msgstr "白"
+
+#: functions.php:219 template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "頁尾"
+
+#: functions.php:221
+msgid "Add widgets here to appear in your footer."
+msgstr "在這裡新增小工具以顯示於網站頁尾。"
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "一般"
+
+#: functions.php:124
+msgid "M"
+msgstr "中"
+
+#: functions.php:129
+msgid "Large"
+msgstr "大"
+
+#: functions.php:130
+msgid "L"
+msgstr "大"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "極大"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:158
+msgid "Secondary"
+msgstr "次要"
+
+#. translators: 1: WordPress link, 2: WordPress.
+#: footer.php:49
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:59 functions.php:153
+msgid "Primary"
+msgstr "主要"
+
+#: footer.php:27 functions.php:60
+msgid "Footer Menu"
+msgstr "頁尾選單"
+
+#: functions.php:61 header.php:64
+msgid "Social Links Menu"
+msgstr "社群連結選單"
+
+#: functions.php:117
+msgid "Small"
+msgstr "小"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s 有 &ldquo; %1$s 則迴響 &rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "迴響已關閉。"
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "你的迴響正在等候審核。"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "看來這裡什麼也沒有。或許試試搜尋？"
+
+#. translators: %s: comment author link
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s<span class=\"screen-reader-text says\">表示:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "編輯"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"
