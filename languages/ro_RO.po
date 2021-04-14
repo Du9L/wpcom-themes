@@ -1,0 +1,285 @@
+# Translation of WordPress.com - Themes - Colinear in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Colinear package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-22 13:14:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Colinear\n"
+
+#: inc/wpcom-colors.php:392
+msgid "Container"
+msgstr "Container"
+
+#: inc/wpcom-colors.php:426
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/wpcom-colors.php:238
+msgid "Links"
+msgstr "Legături"
+
+#: inc/wpcom-colors.php:148
+msgid "Text"
+msgstr "Text"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "Fundal"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47
+msgid "Tagged"
+msgstr "Etichetat"
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:25
+#: template-parts/content.php:31
+msgid "Page"
+msgstr "Pagină"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Citește în continuare %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/colinear/style.css
+msgid "Colinear -- our update to the older Coraline -- is a squeaky-clean theme featuring a custom menu, header, background, and layout options. Colinear supports featured images and six widget areas -- up to three each in the sidebar and footer. Primarily designed for magazine-style sites, Colinear is a flexible theme that suits any personal blog, or content-rich site."
+msgstr "Colinear -- actualizarea noastră pentru tema mai veche Coraline -- este o temă imaculată care evidențiază un meniu personalizat și opțiuni pentru antet, fundal și aranjament. Colinear suportă imagini reprezentative și șase zone asamblabile -- până la trei în fiecare bara laterală și în subsol. Proiectată în primul rând pentru situri în stil revistă, Colinear este o temă flexibilă care se potrivește oricărui blog personal sau unui sit cu conținut bogat."
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:21
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nimic nu se potrivește termenilor căutării tale. Te rog încearcă din nou cu cuvinte cheie diferite."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să publici primul tău articol? <a href=\"%1$s\">Poți începe aici</a>."
+
+#: single.php:21
+msgid "Previous"
+msgstr "Precedent"
+
+#: single.php:21
+msgid "Previous post:"
+msgstr "Articolul anterior:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nimic găsit"
+
+#: single.php:20
+msgid "Next"
+msgstr "Următor"
+
+#: single.php:20
+msgid "Next post:"
+msgstr "Articolul următor:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:149
+msgid "Continue reading %s"
+msgstr "Continuă să citești %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: inc/template-tags.php:56 template-parts/content-page.php:30
+msgid "Edit"
+msgstr "Editare"
+
+#: inc/template-tags.php:52
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: inc/template-tags.php:52
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: inc/template-tags.php:43
+msgid "Posted in %1$s"
+msgstr "Publicat în %1$s"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:41 inc/template-tags.php:47
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:32
+msgid "Featured Post"
+msgstr "Articol reprezentativ"
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "de %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicat pe %s"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Opțiuni temă"
+
+#: inc/customizer.php:39
+msgid "No Sidebar"
+msgstr "Fără bară laterală"
+
+#: inc/customizer.php:29
+msgid "Sidebars"
+msgstr "Bare laterale"
+
+#: inc/customizer.php:38
+msgid "1 Sidebar Right & 1 Sidebar Left"
+msgstr "1 bară laterală dreapta și 1 bară laterală stânga"
+
+#: inc/customizer.php:37
+msgid "2 Sidebars Left"
+msgstr "2 bare laterale stânga"
+
+#: inc/customizer.php:36
+msgid "2 Sidebars Right"
+msgstr "2 bare laterale dreapta"
+
+#: inc/customizer.php:35
+msgid "1 Sidebar Left"
+msgstr "1 bară laterală stânga"
+
+#: inc/customizer.php:34
+msgid "1 Sidebar Right"
+msgstr "1 bară laterală dreapta"
+
+#: functions.php:267
+msgid "collapse child menu"
+msgstr "restrânge meniul copil"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:187
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:226
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:266
+msgid "expand child menu"
+msgstr "extinde meniul copil"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lora, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:192
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:164
+msgid "Featured Sidebar"
+msgstr "Bară laterală reprezentativă"
+
+#: functions.php:153
+msgid "Sidebar Left 2"
+msgstr "Bară laterală stânga 2"
+
+#: functions.php:142
+msgid "Sidebar Right 2"
+msgstr "Bară laterală dreapta 2"
+
+#: functions.php:107
+msgid "Footer 3"
+msgstr "Subsol 3"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Subsol 2"
+
+#: functions.php:89
+msgid "Footer 1"
+msgstr "Subsol 1"
+
+#: functions.php:131
+msgid "Sidebar Left"
+msgstr "Bară laterală stânga"
+
+#: functions.php:120
+msgid "Sidebar Right"
+msgstr "Bară laterală dreapta"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: functions.php:46 header.php:45
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://ro.wordpress.org/"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Navigare în comentarii"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu a fost găsit nimic aici. Poate încerci o căutare?"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un gând despre &#8222;%2$s&#8221;"
+msgstr[1] "%1$s gânduri despre &#8222;%2$s&#8221;"
+msgstr[2] "%1$s de gânduri despre &#8222;%2$s&#8221;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina aceea nu a fost găsită."

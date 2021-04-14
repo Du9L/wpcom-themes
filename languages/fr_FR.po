@@ -1,0 +1,252 @@
+# Translation of WordPress.com - Themes - Colinear in French (France)
+# This file is distributed under the same license as the WordPress.com - Themes - Colinear package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:39:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: WordPress.com - Themes - Colinear\n"
+
+#: inc/wpcom-colors.php:392
+msgid "Container"
+msgstr "Conteneur"
+
+#: inc/wpcom-colors.php:426
+msgid "Meta"
+msgstr "Méta"
+
+#: inc/wpcom-colors.php:238
+msgid "Links"
+msgstr "Liens"
+
+#: inc/wpcom-colors.php:148
+msgid "Text"
+msgstr "Texte"
+
+#: inc/wpcom-colors.php:9
+msgid "Background"
+msgstr "Arrière-plan"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47
+msgid "Tagged"
+msgstr "Tagué"
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:25
+#: template-parts/content.php:31
+msgid "Page"
+msgstr "Page"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/colinear/style.css
+msgid "Colinear -- our update to the older Coraline -- is a squeaky-clean theme featuring a custom menu, header, background, and layout options. Colinear supports featured images and six widget areas -- up to three each in the sidebar and footer. Primarily designed for magazine-style sites, Colinear is a flexible theme that suits any personal blog, or content-rich site."
+msgstr "Colinear – nouvelle mouture de l&rsquo;ancien thème Coraline – est un thème bien rodé qui vous permet d&rsquo;insérer un menu personnalisé, une image d&rsquo;en-tête et de fond, et de personnaliser la mise en page. Colinear prend en charge les images à la Une et comporte six zones de widgets&nbsp;: trois dans chaque colonne latérale et trois autres dans le pied de page. Le thème est parfait pour les sites de type magazine, mais compte tenu de sa grande souplesse il convient également à n&rsquo;importe quel blog personnel et à n&rsquo;importe quel site axé sur le contenu. "
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:21
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Contenu Introuvable. Voulez-vous lancer une nouvelle recherche&nbsp;?"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</a>&nbsp;!"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Précédent"
+
+#: single.php:21
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: single.php:20
+msgid "Next"
+msgstr "Suivant"
+
+#: single.php:20
+msgid "Next post:"
+msgstr "Article Suivant:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:149
+msgid "Continue reading %s"
+msgstr "Continuer de lire %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultat de Recherche pour: %s"
+
+#: inc/template-tags.php:56 template-parts/content-page.php:30
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/template-tags.php:52
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/template-tags.php:52
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: inc/template-tags.php:43
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/template-tags.php:32
+msgid "Featured Post"
+msgstr "Article mis en avant"
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:41 inc/template-tags.php:47
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: inc/customizer.php:39
+msgid "No Sidebar"
+msgstr "Sans Sidebar"
+
+#: inc/customizer.php:29
+msgid "Sidebars"
+msgstr "Barres latérales"
+
+#: functions.php:267
+msgid "collapse child menu"
+msgstr "fermer le sous-menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Accéder au contenu principal"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:187
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lora, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:192
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:226
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:266
+msgid "expand child menu"
+msgstr "ouvrir le sous-menu"
+
+#: functions.php:89
+msgid "Footer 1"
+msgstr "Pied&nbsp;de&nbsp;page&nbsp;1"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Pied de Page 2"
+
+#: functions.php:107
+msgid "Footer 3"
+msgstr "Pied&nbsp;de&nbsp;page&nbsp;3"
+
+#: functions.php:120
+msgid "Sidebar Right"
+msgstr "Sidebar C&ocirc;t&eacute; Droit"
+
+#: functions.php:131
+msgid "Sidebar Left"
+msgstr "Sidebar C&ocirc;t&eacute; Gauche"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème&nbsp;: %1$s par %2$s."
+
+#: functions.php:46 header.php:45
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Il semblerait que rien n&rsquo;ai été trouvé à cette adresse. Essayez peut-être une recherche&nbsp;?"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+msgstr[1] "%1$s réflexions au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
