@@ -1,0 +1,125 @@
+# Translation of WordPress.com - Themes - Rivington in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Rivington package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-10 18:23:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Rivington\n"
+
+#: inc/wpcom-colors.php:418 inc/wpcom-editor-colors.php:184
+msgid "Secondary Color"
+msgstr "Sekundär färg"
+
+#: inc/wpcom-colors.php:403 inc/wpcom-editor-colors.php:170
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: inc/wpcom-colors.php:240 inc/wpcom-editor-colors.php:111
+msgid "Link Color"
+msgstr "Länkfärg"
+
+#: inc/wpcom-colors.php:170 inc/wpcom-editor-colors.php:73
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: functions.php:105
+msgid "Foreground Dark"
+msgstr "Mörk förgrund"
+
+#: functions.php:100
+msgid "Foreground Light"
+msgstr "Ljus förgrund"
+
+#: functions.php:95
+msgid "Foreground"
+msgstr "Förgrund"
+
+#: functions.php:90
+msgid "Background"
+msgstr "Bakgrund"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:139
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:48
+msgid "collapsed"
+msgstr "minimerad"
+
+#: header.php:47
+msgid "expanded"
+msgstr "expanderad"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:41
+msgid "Main Navigation"
+msgstr "Primär navigation"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:85
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: functions.php:80
+msgid "Primary"
+msgstr "Primär"
+
+#: functions.php:54
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:53
+msgid "Huge"
+msgstr "Enorm"
+
+#: functions.php:48
+msgid "L"
+msgstr "L"
+
+#: functions.php:47
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:42
+msgid "M"
+msgstr "M"
+
+#: functions.php:41
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:36
+msgid "S"
+msgstr "S"
+
+#: functions.php:35
+msgid "Small"
+msgstr "Liten"
+
+#. translators: %s: WordPress.
+#: footer.php:56
+msgid "proudly powered by %s."
+msgstr "drivs med %s."
+
+#: footer.php:53
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:31
+msgid "Social Links Menu"
+msgstr "Meny för sociala länkar"
