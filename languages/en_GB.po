@@ -1,0 +1,286 @@
+
+Warning: mysqli_real_connect(): (HY000/1040): Too many connections in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2558 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451 call_user_func(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:373 invoke(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:396 run_command(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1162 run_command_and_exit(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Publication in English (UK)
+# This file is distributed under the same license as the WordPress.com - Themes - Publication package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-19 23:41:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: WordPress.com - Themes - Publication\n"
+
+#: functions.php:85
+msgid "Dark Orange"
+msgstr "Dark Orange"
+
+#: functions.php:80
+msgid "Orange"
+msgstr "Orange"
+
+#: functions.php:75
+msgid "White"
+msgstr "White"
+
+#: functions.php:70
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:65
+msgid "Medium Gray"
+msgstr "Medium Grey"
+
+#: functions.php:60
+msgid "Dark Gray"
+msgstr "Dark Grey"
+
+#: functions.php:55
+msgid "Black"
+msgstr "Black"
+
+#: inc/wpcom-colors.php:8
+msgid "Background"
+msgstr "Background"
+
+#: inc/wpcom-colors.php:276
+msgid "Sidebar Accent"
+msgstr "Sidebar Accent"
+
+#: inc/wpcom-colors.php:243
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/wpcom-colors.php:41
+msgid "Accent"
+msgstr "Accent"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "Publication is an elegant blog and magazine theme that features full-screen Featured Images. It’s perfect for sites about fashion, food, travel, or design. With balanced typography, colors, and attention to detail, Publication helps you create visually stunning posts."
+msgstr "Publication is an elegant blog and magazine theme that features full-screen featured images. It’s perfect for sites about fashion, food, travel, or design. With balanced typography, colours, and attention to detail, Publication helps you create visually stunning posts."
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "https://wordpress.com/themes/publication/"
+msgstr "https://wordpress.com/themes/publication"
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "Publication"
+msgstr "Publication"
+
+#: template-parts/content-page.php:43 template-parts/content-single.php:43
+msgid "Page"
+msgstr "Page"
+
+#: template-parts/content-page.php:39 template-parts/content-single.php:39
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: template-parts/content-author.php:30
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: template-parts/content-author.php:23
+msgid "Published by"
+msgstr "Published by"
+
+#: single.php:28
+msgid "Previous post:"
+msgstr "Previous post:"
+
+#: single.php:28
+msgid "Previous"
+msgstr "Previous"
+
+#: single.php:27
+msgid "Next post:"
+msgstr "Next post:"
+
+#: single.php:27
+msgid "Next"
+msgstr "Next"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:59 template-parts/content-page.php:50
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:46
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:46
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: inc/extras.php:79 template-parts/content.php:29
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:16 inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: inc/back-compat.php:36 inc/back-compat.php:46 inc/back-compat.php:59
+msgid "Publication requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Publication requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+
+#: header.php:68
+msgid "Social Navigation"
+msgstr "Social Navigation"
+
+#: header.php:54
+msgid "Primary Navigation"
+msgstr "Primary Navigation"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:275
+msgid "collapse child menu"
+msgstr "collapse child menu"
+
+#: functions.php:274
+msgid "expand child menu"
+msgstr "expand child menu"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:223
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Oswald, translate this to 'off'. Do not translate into your own language.
+#: functions.php:218
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Neuton, translate this to 'off'. Do not translate into your own language.
+#: functions.php:184
+msgctxt "Neuton font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:179
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:157
+msgid "Sidebar Two"
+msgstr "Sidebar Two"
+
+#: functions.php:148
+msgid "Sidebar One"
+msgstr "Sidebar One"
+
+#: functions.php:105
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: functions.php:104
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:16
+msgid "http://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: archive.php:41 index.php:46 search.php:36
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: archive.php:40 index.php:45 search.php:35
+msgid "Older posts"
+msgstr "Older posts"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
