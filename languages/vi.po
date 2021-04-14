@@ -1,0 +1,262 @@
+# Translation of WordPress.com - Themes - Saga in Vietnamese
+# This file is distributed under the same license as the WordPress.com - Themes - Saga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-27 20:57:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: WordPress.com - Themes - Saga\n"
+
+#: inc/wpcom-colors.php:42
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#: inc/wpcom-colors.php:35
+msgid "Links"
+msgstr "Liên kết"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:324
+msgid "Continue reading %s"
+msgstr "Đọc tiếp %s"
+
+#: inc/template-tags.php:227
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:225
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:221
+msgid "Archives: %s"
+msgstr "Lưu trữ: %s"
+
+#: inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Tán gẫu"
+
+#: inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Trạng thái"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Đường dẫn"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Trích dẫn"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Bộ sưu tập"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Trích đoạn bài viết"
+
+#: inc/template-tags.php:199
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:199
+msgid "Day: %s"
+msgstr "Ngày: %s"
+
+#: inc/template-tags.php:197
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F N"
+
+#: inc/template-tags.php:197
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#: inc/template-tags.php:195
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "N"
+
+#: inc/template-tags.php:195
+msgid "Year: %s"
+msgstr "Năm: %s"
+
+#: inc/template-tags.php:193
+msgid "Author: %s"
+msgstr "Tác giả: %s"
+
+#: inc/template-tags.php:191
+msgid "Tag: %s"
+msgstr "Thẻ: %s "
+
+#: inc/template-tags.php:189
+msgid "Category: %s"
+msgstr "Chuyên mục: %s"
+
+#: inc/template-tags.php:168
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: inc/template-tags.php:168
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:168
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153 inc/template-tags.php:159
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:88
+msgid "Next"
+msgstr "Sau"
+
+#: inc/template-tags.php:87
+msgid "Previous"
+msgstr "Trước"
+
+#: inc/template-tags.php:86
+msgid "Page"
+msgstr "Trang"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Các bài viết mới hơn"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Post cũ hơn"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Điều hướng các bài viết"
+
+#: inc/extras.php:88
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:146
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-single.php:13 content.php:13
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32 inc/template-tags.php:172
+msgid "Edit"
+msgstr "Sửa"
+
+#: content-page.php:24 content-single.php:133
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."

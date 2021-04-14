@@ -1,0 +1,194 @@
+/*
+Theme Name: Saga
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1. Reset
+2. Typography
+3. Navigation
+4. Header
+5. Main Content
+6. Comments
+7. Widgets
+8. Footer
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+1. Reset
+--------------------------------------------------------------*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+/*--------------------------------------------------------------
+2. Typography
+--------------------------------------------------------------*/
+ul,
+ol {
+	padding: 0 1.5em 0 0;
+}
+
+/*--------------------------------------------------------------
+3. Navigation
+--------------------------------------------------------------*/
+.menu {
+	text-align: right;
+	padding: 0;
+}
+.menu ul li a {
+	padding-left: 0;
+	padding-right: 2.5em;
+}
+
+@media (min-width: 48em) {
+	.posts-pagination {
+	  text-align: right;
+	}
+}
+/*--------------------------------------------------------------
+4. Header
+--------------------------------------------------------------*/
+.site-title {
+	margin-right: 0;
+	margin-left: .5em;
+}
+.site-logo-link {
+	margin: 0 0 0.75em 0.5eem;
+}
+
+.icon-menu {
+	margin: .25em 0 0 .5em;
+}
+
+.site-menu-inner {
+	right: auto;
+	left: 0;
+}
+
+@media (min-width: 48em) {
+	.site-header {
+		text-align: right;
+	}
+	.site-menu {
+		float: left;
+		text-align: left;
+	}
+	.site-branding {
+		float: right;
+	}
+	.site-logo {
+		margin: 0 0 0.75em 0.5em;
+	}
+	#site-menu-toggle {
+		float: left;
+	}
+}
+/*--------------------------------------------------------------
+5. Main Content
+--------------------------------------------------------------*/
+.entry-format:before {
+	font-size: 1em;
+	vertical-align: top;
+	text-align: center;
+	-moz-transition: color .1s ease-in 0;
+	-webkit-transition: color .1s ease-in 0;
+	display: inline-block;
+	font-family: "Genericons";
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	line-height: 1;
+	text-decoration: inherit;
+	text-transform: none;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	speak: none;
+	content: '';
+	margin: .25em 0 0 .25em;
+}
+
+.format-status .entry-content .avatar {
+	float: right;
+	margin: -0.5em 0 1.5em 1em;
+}
+
+.icon-link-external:before {
+	margin: .15em .15em 0 0;
+}
+
+.icon-link-external:before {
+	margin: .15em 0 0 .15em;
+}
+.icon-link-external:before {
+	content: "\f430";
+}
+
+/*--------------------------------------------------------------
+6. Comments
+--------------------------------------------------------------*/
+.comment-form label:before {
+	margin: .25em 0 0 .25em;
+}
+
+.comment-list {
+	padding-right: 0;
+}
+.comment-list .children {
+	padding-right: 0;
+	margin-left: 1.5em;
+	margin-left: 0;
+	margin-right: 1.5em;
+}
+
+.comment-meta {
+	text-align: right;
+}
+
+.comment-meta .avatar {
+	float: right;
+	margin: 0 0 1.5em 1em;
+}
+
+.reply {
+	text-align: left;
+	padding-right: 0;
+	padding-left: 1.5em;
+}
+
+.comment-form-author {
+	float: right;
+	padding-right: 0;
+	padding-left: .5em;
+}
+.comment-form-author label:before {
+	content: "\f304";
+}
+
+.comment-form-email {
+	float: right;
+	padding-left: 0;
+	padding-right: .5em;
+}
+
+/*--------------------------------------------------------------
+7. Widgets
+--------------------------------------------------------------*/
+.widget-title {
+	text-align: right;
+}
+
+.search-form label {
+	margin-right: 0;
+	margin-left: .25em;
+}
+
+.widget select {
+	float: right;
+}

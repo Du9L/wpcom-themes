@@ -1,0 +1,276 @@
+# Translation of WordPress.com - Themes - Saga in Serbian
+# This file is distributed under the same license as the WordPress.com - Themes - Saga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-31 10:23:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sr_RS\n"
+"Project-Id-Version: WordPress.com - Themes - Saga\n"
+
+#: inc/wpcom-colors.php:42
+msgid "Headings"
+msgstr "Заглавља"
+
+#: inc/wpcom-colors.php:35
+msgid "Links"
+msgstr "Везe"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати претраживања за: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:324
+msgid "Continue reading %s"
+msgstr "Настави са читањем %s"
+
+#: inc/template-tags.php:227
+msgid "Archives"
+msgstr "Архиве"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:225
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:221
+msgid "Archives: %s"
+msgstr "Архиве: %s"
+
+#: inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Ћаскања"
+
+#: inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Звучни записи"
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Стања"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Везе"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитати"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео записи"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Слике"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галерије"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Са стране"
+
+#: inc/template-tags.php:199
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y."
+
+#: inc/template-tags.php:199
+msgid "Day: %s"
+msgstr "Дан: %s"
+
+#: inc/template-tags.php:197
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:197
+msgid "Month: %s"
+msgstr "Месец: %s"
+
+#: inc/template-tags.php:195
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:195
+msgid "Year: %s"
+msgstr "Година: %s"
+
+#: inc/template-tags.php:193
+msgid "Author: %s"
+msgstr "Аутор: %s"
+
+#: inc/template-tags.php:191
+msgid "Tag: %s"
+msgstr "Ознака: %s"
+
+#: inc/template-tags.php:189
+msgid "Category: %s"
+msgstr "Категорија: %s"
+
+#: inc/template-tags.php:168
+msgid "% Comments"
+msgstr "% коментара"
+
+#: inc/template-tags.php:168
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: inc/template-tags.php:168
+msgid "Leave a comment"
+msgstr "Оставите коментар"
+
+#: inc/template-tags.php:155
+msgid "Posted in %1$s"
+msgstr "Објављено у %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153 inc/template-tags.php:159
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:127
+msgid "All %s posts"
+msgstr "Све објаве: %s"
+
+#: inc/template-tags.php:88
+msgid "Next"
+msgstr "Следеће"
+
+#: inc/template-tags.php:87
+msgid "Previous"
+msgstr "Претходно"
+
+#: inc/template-tags.php:86
+msgid "Page"
+msgstr "Страна"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Кретање чланака"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Новији чланци"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Старији чланци"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Кретање чланака"
+
+#: inc/extras.php:88
+msgid "Page %s"
+msgstr "Страна %s"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Изборник"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Скочи на садржај"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:146
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Примарни изборник"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s"
+msgstr "Тема: %1$s од %2$s"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Са поносом покреће %s"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://sr.wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-single.php:13 content.php:13
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Прочитајте више %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32 inc/template-tags.php:172
+msgid "Edit"
+msgstr "Уреди"
+
+#: content-page.php:24 content-single.php:133
+msgid "Pages:"
+msgstr "Стране:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Изгледа да не можемо да пронађемо оно што сте тражили. Можда ће претраживање или једна од веза испод помоћи."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Жао нам је, али ништа не одговара вашем упиту. Молимо вас да покушате поново са другим кључним речима."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Спремни сте да објавите свој први чланак? <a href=\"%1$s\">Започните овде</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Ништа није пронађено"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Затворено за коментаре."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Новији коментари &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Старији коментари"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Кретање коментара"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Једно мишљење на &#0132;%2$s&#0147;"
+msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
+msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Изгледа да ништа није пронађено на овом месту. Можда да покушате претраживање?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Та страница не може бити пронађена."

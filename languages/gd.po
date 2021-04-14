@@ -1,0 +1,268 @@
+# Translation of WordPress.com - Themes - Saga in Scottish Gaelic
+# This file is distributed under the same license as the WordPress.com - Themes - Saga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:39:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : (n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: gd_GB\n"
+"Project-Id-Version: WordPress.com - Themes - Saga\n"
+
+#: inc/wpcom-colors.php:42
+msgid "Headings"
+msgstr "Ceann-sgrìobhaidhean"
+
+#: inc/wpcom-colors.php:35
+msgid "Links"
+msgstr "Ceanglaichean"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Toraidhean luirg airson: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:324
+msgid "Continue reading %s"
+msgstr "Leugh an corr de %s"
+
+#: inc/template-tags.php:227
+msgid "Archives"
+msgstr "Tasg-lannan"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:225
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Cabadaich"
+
+#: inc/template-tags.php:221
+msgid "Archives: %s"
+msgstr "Tasg-lannan: %s"
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Staidean"
+
+#: inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Fuaim"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ceanglaichean"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videothan"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Luaidhean"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Dealbhan"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gailearaidhean"
+
+#: inc/template-tags.php:199
+msgid "Day: %s"
+msgstr "Latha: %s"
+
+#: inc/template-tags.php:199
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:197
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:197
+msgid "Month: %s"
+msgstr "Mìos: %s"
+
+#: inc/template-tags.php:195
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:195
+msgid "Year: %s"
+msgstr "Bliadhna: %s"
+
+#: inc/template-tags.php:193
+msgid "Author: %s"
+msgstr "Ùghdar: %s"
+
+#: inc/template-tags.php:191
+msgid "Tag: %s"
+msgstr "Taga: %s"
+
+#: inc/template-tags.php:189
+msgid "Category: %s"
+msgstr "Roinn-seòrsa: %s"
+
+#: inc/template-tags.php:168
+msgid "% Comments"
+msgstr "% beachd(an)"
+
+#: inc/template-tags.php:168
+msgid "1 Comment"
+msgstr "%1$s bheachd"
+
+#: inc/template-tags.php:168
+msgid "Leave a comment"
+msgstr "Sgrìobh beachd"
+
+#: inc/template-tags.php:155
+msgid "Posted in %1$s"
+msgstr "Air a phostadh ann an: %1$s"
+
+#: inc/template-tags.php:161
+msgid "Tagged %1$s"
+msgstr "Air a thagadh %1$s."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153 inc/template-tags.php:159
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:88
+msgid "Next"
+msgstr "Air adhart"
+
+#: inc/template-tags.php:87
+msgid "Previous"
+msgstr "Air ais"
+
+#: inc/template-tags.php:86
+msgid "Page"
+msgstr "duilleag"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Seòladaireachd nam post"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Puist nas ùire"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Puist nas sine"
+
+#: inc/extras.php:88
+msgid "Page %s"
+msgstr "Duilleag %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Seòladaireachd nam post"
+
+#: header.php:37
+msgid "Menu"
+msgstr "An clàr-taice"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Thoir leum gun t-susbaint"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:146
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "air"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s"
+msgstr "Ùrlar: %1$s le %2$s"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Am prìomh-chlàr-taice"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Le cumhaichd phròiseil %s"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-single.php:13 content.php:13
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Leugh an corr %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32 inc/template-tags.php:172
+msgid "Edit"
+msgstr "Deasaich"
+
+#: content-page.php:24 content-single.php:133
+msgid "Pages:"
+msgstr "Duilleagan:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tha coltas nach urrainn dhuinn na tha a dhìth ort fhaighinn dhut. Feuch is dèan lorg."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tha sinn duilich ach cha do lorg sinn dad airson na lorg thu. Feuch ris a-rithist le faclan-luirg eile."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Deiseil gus do chiad phost fhoillseachadh? <a href=\"%1$s\">Toiseach tòiseachaidh</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Cha deach dad a lorg"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Na beachdan as ùire &rarr;"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Tha na beachdan dùinte."
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Beachdan nas sine"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Seòladaireachd nam beachdan"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Tha coltas nach deach dad a lorg air an ionad sin. Saoil am b' fheairrde dhut lorg a dhèanamh?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ìoc! Chan urrainn dhuinn an duilleag seo a lorg."
