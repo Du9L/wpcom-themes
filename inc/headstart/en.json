@@ -1,0 +1,77 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "stylesheet": "pub\/edda"
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "header_image": "remove-header"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": "Search"
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "About",
+            "post_content": "This is an example of an about page. Unlike posts, pages are better suited for more timeless content that you want to be easily accessible, like your About or Contact information. Click the Edit link to make changes to this page or <a href=\"https:\/\/wordpress.com\/page\">add another page<\/a>.",
+            "post_excerpt": "This is just a short excerpt for the about&nbsp;page.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "attachment_url": "https:\/\/headstartdata.files.wordpress.com\/2016\/04\/stairs-lights-abstract-bubbles.jpg",
+            "hs_old_id": 100
+        },
+        {
+            "post_title": "Contact",
+            "post_content": "This is a contact page with some basic contact information and a contact form. [contact-form][contact-field label=\"Name\" type=\"name\" required=\"1\"\/][contact-field label=\"Email\" type=\"email\" required=\"1\"\/][contact-field label=\"Website\" type=\"url\"\/][contact-field label=\"Comment\" type=\"textarea\" required=\"1\"\/][\/contact-form]",
+            "post_excerpt": "This is just a short excerpt for the contact&nbsp;page.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "attachment_url": "https:\/\/headstartdata.files.wordpress.com\/2016\/04\/person-smartphone-office-table.jpeg",
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "First blog post",
+            "post_content": "This is your very first post. Click the Edit link to modify or delete it, or <a href=\"https:\/\/wordpress.com\/post\">start a new post<\/a>. If you like, use this post to tell readers why you started this blog and what you plan to do with it.",
+            "post_excerpt": "This is the excerpt for your very first post.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "attachment_url": "https:\/\/headstartdata.files.wordpress.com\/2016\/04\/pexels-photo-30732.jpg",
+            "hs_old_id": 102
+        }
+    ]
+}

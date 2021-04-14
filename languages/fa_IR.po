@@ -1,0 +1,338 @@
+
+Warning: mysqli_real_connect(): (HY000/1040): Too many connections in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:115 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:528 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+
+Warning: mysqli_real_connect(): (HY000/1040): Too many connections in /home/wpcom/public_html/wp-content/db.php on line 1279 [translate.wordpress.com] [/db.php:1279 mysqli_real_connect(), /db.php:619 ex_mysql_connect(), /db.php:837 db_connect(), wp-includes/wp-db.php:2503 query(), /plugins/glotpress/gp-includes/thing.php:99 get_row(), /plugins/glotpress/gp-includes/things/project.php:59 one(), /plugins/glotpress/gp-includes/cli/translation-set.php:13 by_path(), /plugins/glotpress/gp-includes/cli/translation-set.php:59 get_translation_set(), export(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/class-wp-cli.php:329 run_command(), bin/wp-cli-wpcom/commands/glotpress.php:115 run_command(), translation_set(), bin/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:35 call_user_func(), WP_CLI\Dispatcher\{closure}(), bin/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:212 call_user_func(), bin/wp-cli/php/WP_CLI/Runner.php:206 invoke(), bin/wp-cli/php/WP_CLI/Runner.php:213 run_command(), bin/wp-cli/php/WP_CLI/Runner.php:528 _run_command(), bin/wp-cli/php/wp-cli.php:29 after_wp_load(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Edda in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Edda package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 06:54:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Edda\n"
+
+#: inc/wpcom-colors.php:39
+msgid "Headings"
+msgstr "سرنامه‌ها"
+
+#: inc/wpcom-colors.php:32
+msgid "Links & Header"
+msgstr "پیوندها و سربرگ"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:159
+msgid "Tagged"
+msgstr "برچسب‌خورده با"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/edda/style.css
+msgid "http://choycedesign.com"
+msgstr "http://choycedesign.com"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/edda/style.css
+msgid "Mel Choyce"
+msgstr "Mel Choyce"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/edda/style.css
+msgid "With room for your big, beautiful photos and displaying elegant, classical type, Edda is built for dedicated writers and bloggers like you to showcase your work."
+msgstr "جای کافی برای نمایش عکس‌های بزرگ و زیبای شما. سبک کلاسیک. Edda برای نویسندگان و وب‌نویسانی همچون شما ساخته شده تا آثارتان را به درد همگان بگذارید."
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/edda/style.css
+msgid "http://wordpress.com/themes/edda/"
+msgstr "http://wordpress.com/themes/edda/"
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/edda/style.css
+msgid "Edda"
+msgstr "Edda"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:318
+msgid "Continue reading %s"
+msgstr "ادامه خواندن %s"
+
+#: inc/template-tags.php:224
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:222
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:218
+msgid "Archives: %s"
+msgstr "بایگانی‌ها: %s"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "گپ‌ها"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "صوت"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "پیوندها"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "گفتاوردها"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "فیلم‌ها"
+
+#: inc/template-tags.php:203
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصویرها"
+
+#: inc/template-tags.php:201
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گالری‌‌ها"
+
+#: inc/template-tags.php:199
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "در حاشیه‌ها"
+
+#: inc/template-tags.php:196
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:196
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: inc/template-tags.php:194
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:194
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: inc/template-tags.php:192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:192
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/template-tags.php:190
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: inc/template-tags.php:188
+msgid "Tag: %s"
+msgstr "برچسب‌ها: %s"
+
+#: inc/template-tags.php:186
+msgid "Category: %s"
+msgstr "دسته: %s"
+
+#: inc/template-tags.php:165
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:165
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: inc/template-tags.php:165
+msgid "Leave a comment"
+msgstr "دیدگاهی بنویسید"
+
+#: inc/template-tags.php:155
+msgid "Posted in %1$s"
+msgstr "ارسال شده در %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153 inc/template-tags.php:159
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:143
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:127
+msgid "All %s posts"
+msgstr "همۀ %s نوشته"
+
+#: inc/template-tags.php:107
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "نوشتهٔ %s"
+
+#: inc/template-tags.php:88
+msgid "Next"
+msgstr "پسین"
+
+#: inc/template-tags.php:87
+msgid "Previous"
+msgstr "پیشین"
+
+#: inc/template-tags.php:86
+msgid "Page"
+msgstr "برگه"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "پیمایش نوشته"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "نوشته‌های تازه‌تر"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "نوشته‌های پیشین"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پیمایش نوشته ها"
+
+#: inc/extras.php:87
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: header.php:37
+msgid "Menu"
+msgstr "فهرست"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by alegreya, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:147
+msgctxt "Ubuntu font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by alegreya, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:141
+msgctxt "Alegreya font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by vollkorn, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:135
+msgctxt "Vollkorn font: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: functions.php:93
+msgid "Menu Widget Area"
+msgstr "پهنهٔ ابزارک گزینگان"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "فهرست اصلی"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s"
+msgstr "پوسته: %1$s کاری از %2$s"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "با افتخار نیرو گرفته از %s"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-single.php:13 content.php:13
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن %s ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32 inc/template-tags.php:169
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-page.php:24 content-single.php:133
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفانه، هیچ‌چیزی با عبارت‌های جستجوی شما مطابقت نداشت. لطفاً دوباره با چند کلیدواژهٔ متفاوت تلاش کنید."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نظر برای &ldquo;%2$s&rdquo;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "به نظر می‌رسد چیزی اینجا نیست. مایل هستید جستجو کنید؟"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."

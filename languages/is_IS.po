@@ -1,0 +1,269 @@
+# Translation of WordPress.com - Themes - Edda in Icelandic
+# This file is distributed under the same license as the WordPress.com - Themes - Edda package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-03 04:20:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n % 100 != 1 && n % 100 != 21 && n % 100 != 31 && n % 100 != 41 && n % 100 != 51 && n % 100 != 61 && n % 100 != 71 && n % 100 != 81 && n % 100 != 91);\n"
+"X-Generator: GlotPress/2.3.0-rc.1\n"
+"Language: is\n"
+"Project-Id-Version: WordPress.com - Themes - Edda\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:159
+msgid "Tagged"
+msgstr "Merkt"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Leitarniðurstöður fyrir: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:318
+msgid "Continue reading %s"
+msgstr "Halda áfram að lesa: %s"
+
+#: inc/template-tags.php:224
+msgid "Archives"
+msgstr "Færslusöfn"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:222
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:218
+msgid "Archives: %s"
+msgstr "Færslusafn: %s"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Samtöl"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Hljóðskrár"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stöður"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Tenglar"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Tilvitnanir"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Myndbönd"
+
+#: inc/template-tags.php:203
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Myndir"
+
+#: inc/template-tags.php:201
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Myndasöfn"
+
+#: inc/template-tags.php:199
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Innskot"
+
+#: inc/template-tags.php:196
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F, Y"
+
+#: inc/template-tags.php:196
+msgid "Day: %s"
+msgstr "Dagur: %s"
+
+#: inc/template-tags.php:194
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "M Á"
+
+#: inc/template-tags.php:194
+msgid "Month: %s"
+msgstr "Mánuður: %s"
+
+#: inc/template-tags.php:192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Á"
+
+#: inc/template-tags.php:192
+msgid "Year: %s"
+msgstr "Ár: %s"
+
+#: inc/template-tags.php:190
+msgid "Author: %s"
+msgstr "Höfundur: %s"
+
+#: inc/template-tags.php:188
+msgid "Tag: %s"
+msgstr "Efnisorð: %s"
+
+#: inc/template-tags.php:186
+msgid "Category: %s"
+msgstr "Flokkur: %s"
+
+#: inc/template-tags.php:165
+msgid "% Comments"
+msgstr "% athugasemdir"
+
+#: inc/template-tags.php:165
+msgid "1 Comment"
+msgstr "1 athugasemd"
+
+#: inc/template-tags.php:165
+msgid "Leave a comment"
+msgstr "Skildu eftir athugasemd"
+
+#: inc/template-tags.php:155
+msgid "Posted in %1$s"
+msgstr "Birt í %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153 inc/template-tags.php:159
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:143
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:127
+msgid "All %s posts"
+msgstr "Allar %s færslur"
+
+#: inc/template-tags.php:88
+msgid "Next"
+msgstr "Næst"
+
+#: inc/template-tags.php:87
+msgid "Previous"
+msgstr "Til baka"
+
+#: inc/template-tags.php:86
+msgid "Page"
+msgstr "Síða"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Leiðarkerfi færslna"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Nýrri færslur"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Eldri færslur"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Leiðarstýring færslna"
+
+#: inc/extras.php:87
+msgid "Page %s"
+msgstr "Síða %s"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Valmynd"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Fara að efni"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Aðalvalmynd"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s"
+msgstr "Þema: %1$s eftir %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Keyrt með stolti á %s"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-single.php:13 content.php:13
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lesa áfram %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32 inc/template-tags.php:169
+msgid "Edit"
+msgstr "Breyta"
+
+#: content-page.php:24 content-single.php:133
+msgid "Pages:"
+msgstr "Síður:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Það lítur út fyrir að við finnum ekki það sem þú sækist eftir. Hugsanlega hjálpar til að nota leitina."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Því miður, ekkert fannst sem passaði við leitarskilyrðin. Vinsamlega reyndu aftur með öðrum leitarorðum."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Tilbúin(n) til að birta fyrstu færsluna þína? <a href=\"%1$s\">Byrjaðu hér</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Ekkert fannst"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Lokað er á athugasemdir."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Nýrri athugasemdir &raquo;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&laquo; Eldri athugasemdir"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "Leiðastýring athugasemda"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein athugasemd við &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s athugasemdir við &ldquo;%2$s&rdquo;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Svo virðist sem ekkert hafi fundist á þessari slóð. Viltu reyna leitina?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Úbbs! Þessi síða fannst ekki."

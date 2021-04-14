@@ -1,0 +1,303 @@
+# Translation of WordPress.com - Themes - Edda in French (France)
+# This file is distributed under the same license as the WordPress.com - Themes - Edda package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-09 07:49:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: WordPress.com - Themes - Edda\n"
+
+#: inc/wpcom-colors.php:32
+msgid "Links & Header"
+msgstr "Liens et en-tête"
+
+#: inc/wpcom-colors.php:39
+msgid "Headings"
+msgstr "En-têtes"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:159
+msgid "Tagged"
+msgstr "Tagué"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/edda/style.css
+msgid "With room for your big, beautiful photos and displaying elegant, classical type, Edda is built for dedicated writers and bloggers like you to showcase your work."
+msgstr "Grâce à la place prévue pour vos photos imposantes et jolies et un style à la fois élégant et classique, Edda est conçu pour les écrivains et les blogueurs dévoués comme vous afin de présenter votre travail."
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:222
+msgid "%1$s: %2$s"
+msgstr "%1$s&nbsp;: %2$s"
+
+#: inc/template-tags.php:224
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:318
+msgid "Continue reading %s"
+msgstr "Continuer la lecture de %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultat de Recherche pour: %s"
+
+#: inc/template-tags.php:203
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuts"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Son"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:218
+msgid "Archives: %s"
+msgstr "Archives&nbsp;: %s"
+
+#: inc/template-tags.php:194
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: inc/template-tags.php:194
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:196
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: inc/template-tags.php:196
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:199
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartés"
+
+#: inc/template-tags.php:201
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: inc/template-tags.php:186
+msgid "Category: %s"
+msgstr "Cat&eacute;gorie: %s"
+
+#: inc/template-tags.php:188
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:190
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/template-tags.php:192
+msgid "Year: %s"
+msgstr "Ann&eacute;e: %s"
+
+#: inc/template-tags.php:192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:165
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: inc/template-tags.php:165
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/template-tags.php:155
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: inc/template-tags.php:165
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:87
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/template-tags.php:88
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/template-tags.php:127
+msgid "All %s posts"
+msgstr "Tous les articles de %s"
+
+#: inc/template-tags.php:143
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153 inc/template-tags.php:159
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:107
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "Écrit par %s"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Articles Pr&eacute;c&eacute;dents"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Articles Plus R&eacute;cents"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:86
+msgid "Page"
+msgstr "Page"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/extras.php:87
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s"
+msgstr "Thème : %1$s par %2$s"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by vollkorn, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:135
+msgctxt "Vollkorn font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by alegreya, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:141
+msgctxt "Alegreya font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Accéder au contenu principal"
+
+#. translators: %s: Name of current post
+#: content-single.php:13 content.php:13
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: content-page.php:32 inc/template-tags.php:169
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-page.php:24 content-single.php:133
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Contenu Introuvable. Voulez-vous lancer une recherche?"
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Contenu Introuvable. Réessayez en modifiant les termes de recherche."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pr&ecirc;t &agrave; publier votre premier article ? <a href=\"%1$s\">Allons-y !</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires Plus Récents &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires Pr&eacute;c&eacute;dents"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une r&eacute;flexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s r&eacute;flexions sur &ldquo;%2$s&rdquo;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec recherche&nbsp;?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."

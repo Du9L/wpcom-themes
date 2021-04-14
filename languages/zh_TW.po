@@ -1,0 +1,65 @@
+# Translation of Edda in Chinese (Taiwan)
+# This file is distributed under the same license as the Edda package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-09 15:53:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Edda\n"
+
+#: content-page.php:32 inc/template-tags.php:172
+msgid "Edit"
+msgstr "編輯"
+
+#: content-page.php:24 content-single.php:133
+msgid "Pages:"
+msgstr "頁次："
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "沒有找到你要的內容。也許你可以搜尋一下看看。"
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，沒東西符合你的搜尋條件。請試試其他不同關鍵字。"
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發表你的第一篇文章了嗎？<a href=\"%1$s\">自這裡開始</a>。"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "什麼都沒找到"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "迴響已被關閉。"
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "較新的評論 &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; 較早的評論"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "評論分頁導航"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; 有 %1$s 則迴響"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "看來這裡找不到東西。也許可以試試看搜尋？"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"
