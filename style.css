@@ -1,0 +1,571 @@
+/*
+Theme Name: Circa
+Theme URI: https://wordpress.com/themes/circa/
+Description: Circa is a minimal, one-column theme for your personal blog. Post formats are highlighted with an icon surrounded by a circle shape and displayed in a colorful style. The responsive design for this theme looks great on any device, large or small.
+Version: 1.1.3
+Author: Automattic
+Author URI: https://wordpress.com/themes/
+Template: hexa-wpcom
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: circa
+*/
+
+@import url(../hexa/style.css);
+
+* html {
+  font-size: 112.5%;
+}
+
+html {
+  font-size: 18px;
+  line-height: 1.6em;
+}
+
+.entry-format {
+  background-color: #aec26b;
+  border-radius: 50%;
+  left: -13px;
+  width: 60px;
+  text-indent: 0;
+  text-align: center;
+}
+.entry-format:before {
+  border: 0;
+  left: 0;
+  line-height: 60px;
+  width: 100%;
+}
+.entry-format:after {
+  display: none;
+}
+@media screen and (max-width: 48.81em) {
+  .entry-format {
+    width: 42px;
+    height: 42px;
+    right: 28px;
+    left: auto;
+    text-indent: 0;
+    text-align: center;
+    top: 28px;
+  }
+  .entry-format:before {
+    line-height: 42px;
+  }
+}
+
+.toggles {
+  margin-top: 0;
+}
+.toggles #menu-toggle {
+  text-indent: 0;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles {
+    margin: 14px 0 0;
+    max-width: 100%;
+  }
+}
+.toggles .toggle {
+  border-radius: 50%;
+  margin-right: 7px;
+  position: relative;
+  text-align: center;
+  text-indent: 0;
+  width: 50px;
+}
+.toggles .toggle:nth-of-type(1) {
+  top: auto;
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(1) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:nth-of-type(2) {
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(2) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:nth-of-type(3) {
+  top: auto;
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(3) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:nth-of-type(4) {
+  top: auto;
+  left: auto;
+}
+@media only screen and (max-width: 48.81em) {
+  .toggles .toggle:nth-of-type(4) {
+    top: auto;
+    left: auto;
+    margin-top: 0;
+  }
+}
+.toggles .toggle:before {
+  border: 0 none;
+  color: rgba(255, 255, 255, 0.6);
+  left: auto;
+  display: block;
+  line-height: 50px;
+  width: 100%;
+}
+.toggles .toggle:after {
+  display: none;
+}
+
+.author-archives-img {
+  border-color: #f2f1ef;
+}
+
+.comment .comment .avatar-wrapper img {
+  max-width: 40px;
+}
+
+body {
+  background: #f2f1ef;
+  color: #7d7565;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+button,
+input,
+select,
+textarea {
+  color: #f19292;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #f19292;
+  font-family: "Gabriela", Georgia, Times, serif;
+}
+
+h6 {
+  text-transform: none;
+}
+
+hr {
+  background-color: #f19292;
+}
+
+blockquote {
+  color: #89614f;
+  border-left: 5px solid #aec26b;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  background-color: #f19292;
+}
+button:hover, button:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+  background-color: #aec26b;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"] {
+  background: #f9f8f7;
+  border: 1px solid #f2f1ef;
+}
+input[type="text"]:hover, input[type="text"]:focus,
+input[type="email"]:hover,
+input[type="email"]:focus,
+input[type="url"]:hover,
+input[type="url"]:focus,
+input[type="password"]:hover,
+input[type="password"]:focus,
+input[type="search"]:hover,
+input[type="search"]:focus {
+  background: white;
+  border: 1px solid #dbd8d3;
+}
+
+textarea {
+  background: #f9f8f7;
+  border: 1px solid #f2f1ef;
+}
+textarea:focus {
+  background: white;
+  border: 1px solid #dbd8d3;
+}
+
+abbr, acronym {
+  border-bottom: 1px dotted #ada79b;
+}
+
+td {
+  border-bottom: 1px solid rgba(173, 167, 155, 0.25);
+}
+
+a {
+  color: #aec26b;
+}
+a:visited {
+  color: #aec26b;
+}
+a:hover, a:focus, a:active {
+  color: #89614f;
+}
+
+img.alignleft,
+.wp-caption.alignleft,
+img.alignright,
+.wp-caption.alignright {
+  border-color: #f2f1ef;
+}
+
+.site-header {
+  border-left: 8px solid #aec26b;
+  padding-right: 0;
+}
+
+.site-footer {
+  border-left: 8px solid #f19292;
+  color: #f19292;
+  letter-spacing: 1px;
+}
+.site-footer a {
+  color: #f19292;
+}
+
+.site-title a {
+  color: #aec26b;
+  font-family: "Gabriela", Georgia, Times, serif;
+}
+
+.site-description {
+  font-size: 0.77778em;
+  letter-spacing: 1px;
+  line-height: 2.05714em;
+  color: #ada79b;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+}
+
+.toggles .toggle {
+  background-color: #aec26b;
+}
+.toggles .toggle:last-of-type {
+  margin-right: 0;
+}
+.toggles #menu-toggle {
+  background-color: #aec26b;
+}
+.toggles #sidebar-toggle {
+  background-color: #89614f;
+}
+.toggles #social-links-toggle {
+  background-color: #f1d096;
+}
+.toggles #search-toggle {
+  background-color: #f19292;
+}
+
+.panel {
+  background: #aec26b;
+}
+.panel .search-wrapper input[type="submit"] {
+  background: #aec26b;
+}
+
+.main-navigation a {
+  color: rgba(255, 255, 255, 0.75);
+  letter-spacing: 1px;
+}
+.main-navigation ul ul:before {
+  border-bottom-color: #f19292;
+}
+.main-navigation li li {
+  background: #f19292;
+}
+
+.hentry {
+  border-left: 8px solid #aec26b;
+}
+.hentry.sticky {
+  border-color: #f19292;
+}
+.hentry.sticky .entry-format {
+  background-color: #f19292;
+}
+.hentry.format-gallery, .hentry.format-aside {
+  border-color: #ada79b;
+}
+.hentry.format-gallery .entry-format, .hentry.format-aside .entry-format {
+  background: #ada79b;
+}
+.hentry.format-link {
+  border-color: #f7bfbf;
+}
+.hentry.format-link .entry-format {
+  background: #f7bfbf;
+}
+.hentry.format-video, .hentry.format-audio {
+  border-color: #9f4f4f;
+}
+.hentry.format-video .entry-format, .hentry.format-audio .entry-format {
+  background: #9f4f4f;
+}
+.hentry.format-status, .hentry.format-quote {
+  border-color: #f1d096;
+}
+.hentry.format-status .entry-format, .hentry.format-quote .entry-format {
+  background: #f1d096;
+}
+.hentry.format-image, .hentry.format-gallery {
+  border-color: #89614f;
+}
+.hentry.format-image .entry-format, .hentry.format-gallery .entry-format {
+  background-color: #89614f;
+}
+.hentry .entry-format:before {
+  background-color: #aec26b;
+}
+
+.page-links {
+  color: #9f4f4f;
+}
+.page-links span.active-link {
+  background-color: #aec26b;
+}
+.page-links a span.active-link {
+  background-color: #f19292;
+}
+.page-links a:hover span.active-link {
+  background-color: #aec26b;
+}
+
+a.more-link {
+  color: #9f4f4f;
+}
+a.more-link:hover {
+  color: #89614f;
+}
+
+.entry-title {
+  font-family: "Gabriela", Georgia, Times, serif;
+  font-size: 2em;
+  line-height: 1.69em;
+  color: #aec26b;
+}
+@media screen and ( max-width: 48.81em ) {
+	.entry-title {
+		font-size: 1.6em;
+	}
+}
+.entry-title a {
+  color: #aec26b;
+}
+
+.entry-meta, #cancel-comment-reply-link, .reply {
+  letter-spacing: 1px;
+  color: #ada79b;
+}
+.entry-meta a, #cancel-comment-reply-link a, .reply a {
+  color: #ada79b;
+}
+
+.page-header {
+  border-left: 8px solid #f19292;
+}
+
+.page-title {
+  color: #f19292;
+  font-family: "Gabriela", Georgia, Times, serif;
+}
+
+.author-archives-img {
+  margin-top: -14px;
+}
+
+.author-archives-img img {
+  border-radius: 50%;
+}
+
+.taxonomy-description {
+  color: #ada79b;
+}
+
+.wp-caption {
+  background: #f2f1ef;
+}
+
+.wp-caption-text {
+  color: #89614f;
+}
+
+.post-navigation,
+.paging-navigation {
+  left: -8px;
+  width: 116px;
+  background: transparent;
+}
+
+.post-navigation a,
+.paging-navigation a {
+  background: transparent;
+}
+.post-navigation a:before,
+.paging-navigation a:before {
+  background: #f19292;
+  border-radius: 50%;
+}
+.post-navigation a:hover:before,
+.paging-navigation a:hover:before {
+  background: #aec26b;
+}
+.post-navigation:before,
+.paging-navigation:before {
+  border-left: 8px solid #f19292;
+  content: "";
+  display: block;
+  height: 100%;
+  margin-left: -4px;
+  position: absolute;
+  left: 50%;
+  z-index: -1;
+}
+
+@media screen and (max-width: 48.81em) {
+	.post-navigation,
+	.paging-navigation {
+		left: 36.8px;
+		width: 108px;
+	}
+	.post-navigation:before,
+	.paging-navigation:before {
+	  margin-left: -4px;
+	  left: -32.8px;
+	}
+}
+
+.comment-metadata, .comment-metadata a {
+  color: #ada79b;
+}
+
+.comment-navigation .nav-previous a {
+  color: #ada79b;
+}
+.comment-navigation .nav-next a {
+  color: #ada79b;
+}
+
+.comments-area {
+  border-left: 8px solid #f19292;
+}
+
+.comment-author {
+  color: #aec26b;
+  font-family: "Gabriela", Georgia, Times, serif;
+}
+.comment-author a:hover {
+  color: #aec26b;
+}
+.comment-author .avatar-wrapper {
+  border-color: #f2f1ef;
+  border-radius: 50%;
+  margin-top: -14px;
+}
+@media screen and (max-width: 48.81em) {
+  .comment-author .avatar-wrapper {
+    border: 3px solid #f19292;
+  }
+}
+.comment-author .avatar-wrapper img {
+  border-radius: 50%;
+}
+
+.comment .comment .avatar-wrapper {
+  border: 5px solid #f19292;
+}
+
+.bypostauthor > .comment-body .comment-author:second-of-type .avatar-wrapper {
+  border-color: #aec26b;
+}
+
+.comment-metadata, .comment-metadata a {
+  color: #ada79b;
+}
+
+.comments-title {
+  color: #f19292;
+}
+
+.required {
+  color: #aec26b;
+}
+
+.form-allowed-tags {
+  color: #ada79b;
+}
+
+.no-comments {
+  color: #ada79b;
+}
+
+.panel .widget-areas .widget-area .widget .widget-title {
+  font-family: "Gabriela", Georgia, Times, serif;
+  text-transform: none;
+}
+
+.widget_search input {
+  border-color: #e7e5e1;
+}
+
+.wp_widget_tag_cloud div a,
+.widget_tag_cloud .tagcloud a {
+  color: #aec26b;
+}
+
+#infinite-footer .container {
+  background: rgba(242, 241, 239, 0.5);
+  color: #ada79b;
+}
+#infinite-footer .container a {
+  color: #ada79b;
+}
+#infinite-footer .container a:hover {
+  color: #ada79b;
+}
+.infinite-loader {
+  border-left: 8px solid #aec26b;
+}
+
+@media only screen and (max-width: 48.81em) {
+  #infinite-handle {
+    border-left: 8px solid #aec26b;
+  }
+}
+
+#infinite-handle span {
+  background: #f19292;
+  letter-spacing: 1px;
+}
+#infinite-handle span:hover, #infinite-handle span:focus {
+  background: #aec26b;
+}

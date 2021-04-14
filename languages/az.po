@@ -1,0 +1,39 @@
+# Translation of Circa in Azerbaijani
+# This file is distributed under the same license as the Circa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-24 12:37:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Circa\n"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/circa/style.css
+msgid "Circa is a minimal, one-column theme for your personal blog. Post formats are highlighted with an icon surrounded by a circle shape and displayed in a colorful style. The responsive design for this theme looks great on any device, large or small."
+msgstr "Circa is a minimal, one-column theme for your personal blog. Post formats are highlighted with an icon surrounded by a circle shape and displayed in a colorful style. The responsive design for this theme looks great on any device, large or small."
+
+#. translators: If there are characters in your language that are not supported
+#. by Gabriela, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:29
+msgctxt "Gabriela font: on or off"
+msgid "on"
+msgstr "açıq"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:38
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Mövzu: %1$s tərəfindən %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s qürurla təqdim edər"
