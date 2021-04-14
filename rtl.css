@@ -1,0 +1,195 @@
+/*
+Theme Name: Wilson
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+ul, ol {
+	margin: 0 1.5em 1.1em 0;
+}
+li > ul,
+li > ol {
+	margin-left: 0;
+	margin-right: 1em;
+}
+.main-navigation ul ul a {
+	padding-left: 0;
+	padding-right: 16%;
+}
+.main-navigation ul ul ul a {
+	padding-left: 0;
+	padding-right: 24%;
+}
+.menu-toggle {
+	left: 8%;
+	right: auto;
+}
+.comment-navigation .nav-previous,
+.paging-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: right;
+}
+
+.comment-navigation .nav-next,
+.paging-navigation .nav-next,
+.post-navigation .nav-next {
+	float: left;
+	text-align: left;
+}
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+.alignright {
+	float: right;
+	margin-left: 1em;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 1em;
+	margin-left: auto;
+}
+.site-content:after {
+	clear: left;
+}
+.widget-area .widget_recent_entries li .post-date {
+	margin-left: 0;
+	margin-right: 5px;
+}
+.widget-area #wp-calendar tfoot #prev {
+	text-align: right;
+}
+.widget-area .widget_recent_entries li .post-date:before {
+	content: none;
+}
+.widget-area .widget_recent_entries li .post-date:after {
+	content: none;
+}
+.widget-area #wp-calendar tfoot #next {
+	text-align: left;
+}
+.widget_search input[type="search"] {
+	padding: 14px 5% 16px 15%;
+}
+.widget_search .search-submit {
+	left: 0;
+	right: auto;
+    text-indent: 9999px;
+}
+.widget_search .search-submit:hover,
+.widget_search .search-submit:active,
+.widget_search .search-submit:focus {
+	left: 0;
+	right: auto;
+    text-indent: 9999px;
+}
+.widget_search .genericon-search {
+	left: 6px;
+	right: auto;
+}
+.widget-area .tagcloud a {
+	margin: 0 0 5px 5px;
+}
+.entry-footer .cat-links {
+	margin-left: 20px;
+	margin-right: 0;
+}
+.comment-list .comment-author .avatar {
+	float: right;
+	margin-left: 20px;
+	margin-right: 0;
+}
+.comment-list .comment-content {
+	padding-left: 0;
+	padding-right: 67px;
+}
+.comment-list .reply {
+	padding-left: 0;
+	padding-right: 67px;
+}
+.comment-respond #cancel-comment-reply-link {
+	float: left;
+}
+.featured-image .flag {
+	border-radius: 0 4px 4px 0;
+	left: 0;
+	right: auto;
+}
+@media only screen and (min-width: 789px) {
+	.site {
+		background-position: left;
+	}
+	.site-header {
+		float: right;
+	}
+	.site-branding {
+		text-align: right;
+	}
+	.content-area {
+		float: left;
+	}
+	.site-content .widget-area {
+		clear: right;
+		float: right;
+	}
+	.site-footer {
+		clear: left;
+		float: left;
+	}
+	.widget-areas .widget-area {
+		float: right;
+	}
+	.widget-areas .widget-area:nth-child(1):nth-last-child(2),
+	.widget-areas .widget-area:nth-child(2):nth-last-child(1) {
+		margin-left: 4%;
+		margin-right: 0;
+	}
+	.widget-areas .widget-area:nth-child(1):nth-last-child(2):last-of-type,
+	.widget-areas .widget-area:nth-child(2):nth-last-child(1):last-of-type {
+		margin-left: 0;
+	}
+	.main-navigation ul ul a,
+	.main-navigation ul ul ul a {
+		padding-right: 0;
+	}
+	.main-navigation a:hover,
+	.main-navigation a:active,
+	.main-navigation a:focus,
+	.main-navigation ul ul a:hover,
+	.main-navigation ul ul a:active,
+	.main-navigation ul ul a:focus,
+	.main-navigation ul ul ul a:hover,
+	.main-navigation ul ul ul a:active,
+	.main-navigation ul ul ul a:focus {
+		padding-left: 0;
+		padding-right: 10px;
+	}
+	.main-navigation ul ul,
+	.main-navigation ul ul ul {
+		margin-left: 0;
+		margin-right: 25px;
+	}
+	.featured-image .flag {
+		left: 8%;
+		right: auto;
+	}
+}
+@media only screen and (min-width: 1100px) {
+	.main-navigation {
+		border-radius: 0 8px 8px 0;
+	}
+}

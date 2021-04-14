@@ -1,0 +1,395 @@
+/* Theme Name: Wilson
+ * Description: Used to style the TinyMCE editor. */
+
+ /*--------------------------------------------------------------
+- Reset
+--------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+html {
+	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+	overflow-y: scroll; /* Keeps page centered in all browsers regardless of content height */
+	-webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
+	-ms-text-size-adjust:     100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+}
+*,
+*:before,
+*:after { /* apply a natural box layout model to all elements; see http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+	-webkit-box-sizing: border-box; /* Not needed for modern webkit but still used by Blackberry Browser 7.0; see http://caniuse.com/#search=box-sizing */
+	-moz-box-sizing:    border-box; /* Still needed for Firefox 28; see http://caniuse.com/#search=box-sizing */
+	box-sizing:         border-box;
+}
+body {
+	background: #fff;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+nav,
+section {
+	display: block;
+}
+ol, ul {
+	list-style: none;
+}
+table { /* tables still need 'cellspacing="0"' in the markup */
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	font-weight: normal;
+	text-align: left;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+a:focus {
+	outline: thin dotted;
+}
+a:hover,
+a:active {
+	outline: 0;
+}
+a img {
+	border: 0;
+}
+
+/*--------------------------------------------------------------
+- Rebuild
+--------------------------------------------------------------*/
+html .mceContentBody {
+  max-width: 526px;
+}
+
+body.mceContentBody {
+	background: white;
+	color: #555;
+	font-family: 'Lato', 'Helvetica Neue', sans-serif;
+	font-size: 18px;
+	margin: 24px;
+}
+
+.mceContentBody *:first-child {
+	margin-top: 0;
+}
+.mceContentBody *:last-child {
+	margin-bottom: 0;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+	color: #444;
+	clear: both;
+	line-height: 1.2;
+	margin: 50px 0 20px;
+}
+h1 {
+	font-size: 37px;
+	font-size: 3.7rem;
+	font-weight: 700;
+}
+h2 {
+	font-size: 32px;
+	font-size: 3.2rem;
+	font-weight: 700;
+}
+h3 {
+	font-size: 27px;
+	font-size: 2.7rem;
+	font-weight: 700;
+}
+h4 {
+	font-size: 23px;
+	font-size: 2.3rem;
+}
+h5 {
+	font-size: 20px;
+	font-size: 2rem;
+}
+h6 {
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+h1+h1, h1+h2, h1+h3, h1+h4, h1+h5, h1+h6,
+h2+h1, h2+h2, h2+h3, h2+h4, h2+h5, h2+h6,
+h3+h1, h3+h2, h3+h3, h3+h4, h3+h5, h3+h6,
+h4+h1, h4+h2, h4+h3, h4+h4, h4+h5, h4+h6,
+h5+h1, h5+h2, h5+h3, h5+h4, h5+h5, h5+h6,
+h6+h1, h6+h2, h6+h3, h6+h4, h6+h5, h6+h6 {
+	margin-top: 30px;
+}
+p {
+	line-height: 1.7;
+	margin-bottom: 1.1em;
+}
+b, strong {
+	font-weight: bold;
+}
+dfn, cite, em, i, q, var {
+	font-style: italic;
+}
+blockquote {
+	background-color: #eee;
+	color: #666;
+	font-family: "Raleway", "Helvetica Neue", sans-serif;
+	font-size: 20px;
+	font-size: 2rem;
+	line-height: 1.5;
+	margin-bottom: 1.1em;
+	padding: 1em;
+}
+cite {
+	color: #666;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: 700;
+	letter-spacing: 1px;
+	line-height: 1.4;
+	text-transform: uppercase;
+}
+blockquote cite:before {
+	content: "\2014\00a0";
+}
+blockquote cite {
+	display: block;
+	margin-top: 1em !important;
+}
+address {
+	line-height: 1.7;
+	margin: 0 0 1.1em;
+}
+.entry-content address {
+	padding: 3% 3.5%;
+	background: #f1f1f1;
+}
+pre {
+	background: #eee;
+	border-radius: 3px;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 16px;
+	font-size: 1.6rem;
+	line-height: 1.4;
+	margin-bottom: 1.1em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 2% 2.5%;
+}
+code, kbd, tt, var {
+	font-size: 16px;
+	font: 1.6rem Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+}
+code {
+	background-color: #eee;
+	border-radius: 3px;
+	padding: 5px;
+}
+abbr, acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+mark, ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+sup,
+sub {
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	bottom: 1ex;
+}
+sub {
+	top: .5ex;
+}
+small {
+	font-size: 75%;
+}
+big {
+	font-size: 125%;
+}
+
+/* Elements */
+hr {
+	background-color: #eee;
+	border: 0;
+	height: 4px;
+	margin: 2em auto;
+	width: 50%;
+}
+ul, ol {
+	line-height: 1.7;
+	margin: 0 0 1.1em 1.5em;
+}
+ul {
+	list-style: disc;
+}
+ul ul {
+	list-style: circle;
+}
+ul ul ul {
+	list-style: square;
+}
+ol {
+	list-style: decimal;
+}
+ol ol {
+	list-style: lower-alpha;
+}
+ol ol ol {
+	list-style: lower-roman;
+}
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: 1em;
+}
+ol > li:last-child,
+ul > li:last-child {
+	margin-bottom: 0;
+}
+dl {
+	line-height: 1.6;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin: 0 1.5em 1.1em;
+}
+img {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+}
+figure {
+	margin: 0;
+}
+table {
+	margin: 0 0 1.1em;
+	width: 100%;
+}
+th {
+	font-weight: bold;
+}
+table {
+	border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 16px;
+    font-size: 1.6rem;
+}
+th,
+td {
+	border-bottom: 1px solid #ddd;
+	line-height: 1.2;
+	margin: 0;
+	overflow: visible;
+	padding: 2%;
+}
+caption {
+	color: #444;
+	text-align: center;
+	padding: 2%;
+}
+thead {
+	vertical-align: bottom;
+	white-space: nowrap;
+}
+th {
+	color: #444;
+}
+table tbody > tr:nth-child(odd) > td {
+	background: #f9f9f9;
+}
+
+/* Links */
+a {
+	color: #ff706c;
+	text-decoration: none;
+}
+a:visited {
+	color: #ff706c;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:focus,
+a:active {
+	text-decoration: underline;
+}
+
+/* Alignments */
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1em;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1em;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}
+
+/* Media */
+/* Make sure embeds and iframes fit their containers */
+embed,
+iframe,
+object {
+	max-width: 100%;
+}
+
+/* Captions */
+.wp-caption {
+	margin-bottom: 1.1em;
+	max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin: 1.2% auto 0;
+	max-width: 98%;
+}
+.wp-caption-text {
+	color: #888;
+	font-size: 16px;
+	font-size: 1.6rem;
+	padding-top: 0.5em;
+	text-align: center;
+}
+.wp-caption .wp-caption-text {
+	margin: 12px 0;
+}
