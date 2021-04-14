@@ -1,0 +1,116 @@
+# Translation of WordPress.com - Themes - Alves in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Alves package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-21 07:37:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Alves\n"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/alves/style.css
+msgid "Convincing design for your charity or organization’s online presence. Highlight your actions, causes and projects, Alves is versatile enough to be your personal site too."
+msgstr "Atrapador diseño perfecto para la presencia en línea de tu organización benéfica u otra organización. Resalta tus acciones, causas y proyectos, Alves es también lo suficientemente versátil como para ser tu sitio personal."
+
+#: functions.php:105 template-parts/footer/footer-widgets.php:29
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:107 functions.php:119
+msgid "Add widgets here to appear in your footer."
+msgstr "Añade aquí los widgets que quieres que aparezcan en tu pie de página."
+
+#: functions.php:117 template-parts/footer/footer-widgets.php:41
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:152
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "activado"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:158
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "activar"
+
+#: template-parts/footer/footer-widgets.php:17
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Secundario"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "Gris"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: functions.php:86
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Enorme"
+
+#: footer.php:29
+msgid "Footer Menu"
+msgstr "Menú a pie de página"
+
+#: footer.php:47
+msgid "https://wordpress.org/"
+msgstr "http://es.wordpress.org/"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Pequeño"
+
+#. translators: %s: WordPress.
+#: footer.php:50
+msgid "proudly powered by %s."
+msgstr "Funciona gracias a %s."
