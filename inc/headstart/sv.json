@@ -1,0 +1,243 @@
+{
+    "settings": {
+        "options": {
+            "posts_per_page": "8"
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary",
+                "social": "social"
+            },
+            "boardwalk_filter_featured_images": false,
+            "boardwalk_author_bio": true,
+            "boardwalk_entry_title": false,
+            "boardwalk_unfixed_header": false,
+            "site_logo_header_text": 1,
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#",
+                    "link": "#10b0b8",
+                    "fg1": "#",
+                    "fg2": "#"
+                }
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Textwidget",
+                "text": "Det här är en textwidget. Det här är en textwidget som gör att du kan lägga till text eller HTML i din sidopanel. Du kan använda en textwidget för att visa text, länkar, bilder, HTML eller en kombination av dessa. Redigera dem i widgetavsnittet i <a href=\"https://wordpress.com/customize/\">Anpassa</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Om",
+            "post_content": "Det här är ett exempel på en \"om\"-sida. Till skillnad från inlägg är sidor bättre lämpade för mer tidlöst innehåll som du vill ha lättillgängligt, som Om eller Kontaktinformation. Klicka på Redigera-länken om du vill göra ändringar på sidan eller <a href=\"https://wordpress.com/page\">lägga till ytterligare en sida</a>.",
+            "post_excerpt": "Det här är bara en kort utdrag för om-sidan&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100
+        },
+        {
+            "post_title": "Kontakta oss",
+            "post_content": "Det här är en kontaktsida med lite grundläggande kontaktinformation och ett kontaktformulär. [contact-form][contact-field label=\"Namn\" type=\"name\" required=\"1\"/][contact-field label=\"E-post\" type=\"email\" required=\"1\"/][contact-field label=\"Webbsida\" type=\"url\"/][contact-field label=\"Kommentar\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "Det här är bara en kort utdrag för kontaktsidan&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "Första blogginlägget",
+            "post_content": "Det här är ditt allra första inlägg. Klicka på Redigera-länken om du vill ändra eller ta bort det eller <a href=\"https://wordpress.com/post\">skriv ett nytt inlägg</a>. Om du vill kan du använda det här inlägget till att berätta för dina läsare om varför du startade din blogg och vad du tänker göra med den. ",
+            "post_excerpt": "Det här är utdraget för ditt allra första&nbsp;inlägg.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "attachment_url": "https://cubicdemo.files.wordpress.com/2014/10/photo-1429277096327-11ee3b761c93.jpeg"
+        },
+        {
+            "post_title": "Blogginläggets rubrik",
+            "post_content": "Det här är ytterligare en platshållare för ett inlägg. Klicka på Redigera-länken om du vill ändra eller ta bort det eller <a href=\"https://wordpress.com/post\">skriv ett nytt inlägg</a>. Om du vill kan du använda det här inlägget till att berätta för dina läsare om varför du startade din blogg och vad du tänker göra med den.",
+            "post_excerpt": "Det här är utdraget för ditt allra första&nbsp;inlägg.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/photo-1435986794140-55704bda7414.jpeg"
+        },
+        {
+            "post_title": "Blogginläggets rubrik",
+            "post_content": "Det här är ytterligare en platshållare för ett inlägg. Klicka på Redigera-länken om du vill ändra eller ta bort det eller <a href=\"https://wordpress.com/post\">skriv ett nytt inlägg</a>. Om du vill kan du använda det här inlägget till att berätta för dina läsare om varför du startade din blogg och vad du tänker göra med den.",
+            "post_excerpt": "Det här är utdraget för ditt allra första&nbsp;inlägg.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/photo-1419987606411-0713060d7e30.jpeg"
+        },
+        {
+            "post_title": "Blogginläggets rubrik",
+            "post_content": "Det här är ytterligare en platshållare för ett inlägg. Klicka på Redigera-länken om du vill ändra eller ta bort det eller <a href=\"https://wordpress.com/post\">skriv ett nytt inlägg</a>. Om du vill kan du använda det här inlägget till att berätta för dina läsare om varför du startade din blogg och vad du tänker göra med den.",
+            "post_excerpt": "Det här är utdraget för ditt allra första&nbsp;inlägg.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/mtnrf7oxs4usxtzmbwfq_dsc_0043.jpg"
+        },
+        {
+            "post_title": "Blogginläggets rubrik",
+            "post_content": "Det här är ytterligare en platshållare för ett inlägg. Klicka på Redigera-länken om du vill ändra eller ta bort det eller <a href=\"https://wordpress.com/post\">skriv ett nytt inlägg</a>. Om du vill kan du använda det här inlägget till att berätta för dina läsare om varför du startade din blogg och vad du tänker göra med den.",
+            "post_excerpt": "Det här är utdraget för ditt allra första&nbsp;inlägg.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://cubicdemo.files.wordpress.com/2014/12/photo-1430165558479-de3cf8cf1478.jpeg"
+        },
+        {
+            "post_title": "Blogginläggets rubrik",
+            "post_content": "Det här är ytterligare en platshållare för ett inlägg. Klicka på Redigera-länken om du vill ändra eller ta bort det eller <a href=\"https://wordpress.com/post\">skriv ett nytt inlägg</a>. Om du vill kan du använda det här inlägget till att berätta för dina läsare om varför du startade din blogg och vad du tänker göra med den.",
+            "post_excerpt": "Det här är utdraget för ditt allra första&nbsp;inlägg.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://cubicdemo.files.wordpress.com/2014/12/photo-1425326452142-67c31f601d2f.jpeg"
+        }
+    ],
+    "menus": {
+        "social": {
+            "name": "Sociala medier",
+            "items": [
+                {
+                    "menu-item-title": "RSS",
+                    "menu-item-db-id": 173,
+                    "menu-item-object-id": "173",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://themeshaper.com/feed/"
+                },
+                {
+                    "menu-item-title": "Dribbble",
+                    "menu-item-db-id": 174,
+                    "menu-item-object-id": "174",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/"
+                },
+                {
+                    "menu-item-title": "LinkedIn",
+                    "menu-item-db-id": 175,
+                    "menu-item-object-id": "175",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://linkedin.com/"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 176,
+                    "menu-item-object-id": "176",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com/"
+                },
+                {
+                    "menu-item-title": "Foursquare",
+                    "menu-item-db-id": 177,
+                    "menu-item-object-id": "177",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://foursquare.com"
+                },
+                {
+                    "menu-item-title": "Vimeo",
+                    "menu-item-db-id": 178,
+                    "menu-item-object-id": "178",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://vimeo.com"
+                }
+            ]
+        }
+    }
+}

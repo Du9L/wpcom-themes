@@ -1,0 +1,243 @@
+{
+    "settings": {
+        "options": {
+            "posts_per_page": "8"
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary",
+                "social": "social"
+            },
+            "boardwalk_filter_featured_images": false,
+            "boardwalk_author_bio": true,
+            "boardwalk_entry_title": false,
+            "boardwalk_unfixed_header": false,
+            "site_logo_header_text": 1,
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#",
+                    "link": "#10b0b8",
+                    "fg1": "#",
+                    "fg2": "#"
+                }
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي للنص",
+                "text": "هذا مربع جانبي للنص. هذا مربع جانبي للنص يسمح لك بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "نبذة عن",
+            "post_content": "هذا مثال لصفحة \"نبذة عن\". على عكس المقالات، تتناسب الصفحات بشكل أفضل مع المحتوى المستمر لفترة طويلة الذي تريد تسهيل الوصول إليه، مثل \"نبذة عنك\" أو \"معلومات الاتصال الخاصة بك\" انقر فوق رابط \"تحرير\" لإجراء تغييرات على هذه الصفحة <a href=\"https://wordpress.com/page\">أو أضف صفحة أخرى</a>.",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة \"نبذة عن\"&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100
+        },
+        {
+            "post_title": "اتصال",
+            "post_content": "هذه صفحة اتصال تحتوي على بعض معلومات الاتصال الرئيسية ونموذج الاتصال. [contact-form][contact-field label=\"الاسم\" type=\"name\" required=\"1\"/][contact-field label=\"البريد الإلكتروني\" type=\"email\" required=\"1\"/][contact-field label=\"موقع الويب\" type=\"url\"/][contact-field label=\"التعليق\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة \"اتصال\"&nbsp;.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "مقالة أولى على المدونة",
+            "post_content": "هذه هي مقالتك الأولى تمامًا. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها. ",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى &nbsp; تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "attachment_url": "https://cubicdemo.files.wordpress.com/2014/10/photo-1429277096327-11ee3b761c93.jpeg"
+        },
+        {
+            "post_title": "عنوان المقالة على المدونة",
+            "post_content": "هذه هي مقالة متغير إضافية. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها.",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى &nbsp; تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/photo-1435986794140-55704bda7414.jpeg"
+        },
+        {
+            "post_title": "عنوان المقالة على المدونة",
+            "post_content": "هذه هي مقالة متغير إضافية. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها.",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى &nbsp; تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/photo-1419987606411-0713060d7e30.jpeg"
+        },
+        {
+            "post_title": "عنوان المقالة على المدونة",
+            "post_content": "هذه هي مقالة متغير إضافية. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها.",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى &nbsp; تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/mtnrf7oxs4usxtzmbwfq_dsc_0043.jpg"
+        },
+        {
+            "post_title": "عنوان المقالة على المدونة",
+            "post_content": "هذه هي مقالة متغير إضافية. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها.",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى &nbsp; تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://cubicdemo.files.wordpress.com/2014/12/photo-1430165558479-de3cf8cf1478.jpeg"
+        },
+        {
+            "post_title": "عنوان المقالة على المدونة",
+            "post_content": "هذه هي مقالة متغير إضافية. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها.",
+            "post_excerpt": "هذا هو مقتطف لمقالتك الأولى &nbsp; تمامًا.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https://cubicdemo.files.wordpress.com/2014/12/photo-1425326452142-67c31f601d2f.jpeg"
+        }
+    ],
+    "menus": {
+        "social": {
+            "name": "اجتماعي",
+            "items": [
+                {
+                    "menu-item-title": "RSS",
+                    "menu-item-db-id": 173,
+                    "menu-item-object-id": "173",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://themeshaper.com/feed/"
+                },
+                {
+                    "menu-item-title": "Dribbble",
+                    "menu-item-db-id": 174,
+                    "menu-item-object-id": "174",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/"
+                },
+                {
+                    "menu-item-title": "لينكدإن",
+                    "menu-item-db-id": 175,
+                    "menu-item-object-id": "175",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://linkedin.com/"
+                },
+                {
+                    "menu-item-title": "إنستغرام",
+                    "menu-item-db-id": 176,
+                    "menu-item-object-id": "176",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com/"
+                },
+                {
+                    "menu-item-title": "Foursquare",
+                    "menu-item-db-id": 177,
+                    "menu-item-object-id": "177",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://foursquare.com"
+                },
+                {
+                    "menu-item-title": "Vimeo",
+                    "menu-item-db-id": 178,
+                    "menu-item-object-id": "178",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://vimeo.com"
+                }
+            ]
+        }
+    }
+}
