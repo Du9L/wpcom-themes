@@ -1,0 +1,211 @@
+# Translation of Publication in French (France)
+# This file is distributed under the same license as the Publication package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-13 03:38:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Publication\n"
+
+#: template-parts/content-page.php:43 template-parts/content-single.php:43
+msgid "Page"
+msgstr "Page"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: template-parts/content-page.php:39 template-parts/content-single.php:39
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</a>&nbsp;!"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Contenu Introuvable. Voulez-vous lancer une nouvelle recherche&nbsp;?"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: single.php:27
+msgid "Next post:"
+msgstr "Article Suivant:"
+
+#: single.php:28
+msgid "Previous"
+msgstr "Précédent"
+
+#: single.php:28
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#: template-parts/content-author.php:23
+msgid "Published by"
+msgstr "Publié par"
+
+#: template-parts/content-author.php:30
+msgid "View all posts by %s"
+msgstr "Voir tous les articles par %s"
+
+#: single.php:27
+msgid "Next"
+msgstr "Suivant"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultat de Recherche pour: %s"
+
+#: inc/template-tags.php:59 template-parts/content-page.php:50
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/template-tags.php:46
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "% commentaires"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: inc/extras.php:79 template-parts/content.php:29
+msgid "Continue reading %s"
+msgstr "Continuer de lire %s"
+
+#: inc/template-tags.php:46
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:16 inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: header.php:54
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: functions.php:217
+msgid "collapse child menu"
+msgstr "fermer le sous-menu"
+
+#: functions.php:216
+msgid "expand child menu"
+msgstr "ouvrir le sous-menu"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:168
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Neuton, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:129
+msgctxt "Neuton font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Oswald, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:163
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lato, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:124
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Menu Social"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:16
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "Commentaires Récents"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "Commentaires Précédents"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une r&eacute;flexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s r&eacute;flexions sur &ldquo;%2$s&rdquo;"
+
+#: archive.php:41 index.php:46 search.php:36
+msgid "Newer posts"
+msgstr "Articles Plus R&eacute;cents"
+
+#: archive.php:40 index.php:45 search.php:35
+msgid "Older posts"
+msgstr "Articles précédents"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec recherche&nbsp;?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."

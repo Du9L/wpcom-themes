@@ -1,0 +1,206 @@
+# Translation of Publication in Dutch
+# This file is distributed under the same license as the Publication package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-13 03:38:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Publication\n"
+
+#: template-parts/content-page.php:43 template-parts/content-single.php:43
+msgid "Page"
+msgstr "Pagina"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/publication/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: template-parts/content-page.php:39 template-parts/content-single.php:39
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met jouw zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht helpt de zoekfunctie."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: single.php:27
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: single.php:28
+msgid "Previous"
+msgstr "Vorige"
+
+#: single.php:28
+msgid "Previous post:"
+msgstr "Vorig bericht:"
+
+#: template-parts/content-author.php:23
+msgid "Published by"
+msgstr "Gepubliceerd door"
+
+#: template-parts/content-author.php:30
+msgid "View all posts by %s"
+msgstr "Toon alle berichten van %s"
+
+#: single.php:27
+msgid "Next"
+msgstr "Volgende"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/template-tags.php:59 template-parts/content-page.php:50
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/template-tags.php:46
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "% reacties"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: inc/extras.php:79 template-parts/content.php:29
+msgid "Continue reading %s"
+msgstr "Lees verder %s"
+
+#: inc/template-tags.php:46
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:16 inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: header.php:54
+msgid "Primary Navigation"
+msgstr "Primaire navigatie"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#: functions.php:217
+msgid "collapse child menu"
+msgstr "Alles inklappen"
+
+#: functions.php:216
+msgid "expand child menu"
+msgstr "Alles uitklappen"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:168
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Neuton, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:129
+msgctxt "Neuton font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:102
+msgid "Sidebar Two"
+msgstr "Sidebar twee"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lato, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:124
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:93
+msgid "Sidebar One"
+msgstr "Sidebar een"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Social-menu"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Met trots ondersteund door %s"
+
+#: footer.php:16
+msgid "http://wordpress.org/"
+msgstr "http://nl.wordpress.org/"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachtes over &ldquo;%2$s&rdquo;"
+
+#: archive.php:41 index.php:46 search.php:36
+msgid "Newer posts"
+msgstr "Nieuwere berichten"
+
+#: archive.php:40 index.php:45 search.php:35
+msgid "Older posts"
+msgstr "Oudere berichten"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets werd gevonden op deze locatie. Misschien een zoekopdracht  proberen?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kon niet worden gevonden."
