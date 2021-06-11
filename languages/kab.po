@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twentynineteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:52:35+00:00\n"
+"PO-Revision-Date: 2020-04-22 13:14:45+0000\n"
+"Language: kab_DZ\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://wordpress.org/themes/twentynineteen/"
+
+#: functions.php:158
+msgid "Dark Blue"
+msgstr "Amidadi iḥemqen"
+
+#: functions.php:153
+msgid "Blue"
+msgstr "Anili"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+msgstr "Awennit-inek yettraǧu asektem. Wagi d tamuɣli, awennit-inek ad d-yeban ticki yettwaqbel."
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "the WordPress team"
+msgstr "tarbaɛt n WordPress"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Asentel-nneɣ amezwer n 2019 yella-d i uskan tazmert n umaẓrag n yiḥder. Llan deg-s iɣunab udmawanen i yiḥedran akk imezwer, yettwafeṣṣel daɣen akken ayen ara twaliḍ deg umaẓrag yettakk acbi ɣer wayen tettwaliḍ ɣef usmel-inek web. Twenty Nineteen yettwafeṣṣel akken ara yemmezg akked tegrumma wessiεen n yismal web, ama i useddu n ublug n tugniwin, ama i usenkar n tkebbanit tamaynut neɣ i usefrek n wudus wer tadrimt. Yesεa tallunt tamellalt wessiεen d yizwal atraren sans-serif yeddukklen akked tfekka n uḍris aklasik serif, yettwafeṣṣel akken ad d-yezg akked teɣzi n yal agdil."
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Yeffeɣ-d deg</span><span class=\"post-title\">%s</span>"
+
+#: inc/wpcom.php:44
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Rcem taxxamt akken ad teffreḍ azwel n usebter, ma yella asebter-inek agejdan d asebter udmis."
+
+#: inc/wpcom.php:43
+msgid "Hide Homepage Title"
+msgstr "Ffer azwel n usebter agejdan"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Ulac iwenniten"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d awennit"
+msgstr[1] "%d iwenniten"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Wali aṭas n tsuffaɣ"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Isuffeɣ-it-id %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Umuɣ n ufella"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Ḍfer taɣuri n<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Yettban-d amzum akken ayen tettnadiḍ ulac-it. Eɛreḍ s unadi."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Surfaɣ, ulac acu i yenmeɣran aked yirmawen n unadi-inek. Ttxil-k eɛreḍ s wawalen-nniḍen."
+
+#. translators: 1: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Twejdeḍ iwakken ad d-tsuffeɣeḍ amagrad-inek amezwaru ? <a href=\"%1$s\">Bdu dagi</a>."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Ulac acu d-nufa"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Ummid"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Tasuffeɣt yezrin:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Amagrad uzwir"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Tasuffeɣt i -iteddun:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Amagrad uḍfir"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Igmaḍ n unadi i:"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Imagraden iqburen"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Imagraden imaynuten"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:120
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Ẓreg <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: 1: SVG icon. 2: Posted in label, only visible to screen
+#. readers. 3: List of tags.
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Tibzimin:"
+
+#. translators: 1: SVG icon. 2: Posted in label, only visible to screen
+#. readers. 3: List of categories.
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Yeffeɣ-d deg"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Eǧǧ awennit<span class=\"screen-reader-text\"> ɣef %s</span>"
+
+#. translators: 1: SVG icon. 2: Post author, only visible to screen readers. 3:
+#. Author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Isuffeɣ-it-id"
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Tuɣalin"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Ugar"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Aɣbar"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s Iɣbaren"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Iɣbaren n wanaw n tsuffeɣt:"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Iɣbaren n ass:"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Iɣbaren n wayyur:"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Iɣbaren n useggas:"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Iɣbaren n umeskar:"
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Iɣbaren n tebzimt:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Iɣbaren n taggayt:"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Err imsizdeg i tugniwin yettwafernen s usemres n yini agejdan"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Err ini udmawan i tqeffilin, i yiseɣwan, i tugniwin yettwafernen, rtg."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Udmawan"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Amezwer"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Ini agejdan"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:40
+#: inc/back-compat.php:55
+#: inc/back-compat.php:76
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen yesra xerṣum lqem 4.7 n WordPress. Aql-ak tesnekreḍ lqem %s. Ttxil-k/m leqqem syen ales tikkelt-nniḍen."
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Yeffeɣ-d deg</span><br><span class=\"post-title\">%azwel</span>"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Teɣzi taččurant"
+
+#: image.php:56
+msgid "Page"
+msgstr "Asebtar"
+
+#: image.php:52
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Isebtar :"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Ngez ɣer ugbur agejdan"
+
+#: functions.php:197
+msgid "Add widgets here to appear in your footer."
+msgstr "Rnu iwiǧiten dagi ara d-ibanen deg uḍar n usebter-inek."
+
+#: functions.php:195
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Aḍar n usebtar"
+
+#: functions.php:173
+msgid "White"
+msgstr "Amlal"
+
+#: functions.php:168
+msgid "Light Gray"
+msgstr "Azunɣid imceεlel"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "Azunɣid iḥemqen"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "Meqqer aṭas"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Tahrawant"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Amagnu"
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Amecṭuḥ"
+
+#: functions.php:61
+#: template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "Umuɣ n izdayen n iẓeḍwan imettiyen"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Agejdan"
+
+#: footer.php:37
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Umuɣ n uḍar n usebter"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "S zzux i d-yettusumer sɣur %s."
+
+#. #-#-#-#-#  twentynineteen.pot (Twenty Nineteen 1.5-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Iwenniten medlen."
+
+#: comments.php:96
+msgid "Next"
+msgstr "Uḍfir"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Uzwir"
+
+#: comments.php:92
+#: comments.php:95
+#: comments.php:96
+msgid "Comments"
+msgstr "Iwenniten"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tiririt ɣef &ldquo;%2$s&rdq"
+msgstr[1] "%1$s tiririyin ɣef &ldquo;%2$s&rdq"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Yiwet n tririt ɣef &ldquo;%s&rdquo;"
+
+#: comments.php:35
+#: comments.php:105
+#: comments.php:107
+msgid "Leave a comment"
+msgstr "Eǧǧ-d awennit"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Kki deg udiwenni"
+
+#: classes/class-twentynineteen-walker-comment.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "Awennit-inek ittraǧu asniles."
+
+#: classes/class-twentynineteen-walker-comment.php:87
+msgid "Edit"
+msgstr "Ẓreg"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:79
+msgid "%1$s at %2$s"
+msgstr "%1$s ɣef %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">ini:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Atan am wakken ulac acu yellan di tansa-agi. Ad tɛreḍeḍ s unadi ?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ihuh&nbsp;! Asebtar-agi ulac-it."
