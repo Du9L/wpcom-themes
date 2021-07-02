@@ -1,0 +1,278 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": "social",
+                "menu-1": "primary",
+                "menu-2": "primary"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Reservasi",
+            "post_content": "<!-- wp:paragraph -->\n<p>Ayo bicara &amp;#128075; Jangan ragu untuk menghubungi kami melalui informasi kontak di bawah ini, atau kirimkan pesan menggunakan formulir.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Untuk memesan tempat, hubungi kami atau gunakan formulir di bawah ini.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Lokasi</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"1 Example Street\",\"city\":\"Anytown\",\"region\":\"NY\",\"postal\":\"10100\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Jalan Mangga no. 1</div><div><span class=\"jetpack-address__city\">Bandung</span>, <span class=\"jetpack-address__region\">Jawa Barat</span> <span class=\"jetpack-address__postal\">10100</span></div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@contoh.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:jetpack/contact-info -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Jam Buka</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Sen:</strong>&nbsp;tutup<br><strong>Sel – Mgg:</strong>&nbsp;11.30 – 22.00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Pesan Secara Online</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "reservations",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 163,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Sedang Berlangsung",
+            "post_content": "<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg\",\"id\":125,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Kabar Terbaru dari Kami</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:a8c/posts-list {\"postsPerPage\":3} /-->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator is-style-default\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Ikuti Kami</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Dapatkan konten baru yang dikirim langsung ke kotak masuk Anda.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 16,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Berita (Semua)",
+            "post_content": "",
+            "post_name": "news-all",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Menu",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Menu yang ada merupakan perpaduan hidangan lokal Prancis&nbsp;, dan menu ini berubah seiring dengan berubahnya musim.<br>Pastikan untuk menanyakan menu spesial kami hari ini!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Hidangan Pembuka</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Canapés Salmon<br></strong><em>Salmon asap dengan crème fraîche, dill, dan caper di atasnya<br></em>$15,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Rillettes Babi<br></strong><em>Dengan acar aprikot kering dan remahan pistachio<br></em>$14,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Pai Sayur Provençal<br></strong><em>Dengan sayur sesuai musim<br></em>$12,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Pai Flambées Mini<br></strong><em>Hidangan Alsace tradisional yang dibuat dari&nbsp;bacon dan bawang bombai</em><br>$12,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Salad Keju Kambing<br></strong><em>Disajikan hangat dengan madu dan croûton</em><br>$12,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Fricassée Jamur Liar</strong><br><em>Jamur liar rebus disajikan dengan rumput laut dan nitrogen cair</em><br>$14,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Hidangan Utama</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Coq au Vin d’Alsace<br></strong><em>Ayam yang dimasak dengan Riesling serta bawang bombai, jamur, dan rempah</em><br>$25,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Bouillabaisse</strong><br><em>Sup ikan Provençal tradisional, dengan udang, remis, kerang, dan monkfish<br></em>$26,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Sole Meunière</strong><br><em>Fillet ikan ditumis dengan mentega dan disajikan dengan saus mentega cokelat, peterseli dan lemon<br></em>$28,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Côte de Boeuf<br></strong><em>Steak iga yang dimarinasi selama 60 hari, saus lada, dan kentang fondant<br></em>$31,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Duck à l’Orange<br></strong><em>Dada bebek panggang dengan kulit renyah dan saus jeruk velvet<br></em>$26,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Risotto Kacang Polong dan Asparagus</strong><br><em>Dengan keju kambing, arugula, dan salad rebung<br></em>$22,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Hidangan Penutup</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Macaron Cokelat</strong><br><em>Hidangan klasik khas Prancis, diisi dengan ganache cokelat<br></em>$12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Crêpe Suzette</strong><br><em>Crêpe lezat dengan saus jeruk bermentega; disajikan dengan flambé<br></em>$13,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Kue Pralin</strong><br><em>Kue pralin dan cokelat berlapis dengan keju krim karamel<br></em>$12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Tarte Tatin</strong><br><em>Saus karamel dengan apel, disajikan dengan krim kocok</em><br>$12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Tar Lemon</strong><br><em>aroma kulit lemon, vla krim, dan meringue di atasnya</em><br>$12,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Trio Buah</strong><br><em>Bluberi, stroberi, raspberi, plum, dan markisa<br></em>$28,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"foreground-light\"} -->\n<p style=\"text-align:center;\" class=\"has-text-color has-foreground-light-color\"><em>Ikan kami diperoleh dengan cara yang ramah lingkungan dari sumber yang terbarui</em>.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Beranda",
+            "post_content": "<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg\",\"id\":217,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Nikmati Pengalaman Hidangan Kami</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Selamat Datang di Rockfield</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Chef Pemilik Joan Smith dan Chef Eksekutif François Lemoine telah bekerja sama untuk membuka salah satu restoran paling spektakuler di Bandung.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Spesialisasi kami adalah hidangan lezat&nbsp;yang dibuat dengan tulus dan sepenuh hati, terinspirasi dari rasa yang fantastis langsung dari Prancis&nbsp;. Kami sangat bangga dapat menyajikan hidangan khas Prancis favorit Anda&nbsp;dengan cara yang baru dan lebih kreatif.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg\",\"id\":218,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Cari Tahu Menu Kami</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Menu yang ada merupakan perpaduan hidangan lokal Prancis&nbsp;, dan menu ini berubah seiring dengan berubahnya musim.<br>Pastikan untuk menanyakan menu spesial kami hari ini!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Menu Sampel</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Hidangan Pembuka</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Fricassée Jamur Liar</strong><br><em>Jamur liar rebus disajikan dengan rumput laut dan nitrogen cair</em><br>$14,50</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Hidangan Utama</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Coq au Vin d’Alsace<br></strong><em>Ayam yang dimasak dengan Riesling serta bawang bombai, jamur, dan rempah</em><br>$25,50<br></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Hidangan Penutup</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Soufflé Labu</strong><br><em>Dengan bourbon, kayu manis, dan saus molasses</em><br>$9,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://rockfielddemo.wordpress.com/menu/\">Lihat Semua Menu</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg\",\"id\":219,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Pesan Tempat</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Untuk memesan tempat, hubungi kami di nomor (123) 444–5678 atau gunakan formulir di bawah ini.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg\",\"id\":220,\"hasParallax\":true,\"dimRatio\":60,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-60 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} -->\n<p style=\"text-align:center;\" class=\"has-huge-font-size\"><strong>Rockfield</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">Pengunjung mungkin ingin tahu sosok di balik halaman ini. Gunakan bagian ini untuk menulis tentang bisnis Anda.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":5} -->\n<h5>Jam Buka</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\"><strong>Sen:</strong> tutup<br><strong>Sel – Mgg:</strong> 11.30 - 22.00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">Lokasi</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">Jalan Mangga no. 1,<br>Bandung, Jawa Barat 10100</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">Reservasi</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">(555) 555 1234<br>mail@contoh.com</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Trik Presentasi Makanan Seperti Ahlinya",
+            "post_content": "<!-- wp:paragraph -->\n<p>Presentasi makanan merupakan seni mengubah, memproses, menyusun, atau menghias hidangan untuk meningkatkan daya tarik estetiknya.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Presentasi visual hidangan dipertimbangkan dengan matang oleh para chef pada semua tahap penyiapan makanan, mulai dari cara mengikat atau menjahit daging, jenis potongan yang digunakan saat memotong dan mengiris daging atau sayuran, sampai ragam cetakan yang digunakan pada hidangan yang disajikan. Hidangan tersebut dapat dihias seperti kue yang diberi hiasan lapisan gula unik, diberi hiasan ornamen atau pahatan yang dapat dikonsumsi, disiram dengan saus, ditaburi biji-bijian, bubuk, atau topping lain, atau dapat pula diiringi dengan hiasan yang dapat atau tidak dapat dimakan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Penataan dan penyajian hidangan di atas piring disebut sebagai plating. Beberapa gaya plating yang biasa dipakai termasuk penataan ‘klasik’ dengan hidangan utama di depan piring dan sayuran atau karbohidrat di belakang, penataan ‘penumpukan’ beberapa hidangan, atau hidangan utama ‘bersandar’ pada sisi sayuran atau hidangan pendamping. Posisi hidangan pada piring sering disebut seperti permukaan jam, dengan posisi arah pukul enam merupakan posisi yang paling dekat dengan pengunjung yang menyantap hidangan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Aturan dasar yang praktis untuk plating, dan bahkan beberapa di antaranya untuk persiapan, adalah memastikan bahwa Anda menyajikan 5 komponen hidangan; protein, biasanya pada posisi arah pukul 6, sayuran, pada posisi pukul 2, karbohidrat pada posisi pukul 11, saus dan hiasan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Dari&nbsp;<a href=\"https://en.wikipedia.org/wiki/Food_presentation\">Wikipedia</a>.</em></p>\n<!-- /wp:paragraph -->",
+            "post_name": "tricks-to-plating-like-a-pro",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 149,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Menu Musim Dingin",
+            "post_content": "<!-- wp:paragraph -->\n<p>Di musim dingin ini, datang dan nikmatilah&#160;sup yang dibuat dengan sepenuh hati, gratin keju, dan casserole.&#160;Hidangan lezat ini dapat ditemukan di menu musiman kami, dengan perubahan spesial setiap harinya.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":142,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg?w=1024\" class=\"wp-image-142\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "winter-menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Pesta Natal di Rockfield",
+            "post_content": "<!-- wp:paragraph -->\n<p>Rockfield dapat dipesan untuk pesta Natal dengan berapa pun jumlah pengunjung, jadi ini adalah waktu yang tepat untuk mulai merencanakan makan siang&#160;atau&#160;makan malam untuk hari Natal Anda.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Klik di sini&#160;untuk melakukan reservasi hari ini!</p>\n<!-- /wp:paragraph -->",
+            "post_name": "christmas-party-at-rockfields",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 146,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Utama",
+            "items": [
+                {
+                    "menu-item-title": "Beranda",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "Menu",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Sedang Berlangsung",
+                    "menu-item-db-id": 28,
+                    "menu-item-object-id": "16",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Reservasi",
+                    "menu-item-db-id": 166,
+                    "menu-item-object-id": "163",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sosial",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 21,
+                    "menu-item-object-id": "21",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "22",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Foursquare",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://foursquare.com"
+                },
+                {
+                    "menu-item-title": "Yelp",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://yelp.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/cropped-healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2019/08/healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/architecture-bar-ceiling-2225577.jpg"
+    ]
+}
