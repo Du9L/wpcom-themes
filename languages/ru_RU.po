@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-04T02:19:23+00:00\n"
+"PO-Revision-Date: 2021-05-25 02:18:16+0000\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Записей не найдено"
+
+#: functions.php:195
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: functions.php:489
+msgid "Content Options"
+msgstr "Параметры содержимого"
+
+#: functions.php:377
+msgid "Mobile Settings"
+msgstr "Мобильные настройки"
+
+#: functions.php:385
+msgid "Display mobile menu on the side"
+msgstr "Отображать мобильное меню сбоку"
+
+#: inc/wpcom.php:72
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Чтобы убедиться в том, что люди могут читать материалы вашего сайта, постарайтесь выбирать здесь цвета с достаточно сильным контрастом. <a href=\"%s\" target=\"_blank\">Подробнее про цветовой контраст</a>."
+
+#: inc/wpcom.php:70
+msgid "Color Accessibility Warning"
+msgstr "Предупреждение о цветовой доступности"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Передний план"
+
+#: functions.php:187
+msgid "Background"
+msgstr "Фон"
+
+#: inc/woocommerce.php:221
+msgid "View your shopping list"
+msgstr "Просмотреть свою корзину"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Продолжить чтение %s"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Предыдущее изображение"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Следующее изображение"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать <span class=\"screen-reader-text\"> \"%s\"</span> далее"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Опубликовано %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Посмотреть больше записей"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Продвигаемая"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Следующие записи"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Результаты поиска для:"
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Скрыть заголовок домашней страницы"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Выберите, чтобы скрыть заголовок страницы, если ваша главная страница отображается статично."
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставьте комментарий<span class=\"screen-reader-text\"> к %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Метки:"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Архивы за месяц:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Архивы за день:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "Архивы %s:"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Архив:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Опубликовал"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Полный размер"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Архивы меток:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Архивы автора:"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Архивы за год:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Архивы рубрик: "
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: image.php:62
+msgid "Page"
+msgstr "Страница"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "свернутый"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "развернутый"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Меню навигации"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Подвал"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте виджеты сюда, для помещения их в подвал сайта."
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Обычный"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:142
+msgid "Large"
+msgstr "Большой"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Большой"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Главный"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Меню социальных ссылок"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Маленький"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Комментарии запрещены."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий на  &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария на  &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев на  &ldquo;%2$s&rdquo;"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страница не найдена."
