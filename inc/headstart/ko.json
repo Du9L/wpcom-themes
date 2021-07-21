@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "main",
+                "social": "social-links",
+                "menu-2": "footer"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "첫 번째 블로그 글",
+            "post_content": "<!-- wp:paragraph -->\n<p>회원님의 첫 번째 글입니다. 편집 링크를 클릭하여 편집 또는 삭제하거나 <a href=\"https://wordpress.com/post\">새 글을 작성하세요</a>. 원하는 경우 이 글을 사용하여 독자들에게 이 블로그를 시작한 이유와 어떻게 활용할 것인지를 알리세요.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "first-blog-post",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "hs_old_id": 44,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "문의",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">상담하기. &amp;#128075; 아래 연락처 정보로 문의하거나 양식을 사용하여 메시지를 보내세요.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">문의하기</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">10 Street Road</div><div><span class=\"jetpack-address__city\">City</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">USA</div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">메시지 보내기</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea {\"required\":true} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "블로그",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 19,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "홈",
+            "post_content": "<!-- wp:columns {\"align\":\"full\"} -->\n<div class=\"wp-block-columns alignfull\"><!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":70} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:70%;\"><!-- wp:media-text {\"align\":\"full\",\"mediaPosition\":\"right\",\"mediaId\":51,\"mediaType\":\"image\",\"mediaWidth\":66,\"isStackedOnMobile\":true,\"verticalAlignment\":\"bottom\"} -->\n<div class=\"wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-bottom\" style=\"grid-template-columns:auto 66%;\"><figure class=\"wp-block-media-text__media\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/beautiful-daytime-door-1182733-1.jpg?w=768\" alt=\"\" class=\"wp-image-51\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"level\":6,\"textColor\":\"foreground-dark\"} -->\n<h6 class=\"has-foreground-dark-color\"><em>네이비 스트라이프</em></h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">현관에 앉아있는 마리암 Aut mollis. Totam laborum ad molestie incidunt dolorem eleifend iusto mollis dui ad sequi nihil dolor justo fugit, inventore. Earum aperiam corporis, debitis sequi commodo tempora, occaecat dictumst. &nbsp;<strong><a href=\"https://www.pexels.com/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels\">Daria Shevtsova</a></strong>님의 사진</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":30} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:30%;\"><!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:image {\"id\":52,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/concrete-daytime-dress-1182700-1.jpg?w=768\" alt=\"\" class=\"wp-image-52\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"background\",\"customBackgroundColor\":\"#dcd2ca\",\"className\":\"has-huge-font-size\"} -->\n<p style=\"background-color:#dcd2ca;text-align:center;\" class=\"has-text-color has-background has-background-color has-huge-font-size\">  <br><strong>:&nbsp;)<br></strong> <br></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:image {\"align\":\"full\",\"id\":53,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignfull size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/blue-fashion-footwear-1182701-e1564438117938-1.jpg?w=1024\" alt=\"\" class=\"wp-image-53\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"bottom\",\"align\":\"full\"} -->\n<div class=\"wp-block-columns alignfull are-vertically-aligned-bottom\"><!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":25} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:25%;\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":40} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:40%;\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":6,\"textColor\":\"foreground-dark\"} -->\n<h6 class=\"has-foreground-dark-color\"><em>딸기 바닐라 와플 콘</em></h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">분홍색 배경에 황갈색 의상을 입은 곱슬머리 소녀 Esse aliqua dignissim. Mollit, quia urna cubilia, vivamus minim mauris quas cubilia. Quibusdam of the exercitation facilis curabitur quidem metus consectetuer. &nbsp;<strong><a href=\"https://www.pexels.com/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels\">Daria Shevtsova</a></strong>님의 사진</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":55,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/looking-up-sitting-woman-1588038-1.jpg?w=1024\" alt=\"\" class=\"wp-image-55\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":35} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:35%;\"><!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:image {\"id\":54,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/barefoot-beautiful-beauty-1588037-1.jpg?w=682\" alt=\"\" class=\"wp-image-54\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"full\"} -->\n<div class=\"wp-block-columns alignfull\"><!-- wp:column {\"verticalAlignment\":\"top\",\"width\":50} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:50%;\"><!-- wp:image {\"id\":57,\"sizeSlug\":\"full\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/close-up-curly-hair-cute-1588039-1.jpg\" alt=\"\" class=\"wp-image-57\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\",\"width\":25} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:25%;\"><!-- wp:image {\"id\":58,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/beautiful-beauty-cute-1588040-1.jpg?w=682\" alt=\"\" class=\"wp-image-58\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"width\":25} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:25%;\"><!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":3,\"customTextColor\":\"#e6918b\"} -->\n<h3 style=\"color:#e6918b;\">가장 좋아하는 색은 무엇인가요?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"full\",\"className\":\"has-3-columns\"} -->\n<div class=\"wp-block-columns alignfull has-3-columns\"><!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":50} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:50%;\"><!-- wp:image {\"id\":59,\"sizeSlug\":\"full\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-blur-casual-wear-2594830-1.jpg\" alt=\"\" class=\"wp-image-59\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":25} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:25%;\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:image {\"id\":60,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-casual-wear-daylight-2594859-1.jpg?w=682\" alt=\"\" class=\"wp-image-60\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":25} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:25%;\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":6,\"textColor\":\"foreground-dark\"} -->\n<h6 class=\"has-foreground-dark-color\"><em>2개의 줄, 3</em></h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">가족 농장 근처의 흰색 빈티지 밴에 앉아 있는 조셉 Aut mollis. Totam laborum ad molestie incidunt dolorem eleifend iusto mollis dui ad sequi nihil dolor justo fugit, inventore. Earum aperiam corporis, debitis sequi commodo tempora, occaecat dictumst, per mollit, aliquet ipsum. &nbsp;<strong><a href=\"https://www.pexels.com/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels\">Daria Shevtsova</a></strong>님의 사진</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"bottom\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-bottom\"><!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":66.66} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:66.66%;\"><!-- wp:image {\"id\":52,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/concrete-daytime-dress-1182700-1.jpg?w=768\" alt=\"\" class=\"wp-image-52\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":33.33} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:33.33%;\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"left\",\"level\":6,\"textColor\":\"foreground-dark\"} -->\n<h6 class=\"has-foreground-dark-color has-text-align-left\"><em>신사의 회색 콘크리트 벽</em></h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">벽 앞에 서 있기 Habitant aenean vero repellat? Natus, dictum? Sunt habitasse cras corrupti. Aute taciti of the maecenas erat ac deleniti arcu. Primis tincidunt viverra duis. Euismod ad quae! Ac cubilia suscipit anim perspiciatis eum parturient ratione iaculis odit magnam. &nbsp;<strong><a href=\"https://www.pexels.com/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels\">Daria Shevtsova</a></strong>님의 사진</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33%;\"><!-- wp:image {\"id\":53,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/blue-fashion-footwear-1182701-e1564438117938-1.jpg?w=1024\" alt=\"\" class=\"wp-image-53\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":33.5} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.5%;\"><!-- wp:image {\"id\":51,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/beautiful-daytime-door-1182733-1.jpg?w=768\" alt=\"\" class=\"wp-image-51\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":33.5} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.5%;\"><!-- wp:paragraph {\"align\":\"center\",\"customTextColor\":\"#3a517e\",\"customBackgroundColor\":\"#dcd2ca\",\"customFontSize\":80,\"className\":\"has-huge-font-size has-large-font-size has-custom-size\"} -->\n<p style=\"background-color:#dcd2ca;color:#3a517e;font-size:80px;text-align:center;\" class=\"has-text-color has-background has-huge-font-size has-large-font-size has-custom-size\"><br>✺<br><br></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":75} -->\n<div class=\"wp-block-column\" style=\"flex-basis:75%;\"><!-- wp:image {\"id\":58,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/beautiful-beauty-cute-1588040-1.jpg?w=682\" alt=\"\" class=\"wp-image-58\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":25} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:25%;\"><!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":6,\"textColor\":\"foreground-dark\"} -->\n<h6 class=\"has-foreground-dark-color\"><em>핑크 액션 촬영</em></h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">춤은 영혼을 달래줍니다. Dictum quisque repellat leo consequuntur senectus bibendum consectetur expedita congue, nemo cubilia non viverra, laborum nemo officia erat, cillum, temporibus, dis ultricies senectus, mus. &nbsp;<strong><a href=\"https://www.pexels.com/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels\">Daria Shevtsova</a></strong>님의 사진</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"full\"} -->\n<div class=\"wp-block-columns alignfull\"><!-- wp:column {\"width\":20} -->\n<div class=\"wp-block-column\" style=\"flex-basis:20%;\"><!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"foreground-dark\",\"customBackgroundColor\":\"#f0c2bf\",\"customFontSize\":100,\"className\":\"has-custom-size\"} -->\n<p style=\"background-color:#f0c2bf;font-size:100px;text-align:center;\" class=\"has-text-color has-background has-foreground-dark-color has-custom-size\">~</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":30} -->\n<div class=\"wp-block-column\" style=\"flex-basis:30%;\"><!-- wp:image {\"id\":54,\"sizeSlug\":\"full\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/barefoot-beautiful-beauty-1588037-1.jpg\" alt=\"\" class=\"wp-image-54\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":50} -->\n<div class=\"wp-block-column\" style=\"flex-basis:50%;\"><!-- wp:image {\"id\":57,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/close-up-curly-hair-cute-1588039-1.jpg?w=1024\" alt=\"\" class=\"wp-image-57\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":33} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:33%;\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:image {\"id\":59,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-blur-casual-wear-2594830-1.jpg?w=682\" alt=\"\" class=\"wp-image-59\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"level\":6} -->\n<h6><em>밴에 올라탄 유령</em></h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">곡식이 자라는 평야에 개조된 밴 Lacinia dolore tempora, potenti aptent diamlorem incididunt pretium eu cras diam? Facere quod similique ea. Totam, perspiciatis? Mollit saepe necessitatibus cillum ipsa ultrices, corporis sapiente quas ut. &nbsp;<strong><a href=\"https://www.pexels.com/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels\">Daria Shevtsova</a></strong>님의 사진</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"bottom\",\"width\":67} -->\n<div class=\"wp-block-column is-vertically-aligned-bottom\" style=\"flex-basis:67%;\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:image {\"id\":60,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-casual-wear-daylight-2594859-1.jpg?w=682\" alt=\"\" class=\"wp-image-60\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":4,\"textColor\":\"foreground-dark\"} -->\n<h4 class=\"has-foreground-dark-color\">뉴스레터 구독</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "정보",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">방문자는 페이지를 만든 사람에 관해 알고 싶어합니다. 이 공간에 회원님 자신이나 회원님의 사이트, 비즈니스에 관한 소개나 원하는 내용을 기록하세요. 아래의 추천 글을 사용하여 같은 내용을 자신만의 언어로 이야기하는 다른 사람의 글을 인용하세요.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">다음은 샘플 콘텐츠이며, 기능을 설명하는 템플릿도 포함되어 있습니다. 이 콘텐츠를 제거하거나 자신만의 언어와 미디어로 바꾸세요.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">추천의 말</h4>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} -->\n<div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>시작하려면 말을 그치고 행동으로 옮겨야 한다.</p><cite>월트 디즈니</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote {\"className\":\"is-style-default\"} -->\n<blockquote class=\"wp-block-quote is-style-default\"><p>해리야, 우리가 진짜 누군지 보여주는 건 우리 능력들보다는 우리의 선택이야.</p><cite>J. K. 롤링</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>끝났다고 울지 말고, 지나간 추억을 떠올리며 미소지어라.</p><cite>닥터 수스</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">함께 목표를 이루어보아요.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"align\":\"center\",\"className\":\"is-style-squared\"} -->\n<div class=\"wp-block-button aligncenter is-style-squared\"><a class=\"wp-block-button__link\" href=\"#\">연락주세요!</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "hs_old_id": 1,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "footer": {
+            "name": "푸터",
+            "items": [
+                {
+                    "menu-item-title": "정보",
+                    "menu-item-db-id": 35,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "블로그",
+                    "menu-item-db-id": 36,
+                    "menu-item-object-id": "19",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "문의",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "20",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "main": {
+            "name": "메인",
+            "items": [
+                {
+                    "menu-item-title": "홈",
+                    "menu-item-db-id": 25,
+                    "menu-item-object-id": "25",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "블로그",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "19",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "정보",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "문의",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "20",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social-links": {
+            "name": "소셜 링크",
+            "items": [
+                {
+                    "menu-item-title": "트위터",
+                    "menu-item-db-id": 29,
+                    "menu-item-object-id": "29",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "인스타그램",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "30",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "페이스북",
+                    "menu-item-db-id": 31,
+                    "menu-item-object-id": "31",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "핀터레스트",
+                    "menu-item-db-id": 32,
+                    "menu-item-object-id": "32",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://pinterest.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-casual-wear-daylight-2594859-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-blur-casual-wear-2594830-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/beautiful-beauty-cute-1588040-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/close-up-curly-hair-cute-1588039-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/looking-up-sitting-woman-1588038-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/barefoot-beautiful-beauty-1588037-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/blue-fashion-footwear-1182701-e1564438117938-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/concrete-daytime-dress-1182700-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/beautiful-daytime-door-1182733-1.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/looking-up-sitting-woman-1588038.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/concrete-daytime-dress-1182700.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/close-up-curly-hair-cute-1588039.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/blue-fashion-footwear-1182701-e1564438117938.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/beautiful-daytime-door-1182733.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/beautiful-beauty-cute-1588040.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-casual-wear-daylight-2594859.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/bearded-man-blur-casual-wear-2594830.jpg",
+        "https://coutoiredemo.files.wordpress.com/2019/08/barefoot-beautiful-beauty-1588037.jpg"
+    ]
+}
