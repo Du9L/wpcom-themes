@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Bradford\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-27T01:19:49+00:00\n"
+"PO-Revision-Date: 2021-07-20 21:46:51+0000\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom.php:251
+msgid "Coming Soon: App"
+msgstr "Bientôt : Appli"
+
+#: inc/wpcom.php:254
+msgid "A close-up of a black smart watch against a pink background."
+msgstr "Gros plan sur une montre connectée noire sur fond rose."
+
+#: inc/wpcom.php:255
+msgid "A new app for designers"
+msgstr "Nouvelle appli de graphisme"
+
+#: inc/wpcom.php:259
+msgid "We’re launching soon. Be the first to sign up!"
+msgstr "Le lancement est imminent. N'attendez pas pour vous inscrire !"
+
+#: inc/wpcom.php:263
+msgid "SUBSCRIBE"
+msgstr "S’ABONNER"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-singular.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Poursuivre la lecture<span class=\"screen-reader-text\"> de « %s »</span>"
+
+#: template-parts/content/content-singular.php:48
+msgid "Pages:"
+msgstr "Pages :"
+
+#: inc/wpcom.php:48
+msgid "Kate Adams"
+msgstr "Catherine Martin"
+
+#: inc/wpcom.php:52
+msgid "Hi! I’m a lead strategist for growing sustainable revenue streams for integrated fundraising."
+msgstr "Je suis responsable de stratégie chargée d'identifier des sources de revenus durables dans le cadre d'une collecte de fonds omni-canal."
+
+#: inc/wpcom.php:57
+msgid "Get in touch"
+msgstr "Nous contacter"
+
+#: inc/wpcom.php:78
+msgid "Email Signup"
+msgstr "Inscription par e-mail"
+
+#: inc/wpcom.php:92
+msgid "Virtual Art Classes"
+msgstr "Cours virtuels de dessin"
+
+#: inc/wpcom.php:96
+msgid "Join instructor Jaime Adams for a series of virtual classes aimed at helping you hone your drawing skills. We will focus on composition, perspective, contour, representing volume, and more!"
+msgstr "Rejoignez Adam Guédry pour une série d'ateliers virtuels de perfectionnement des techniques de dessin. Au programme : composition, perspective, contour, représentation des volumes, etc."
+
+#: inc/wpcom.php:102
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: inc/wpcom.php:185
+msgid "Coming Soon: Solid Color"
+msgstr "Bientôt : Uni"
+
+#: inc/wpcom.php:189
+msgid "A megaphone icon with sharp angles."
+msgstr "Un symbole de mégaphone anguleux"
+
+#: inc/wpcom.php:197
+#: inc/wpcom.php:228
+msgid "Coming Soon"
+msgstr "À venir prochainement"
+
+#: inc/wpcom.php:201
+msgid "Sign up to hear when my journey begins."
+msgstr "Abonnez-vous pour me suivre dès mon grand départ."
+
+#: inc/wpcom.php:222
+msgid "Coming Soon: Simple"
+msgstr "Bientôt : Simple"
+
+#: inc/wpcom.php:232
+msgid "A new blog by MindStomp. Sign up to be notified when we launch."
+msgstr "Nouveau blog par MindStomp. Abonnez-vous pour tout savoir sur notre lancement."
+
+#: functions.php:79
+msgid "Tertiary Color"
+msgstr "Couleur 3"
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:136
+msgid "The site logo, title, and tagline will only appear on all posts and pages if the \"Site header and top menu\" option is enabled in the <a href=\"#\" onClick=\"%s\">Content Options</a> section."
+msgstr "Le logo, le titre et la description du site apparaissent sur tous les articles et toutes les pages uniquement si l’option « Menu haut et en-tête du site » est activée dans la section <a href=\"#\" onClick=\"%s\">Options de contenu</a>."
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:137
+#: functions.php:138
+msgid "This theme will only display Menus if they are enabled in the Content Options section."
+msgstr "Ce thème n'affichera des menus que si ces derniers sont activés dans la section Options de contenu."
+
+#: functions.php:139
+msgid "This theme will only display Widgets if they are enabled in the Content Options section."
+msgstr "Ce thème n'affichera des widgets que si ces derniers sont activés dans la section Options de contenu."
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:157
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifier <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:46
+msgid "Content Options"
+msgstr "Options de contenu"
+
+#: inc/customizer.php:66
+msgid "Enable site header and top menu"
+msgstr "Activer l'en-tête de site et le menu principal"
+
+#: inc/customizer.php:67
+msgid "Check to show a standard site header, navigation menu and social links menu on the top of every page. These can be configured in the \"Site Identity\" and \"Menus\" panels."
+msgstr "Cochez cette case pour afficher un en-tête de site, un menu de navigation et des liens vers les réseaux sociaux en haut de chaque page. Ces réglages peuvent être configurés dans les sections Identité du site et Menus."
+
+#: inc/customizer.php:90
+msgid "Enable widgets and footer menu"
+msgstr "Activer les widgets et le menu de pied de page"
+
+#: inc/customizer.php:91
+msgid "Check to show a navigation menu and widgets in your site's footer area."
+msgstr "Cochez cette case pour afficher un menu de navigation et des widgets dans le pied de page de votre site."
+
+#: inc/customizer.php:114
+msgid "Show post and page titles"
+msgstr "Afficher les titres des pages et articles"
+
+#: inc/customizer.php:115
+msgid "Check to show titles at the top of single posts and pages."
+msgstr "Cochez cette case pour afficher le titre au début de chaque page ou article."
+
+#: inc/customizer.php:138
+msgid "Make comments visible"
+msgstr "Rendre les commentaires visibles"
+
+#: inc/customizer.php:139
+msgid "Check to show comments underneath posts and pages. Comments can be configured in your site’s Discussion settings screen."
+msgstr "Cochez cette case pour afficher les commentaires sous les articles et les pages. Les commentaires peuvent être configurés dans la section Discussion des réglages de votre site."
+
+#: inc/customizer.php:167
+msgid "Your logo will not be shown on all posts and pages. To display your logo, follow the instructions above to enable your site header."
+msgstr "Votre logo n’apparaîtra pas sur tous les articles et toutes les pages. Pour afficher votre logo, suivez les instructions ci-dessus pour activer l’en-tête de votre site."
+
+#: inc/wpcom.php:38
+msgid "Card"
+msgstr "Carte"
+
+#: inc/wpcom.php:43
+msgid "Portrait of a woman against a pink and blue background."
+msgstr "Portrait de femme sur fond bleu et rose."
+
+#: functions.php:75
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: functions.php:76
+msgid "Foreground Color"
+msgstr "Couleur d'accent"
+
+#: functions.php:77
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: functions.php:78
+msgid "Secondary Color"
+msgstr "Couleur secondaire"
+
+#: functions.php:40
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:45
+msgid "Secondary"
+msgstr "Secondaire"
+
+#: functions.php:50
+msgid "Foreground"
+msgstr "Premier plan"
+
+#: functions.php:55
+msgid "Tertiary"
+msgstr "Tertiaire"
+
+#: functions.php:60
+msgid "Background"
+msgstr "Arrière-plan"
