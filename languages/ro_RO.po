@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Baker\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-27T01:11:16+00:00\n"
+"PO-Revision-Date: 2021-07-20 21:46:36+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/baker/style.css
+msgid "Baker is a minimalist theme, designed for single-page websites. Its single post and page layouts have no header, navigation menus, or widgets, so the page you design in the WordPress editor is the same page you’ll see on the front end."
+msgstr "Baker este o temă bazată pe elemente simple, proiectată pentru site-uri web cu o singură pagină. Aranjamentele sale pentru articole și pagini singulare nu au implicit un antet, meniuri de navigare sau piese, deci pagina pe care o proiectezi în editorul WordPress este identică cu pagina pe care o vei vedea în partea din față a site-ului."
+
+#: inc/wpcom.php:263
+msgid "SUBSCRIBE"
+msgstr "ABONEAZĂ-TE"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-singular.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuă lectura<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-singular.php:48
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: inc/wpcom.php:102
+msgid "Learn More"
+msgstr "Află mai mult"
+
+#: inc/wpcom.php:185
+msgid "Coming Soon: Solid Color"
+msgstr "În curând: culoare densă"
+
+#: inc/wpcom.php:189
+msgid "A megaphone icon with sharp angles."
+msgstr "Un icon megafon cu unghiuri ascuțite."
+
+#: inc/wpcom.php:197
+#: inc/wpcom.php:228
+msgid "Coming Soon"
+msgstr "În curând"
+
+#: inc/wpcom.php:201
+msgid "Sign up to hear when my journey begins."
+msgstr "Înregistrează-te pentru a afla când începe călătoria mea."
+
+#: inc/wpcom.php:222
+msgid "Coming Soon: Simple"
+msgstr "În curând: simplu"
+
+#: inc/wpcom.php:232
+msgid "A new blog by MindStomp. Sign up to be notified when we launch."
+msgstr "Un blog nou oferit de MindStomp. Înscrie-te pentru a fi notificat când îl lansăm."
+
+#: inc/wpcom.php:251
+msgid "Coming Soon: App"
+msgstr "În curând: aplicație"
+
+#: inc/wpcom.php:254
+msgid "A close-up of a black smart watch against a pink background."
+msgstr "Un prim-plan cu un ceas inteligent negru pe un fundal roz."
+
+#: inc/wpcom.php:255
+msgid "A new app for designers"
+msgstr "O aplicație nouă pentru designeri"
+
+#: inc/wpcom.php:259
+msgid "We’re launching soon. Be the first to sign up!"
+msgstr "Facem lansarea în curând. Fii printre primii, înscrie-te!"
+
+#: inc/customizer.php:46
+msgid "Content Options"
+msgstr "Opțiuni conținut"
+
+#: inc/customizer.php:66
+msgid "Enable site header and top menu"
+msgstr "Activează antetul și meniul de sus al site-ului"
+
+#: inc/customizer.php:67
+msgid "Check to show a standard site header, navigation menu and social links menu on the top of every page. These can be configured in the \"Site Identity\" and \"Menus\" panels."
+msgstr "Bifează pentru a afișa un antet standard, meniul de navigare și meniul cu legăturile sociale în partea de sus a fiecărei pagini. Toate pot fi configurate în panourile „Identitate site” și „Meniuri”."
+
+#: inc/customizer.php:90
+msgid "Enable widgets and footer menu"
+msgstr "Activează piesele și meniul în subsol"
+
+#: inc/customizer.php:91
+msgid "Check to show a navigation menu and widgets in your site's footer area."
+msgstr "Bifează pentru a afișa un meniu de navigare și piese în subsolul site-ului."
+
+#: inc/customizer.php:114
+msgid "Show post and page titles"
+msgstr "Arată titlurile articolelor și paginilor"
+
+#: inc/customizer.php:115
+msgid "Check to show titles at the top of single posts and pages."
+msgstr "Bifează pentru a afișa titlurile în partea de sus a articolelor și paginilor singulare."
+
+#: inc/customizer.php:138
+msgid "Make comments visible"
+msgstr "Fă comentariile vizibile"
+
+#: inc/customizer.php:139
+msgid "Check to show comments underneath posts and pages. Comments can be configured in your site’s Discussion settings screen."
+msgstr "Bifează pentru a afișa comentarii sub articole și pagini. Comentariile pot fi configurate în ecranul Setări - Discuții din panoul de control."
+
+#: inc/customizer.php:167
+msgid "Your logo will not be shown on all posts and pages. To display your logo, follow the instructions above to enable your site header."
+msgstr "Logoul tău va fi arătat  în toate articolele și paginile. Pentru a afișa logoul, urmează instrucțiunile de mai sus pentru a activa antetul site-ului."
+
+#: inc/wpcom.php:38
+msgid "Card"
+msgstr "Card"
+
+#: inc/wpcom.php:43
+msgid "Portrait of a woman against a pink and blue background."
+msgstr "Portretul unei femei pe fundal roz și albastru."
+
+#: inc/wpcom.php:48
+msgid "Kate Adams"
+msgstr "Kate Adams"
+
+#: inc/wpcom.php:52
+msgid "Hi! I’m a lead strategist for growing sustainable revenue streams for integrated fundraising."
+msgstr "Bună! Sunt un strateg care îți arăt drumul pentru creșterea fluxurilor de venituri durabile în strângerea integrată de fonduri."
+
+#: inc/wpcom.php:57
+msgid "Get in touch"
+msgstr "Ia legătura"
+
+#: inc/wpcom.php:78
+msgid "Email Signup"
+msgstr "Înregistrare prin email"
+
+#: inc/wpcom.php:92
+msgid "Virtual Art Classes"
+msgstr "Cursuri de artă virtuală"
+
+#: functions.php:76
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "Culoare prim-plan"
+
+#: functions.php:77
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "Culoare principală"
+
+#: functions.php:78
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: functions.php:79
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "A treia culoare"
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:136
+msgid "The site logo, title, and tagline will only appear on all posts and pages if the \"Site header and top menu\" option is enabled in the <a href=\"#\" onClick=\"%s\">Content Options</a> section."
+msgstr "Logoul, titlul și sloganul site-ului vor apărea în toate articolele și paginile singulare numai dacă este activată opțiunea „Antetul și meniul de sus al site-ului” în secțiunea <a href=\"#\" onClick=\"%s\">Opțiuni conținut</a>."
+
+#: functions.php:137
+#: functions.php:138
+msgid "This theme will only display Menus if they are enabled in the Content Options section."
+msgstr "Această temă va afișa meniuri numai dacă sunt activate în secțiunea Opțiuni conținut."
+
+#: functions.php:139
+msgid "This theme will only display Widgets if they are enabled in the Content Options section."
+msgstr "Această temă va afișa piese numai dacă sunt activate în secțiunea Opțiuni conținut."
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:157
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editează <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:50
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: functions.php:55
+msgid "Tertiary"
+msgstr "Terțiar"
+
+#: functions.php:60
+msgid "Background"
+msgstr "Fundal"
+
+#: functions.php:75
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: functions.php:40
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:45
+msgid "Secondary"
+msgstr "Secundar"

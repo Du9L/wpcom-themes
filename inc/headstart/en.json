@@ -1,0 +1,62 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": {
+                "font_base": "Inter",
+                "font_headings": "Inter"
+            }
+        },
+        "theme_mods": {
+            "custom_css_post_id": -1,
+            "nav_menu_locations": {
+                "primary": null
+            },
+            "colors_manager": {
+                "0": false,
+                "cached": false
+            },
+            "show_site_header": false,
+            "show_post_and_page_titles": false,
+            "show_comments": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:media-text {\"align\":\"full\",\"mediaId\":3299,\"mediaLink\":\"https:\\\/\\\/dotcompatterns.wordpress.com\\\/pattern-camera\\\/\",\"mediaType\":\"image\",\"imageFill\":true} -->\n<div class=\"wp-block-media-text alignfull is-stacked-on-mobile is-image-fill\"><figure class=\"wp-block-media-text__media\" style=\"background-image:url('https:\/\/dotcompatterns.files.wordpress.com\/2021\/01\/pattern-camera.jpg?w=964');background-position:50% 50%;\"><img src=\"https:\/\/dotcompatterns.files.wordpress.com\/2021\/01\/pattern-camera.jpg?w=964\" alt=\"\" class=\"wp-image-3299 size-full\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:cover {\"overlayColor\":\"background\",\"minHeight\":95,\"minHeightUnit\":\"vh\"} -->\n<div class=\"wp-block-cover has-background-background-color has-background-dim\" style=\"min-height:95vh;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:image {\"align\":\"center\",\"id\":3298,\"width\":200,\"height\":200,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-rounded\"} -->\n<div class=\"wp-block-image is-style-rounded\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https:\/\/dotcompatterns.files.wordpress.com\/2021\/01\/pattern-woman.jpg?w=1024\" alt=\"\" class=\"wp-image-3298\" width=\"200\" height=\"200\" \/><\/figure><\/div>\n<!-- \/wp:image -->\n\n<!-- wp:heading {\"textAlign\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\"><strong>Jasmine Baker<\/strong><\/h1>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"backgroundColor\":\"background\"} -->\n<p class=\"has-text-align-center has-background-background-color has-background\">Hello! I am a photographer and designer living near Portland, Maine. When I am not posting to Instagram, you can find me shooting weddings and portraits.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:social-links {\"align\":\"center\",\"className\":\"is-style-default\"} -->\n<ul class=\"wp-block-social-links aligncenter is-style-default\"><!-- wp:social-link {\"url\":\"https:\\\/\\\/instagram.com\",\"service\":\"instagram\"} \/-->\n\n<!-- wp:social-link {\"url\":\"https:\\\/\\\/www.tiktok.com\",\"service\":\"tiktok\"} \/-->\n\n<!-- wp:social-link {\"url\":\"https:\\\/\\\/twitter.com\",\"service\":\"twitter\"} \/-->\n\n<!-- wp:social-link {\"url\":\"https:\\\/\\\/youtube.com\",\"service\":\"youtube\"} \/--><\/ul>\n<!-- \/wp:social-links --><\/div><\/div>\n<!-- \/wp:cover --><\/div><\/div>\n<!-- \/wp:media-text -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 5,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        }
+    ],
+    "menus": [],
+    "images": [],
+    "meta": {
+        "blog_id": 195383898,
+        "url": "https:\/\/bakerthemedemo.wordpress.com",
+        "update_date": "July 13, 2021, 3:56 pm",
+        "update_timestamp": 1626191789
+    }
+}
