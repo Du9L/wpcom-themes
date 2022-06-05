@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Bantry\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-09-16T01:18:46+00:00\n"
+"PO-Revision-Date: 2021-09-15 06:12:40+0000\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom.php:201
+msgid "Sign up to hear when my journey begins."
+msgstr "Inscreva-se para saber quando minha jornada começa."
+
+#: inc/wpcom.php:222
+msgid "Coming Soon: Simple"
+msgstr "Em breve: simples"
+
+#: inc/wpcom.php:232
+msgid "A new blog by MindStomp. Sign up to be notified when we launch."
+msgstr "Um novo blog da MindStomp. Inscreva-se para ser notificado quando lançarmos."
+
+#: inc/wpcom.php:251
+msgid "Coming Soon: App"
+msgstr "Em breve: app"
+
+#: inc/wpcom.php:254
+msgid "A close-up of a black smart watch against a pink background."
+msgstr "Um close-up de um relógio inteligente preto contra um fundo rosa."
+
+#: inc/wpcom.php:255
+msgid "A new app for designers"
+msgstr "Um novo app para designers"
+
+#: inc/wpcom.php:259
+msgid "We’re launching soon. Be the first to sign up!"
+msgstr "Estamos lançando em breve. Seja o primeiro a se inscrever!"
+
+#: inc/wpcom.php:263
+msgid "SUBSCRIBE"
+msgstr "ASSINE"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-singular.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuar lendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-singular.php:48
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/wpcom.php:43
+msgid "Portrait of a woman against a pink and blue background."
+msgstr "Retrato de uma mulher contra um fundo rosa e azul."
+
+#: inc/wpcom.php:48
+msgid "Kate Adams"
+msgstr "Kate Adams"
+
+#: inc/wpcom.php:52
+msgid "Hi! I’m a lead strategist for growing sustainable revenue streams for integrated fundraising."
+msgstr "Olá! Sou estrategista líder de aumento de fluxos de receita sustentáveis para captação integrada de recursos."
+
+#: inc/wpcom.php:57
+msgid "Get in touch"
+msgstr "Entre em contato"
+
+#: inc/wpcom.php:78
+msgid "Email Signup"
+msgstr "Inscrição por Email"
+
+#: inc/wpcom.php:92
+msgid "Virtual Art Classes"
+msgstr "Aulas virtuais de arte"
+
+#: inc/wpcom.php:96
+msgid "Join instructor Jaime Adams for a series of virtual classes aimed at helping you hone your drawing skills. We will focus on composition, perspective, contour, representing volume, and more!"
+msgstr "Junte-se ao instrutor Jaime Santos em uma série de aulas virtuais destinadas a ajudá-lo a aprimorar suas habilidades em desenho. Vamos nos concentrar na composição, perspectiva, contorno, volume e muito mais!"
+
+#: inc/wpcom.php:102
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: inc/wpcom.php:185
+msgid "Coming Soon: Solid Color"
+msgstr "Em breve: cor sólida"
+
+#: inc/wpcom.php:189
+msgid "A megaphone icon with sharp angles."
+msgstr "Um ícone de megafone com ângulos agudos."
+
+#: inc/wpcom.php:197
+#: inc/wpcom.php:228
+msgid "Coming Soon"
+msgstr "Em breve"
+
+#: functions.php:138
+msgid "This theme will only display Widgets if they are enabled in the Content Options section."
+msgstr "Este tema só exibirá Widgets se eles estiverem habilitados na seção Opções de Conteúdo."
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:156
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:46
+msgid "Content Options"
+msgstr "Opções de conteúdo"
+
+#: inc/customizer.php:66
+msgid "Enable site header and top menu"
+msgstr "Habilitar cabeçalho do site e menu superior"
+
+#: inc/customizer.php:67
+msgid "Check to show a standard site header, navigation menu and social links menu on the top of every page. These can be configured in the \"Site Identity\" and \"Menus\" panels."
+msgstr "Marque para mostrar um cabeçalho de site padrão, menu de navegação e menu de links sociais na parte superior de cada página. Eles podem ser configurados nos painéis \"Identidade do site\" e \"Menus\"."
+
+#: inc/customizer.php:90
+msgid "Enable widgets and footer menu"
+msgstr "Ativar widgets e menu de rodapé"
+
+#: inc/customizer.php:91
+msgid "Check to show a navigation menu and widgets in your site's footer area."
+msgstr "Selecione esta opção para mostrar um menu de navegação e widgets na área de rodapé do seu site."
+
+#: inc/customizer.php:114
+msgid "Show post and page titles"
+msgstr "Mostrar títulos de posts e páginas"
+
+#: inc/customizer.php:115
+msgid "Check to show titles at the top of single posts and pages."
+msgstr "Marque para mostrar os títulos no topo de posts e páginas individuais."
+
+#: inc/customizer.php:138
+msgid "Make comments visible"
+msgstr "Tornar os comentários visíveis"
+
+#: inc/customizer.php:139
+msgid "Check to show comments underneath posts and pages. Comments can be configured in your site’s Discussion settings screen."
+msgstr "Marque para mostrar comentários abaixo de posts e páginas. Os comentários podem ser configurados na tela de configurações de discussão do seu site."
+
+#: inc/customizer.php:167
+msgid "Your logo will not be shown on all posts and pages. To display your logo, follow the instructions above to enable your site header."
+msgstr "Seu logotipo não aparecerá em todos os posts e páginas. Para exibi-lo, siga as instruções acima para ativar o cabeçalho do seu site."
+
+#: inc/wpcom.php:38
+msgid "Card"
+msgstr "Cartão"
+
+#: functions.php:75
+#: inc/wpcom-colors-utils.php:16
+msgid "Background Color"
+msgstr "Cor do fundo"
+
+#: functions.php:76
+#: inc/wpcom-colors-utils.php:30
+msgid "Foreground Color"
+msgstr "Cor do primeiro plano"
+
+#: functions.php:77
+#: inc/wpcom-colors-utils.php:44
+msgid "Primary Color"
+msgstr "Cor Primária"
+
+#: functions.php:78
+#: inc/wpcom-colors-utils.php:58
+msgid "Secondary Color"
+msgstr "Cor secundária"
+
+#: functions.php:79
+#: inc/wpcom-colors-utils.php:72
+msgid "Tertiary Color"
+msgstr "Cor terciária"
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:135
+msgid "The site logo, title, and tagline will only appear on all posts and pages if the \"Site header and top menu\" option is enabled in the <a href=\"#\" onClick=\"%s\">Content Options</a> section."
+msgstr "O logotipo, título e descrição do site só aparecerão em todos os posts e páginas se a opção \"Menu superior e cabeçalho do site\" estiver ativada na seção <a href=\"#\" onClick=\"%s\">Opções de conteúdo</a>."
+
+#. translators: %s is an action which opens the "Content Options" section of
+#. customizer
+#: functions.php:136
+#: functions.php:137
+msgid "This theme will only display Menus if they are enabled in the Content Options section."
+msgstr "Este tema só exibirá menus se eles estiverem ativados na seção Opções de conteúdo."
+
+#: functions.php:40
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:45
+msgid "Secondary"
+msgstr "Secundário"
+
+#: functions.php:50
+msgid "Foreground"
+msgstr "Cor de Frente"
+
+#: functions.php:55
+msgid "Tertiary"
+msgstr "Terciário"
+
+#: functions.php:60
+msgid "Background"
+msgstr "Fundo"
