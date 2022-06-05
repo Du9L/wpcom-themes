@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Button-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-05T01:02:01+00:00\n"
+"PO-Revision-Date: 2020-11-27 07:06:58+0000\n"
+"Language: skr_PK\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:221
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d آئٹم"
+msgstr[1] "%d آئٹم"
+
+#: inc/wpcom-colors.php:90
+msgid "Main Accent"
+msgstr "وݙا لہجہ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/button-2/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "پوری چوڑائی، پاسے آلی پٹی کائناں ہووے"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/button-2/style.css
+msgid "A stylish, lighthearted theme for crafters, hobbyists, and creatives."
+msgstr "دستکاراں، شغلیاں اَتے تخلیق کاراں کِیتے ہِک دِلکش اَتے ہلکا پھلکا موضوع (تھیم)۔"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav\">اڳلی پوسٹ</span> %title"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">پچھلی پوسٹ</span> %title"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "%s کیتے نتیجے ڳولو"
+
+#: inc/template-tags.php:136
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr " <span class=\"screen-reader-text\">%1$s</span> پڑھݨ جاری رکھو"
+
+#: inc/template-tags.php:39
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: inc/template-tags.php:39
+msgid "1 Comment"
+msgstr "١ تبصرہ"
+
+#: inc/template-tags.php:39
+msgid "Leave a comment"
+msgstr "تبصرہ  لکھو"
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "خاص"
+
+#: header.php:45
+msgid "Menu"
+msgstr "مینیو"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "چھوڑو تے مواد تے ون٘ڄو"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:185
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "چالو"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:191
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "چالو"
+
+#: functions.php:129
+msgid "Footer 1"
+msgstr "فوٹر ١"
+
+#: functions.php:137
+msgid "Footer 2"
+msgstr "فوٹر ٢"
+
+#: functions.php:145
+msgid "Footer 3"
+msgstr "فوٹر ٣"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "پاسے آلی پٹی"
+
+#: functions.php:46
+msgid "Header"
+msgstr "ہیڈر"
+
+#: footer.php:39
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s بائی %2$s"
+
+#: footer.php:37
+msgid "Proudly powered by %s"
+msgstr "%s کنوں فخریہ طاقتور ٻݨیا ہویا"
+
+#: footer.php:37
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: components/content-page.php:46
+#: inc/template-tags.php:46
+msgid "Edit %s"
+msgstr "%s وچ تبدیلی کرو"
+
+#. translators: %s: Name of current post.
+#: components/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "پڑھݨ جاری رکھو %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "اِین٘ویں لڳدے جو اَساں اُوہ شئے نِسے لبھ سڳدے جین٘دی تُساں ڳویڑ کِیتی ہِے۔ تِھی سڳدے جو ڳویڑ نال کُجھ معاونت مِلے۔ "
+
+#: components/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "افسوس، تہاݙی ڳولݨ ٹرم  نال ککھ نی رلدا۔ سوہݨا کجھ ٻنھاں خاص لفظاں نال ڳولݨ دی کوشش کرو۔"
+
+#: components/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "تہاݙی پہلی پوسٹ شائع تھیوݨ کیتے تیار ہے? <a href=\"%1$s\">اتھ شروع کرو</a>."
+
+#: components/content-none.php:14
+msgid "Nothing Found"
+msgstr "کائی شئے کائنی لبھی"
+
+#: components/content-author.php:34
+msgid "View all posts by %s"
+msgstr "%s دیاں ساریاں پوسٹاں ݙیکھو"
+
+#: components/content-author.php:28
+msgid "Published by %s"
+msgstr "%s کنوں شائع  تھی ڳیا"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "تبصرے بند  ہن۔"
+
+#: comments.php:43
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "نویں نویں تبصرے"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Older Comments"
+msgstr "پراݨے تبصرے"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "تبصریاں دی نیویڳیشݨ"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "اینویں لڳدے جو ایں جاہ تے ککھ نی لبھا۔ تھی سڳدے، ڳولݨ دی کوشش کرو؟"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo اُتے ہِک وِچار؛"
+msgstr[1] "&ldquo;%2$s&rdquo; اُتے %1$s وِچار؛"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہو! ایہ ورقہ کائنی لبھ سڳا۔"
