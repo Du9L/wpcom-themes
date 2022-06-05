@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Apostrophe-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T01:56:14+00:00\n"
+"PO-Revision-Date: 2018-12-21 11:10:54+0000\n"
+"Language: ur_PK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:69
+msgid "White"
+msgstr "سفید"
+
+#: functions.php:74
+msgid "Blue"
+msgstr "نیلا"
+
+#: functions.php:64
+msgid "Light Gray"
+msgstr "ہلکا گرے"
+
+#: functions.php:54
+msgid "Dark Gray"
+msgstr "گہرا گرے"
+
+#: functions.php:49
+msgid "Black"
+msgstr "سیاہ"
+
+#. Template Name of the theme
+msgid "Full-Width Page"
+msgstr "صفحے کی مکمل چوڑائی"
+
+#. Description of the theme
+msgid "A clean, no-nonsense magazine theme"
+msgstr "ایک صاف، بامعنی میگزین تھیم"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "تلاش کے نتائج برائے : %s"
+
+#: inc/template-tags.php:37
+msgid "Featured"
+msgstr "نمایاں"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "چھوڑیں مواد پر جائیں"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "فہرست"
+
+#: functions.php:284
+msgid "expand child menu"
+msgstr "ذیلی مینو کھولیں"
+
+#: functions.php:285
+msgid "collapse child menu"
+msgstr "ذیلی مینو بند کریں"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:230
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "پر"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:236
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "جاری"
+
+#: functions.php:187
+msgid "Secondary"
+msgstr "ثانوی"
+
+#: functions.php:198
+msgid "Tertiary"
+msgstr "تیسرا درجہ"
+
+#: functions.php:209
+msgid "Footer Sidebar"
+msgstr "فوٹر سائیڈ بار"
+
+#: functions.php:107
+msgid "Header Menu"
+msgstr "ہیڈر مینو"
+
+#: functions.php:176
+msgid "Primary"
+msgstr "بنیادی"
+
+#: footer.php:26
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s منجانب %2$s۔"
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "فخریہ تقویت شدہ منجانب %s"
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:16
+#: content-single.php:15
+msgid "Edit"
+msgstr "تصحیح"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ایسا لگتا ہے کہ ہم وہ تلاش نہیں کر سکے جسے آپ ڈھونڈ رہے ہیں۔ شاید تلاش مدد کر سکے۔"
+
+#: content-page.php:25
+#: content-single.php:24
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "معاف کیجیے گا، لیکن آپ کی تلاش کردہ اصطلاح سے کچھ نہیں ملا سکا۔ براہ مہربانی کسی اور کی ورڈز سے دوبارہ تلاش کرنے کی کوشش کریں۔"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آپ اپنی پہلی پوسٹ شائع کرنے لیے تیار ہیں؟ <a href=\"%1$s\">یہاں سے شروع کریں</a>۔"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "کچھ نہیں ملا"
+
+#: comments.php:35
+#: comments.php:51
+msgid "Newer Comments &raquo;"
+msgstr "نیا تبصرے »"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں۔"
+
+#: comments.php:34
+#: comments.php:50
+msgid "&laquo; Older Comments"
+msgstr "« پرانے تبصرے"
+
+#: comments.php:33
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "تبصروں کی نیویگیشن"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "ماہانہ محفوظات میں دیکھنے کی کوشش کریں۔ %1$s"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%s comments"
+msgstr[0] "ایک تبصرہ"
+msgstr[1] "%s تبصرے"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ایسا لگتا ہے کہ اس مقام پر کچھ نہیں مل سکا۔ ہو سکتا ہے کہ ذیل کے لنکس میں سے کوشش یا تلاش کریں؟"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "زیادہ استعمال کردہ زمرے"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہ، مطلوبہ صفحہ نہیں مل سکا۔"

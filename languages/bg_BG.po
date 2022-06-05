@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Apostrophe-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T01:56:08+00:00\n"
+"PO-Revision-Date: 2019-12-15 12:12:14+0000\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:79
+msgid "Dark Blue"
+msgstr "Тъмно синьо"
+
+#: functions.php:69
+msgid "White"
+msgstr "Бяла"
+
+#: functions.php:74
+msgid "Blue"
+msgstr "Синьо"
+
+#: functions.php:64
+msgid "Light Gray"
+msgstr "Светлосив"
+
+#: functions.php:54
+msgid "Dark Gray"
+msgstr "Тъмносив"
+
+#: functions.php:59
+msgid "Medium Gray"
+msgstr "Нормално сиво"
+
+#: functions.php:49
+msgid "Black"
+msgstr "Черна"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/apostrophe-2/templates/full-width-page.php
+msgid "Full-Width Page"
+msgstr "Страница с пълна ширина"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: inc/wpcom-colors.php:122
+msgid "Links and Buttons"
+msgstr "Връзки и бутони"
+
+#: inc/wpcom-colors.php:144
+msgid "Accents"
+msgstr "Акценти"
+
+#: inc/template-tags.php:37
+msgid "Featured"
+msgstr "Избрано"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:255
+msgid "expand child menu"
+msgstr "разширяване на дъщерното меню"
+
+#: functions.php:256
+msgid "collapse child menu"
+msgstr "свиване на дъщерното меню"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:210
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:204
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:166
+msgid "Secondary"
+msgstr "Допълнителен"
+
+#: functions.php:157
+msgid "Primary"
+msgstr "Главен"
+
+#: functions.php:106
+msgid "Header Menu"
+msgstr "Меню на заглавната част"
+
+#: footer.php:26
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr "http://bg.wordpress.org/"
+
+#: content-page.php:16
+#: content-single.php:15
+msgid "Edit"
+msgstr "Редактиране"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: content-page.php:25
+#: content-single.php:24
+msgid "Pages:"
+msgstr "Страници:"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Няма резултати, отговарящи на вашето търсене. Опитайте отново с други ключови думи. "
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Време е за първата ви публикация. <a href=\"%1$s\">Започнете от тук</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: comments.php:35
+#: comments.php:51
+msgid "Newer Comments &raquo;"
+msgstr "По-нови коментари &raquo;"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Коментарите са затворени."
+
+#: comments.php:34
+#: comments.php:50
+msgid "&laquo; Older Comments"
+msgstr "&laquo; По-стари"
+
+#: comments.php:33
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Опитайте да потърсите в месечните архиви. %1$s"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%s comments"
+msgstr[0] "Един коментар"
+msgstr[1] "%s коментара"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "Най-използвани категории"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Нищо не бе намерено на това място. Може би трябва да погледнете на друго място или да използвате търсачката."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страницата не е открита."
