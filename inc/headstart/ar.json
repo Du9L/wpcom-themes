@@ -1,0 +1,241 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "unset",
+                "font_headings": "unset"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1,
+            "color_palette": "blue"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "البث الصوتي",
+            "post_content": "<!-- wp:query {\"query\":{\"perPage\":\"3\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false},\"displayLayout\":{\"type\":\"list\",\"columns\":3},\"align\":\"wide\",\"className\":\"is-style-quadrat-diamond-posts\"} -->\n<div class=\"wp-block-query alignwide is-style-quadrat-diamond-posts\"><!-- wp:post-template -->\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:group {\"className\":\"post-meta\",\"layout\":{\"type\":\"flex\"}} -->\n<div class=\"wp-block-group post-meta\"><!-- wp:post-date {\"isLink\":true,\"fontSize\":\"tiny\"} /-->\n\n<!-- wp:post-terms {\"term\":\"category\",\"fontSize\":\"tiny\"} /--></div>\n<!-- /wp:group -->\n\n<!-- wp:post-title {\"textAlign\":\"left\",\"isLink\":true,\"fontSize\":\"extra-large\"} /-->\n\n<!-- wp:post-excerpt {\"moreText\":\"Read more\",\"fontSize\":\"normal\"} /--></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:post-featured-image /--></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n<!-- /wp:post-template -->\n\n<!-- wp:query-pagination -->\n<div class=\"wp-block-query-pagination\"><!-- wp:query-pagination-previous /-->\n\n<!-- wp:query-pagination-next /--></div>\n<!-- /wp:query-pagination --></div>\n<!-- /wp:query -->",
+            "post_name": "podcast",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 326,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "مدونة",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 104,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "الاتصال",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">نحن هنا ونرغب في الاستماع إلى ملاحظاتك. ألديك موضوع ترغب في سماعه في بثنا الصوتي؟ اتركه في النموذج الوارد أدناه، وسنحاول الرجوع إليك قريبًا.</p> <!-- /wp:paragraph --> <!-- wp:heading {\"level\":3} --> <h3>اترك لنا رسالة</h3> <!-- /wp:heading --> <!-- wp:jetpack/contact-form {\"subject\":\"New feedback received from your website\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Send Message\",\"borderRadius\":0,\"width\":\"\",\"className\":\"is-style-fill\"} /--> <!-- /wp:jetpack/contact-form -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 66,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "نبذة عن",
+            "post_content": "<!-- wp:media-text {\"mediaLink\":\"https://quadratreddemo.files.wordpress.com/2021/12/girls-illustration.png\",\"mediaType\":\"image\"} --> <div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://quadratreddemo.files.wordpress.com/2021/12/girls-illustration.png\" alt=\"رسم توضيحي لإمرأتين.\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":\"40px\",\"lineHeight\":\"1.3\"}}} --> <p style=\"font-size:40px;line-height:1.3;\">سارة وأوليفيا صحفيتان وناشطتان ومؤمنتان بالمساواة بين الجنسين تقاتلان من أجل المساواة وتشجعان على التفكير النقدي.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>الإلهام لإنشاء بث صوتي. كانوا يحدقن النظر بقوة إلى شاشات حواسيبهن الشخصية معظم الوقت، ويتساءلن عن سبب عدم منح الفرص نفسها إليهن نظرًا إلى أنهن نساء.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":36} --> <div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:media-text --> <!-- wp:spacer {\"height\":30} --> <div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>أدت الشكاوى الفارغة إلى محادثات أعمق، ما أدى في نهاية المطاف إلى البث الصوتي <em>Quadrat</em>. محادثة أسبوعية حيث يناقشن جميع الأمور المتعلقة بالأنوثة، بدايةً من الحقوق الأساسية وصولاً إلى حركة المساواة بين الجنسين ومحو الأمية الجسدية والصحة العقلية.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":30} --> <div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":173,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://quadratreddemo.files.wordpress.com/2021/12/girl-one-illustration.png?w=908\" alt=\"\" class=\"wp-image-173\" /></figure> <!-- /wp:image --> <!-- wp:heading {\"level\":3} --> <h3>سارة كوليمان</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>تفخر سارة بنفسها في تعليم محو الأمية الجسدية والترويج لها.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"primary\",\"iconColorValue\":\"#8E3636\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"tumblr\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":174,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://quadratreddemo.files.wordpress.com/2021/12/girl-two-illustration.png?w=908\" alt=\"\" class=\"wp-image-174\" /></figure> <!-- /wp:image --> <!-- wp:heading {\"level\":3} --> <h3>أوليفيا وونج</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>أوليفيا هي قارئة شغوفة للأعمال الكلاسيكية النسوية والكتب الكوميدية.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"primary\",\"iconColorValue\":\"#8E3636\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 65,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "الحلقة 3: دورة المشاعر",
+            "post_content": "<!-- wp:paragraph --> <p>Quadrat عبارة عن محادثة أسبوعية حيث يناقشن جميع الأمور المتعلقة بالأنوثة، بدايةً من الحقوق الأساسية وصولاً إلى حركة المساواة بين الجنسين ومحو الأمية الجسدية والصحة العقلية. نأمل في مساعدة النساء على أن يصبحن أكثر تمكنًا من خلال المعرفة والمعلومات، سواء كانوا في أمريكا أو إفريقيا أو في الشرق الأوسط. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>انضم إلينا كل أسبوع!</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":50} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-3.wav\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p>تسأل سارة <em>\"هل نحتاج إلى فترات إذا أصابونا بالجنون؟\"</em>. تلميح: نعم نحتاج. تواصلنا مع صديقتنا ديانا روث، وهي أخصائية الغدد الصماء المتخصصة في الصحة الهرمونية للمرأة لمعرفة كيف تؤثر دورات الحيض في أدمغة النساء وعواطفهن.</p> <!-- /wp:paragraph -->",
+            "post_name": "episode-3-a-cycle-of-emotions",
+            "post_excerpt": "تسأل سارة \"هل نحتاج إلى فترات إذا أصابونا بالجنون؟\". تلميح: نعم نحتاج. تواصلنا مع صديقتنا ديانا روث، وهي أخصائية الغدد الصماء المتخصصة في الصحة الهرمونية للمرأة لمعرفة كيف تؤثر دورات الحيض في أدمغة النساء وعواطفهن.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 48,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://quadratreddemo.files.wordpress.com/2021/12/introspection-scaled-1.jpeg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "الحلقة 2: القيادات النسائية أين هن؟",
+            "post_content": "<!-- wp:paragraph --> <p>Quadrat عبارة عن محادثة أسبوعية حيث يناقشن جميع الأمور المتعلقة بالأنوثة، بدايةً من الحقوق الأساسية وصولاً إلى حركة المساواة بين الجنسين ومحو الأمية الجسدية والصحة العقلية. نأمل في مساعدة النساء على أن يصبحن أكثر تمكنًا من خلال المعرفة والمعلومات، سواء كانوا في أمريكا أو إفريقيا أو في الشرق الأوسط. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>انضم إلينا كل أسبوع!</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":41} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-2.wav\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p>بعد سنوات من الثورة، يبقى السؤال المهم هو: لماذا لا يوجد المزيد من النساء في القيادة؟ تعمقت سارة وأوليفيا في الموضوع.</p> <!-- /wp:paragraph -->",
+            "post_name": "episode-2-female-leaders-where-are-they",
+            "post_excerpt": "بعد سنوات من الثورة، يبقى السؤال المهم هو: لماذا لا يوجد المزيد من النساء في القيادة؟ تعمقت سارة وأوليفيا في الموضوع.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 40,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratreddemo.files.wordpress.com/2021/12/leadership.jpeg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "الحلقة 1: كيف تؤثر الشاشات في الهرمونات",
+            "post_content": "<!-- wp:paragraph --> <p>Quadrat عبارة عن محادثة أسبوعية حيث يناقشن جميع الأمور المتعلقة بالأنوثة، بدايةً من الحقوق الأساسية وصولاً إلى حركة المساواة بين الجنسين ومحو الأمية الجسدية والصحة العقلية. نأمل في مساعدة النساء على أن يصبحن أكثر تمكنًا من خلال المعرفة والمعلومات، سواء كانوا في أمريكا أو إفريقيا أو في الشرق الأوسط. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>انضم إلينا كل أسبوع!</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":26} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-1.wav\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p>تتحدث سارة وأوليفيا في هذه الحلقة مع أخصائية الهرمونات الأنثوية ديانا روث حول تأثير هذه المعدات والتكنولوجيا في صحة الهرمونات والخصوبة.</p> <!-- /wp:paragraph -->",
+            "post_name": "episode-1-how-screens-affect-hormones",
+            "post_excerpt": "تتحدث سارة وأوليفيا في هذه الحلقة مع أخصائية الهرمونات الأنثوية ديانا روث حول تأثير هذه المعدات والتكنولوجيا في صحة الهرمونات والخصوبة.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 25,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://quadratreddemo.files.wordpress.com/2021/12/screen-usage.jpeg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "الرئيسية",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"900px\"} --> <div class=\"wp-block-column\" style=\"flex-basis:900px;\"><!-- wp:heading {\"level\":1} --> <h1>بث صوتي للنساء حول جميع الأمور التي تهمن.</h1> <!-- /wp:heading --> <!-- wp:paragraph {\"fontSize\":\"normal\"} --> <p class=\"has-normal-font-size\">#QuadratPodcast</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:spacer {\"height\":30} --> <div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:query {\"queryId\":10,\"query\":{\"perPage\":\"2\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"exclude\",\"inherit\":false},\"displayLayout\":{\"type\":\"flex\",\"columns\":2},\"align\":\"wide\"} --> <div class=\"wp-block-query alignwide\"><!-- wp:post-template --> <!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"}}},\"className\":\"vertical-query-pattern\",\"layout\":{\"inherit\":false}} --> <div class=\"wp-block-group vertical-query-pattern\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;\"><!-- wp:post-featured-image {\"className\":\"mb-0\"} /--> <!-- wp:cover {\"overlayColor\":\"tertiary\",\"minHeight\":360,\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\"},\"padding\":{\"top\":\"30px\",\"right\":\"40px\",\"bottom\":\"20px\",\"left\":\"40px\"}}}} --> <div class=\"wp-block-cover has-tertiary-background-color has-background-dim\" style=\"margin-top:0;padding-top:30px;padding-right:40px;padding-bottom:20px;padding-left:40px;min-height:360px;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:post-title {\"isLink\":true,\"linkTarget\":\"_blank\",\"textColor\":\"primary\"} /--> <!-- wp:post-excerpt {\"textColor\":\"primary\",\"fontSize\":\"small\"} /--></div></div> <!-- /wp:cover --></div> <!-- /wp:group --> <!-- /wp:post-template --></div> <!-- /wp:query --> <!-- wp:query {\"queryId\":11,\"query\":{\"perPage\":\"1\",\"pages\":0,\"offset\":\"2\",\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"exclude\",\"inherit\":false},\"align\":\"wide\"} --> <div class=\"wp-block-query alignwide\"><!-- wp:post-template --> <!-- wp:group {\"className\":\"horizontal-query-pattern\",\"layout\":{\"type\":\"flex\"}} --> <div class=\"wp-block-group horizontal-query-pattern\"><!-- wp:post-featured-image {\"className\":\"image-no-margin mb-0\"} /--> <!-- wp:cover {\"overlayColor\":\"tertiary\",\"minHeight\":360,\"className\":\"horizontal-query-pattern\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\"},\"padding\":{\"top\":\"30px\",\"right\":\"40px\",\"bottom\":\"30px\",\"left\":\"40px\"}}}} --> <div class=\"wp-block-cover has-tertiary-background-color has-background-dim horizontal-query-pattern\" style=\"margin-top:0;padding-top:30px;padding-right:40px;padding-bottom:30px;padding-left:40px;min-height:360px;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:post-title {\"isLink\":true,\"linkTarget\":\"_blank\",\"textColor\":\"primary\"} /--> <!-- wp:post-excerpt {\"textColor\":\"primary\",\"fontSize\":\"small\"} /--></div></div> <!-- /wp:cover --></div> <!-- /wp:group --> <!-- /wp:post-template --></div> <!-- /wp:query --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"align\":\"wide\"} --> <div class=\"wp-block-group alignwide\"><!-- wp:paragraph --> <p>المضيفون</p> <!-- /wp:paragraph --> <!-- wp:heading --> <h2>سامانثا وأوليفيا كلاهن كاتبات وناشطات.</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":36} --> <div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\">تعرف على المزيد</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:group --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>الانضمام إلى المجتمع</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>يسرنا وجودك هنا! الآن، إذا كنت لا ترغب في أن تفوتك مقالة أو حلقة، فيمكنك الاشتراك في النشرة الإخبارية لدينا.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\",\"className\":\"subscription-column\"} --> <div class=\"wp-block-column is-vertically-aligned-center subscription-column\"><!-- wp:jetpack/subscriptions {\"buttonOnNewLine\":true} --> <div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline\">[jetpack_subscription_form show_subscribers_total=\"false\" button_on_newline=\"true\" custom_font_size=\"16px\" custom_border_radius=\"0\" custom_border_weight=\"1\" custom_padding=\"15\" custom_spacing=\"10\" submit_button_classes=\"\" email_field_classes=\"\" show_only_email_and_button=\"true\"]</div> <!-- /wp:jetpack/subscriptions --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\"><strong>استمع على <br></strong><a href=\"http://wordpress.com\">Apple Podcasts</a> · <a href=\"http://wordpress.com\">Stitcher</a> · <a href=\"http://wordpress.com\">Spotify</a></p> <!-- /wp:paragraph -->",
+            "post_name": "7-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "page_template": "page-without-title"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "أساسي",
+            "items": [
+                {
+                    "menu-item-title": "مدونة",
+                    "menu-item-db-id": 302,
+                    "menu-item-object-id": "104",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "البث الصوتي",
+                    "menu-item-db-id": 336,
+                    "menu-item-object-id": "326",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "نبذة عن",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "65",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "الاتصال",
+                    "menu-item-db-id": 76,
+                    "menu-item-object-id": "66",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+		"https://quadratreddemo.files.wordpress.com/2021/12/introspection-scaled-1.jpeg",
+        "https://quadratreddemo.files.wordpress.com/2021/12/girl-one-illustration.png",
+        "https://quadratreddemo.files.wordpress.com/2021/12/girl-two-illustration.png",
+		"https://quadratreddemo.files.wordpress.com/2021/12/girls-illustration.png",
+		"https://quadratreddemo.files.wordpress.com/2021/12/leadership.jpeg",
+		"https://quadratreddemo.files.wordpress.com/2021/12/screen-usage.jpeg"
+    ],
+    "meta": {
+        "blog_id": 193232910,
+        "url": "https://quadratdemo.wordpress.com",
+        "update_date": "September 30, 2021, 2:38 pm",
+        "update_timestamp": 1633012735
+    }
+}
