@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Rebalance\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T03:34:08+00:00\n"
+"PO-Revision-Date: 2019-07-05 12:09:55+0000\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/template-tags.php:36
+msgid "Newer Projects"
+msgstr "Naujesni projektai"
+
+#: inc/template-tags.php:32
+msgid "Older Projects"
+msgstr "Senesni projektai"
+
+#: inc/template-tags.php:28
+msgid "Posts navigation"
+msgstr "Įrašo navigacija"
+
+#: functions.php:75
+msgid "Dark Red"
+msgstr "Tamsiai raudona"
+
+#: functions.php:70
+msgid "Red"
+msgstr "Raudona"
+
+#: functions.php:65
+msgid "White"
+msgstr "Balta"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "Šviesiai pilka"
+
+#: functions.php:55
+msgid "Medium Gray"
+msgstr "Pilka"
+
+#: functions.php:50
+msgid "Dark Gray"
+msgstr "Tamsiai pilka"
+
+#: functions.php:45
+msgid "Black"
+msgstr "Juoda"
+
+#: functions.php:165
+msgid "Footer"
+msgstr "Poraštė"
+
+#: inc/wpcom-colors.php:374
+msgid "White, Mauve & Navy"
+msgstr "Balta, violetinė ir mėlyna"
+
+#: inc/wpcom-colors.php:366
+msgid "Green, White & Black"
+msgstr "Žalia, balta ir juoda"
+
+#: inc/wpcom-colors.php:358
+msgid "Black, Gray, & Red"
+msgstr "Juoda, pilka ir raudona"
+
+#: inc/wpcom-colors.php:350
+msgid "Off White & Ever Green"
+msgstr "Balkšva ir tamsiai žalia"
+
+#: inc/wpcom-colors.php:342
+msgid "Mardi Gras"
+msgstr "Užgavėnės"
+
+#: inc/wpcom-colors.php:334
+msgid "Tan, Red, & Mahogany"
+msgstr "Smėlinė, raudona ir rusvai raudona"
+
+#: inc/wpcom-colors.php:322
+msgid "Links, Headings, and Buttons"
+msgstr "Nuorodos, antraštės ir mygtukai"
+
+#: inc/wpcom-colors.php:254
+msgid "Text and Border Colors"
+msgstr "Teksto ir kraštelių spalva"
+
+#: inc/wpcom-colors.php:75
+msgid "Background color"
+msgstr "Fono spalva"
+
+#: inc/template-tags.php:89
+#: inc/template-tags.php:91
+msgctxt "Categories separator"
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:129
+msgctxt "URL input placeholder text"
+msgid "ex: http://janedoe.wordpress.com"
+msgstr "pvz.: http://vardenis.wordpress.com"
+
+#: inc/extras.php:123
+msgctxt "Email input placeholder text"
+msgid "ex: janedoe@gmail.com"
+msgstr "pvz.: vardenispavardenis@gmail.com"
+
+#: archive-jetpack-portfolio.php:44
+#: taxonomy-jetpack-portfolio-tag.php:44
+#: taxonomy-jetpack-portfolio-type.php:44
+msgid "Portfolio navigation"
+msgstr "Portfolio meniu"
+
+#: archive-jetpack-portfolio.php:43
+#: taxonomy-jetpack-portfolio-tag.php:43
+#: taxonomy-jetpack-portfolio-type.php:43
+msgid "Newer projects"
+msgstr "Naujesni projektai"
+
+#: archive-jetpack-portfolio.php:42
+#: inc/jetpack.php:226
+#: taxonomy-jetpack-portfolio-tag.php:42
+#: taxonomy-jetpack-portfolio-type.php:42
+msgid "Older projects"
+msgstr "Senesni projektai"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/rebalance/style.css
+msgid "http://wordpress.com/themes/"
+msgstr "http://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/rebalance/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/rebalance/portfolio-page.php
+msgid "Portfolio Page"
+msgstr "Portfolio puslapis"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/rebalance/style.css
+msgid "Rebalance is a new spin on the classic Imbalance 2 portfolio theme. It is a simple, modern theme for photographers, artists, and graphic designers looking to showcase their work."
+msgstr "Rebalance - tai modernus klasikinės portfolio temos Imbalance 2 variantas. Tai paprasta tema fotografams, menininkams ir dizaineriams."
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:26
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:22
+#: template-parts/content-single.php:58
+msgid "Next"
+msgstr "Kitas"
+
+#: template-parts/content-single.php:21
+#: template-parts/content-single.php:57
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: template-parts/content-project.php:53
+msgid "Next Project"
+msgstr "Kitas projektas"
+
+#: template-parts/content-project.php:52
+msgid "Previous Project"
+msgstr "Ankstesnis projektas"
+
+#: template-parts/content-page.php:20
+#: template-parts/content-project.php:33
+#: template-parts/content-single.php:38
+#: template-parts/content.php:33
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nieko nerasta. Pabandykite pasinaudoti paieška."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai: %s"
+
+#: inc/template-tags.php:174
+msgid "About %s"
+msgstr "Apie %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:109
+#: inc/template-tags.php:152
+#: template-parts/content-page.php:31
+msgid "Edit %s"
+msgstr "Redaguoti %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:127
+#: inc/template-tags.php:136
+#: inc/template-tags.php:142
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:110
+msgctxt "comment form placeholder"
+msgid "ex: jane doe"
+msgstr "pvz.: Vardenis Pavardenis"
+
+#: inc/extras.php:52
+msgid "More"
+msgstr "Daugiau"
+
+#: image.php:71
+msgid "Next Image"
+msgstr "Kitas paveikslėlis"
+
+#: image.php:63
+msgid "Previous Image"
+msgstr "Ankstesnis paveikslėlis"
+
+#: image.php:48
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: image.php:43
+msgid "Full resolution"
+msgstr "Pilnas dydis"
+
+#: image.php:42
+msgid "Link to full-size image"
+msgstr "Nuoroda į viso dydžio paveikslėlį"
+
+#: image.php:26
+msgid "Return to: %5$s"
+msgstr "Grįžti į: %5$s"
+
+#: image.php:26
+msgid "Return to %4$s"
+msgstr "Grįžti į %4$s"
+
+#: header.php:66
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:66
+msgid "Close"
+msgstr "Uždaryti"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Pereiti prie turinio"
+
+#: functions.php:256
+msgid "collapse child menu"
+msgstr "suskleisti sub-meniu"
+
+#: functions.php:255
+msgid "expand child menu"
+msgstr "išskleisti sub-meniu"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:195
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:189
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:110
+msgid "Social Menu"
+msgstr "Socialinis meniu"
+
+#: functions.php:109
+msgid "Header Menu"
+msgstr "Antraštės meniu"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė %2$s"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:15
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:85
+msgid "Submit"
+msgstr "Pateikti"
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:45
+#: comments.php:69
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:42
+#: comments.php:66
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: comments.php:39
+#: comments.php:63
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Komentarų: 1"
+msgstr[1] "Komentarų: %1$s"
+msgstr[2] "Komentarų: %1$s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."
