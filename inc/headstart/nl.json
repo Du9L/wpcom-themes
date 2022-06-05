@@ -1,0 +1,119 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "main"
+            },
+            "custom_css_post_id": -1,
+            "custom_logo": "https://arbutusdemo.files.wordpress.com/2021/11/cropped-benjamin-combs-hiadjnxzxl8-unsplash.jpg"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "Roei je boot",
+            "post_content": "<!-- wp:paragraph --> <p>'s Nachts verduistert het voortbewegende wolkenpak de gehele stille golf met een ondoordringbare duisternis, waarin het geluid van de vallende regen abrupt begint en dan weer stopt –– eerst hier, dan daar. Deze bewolkte nachten zijn voor de zeelui spreekwoordelijk, samen met de gehele westkust van een groots continent. Lucht, land en zee verdwijnen samen van de wereld wanneer de Placido – zo zegt men – slaapt onder zijn zwarte poncho. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>De overgebleven sterren onder de zeewaartse frons van het gewelf schijnen zwak, in de bek van een zwarte grot. In al zijn uitgestrektheid drijft jouw schip ongezien onder je voeten, haar zeilen wapperen onzichtbaar boven je hoofd. Het oog van God zelf – voegen ze vloekend toe – zou niet kunnen zien wat er daar wordt uitgespookt; je zou je zelfs zonder repercussies tot de duivel kunnen wenden, ware het niet dat zelfs zijn kwaadwilligheid het niet wint van de blinde duisternis.</p> <!-- /wp:paragraph -->",
+            "post_name": "row-your-boat",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-o453m2liufs-unsplash-2.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Over de rivier",
+            "post_content": "<!-- wp:paragraph --> <p>De ochtend breekt aan achter de torenhoge en gekartelde muur van de Cordillera; scherp omlijnde donkere pieken die via steile hellingen overgaan in een deken van bos aan de rand van de kust. Het witte hoofd van Higuerota torent koninklijk uit boven het blauw. Clusters van gigantische rotsblokken vormen zwarte spikkels op de effen koepel van sneeuw.</p> <!-- /wp:paragraph -->",
+            "post_name": "gently-down-the-stream",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-hfziod0f_i8-unsplash-1.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><!-- wp:query {\"queryId\":1,\"query\":{\"perPage\":\"5\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false},\"layout\":{\"inherit\":false}} -->\n<div class=\"wp-block-query\"><!-- wp:post-template -->\n<!-- wp:post-featured-image /-->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"30px\",\"bottom\":\"60px\"}}}} -->\n<div class=\"wp-block-group\" style=\"padding-top:30px;padding-bottom:60px;\"><!-- wp:post-title {\"isLink\":true,\"style\":{\"typography\":{\"fontSize\":\"48px\",\"fontStyle\":\"normal\",\"fontWeight\":\"600\",\"lineHeight\":\"1.2\"}}} /-->\n\n<!-- wp:post-date {\"style\":{\"typography\":{\"lineHeight\":\"1.5\"}}} /--></div>\n<!-- /wp:group -->\n<!-- /wp:post-template -->\n\n<!-- wp:query-pagination {\"className\":\"aligncenter\"} -->\n<!-- wp:query-pagination-previous /-->\n\n<!-- wp:query-pagination-next /-->\n<!-- /wp:query-pagination --></div>\n<!-- /wp:query --></div>\n<!-- /wp:group -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "page_template": "header-footer-only"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Hoofdgerecht",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 5,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-o453m2liufs-unsplash-2.jpg",
+        "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-hfziod0f_i8-unsplash-1.jpg"
+    ],
+    "meta": {
+        "blog_id": 199677188,
+        "url": "https://arbutusdemo.wordpress.com",
+        "update_date": "November 17, 2021, 12:18 am",
+        "update_timestamp": 1637108311
+    }
+}
