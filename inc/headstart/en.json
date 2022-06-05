@@ -1,0 +1,56 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": null
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:cover {\"overlayColor\":\"background\",\"minHeight\":90,\"minHeightUnit\":\"vh\",\"isDark\":false,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull is-light\" style=\"min-height:90vh;\"><span aria-hidden=\"true\" class=\"has-background-background-color has-background-dim-100 wp-block-cover__gradient-background has-background-dim\"><\/span><div class=\"wp-block-cover__inner-container\"><!-- wp:image {\"align\":\"center\",\"id\":11,\"width\":142,\"height\":142,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-rounded\"} -->\n<div class=\"wp-block-image is-style-rounded\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https:\/\/barnettdemo.files.wordpress.com\/2022\/01\/image-from-rawpixel-id-2257682-jpeg.jpg?w=733\" alt=\"\" class=\"wp-image-11\" width=\"142\" height=\"142\" \/><\/figure><\/div>\n<!-- \/wp:image -->\n\n<!-- wp:heading {\"textAlign\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\" id=\"antonio-barnett\"><strong>Antonio Barnett<\/strong><\/h1>\n<!-- \/wp:heading -->\n\n<!-- wp:buttons {\"layout\":{\"type\":\"flex\",\"justifyContent\":\"center\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"backgroundColor\":\"foreground\",\"width\":50,\"style\":{\"border\":{\"radius\":\"10px\"}}} -->\n<div class=\"wp-block-button has-custom-width wp-block-button__width-50\"><a class=\"wp-block-button__link has-foreground-background-color has-background\" style=\"border-radius:10px;\">Watch my tutorials<\/a><\/div>\n<!-- \/wp:button -->\n\n<!-- wp:button {\"backgroundColor\":\"foreground\",\"width\":50,\"style\":{\"border\":{\"radius\":\"10px\"}}} -->\n<div class=\"wp-block-button has-custom-width wp-block-button__width-50\"><a class=\"wp-block-button__link has-foreground-background-color has-background\" style=\"border-radius:10px;\">Buy prints of my work<\/a><\/div>\n<!-- \/wp:button -->\n\n<!-- wp:button {\"backgroundColor\":\"foreground\",\"width\":50,\"style\":{\"border\":{\"radius\":\"10px\"}}} -->\n<div class=\"wp-block-button has-custom-width wp-block-button__width-50\"><a class=\"wp-block-button__link has-foreground-background-color has-background\" style=\"border-radius:10px;\">My wish list<\/a><\/div>\n<!-- \/wp:button -->\n\n<!-- wp:button {\"backgroundColor\":\"foreground\",\"width\":50,\"style\":{\"border\":{\"radius\":\"10px\"}}} -->\n<div class=\"wp-block-button has-custom-width wp-block-button__width-50\"><a class=\"wp-block-button__link has-foreground-background-color has-background\" style=\"border-radius:10px;\">Instagram<\/a><\/div>\n<!-- \/wp:button -->\n\n<!-- wp:button {\"backgroundColor\":\"foreground\",\"width\":50,\"style\":{\"border\":{\"radius\":\"10px\"}}} -->\n<div class=\"wp-block-button has-custom-width wp-block-button__width-50\"><a class=\"wp-block-button__link has-foreground-background-color has-background\" style=\"border-radius:10px;\">Twitter<\/a><\/div>\n<!-- \/wp:button --><\/div>\n<!-- \/wp:buttons --><\/div><\/div>\n<!-- \/wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "page_template": "footer-only"
+        }
+    ],
+    "menus": [],
+    "images": [
+        "https:\/\/barnettdemo.files.wordpress.com\/2022\/01\/image-from-rawpixel-id-2257682-jpeg.jpg"
+    ],
+    "meta": {
+        "blog_id": 201934640,
+        "url": "https:\/\/barnettdemo.wordpress.com",
+        "update_date": "January 20, 2022, 1:31 am",
+        "update_timestamp": 1642642278
+    }
+}
