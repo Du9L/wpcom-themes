@@ -1,0 +1,554 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1,
+            "index_display_excerpt_or_full_post": "excerpt",
+            "archive_display_excerpt_or_full_post": "excerpt"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "אודות",
+            "post_content": "<!-- wp:paragraph --> <p id=\"block-a9f75419-6c61-4156-ae3a-98aac1c9011b\">Spearhead (חוד החנית) הוא פודקאסט טכנולוגי שבועי שמתפרסם כל יום רביעי.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p id=\"block-3208ff2a-bf7f-4626-95fe-5a0d4a57bc83\">המנחים צ'ל, מל וג'ף מדברים על אירועים חשובים, על החדשות החמות ביותר בעולם הטכנולוגיה ומגלים אלה חברות הזנק קיבלו מימון הון סיכון.</p> <!-- /wp:paragraph -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 233,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "חדשות שבועיות על טכנולוגיה, השקעות ועל העידן הדיגיטלי",
+            "post_content": "<!-- wp:paragraph --> <p>Spearhead (חוד החנית) הוא פודקאסט טכנולוגי שבועי שמתפרסם כל יום רביעי.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>המנחים צ'ל, מל וג'ף מדברים על אירועים חשובים, על החדשות החמות ביותר בעולם הטכנולוגיה ומגלים אלה חברות הזנק קיבלו מימון הון סיכון.</p> <!-- /wp:paragraph -->",
+            "post_name": "weekly-news-about-tech-investing-and-the-digital-age",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 194,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "sticky": true
+        },
+        {
+            "post_type": "page",
+            "post_title": "פודקאסט",
+            "post_content": "<!-- wp:navigation {\"orientation\":\"horizontal\"} --> <!-- wp:paragraph --> <p>הפודקאסט זמין בפלטפורמות הבאות:</p> <!-- /wp:paragraph --> <!-- wp:navigation-link {\"label\":\"Apple\",\"url\":\"https:\\/\\/www.apple.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Breaker\",\"url\":\"https:\\/\\/www.breaker.audio\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Google\",\"url\":\"https:\\/\\/www.google.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"LinkedIn\",\"url\":\"https:\\/\\/www.linkedin.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Overcast\",\"url\":\"https:\\/\\/overcast.fm\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Spotify\",\"url\":\"https:\\/\\/spotify.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Twitter\",\"url\":\"https:\\/\\/twitter.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"YouTube\",\"url\":\"https:\\/\\/youtube.com\\/\"} /--> <!-- /wp:navigation --> <!-- wp:navigation {\"orientation\":\"horizontal\"} /--> <!-- wp:a8c/blog-posts {\"moreButton\":true,\"showAvatar\":false,\"postsToShow\":10} /--> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:heading {\"align\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">למעקב אחר הבלוג שלי</h3> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">לקבלת תוכן חדש ישירות לתיבת האימייל.</p> <!-- /wp:paragraph --> <!-- wp:jetpack/subscriptions {\"subscribePlaceholder\":\"Email Address\",\"buttonOnNewLine\":true,\"submitButtonText\":\"Subscribe\",\"buttonBackgroundColor\":\"primary\",\"textColor\":\"background\"} --> <div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline\">[jetpack_subscription_form subscribe_placeholder=\"Email Address\" show_subscribers_total=\"false\" button_on_newline=\"true\" submit_button_text=\"Subscribe\" custom_font_size=\"16\" custom_border_radius=\"0\" custom_border_weight=\"1\" custom_padding=\"15\" custom_spacing=\"10\" submit_button_classes=\"has-text-color has-background-color has-background has-primary-background-color\" email_field_classes=\"\" show_only_email_and_button=\"true\"]</div> <!-- /wp:jetpack/subscriptions -->",
+            "post_name": "podcast",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blog",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "יצירת קשר",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">למה להסס? אפשר ליצור איתנו קשר באמצעות הפרטים שלמטה, או לשלוח לנו הודעה באמצעות הטופס.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">מצפים לשמוע ממך</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} --> <div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">10‎ Street Road</div><div><span class=\"jetpack-address__city\">עיר</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">ארה\"ב</div></div> <!-- /wp:jetpack/address --> <!-- wp:jetpack/email {\"email\":\"myemail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:myemail@example.com\">myemail@example.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">‎(123) 456-7890</a></div> <!-- /wp:jetpack/phone --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"instagram.com\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--> <!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"facebook.com\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"twitter.com\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"wordpress.com\",\"service\":\"wordpress\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">שליחת הודעה אלינו</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-url /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Contact Us\"} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "עמוד הבית",
+            "post_content": "<!-- wp:cover {\"url\":\"https:\\/\\/headstartdata.files.wordpress.com\\/2020\\/07\\/qi-bin-w4hbafegiac-unsplash.jpg\",\"id\":26,\"dimRatio\":10,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim-10 has-background-dim\" style=\"background-image:url('https://headstartdata.files.wordpress.com/2020/07/qi-bin-w4hbafegiac-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":8,\"column1DesktopOffset\":2,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":4,\"className\":\"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"align\":\"center\",\"level\":1} --> <h1 class=\"has-text-align-center\">זה האתר החדש שלך!</h1> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\">זה האתר החדש שלך! אפשר לערוך עמוד זה על ידי לחיצה על הקישור 'עריכה'. למידע נוסף על התאמה אישית של האתר, כדאי לבקר בכתובת <a href=\"https://href.li/?http://learn.wordpress.com/\">http://learn.wordpress.com/‎</a></p> <!-- /wp:paragraph --> <!-- wp:buttons {\"align\":\"center\"} --> <div class=\"wp-block-buttons aligncenter\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"http://learn.wordpress.com\" title=\"learn.wordpress.com\">מידע נוסף</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:cover --> <!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":12,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"level\":4} --> <h4>פוסטים אחרונים בבלוג</h4> <!-- /wp:heading --> <!-- wp:a8c/blog-posts {\"imageShape\":\"uncropped\",\"showAuthor\":false,\"showAvatar\":false,\"postLayout\":\"grid\",\"typeScale\":3} /--></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group --> <!-- wp:group {\"backgroundColor\":\"foreground-dark\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-foreground-dark-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":3,\"column1DesktopOffset\":2,\"column1TabletSpan\":4,\"column1MobileSpan\":4,\"column2DesktopSpan\":5,\"column2TabletSpan\":4,\"column2MobileSpan\":4,\"column3DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-left has-huge-font-size\">לקבלת תוכן חדש ישירות לתיבת האימייל.</p> <!-- /wp:paragraph --></div> <!-- /wp:jetpack/layout-grid-column --> <!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:jetpack/subscriptions --> <div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div> <!-- /wp:jetpack/subscriptions --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group -->",
+            "post_name": "",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 33,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "חברות הזנק: ציפיות לחוד ומציאות לחוד",
+            "post_content": "<!-- wp:paragraph --> <p>גיוס ראשוני, מיקור המונים בחשאי, השקעה, iPhone, פרסום, פיתוח זריז, שוק בין-עסקי. אימות בטא, חוויית משתמש, בעלות, ערוצי השפעה. יזמות, שיעור נטישה, חוויית משתמש, מסמך תנאים, מימון, מוצר בר-קיימא מינימלי.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":199} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/startups.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "startups-expectations-vs-reality",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 59,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "האם הטכנולוגיה תשלוט בעולם בעתיד?",
+            "post_content": "<!-- wp:paragraph --> <p>יתרון ראשוני, מאמצים מוקדמים, Freemium, משקיע אנג'ל, שותפות קונים, מחקר ופיתוח, מינוף, סטרטאפ רזה, מונטיזציה, ממציא, באז, שוק בין-עסקי. תוכנית עסקית, אימות, אינפוגרפיקה, iPad, תקופת הבשלה.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>אינפוגרפיקה, יזם יצירתי, שוק בין-עסקי. אב טיפוס, ביתא, עקומת למידה, עיצוב ריספונסיבי לאינטרנט, מיקור המונים, אסטרטגיה, שוק נישתי, הוכחה חברתית, מודל עסקי, משטח עבודה, ציר, שיעור נטישה.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>שינוי פרדיגמה,, דיוור ישיר, איטרציה, מערכת אקולוגית, שרשרת אספקה. דיוור ישיר, יתרון ראשוני, ערוצים, המרה, מינוף, חוויית משתמש, הסכם סודיות, לחיצת יד, מדדים. חברת הזנק, שוק, freemium‏, iPad, קונה, מוצר בר-קיימא מינימלי, יזם, באז, בדיקת A/B, בעלות, גיוס ראשון. המרה, ניהול מוצר, תמיכה, שוק בי-עסקי, בעלות מודל עסקי, קנבס, הקתון, צמיחה, פריצה למחשבים, יתרון ראשוני.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>אחיזה, רשתות חברתיות, מיקור המונים, יזם, אפקט הרשת, גרפי, ממשק משתמש, משבש, הצלחה, שותפות, באז, מונטיזציה, מייסדים.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>מוצר בר-קיימא מינימלי, גיוס ראשוני, מניה, פיתוח זריז, זנב ארוך, מיקור המונים, עסק לעסק, מייסדים, משפיע, עיצוב ריספונסיבי לאינטרנט. מחקר ופיתוח, יתרון ראשוני, פייסבוק, רוחב פס, משבש, ויראליות. ממשק משתמש גרפי, טוויטר, מיקוד, מייסדים, נכסים.<br>אנליטיקה, שותפות, רשתות חברתיות, גרפי, ממשק משתמש, קצב שריפה, לקוח, ביתא, מינוף, מכירות, מייסדים, פריסה, מיקור המונים.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>פרסום, תמיכה, השקה, ויראליות, Android, קצב שריפה, מיתוג, מערכת אקולוגית, הון עצמי, לקוח, זנב ארוך, ציר, אסטרטגיה, הצלחה. מיקוד, דור Z, הקתון, מיקור חוץ, סקראם, מייסדים, פרויקט, עסק לצרכן, מאמצים ראשונים, תמיכה, אנליטיקה, המרה. מסמך תנאים, אימות, לחיצת יד, יועץ, שותף תומך, רשת, היפותזה, מערכת אקולוגית.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>תוכנית עסקית, אסטרטגיה, מימון ראשוני, משקיע אנג'ל, לקוח, מימון, אנליטיקה. מיקור המונים, רוחב פס, יזם, דיוור ישיר, מאמצים ראשונים, סקראם, חשאיות פרויקט. שוק בין-עסקי, שוק נישתי, תוכנית עסקית, קונה, דור Z, פיתוח ומחקר, עסק לצרכן, זנב ארוך, עקומת למידה, תקופת הבשלה, שיעור נטישה, חשאיות.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":218} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/will-tech-ever-rule-the-world.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "will-tech-ever-rule-the-world",
+            "post_excerpt": "גיוס ראשוני, הצלחה, הון עצמי, תוכנית עסקית, הצעת ערך, יצירתי, הוכחה חברתית. רוקסטאר, ערוצים, iPhone, אסטרטגיית משחוק, עיצוב, אינטראקציה. ניהול מוצר, יתרון ראשוני, מיתוג, מלאי, אימות, בעלות. חשאיות, אלפא, גיוס ראשון.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 57,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "הדבר הגדול הבא במימון הון סיכון",
+            "post_content": "<!-- wp:paragraph --> <p>אינקובטור, עיצוב ריספונסיבי לאינטרנט, חוויית משתמש, הצלחה, בעלות, משקיע. שיעור נטישה, באז, iPad, דיוור ישיר, אסטרטגיה, ראמן, גרפי,ממשק משתמש, רוקסטאר. אלפא, מיתוג, ראמן, הסכם סודיות, הון סיכון, שותפות, משקיע אנג'ל, שינוי פרדיגמה.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":216} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/the-next-big-thing.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "the-next-big-thing-in-vc-funding",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 55,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "בינה מלאכותית בפחות מ-140 תווים",
+            "post_content": "<!-- wp:paragraph --> <p>פיתוח זריז, גרפי, ממשק משתמש, Android, מדדים, iPhone. רשתות חברתיות, גיוס ראשון, חשאי, הקתון, משקיע יצירתי, אינקובטור, מינוף, עקומת למידה. מחקר ופיתוח, טכנולוגיה, אחיזה, הקתון, סטרטאפ רזה, מיקור המונים, דיוור ישיר.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":214} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/ai-explained.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "ai-explained-in-fewer-than-140-characters",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 53,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "הסיפורים המובילים השבוע בתחום הבלוקצ'יין",
+            "post_content": "<!-- wp:paragraph --> <p>מטרה קלה להשגה, הקתון, מיקוד, משפיע, freemium. חשאי, מוצר בר-קיימא מינימלי, אב טיפוס לשוק. החזר על השקעה, אב טיפוס, סטרטאפ רזה, מיקוד, הצעת ערך, עיצוב ריספונסיבי לאינטרנט, שוק בין-עסקי. שותפות, מיקור המונים, סקראם, פרויקט.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":212} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/blockchain.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "this-weeks-top-stories-about-blockchain",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 51,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "מהו שירות הצ'אט המוצפן הטוב ביותר?",
+            "post_content": "<!-- wp:paragraph --> <p>שינוי פרדיגמה, מימון, אינפוגרפי, דיוור ישיר, כסף ראשוני, פריסה, הוכחה חברתית, אלפא. אב טיפוס, תקופת הבשלה, לקוח, מיקוד, סטרטאפ, מדדים. תוכנית עסקית, הון סיכון, ראמן, כסף ראשוני, מייסדים, אחיזה, חוויית משתמש, תשתית, הצגת מוצר, פיתוח זריז, מסמך תנאים.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":210} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/encrypted-chat.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "whats-the-best-encrypted-chat-service",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 49,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "הקאמבק של קודי QR",
+            "post_content": "<!-- wp:paragraph --> <p>גירוד, מיתוג, אנליטיקה, שותפות, iPhone, קונה, מכירת נכסים. משחוק, ציר, עקומת למידה, מיתוג, איטרציה, משקיע חשאי. הון עצמי, מינוף שוק, גיוס ראשוני, תוכנית עסקית, מערכת אקולוגית, תוכנית האצה, פיתוח זריז, מסיבת השקה.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":208} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/qr-codes.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "how-qr-codes-are-making-a-comeback",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 47,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "5G, הרשת האפלה ועוד: הסיפורים הפופולריים ביותר השבוע",
+            "post_content": "<!-- wp:paragraph --> <p>הצלחה, משפיע ברשתות החברתיות. ציר, מסמך תנאים, הסכם סודיות, ערוצים, סקראם, פרויקט, פריסה, קונה. מונטיזציה, בדיקת A/B, בוטסטרפינג. דור Z, אינטראקציה, עיצוב, עסק לצרכן, שיווק, מנטיזציה, לקוח.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":202} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/5g.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "5g-the-dark-web-and-more-this-weeks-top-stories",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "דברים שכל מנכ\"לים בחברת הזנק צריכים לדעת כדי להצליח",
+            "post_content": "<!-- wp:paragraph --> <p>גביע קדוש, פייסבוק, ביתא, צמיחה, פריצה למחשבים, הצעת ערך, שוק בין-עסקי, חברת הזנק, שוק המוני, מערכת אקולוגית, בדיקת A/B, הקתון, איטרציה, ציר. גיוס ראשוני, הקתון, חוויית משתמש, פייסבוק, שוק נישתי, מיתוג, פיתוח זריז, הון סיכון, פרסום, מימון.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":206} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/what-every-ceo-needs-to-know.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "what-every-startup-ceo-needs-to-know-to-succeed",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 42,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "מגמת ביטול מינויים (Cord Cutting) בעידן הקורונה",
+            "post_content": "<!-- wp:paragraph --> <p>בוטסטרפינג, באז, מיקור המונים, יועץ, קצב שריפה, שוק בין-עסקי, דור Z, לקוח, בדיקת A/B, מערכת אקולוגית. מיתוג, עקומת למידה, מסיבת השקה, משבש, Android, ראמן, בטא, תוכנית האצה, אב טיפוס, משקיע. מוצר בר-קיימא מינימלי, אפקטי רשת.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":204} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/covid19.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "cord-cutting-in-the-age-of-covid-19",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 40,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "podcasts": {
+            "name": "פודקאסטים",
+            "items": [
+                {
+                    "menu-item-title": "Apple",
+                    "menu-item-db-id": 68,
+                    "menu-item-object-id": "68",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Breaker",
+                    "menu-item-db-id": 69,
+                    "menu-item-object-id": "69",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Google",
+                    "menu-item-db-id": 70,
+                    "menu-item-object-id": "70",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "LinkedIn",
+                    "menu-item-db-id": 71,
+                    "menu-item-object-id": "71",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Overcast",
+                    "menu-item-db-id": 72,
+                    "menu-item-object-id": "72",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Spotify",
+                    "menu-item-db-id": 73,
+                    "menu-item-object-id": "73",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "טוויטר",
+                    "menu-item-db-id": 74,
+                    "menu-item-object-id": "74",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 7,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "YouTube",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "75",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 8,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                }
+            ]
+        },
+        "primary": {
+            "name": "ראשי",
+            "items": [
+                {
+                    "menu-item-title": "עמוד הבית",
+                    "menu-item-db-id": 19,
+                    "menu-item-object-id": "33",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "אודות",
+                    "menu-item-db-id": 235,
+                    "menu-item-object-id": "233",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "פודקאסט",
+                    "menu-item-db-id": 20,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "יצירת קשר",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "רשתות חברתיות",
+            "items": [
+                {
+                    "menu-item-title": "פייסבוק",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://facebook.com"
+                },
+                {
+                    "menu-item-title": "טוויטר",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 25,
+                    "menu-item-object-id": "25",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://instagram.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://pinterest.com"
+                },
+                {
+                    "menu-item-title": "WordPress",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "27",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://wordpress.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://spearheaddemo.files.wordpress.com/2020/10/qi-bin-w4hbafegiac-unsplash.jpg",
+        "https://spearheaddemo.files.wordpress.com/2020/10/rachel-pfuetzner-0fn7fxv1ewa-unsplash.jpg"
+    ],
+    "meta": {
+        "blog_id": 183906040,
+        "url": "https://spearheaddemo.wordpress.com",
+        "update_date": "October 27, 2020, 12:45 pm",
+        "update_timestamp": 1603802740
+    }
+}
