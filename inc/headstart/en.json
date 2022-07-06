@@ -1,0 +1,260 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:query {\"queryId\":8,\"query\":{\"perPage\":\"10\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false},\"displayLayout\":{\"type\":\"list\"}} -->\n<div class=\"wp-block-query\"><!-- wp:post-template -->\n<!-- wp:post-title {\"isLink\":true,\"style\":{\"typography\":{\"fontSize\":\"64px\",\"lineHeight\":\"1.2\"}}} \/-->\n\n<!-- wp:post-featured-image {\"isLink\":true,\"align\":\"wide\"} \/-->\n\n<!-- wp:post-content \/-->\n\n<!-- wp:group {\"layout\":{\"type\":\"flex\"}} -->\n<div class=\"wp-block-group\"><!-- wp:post-date {\"isLink\":true,\"style\":{\"typography\":{\"fontSize\":\"16px\"}}} \/-->\n\n<!-- wp:post-terms {\"term\":\"category\",\"style\":{\"typography\":{\"fontSize\":\"16px\"}}} \/-->\n\n<!-- wp:post-terms {\"term\":\"post_tag\",\"style\":{\"typography\":{\"fontSize\":\"16px\"}}} \/--><\/div>\n<!-- \/wp:group -->\n\n<!-- wp:spacer {\"height\":\"120px\"} -->\n<div style=\"height:120px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n<!-- \/wp:post-template -->\n\n<!-- wp:query-pagination -->\n<!-- wp:query-pagination-previous \/-->\n\n<!-- wp:query-pagination-next \/-->\n<!-- \/wp:query-pagination --><\/div>\n<!-- \/wp:query -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "header-footer-only"
+        },
+        {
+            "post_type": "page",
+            "post_title": "About",
+            "post_content": "<!-- wp:paragraph -->\n<p>Archeo is the source for research and publications on ancient cultures. We aim to bring you close to the human past. Our website includes news of the latest archaeological discoveries, in-depth features and reports from the field. Our mission is to explore ancient cultures not only through monuments and works of art, but through the towns, houses, and objects of daily life that bring people of the past to life.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"70px\"} -->\n<div style=\"height:70px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https:\/\/s0.wp.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/palais-du-cirque.jpg\",\"dimRatio\":0,\"overlayColor\":\"background\",\"minHeight\":100,\"minHeightUnit\":\"vh\",\"contentPosition\":\"center center\",\"isDark\":false,\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0vw\",\"left\":\"7vw\"},\"margin\":{\"top\":\"0px\"}}}} -->\n<div class=\"wp-block-cover alignfull is-light\" style=\"margin-top:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:7vw;min-height:100vh;\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-background-background-color has-background-dim-0 has-background-dim\"><\/span><img class=\"wp-block-cover__image-background\" alt=\"Photo of Palace of the Circus\" src=\"https:\/\/s0.wp.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/palais-du-cirque.jpg\" data-object-fit=\"cover\" \/><div class=\"wp-block-cover__inner-container\"><\/div><\/div>\n<!-- \/wp:cover -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 24,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Research",
+            "post_content": "<!-- wp:media-text {\"align\":\"full\",\"mediaPosition\":\"right\",\"mediaLink\":\"https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/uxmal.jpg\",\"mediaType\":\"image\",\"imageFill\":true,\"focalPoint\":{\"x\":\"0.50\",\"y\":\"0.90\"},\"backgroundColor\":\"foreground\",\"textColor\":\"background\"} -->\n<div class=\"wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill has-background-color has-foreground-background-color has-text-color has-background\"><figure class=\"wp-block-media-text__media\" style=\"background-image:url('https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/uxmal.jpg');background-position:50% 90%;\"><img src=\"https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/uxmal.jpg\" alt=\"Photo of the Pyramid of the Magician, at Uxmal\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:spacer {\"height\":\"min(10rem, 10vw)\"} -->\n<div style=\"height:min(10rem, 10vw);\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"100\",\"lineHeight\":\"1.2\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"font-style:normal;font-weight:100;line-height:1.2;\">The Pyramid of the <br>Magician, at Uxmal<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"align\":\"left\",\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<div class=\"wp-block-image\"><figure class=\"alignleft size-full\"><img src=\"https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/pyramid.jpg\" alt=\"Photograph by D\u00e9sir\u00e9 Charnay, 1862 to 1863\" \/><figcaption><mark style=\"background-color:rgba(0, 0, 0, 0);\" class=\"has-inline-color has-background-color\"><em>Photograph by D\u00e9sir\u00e9 Charnay, 1862 \u2013 1863<\/em><\/mark><\/figcaption><\/figure><\/div>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:spacer {\"height\":\"min(43rem, 43vw)\"} -->\n<div style=\"height:min(43rem, 43vw);\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.5\"}},\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\" style=\"line-height:1.5;\">Uxmal is an ancient Maya city located in present-day Mexico. It is considered one of the most important archaeological sites of Maya culture.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.5\"}},\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\" style=\"line-height:1.5;\"><em>On the right: Governor's Palace, detail of the main gate<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"min(10rem, 10vw)\"} -->\n<div style=\"height:min(10rem, 10vw);\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns --><\/div><\/div>\n<!-- \/wp:media-text -->",
+            "post_name": "research",
+            "post_excerpt": "",
+            "menu_order": 2,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 22,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Publications",
+            "post_content": "<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"20px\",\"bottom\":\"20px\",\"right\":\"60px\",\"left\":\"60px\"},\"margin\":{\"top\":\"0px\"},\"blockGap\":\"0px\"}},\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"layout\":{\"inherit\":true}} -->\n<div class=\"wp-block-group alignfull has-foreground-color has-background-background-color has-text-color has-background\" style=\"margin-top:0;padding-top:20px;padding-right:60px;padding-bottom:20px;padding-left:60px;\"><!-- wp:query {\"queryId\":3,\"query\":{\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false,\"perPage\":\"10\"},\"align\":\"wide\"} -->\n<div class=\"wp-block-query alignwide\"><!-- wp:post-template -->\n<!-- wp:group {\"className\":\"simple-list-of-posts\",\"layout\":{\"type\":\"flex\",\"allowOrientation\":false}} -->\n<div class=\"wp-block-group simple-list-of-posts\"><!-- wp:post-title {\"isLink\":true,\"style\":{\"typography\":{\"lineHeight\":\"1.2\",\"fontStyle\":\"normal\",\"fontWeight\":\"100\"},\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|foreground\"}}}},\"fontSize\":\"huge\"} \/-->\n\n<!-- wp:post-author-name {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"100\",\"lineHeight\":\"1.2\"}},\"fontSize\":\"medium\"} \/--><\/div>\n<!-- \/wp:group -->\n<!-- \/wp:post-template -->\n\n<!-- wp:spacer {\"height\":\"40px\"} -->\n<div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:query-pagination {\"paginationArrow\":\"chevron\",\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n<!-- wp:query-pagination-previous \/-->\n\n<!-- wp:query-pagination-next \/-->\n<!-- \/wp:query-pagination --><\/div>\n<!-- \/wp:query --><\/div>\n<!-- \/wp:group -->",
+            "post_name": "publications",
+            "post_excerpt": "",
+            "menu_order": 3,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contact",
+            "post_content": "<!-- wp:paragraph -->\n<p>Don\u2019t hesitate to reach out with the contact information below, or send a message using the form.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u2014<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>1 Example Street,<br>Anytown, NY 10100 USA<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"mailto:contact@example.com\">contact@example.com<\/a><br>(012) 345 67 89<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u2014<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:jetpack\/contact-form {\"subject\":\"[Archeo] Contact\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack\/field-name {\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-email {\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-textarea \/-->\n\n<!-- wp:jetpack\/button {\"element\":\"button\",\"text\":\"Contact Us\"} \/--><\/div>\n<!-- \/wp:jetpack\/contact-form -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 4,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Mayan history",
+            "post_content": "<!-- wp:paragraph -->\n<p>The Dominican missionaries in Guatemala observed that the Indians were passionately fond of dancing and singing. The joyousness which originally existed in their nature or temperament has become extinct. The usual tenour of their lives seems to be accompanied by a quiet, subdued melancholy. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><li>It is not improbable that, as a consequence of several centuries of Spanish domination, the aboriginal races have sunk into a dull and apathetic state.<\/li><li>It is however possible that other influences acted upon the taciturn and wild natures of these tribes. The innate disposition of the natives to worship idols\u00a0in Guatemala was found to be equally existing with the Mayas in Yucatan, who also had the custom of making pilgrimages to the shrines. <\/li><li>It is mentioned by Landa that the pilgrims stopped when passing near any of the deserted or ruined temples, and were accustomed to mutter prayers, and offer incense. This custom was in accordance with the acts of devotion which I saw practised by the Tzendal Indians in Chiapas before the ruined walls of the church at Bachajon.<\/li><\/ul>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p>There are circumstances connected with the domination of the Aztecs, and possibly also with that of their predecessors the Quich\u00e9-Toltecs, which require to be noticed. It is unquestionable that slavery would have been the fate of any tribe or race conquered by North American Indians. But the fact of slaves or captives being bought and sold for the purpose of being killed and offered to the gods is extraordinary. Great numbers of the natives were annually sacrificed, and astonishing acts of cannibalism were committed. Whatever may have been the hardships inflicted by the Spaniards upon the Mexican Indians, it is satisfactory to be assured that the discovery of America, and the conquests of Cortes put an end to the most horrible condition of things that has ever been known to have existed in any part of the world.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>There are, however, other facts to be taken into consideration. It has been assumed that there was a condition of comparative civilisation amongst the ruling tribes, which seemed to be in such a progressive state as to lead to the conclusion that there were elements of knowledge which might have been so far developed in the course of time as to have brought these Indians into the ranks of civilised nations. With regard to this subject it should be observed that when the Spaniards conquered Central America, the progress that may have been partially made had already ceased. The monasteries at Palenque and in Yucatan had been abandoned. Even when they were flourishing, the knowledge that was taught did not extend to the people. It was confined to the priesthood, the caciques, and the few scholars who were trained for the purpose of interpreting the signs and characters by which information was spread abroad. It was by one of these interpreters that Cortes was made acquainted with the conspiracy that was being organized against him by Guatimozin during the march to Honduras. How or in what manner this comparative intelligence arose suddenly in the land is a problem of the greatest difficulty.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "mayan-history",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "History"
+                ],
+                "post_tag_name": [
+                    "History",
+                    "mayan culture"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Nunnery Quadrangle",
+            "post_content": "<!-- wp:paragraph -->\n<p>The main entrance to the nunnery is through a gateway placed in the centre of the southern part of the quadrangle. Upon each side of this entrance there are four chambers, and it is to be noticed, as an evidence of the conventual character of the building, that these are the only rooms that have direct access to the outer world. All the others are within and look into the court. They had a blank wall at the back, which excluded all communication with the exterior. The principal front looks towards the pyramids adjoining the Casa del Gobernador. The architectural proportions of the archway are symmetrical. The height and span, like all other parts of these Indian structures, are practically determined by the angle of inclination of the converging sides. In this case the arch is about seventeen feet high and nearly eleven feet wide. After passing through it, a wide court is entered. It is surrounded on four sides by long ranges of low stone buildings. The base, or lower part of them, is built of plain square slabs of masonry. The upper parts are covered with fanciful designs, sculptured with great skill.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The whole of these buildings are exclusively arranged for the purpose of providing the greatest possible number of chambers or monastic cells. I did not count them, but it has been stated that there are altogether eighty-eight. It is perhaps important to note, with reference to this unusual number of rooms, that they are too numerous to admit of the theory that they were intended for the accommodation of the priests serving the adjacent temples, for according to the statements of Clavigero, the number of priests always corresponded with the number of the Teocallis. It is therefore presumable that these cells had some other purpose. The priests may have been lodged in the Casa del Gobernador. That building contains twenty-four chambers, the majority of which are of the same size and plan as these in the Casa de las Monjas. It is useless to attempt to conjecture the precise purposes of these buildings, for there has been no exact information obtained upon the subject, but everything points to the conclusion that the whole of the structures at Uxmal were connected with the worship of the gods, and had no relation to the ordinary lives of the Indians.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"60px\"} -->\n<div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"blockGap\":\"0px\",\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"}}},\"layout\":{\"inherit\":false}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;\"><!-- wp:quote {\"className\":\"is-style-plain\",\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"300\",\"lineHeight\":\"1.3\"}},\"fontSize\":\"large\"} -->\n<blockquote class=\"wp-block-quote is-style-plain has-large-font-size\" style=\"font-style:normal;font-weight:300;line-height:1.3;\"><p>\"The whole of the fa\u00e7ades of the nunnery are elaborately sculptured, and the mechanical abilities of the builders are well brought into notice.\"<\/p><\/blockquote>\n<!-- \/wp:quote --><\/div>\n<!-- \/wp:group -->\n\n<!-- wp:spacer {\"height\":\"60px\"} -->\n<div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>It is probable that places like Uxmal and Palenque with their temples and monasteries, were set apart for religious purposes, and the Indians assembled there from the adjacent country with the object of being present at the ceremonies, in the same manner as they are now accustomed to perform their pilgrimages when the patron saints of the churches have their festivals. When taking into consideration the question of the period when it may be conjectured that the temples at Uxmal were abandoned, it is necessary to direct attention to the design or emblem which is placed upon one of the walls of the interior of the Casa de las Monjas.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Upon an examination of the accompanying illustration, it will be observed that the figure represented is that of a huge serpent or rattlesnake. A serpent was also the emblem or Totem of one of the tribes of the Mound Builders in Ohio, and there appear to be singular resemblances between the reptile carved in stone at Uxmal and that which is rudely made of earth and stones, and placed on high ground overlooking a valley in North America. Both reptiles have peculiarly large mouths, opened wide, ready to devour and swallow their prey or their enemies. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>It is perhaps not unreasonable to infer that the tribe who migrated from the north, conquered the unwarlike natives of Yucatan, raised the great pyramids, and built the temples in that region, were subsequently conquered by a more powerful tribe of the same race, also migrating from higher latitudes. The former tribe were forced to desert their buildings, and avoided slavery or extermination by escaping into the interior. The serpent stands out in bold relief. The whole of the fa\u00e7ades of the nunnery are elaborately sculptured, and the mechanical abilities of the builders are well brought into notice.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "nunnery-quadrangle",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology"
+                ],
+                "post_tag_name": [
+                    "mayan culture",
+                    "nunnery quadrangle",
+                    "palace",
+                    "uxmal"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/palais-du-gouverneur.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Pyramid of the Magician",
+            "post_content": "<!-- wp:paragraph -->\n<p>My first day at Uxmal was employed in making a rough survey of the land occupied by the ruins.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>One of the most important of these is that known as the Pyramid of the Dwarf (or Pyramid of the Magician). I examined it with particular attention for the purpose of studying the character of a series of small stone vaults or cells placed round its base, which were similar in size and design to those that I had seen on the lower slopes of the Kue near the coast above Campeachy. Many of these cells were sufficiently perfect to enable their dimensions and shape to be verified. It seemed evident that they must have been made for sepulchral purposes. If this conclusion is correct it is probable that they were the burial places for the ashes of the caciques who ruled over this part of Yucatan.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"align\":\"left\",\"id\":98,\"width\":399,\"height\":330,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<div class=\"wp-block-image\"><figure class=\"alignleft size-full is-resized\"><img src=\"https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/palais-du-gouverneur.jpg\" alt=\"\" class=\"wp-image-98\" width=\"399\" height=\"330\" \/><\/figure><\/div>\n<!-- \/wp:image -->\n\n<!-- wp:paragraph -->\n<p>Upon an investigation of the outer parts of the pyramid, it is to be observed that it was not only carefully constructed, but its plan must have been accurately drawn and the relative mathematical measurements calculated with reference to the space that was required for the temple. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The magnitude of the base could not be determined, on account of\u00a0the quantities of fallen stones and other d\u00e9bris. In 1841, Mr. Stephens considered that it was two hundred and thirty-five feet long by one hundred and fifty-five feet wide. The perpendicular height to the platform was estimated to be eighty-eight feet.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The steps leading up to the summit are broad, and must have formed an imposing approach, but in consequence of the angle of the slope they are necessarily steep, and are placed so close together that there is barely sufficient width for the foot to rest. At the base of the pyramid there is an open court, which I observed to be similar in shape to one adjoining the base of an altar built by the Quich\u00e9s at Utatlan, but it was larger in extent. The court leads to the entrance of the Casa de las Monjas.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This building may be considered to be the result of the greatest powers of sculpture and ornamentation that the Indians possessed, and judging from the condition of many of its chambers, it is probably one of the latest of their works. It is nearly quadrangular, and encloses an area of over six thousand square yards.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "pyramid-of-the-magician",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology"
+                ],
+                "post_tag_name": [
+                    "magician",
+                    "mayan culture",
+                    "palace",
+                    "pyramids",
+                    "uxmal"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/pyramid.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Modern history of the ruins",
+            "post_content": "<!-- wp:paragraph -->\n<p>It\u00a0is considered that the ruins of Uxmal are, in extent and construction, <strong>the most important in Yucatan<\/strong>, and therefore, excepting in certain particulars, those at Palenque, the most remarkable in Central America and Mexico.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The ground occupied by them is in length about six hundred yards. The width is slightly more than five hundred yards. Consequently the area within which Uxmal is contained, may be approximately estimated as being sixty acres. It therefore exceeds by twenty acres the space covered by the mounds of Palenque. The buildings are irregularly placed. The Casa del Gobernador (House of the Governor) with its adjacent pyramids form the principal group towards the south. The Casa de las Monjas (House of the Nuns) is situated towards the north. These are the two great&nbsp;structures upon which the other temples and mounds seem chiefly to depend. There are two smaller edifices called respectively, the Casa de las Palomas (House of the Pigeons) and the Casa de las Tortugas (House of the Turtles). There is also a detached pyramid with a ruined temple upon its summit, which has been given the name of the House of the Old Woman.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"60px\"} -->\n<div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"blockGap\":\"0px\",\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"}}},\"layout\":{\"inherit\":false}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;\"><!-- wp:quote {\"className\":\"is-style-plain\",\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"300\",\"lineHeight\":\"1.3\"}},\"fontSize\":\"large\"} -->\n<blockquote class=\"wp-block-quote is-style-plain has-large-font-size\" style=\"font-style:normal;font-weight:300;line-height:1.3;\"><p>\"Looking at these ruins as a group, they appear to have consisted of quadrangular residences with pyramidal mounds attached to them, raised for the purpose of obtaining lofty sites for the altars of the Indian gods.\"<\/p><\/blockquote>\n<!-- \/wp:quote --><\/div>\n<!-- \/wp:group -->\n\n<!-- wp:spacer {\"height\":\"60px\"} -->\n<div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>One of the most important of these is that known as the Pyramid of the Dwarf. I examined it with particular attention for the purpose of studying the character of a series of small stone vaults or cells placed round its base, which were similar in size and design to those that I had seen on the lower slopes of the Kue near the coast above Campeachy. Many of these cells were sufficiently perfect to enable their dimensions and shape to be verified. It seemed evident that they must have been made for sepulchral purposes. If this conclusion is correct it is probable that they were the burial places for the ashes of the caciques who ruled over this part of Yucatan.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Upon an investigation of the outer parts of the pyramid, it is to be observed that it was not only carefully constructed, but its plan must have been accurately drawn and the relative mathematical measurements calculated with reference to the space that was required for the temple. The magnitude of the base could not be determined, on account of&nbsp;the quantities of fallen stones and other d\u00e9bris. In 1841, Mr. Stephens considered that it was two hundred and thirty-five feet long by one hundred and fifty-five feet wide. The perpendicular height to the platform was estimated to be eighty-eight feet.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "modern-history-of-the-ruins",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology",
+                    "History"
+                ],
+                "post_tag_name": [
+                    "mayan culture",
+                    "palace",
+                    "uxmal"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/figure-gigantesque.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Additional research",
+            "post_content": "<!-- wp:paragraph -->\n<p>Upon a review of the facts ascertained by the conquerors in the sixteenth century in Mexico and Guatemala, and by the Franciscan and Dominican missionaries in Yucatan and Chiapas, together with the researches made since that time by archeologists and explorers, it appears to be possible to form certain conclusions. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The architectural and mechanical knowledge, and the advance towards writing characters, forming calendars and reckoning time by astronomical observations must have been reached within a period of less than four centuries. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>It is therefore probable that the priests of the Toltecs became acquainted with their arts and sciences not long after they had left North America and had migrated to the regions around T\u00e9otihuacan in the direction of the shores of the Gulf of Mexico. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>In what manner and under what circumstances their knowledge was obtained, is a problem which requires to be given a careful investigation.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "additional-research",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 15,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology",
+                    "History"
+                ],
+                "post_tag_name": [
+                    "research"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Main",
+            "items": []
+        },
+        "primary": {
+            "name": "Primary",
+            "items": []
+        }
+    },
+    "images": [
+        "https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/palais-du-gouverneur.jpg",
+        "https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/figure-gigantesque.jpg",
+        "https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/pyramid.jpg"
+    ],
+    "meta": {
+        "blog_id": 202657343,
+        "url": "https:\/\/archeodemo.wordpress.com",
+        "update_date": "March 15, 2022, 3:52 pm",
+        "update_timestamp": 1647359558
+    }
+}
