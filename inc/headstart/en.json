@@ -1,0 +1,73 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": null
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:media-text {\"align\":\"full\",\"mediaId\":20,\"mediaLink\":\"https:\/\/kingsleydemo.wordpress.com\/home\/image-from-rawpixel-id-2968487-jpeg-10-75x\/\",\"mediaType\":\"image\",\"imageFill\":true,\"style\":{\"color\":{\"background\":\"#070608\"}}} -->\n<div class=\"wp-block-media-text alignfull is-stacked-on-mobile is-image-fill has-background\" style=\"background-color:#070608;\"><figure class=\"wp-block-media-text__media\" style=\"background-image:url('https:\/\/kingsleydemo.files.wordpress.com\/2021\/12\/image-from-rawpixel-id-2968487-jpeg-1400.75x.png');background-position:50% 50%;\"><img src=\"https:\/\/kingsleydemo.files.wordpress.com\/2021\/12\/image-from-rawpixel-id-2968487-jpeg-1400.75x.png\" alt=\"\" class=\"wp-image-20 size-full\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:cover {\"customOverlayColor\":\"#070608\",\"minHeight\":100,\"minHeightUnit\":\"vh\",\"contentPosition\":\"bottom left\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-custom-content-position is-position-bottom-left\" style=\"min-height:100vh;\"><span aria-hidden=\"true\" class=\"has-background-dim-100 wp-block-cover__gradient-background has-background-dim\" style=\"background-color:#070608;\"><\/span><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"style\":{\"typography\":{\"fontSize\":\"64px\",\"lineHeight\":\"1\"}},\"textColor\":\"foreground\"} -->\n<h2 class=\"has-foreground-color has-text-color\" id=\"opening-soon\" style=\"font-size:64px;line-height:1;\">Opening Soon<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"0.5\"}}} -->\n<p style=\"line-height:0.5;\">A new art gallery in downtown Boston.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":150} -->\n<div style=\"height:150px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>1234 S Main Street<br>Boston, MA, 01010<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"style\":{\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|background\"}}}}} -->\n<p class=\"has-link-color\"><a href=\"mailto:info@example.com\">info@example.com<br><\/a>(123) 456-7890<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns --><\/div><\/div>\n<!-- \/wp:cover --><\/div><\/div>\n<!-- \/wp:media-text -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "page_template": "footer-only"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https:\/\/kingsleydemo.files.wordpress.com\/2021\/12\/image-from-rawpixel-id-2968487-jpeg-1400.75x.png"
+    ],
+    "meta": {
+        "blog_id": 200891100,
+        "url": "https:\/\/kingsleydemo.wordpress.com",
+        "update_date": "December 16, 2021, 11:52 pm",
+        "update_timestamp": 1639698746
+    }
+}
