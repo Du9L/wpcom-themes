@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blockbase\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-27T01:37:30+00:00\n"
+"PO-Revision-Date: 2022-05-26 17:26:18+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/blockbase"
+msgstr "https://wordpress.com/theme/blockbase"
+
+#: inc/patterns/footer-with-site-title.php:9
+msgid "Footer with site title"
+msgstr "Sidfot med webbplatsrubrik"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: inc/patterns/footer-small.php:9
+msgid "Small footer"
+msgstr "Liten sidfot"
+
+#: inc/patterns/footer-simple.php:9
+msgid "Simple footer"
+msgstr "Enkel sidfot"
+
+#: inc/patterns/footer-separator.php:9
+msgid "Footer with menu and separator"
+msgstr "Sidfot med meny och avgränsare"
+
+#: inc/patterns/footer-search.php:9
+msgid "Footer with Search Block"
+msgstr "Sidfot med sökblock"
+
+#: inc/patterns/footer-primary.php:9
+msgid "Footer with menu"
+msgstr "Sidfot med meny"
+
+#: inc/patterns/footer-left.php:9
+msgid "Left aligned footer"
+msgstr "Vänsterjusterad sidfot"
+
+#: inc/patterns/footer-columns.php:41
+msgid "Search"
+msgstr "Sök"
+
+#: inc/patterns/footer-columns.php:33
+msgid "More info"
+msgstr "Mer info"
+
+#: inc/patterns/footer-columns.php:9
+msgid "Footer with 3 columns"
+msgstr "Sidfot med 3 kolumner"
+
+#: inc/block-patterns.php:52
+msgid "Blockbase Header ("
+msgstr "Blockbase sidhuvud ("
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Footer Only"
+msgstr "Endast sidfot"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "Endast sidhuvud och sidfot"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Tom"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Bakgrund"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Förgrund"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Headings (System Font)"
+msgstr "Rubriker (Systemtypsnitt)"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Body (System Font)"
+msgstr "Brödtext  (Systemtypsnitt)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: inc/patterns/404.php:9
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/wp-customize-fonts.php:324
+msgid "Your theme needs to be updated before you can customize fonts"
+msgstr "Ditt tema måste uppdateras innan du kan anpassa typsnitt"
+
+#: functions.php:34
+msgid "Social Navigation"
+msgstr "Social navigering"
+
+#. Description of the theme
+msgid "Blockbase is a simple theme that supports full-site editing. It comes with a set of minimal templates and design settings that can be manipulated through Global Styles. Use it to build something beautiful."
+msgstr "Blockbase är ett enkelt tema som stöder redigering av hela webbplatsen. Den levereras med en uppsättning minimalistiska mallar och designinställningar som kan styras genom globala stilar. Använd den för att bygga något vackert."
+
+#: inc/customizer/wp-customize-fonts.php:413
+msgid "Heading font"
+msgstr "Typsnitt för rubrik"
+
+#: inc/customizer/wp-customize-fonts.php:412
+msgid "Body font"
+msgstr "Typsnitt brödtext"
+
+#: inc/customizer/wp-customize-fonts.php:406
+msgid "Reset to Default"
+msgstr "Återställ till standard"
+
+#: inc/customizer/wp-customize-fonts.php:296
+msgid "Fonts"
+msgstr "Typsnitt"
+
+#: inc/customizer/wp-customize-fonts.php:295
+msgid "Font Customization for %1$s"
+msgstr "Anpassning av typsnitt för %1$s"
+
+#: inc/customizer/wp-customize-colors.php:97
+msgid "Colors"
+msgstr "Färger"
+
+#: inc/customizer/wp-customize-colors.php:96
+msgid "Color Customization for %1$s"
+msgstr "Anpassning av färg för %1$s"
+
+#: inc/customizer/wp-customize-color-palettes.php:80
+msgid "Choose a color scheme for your website."
+msgstr "Välj ett färgschema för din webbplats."
+
+#: inc/customizer/wp-customize-color-palettes.php:79
+msgid "Color Scheme"
+msgstr "Färgschema"
+
+#: functions.php:33
+msgid "Primary Navigation"
+msgstr "Primär navigering"
+
+#: inc/patterns/404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova en sökning?"
+
+#: inc/patterns/404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
