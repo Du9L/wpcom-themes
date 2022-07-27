@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Rivington\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-02T03:07:54+00:00\n"
+"PO-Revision-Date: 2022-06-01 15:54:03+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/rivington"
+msgstr "https://wordpress.com/theme/rivington"
+
+#: functions.php:100
+msgid "Foreground Dark"
+msgstr "ظلام أمامي"
+
+#: functions.php:95
+msgid "Foreground Light"
+msgstr "ضوء أمامي"
+
+#: functions.php:90
+msgid "Foreground"
+msgstr "المقدمة الأمامية"
+
+#: functions.php:85
+msgid "Background"
+msgstr "خلفية"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:139
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Description of the theme
+msgid "Rivington is a robust theme designed for single property real estate."
+msgstr "Rivington هو قالب قوي مصمم للعقارات ذات الملكية الفردية."
+
+#: template-parts/header/site-navigation.php:11
+msgid "collapsed"
+msgstr "مطوية"
+
+#: template-parts/header/site-navigation.php:10
+msgid "expanded"
+msgstr "موسعة"
+
+#: template-parts/header/site-navigation.php:7
+msgid "Menu"
+msgstr "القائمة"
+
+#: template-parts/header/site-navigation.php:4
+msgid "Main Navigation"
+msgstr "التنقل الرئيسي"
+
+#: functions.php:80
+msgid "Secondary"
+msgstr "الثانوي"
+
+#: functions.php:75
+msgid "Primary"
+msgstr "أساسي"
+
+#: functions.php:50
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:49
+msgid "Huge"
+msgstr "كبير جدًا"
+
+#: functions.php:44
+msgid "L"
+msgstr "L"
+
+#: functions.php:43
+msgid "Large"
+msgstr "كبير"
+
+#: functions.php:38
+msgid "M"
+msgstr "م"
+
+#: functions.php:37
+msgid "Normal"
+msgstr "عادي"
+
+#: functions.php:32
+msgid "S"
+msgstr "S"
+
+#: functions.php:31
+msgid "Small"
+msgstr "صغير"
