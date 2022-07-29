@@ -1,0 +1,510 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "unset",
+                "font_headings": "unset"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary",
+                "footer": "social"
+            },
+            "custom_css_post_id": -1,
+            "sidebars_widgets": {
+                "time": 1609953483,
+                "data": {
+                    "wp_inactive_widgets": [],
+                    "sidebar-1": []
+                }
+            },
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-3",
+            "id_base": "search",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "recent-posts-3",
+            "id_base": "recent-posts",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "archives-3",
+            "id_base": "archives",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 2
+        }
+    ],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "貝特的女兒：朱莉·馬內 (Julie Manet)",
+            "post_content": "<!-- wp:media-text {\"mediaId\":20,\"mediaLink\":\"https:\\/\\/2021.wordpress.net\\/playing-in-the-sand\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"is-stacked-on-mobile is-style-twentytwentyone-border\"} --> <div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-style-twentytwentyone-border\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/db04d-playing-in-the-sand.jpg?w=778&amp;h=1024\" alt=\"\" class=\"wp-image-20 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"textAlign\":\"center\"} --> <h2 class=\"has-text-align-center\">玩沙</h2> <!-- /wp:heading --> <!-- wp:separator {\"className\":\"is-style-dots\"} --> <hr class=\"wp-block-separator is-style-dots\" /> <!-- /wp:separator --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">貝特·莫里索 (Berthe Morisot)<br>(法國，1841-1895 年)</p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:paragraph --> <p>貝特畢生以女兒朱莉·馬內為模特兒創作了許多畫作。在貝特於 1895 年過世前，她畫了女兒各時期的模樣。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>這些畫作有的捕捉朱莉兒時嬉戲的模樣，有的是肖像畫，甚至有一幅畫描繪了她拉小提琴的姿態。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>朱莉本人長大後成為了一名畫家、模特兒、日記作家和藝術收藏家。</p> <!-- /wp:paragraph -->",
+            "post_name": "berthes-daughter-julie-manet",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 244,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Art"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "區塊版面配置",
+            "post_content": "<!-- wp:heading --> <h2>大型文字</h2> <!-- /wp:heading --> <!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} --> <h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">WordPress 全新作品集預設佈景主題</h2> <!-- /wp:heading --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>連結區</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} --> <div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"huge\"} --> <p class=\"has-huge-font-size\">歡迎造訪我們的社群網站。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":75} --> <div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"#\">Twitter</a> / <a href=\"#\">Instagram</a> / <a href=\"#\">Dribbble</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"#\">example@example.com</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:cover --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>媒體和文字文章標題</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:media-text {\"mediaId\":20,\"mediaLink\":\"https:\\/\\/2021.wordpress.net\\/playing-in-the-sand\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"is-stacked-on-mobile is-style-twentytwentyone-border\"} --> <div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-style-twentytwentyone-border\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/db04d-playing-in-the-sand.jpg?w=778&amp;h=1024\" alt=\"\" class=\"wp-image-20 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">玩沙</h2> <!-- /wp:heading --> <!-- wp:separator {\"className\":\"is-style-dots\"} --> <hr class=\"wp-block-separator is-style-dots\" /> <!-- /wp:separator --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">貝特·莫里索 (Berthe Morisot)<br>(法國，1841-1895 年)</p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>圖片來源：<a href=\"https://www.wikiart.org/en/berthe-morisot/playing-in-the-sand\">https://www.wikiart.org/en/berthe-morisot/playing-in-the-sand</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>重疊圖片</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/roses-tremieres/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></a></figure> <!-- /wp:image --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/in-the-bois-de-boulogne-2/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full\"} --> <figure class=\"wp-block-image size-large alignfull size-full\"><a href=\"https://2021.wordpress.net/young-woman-in-mauve/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>圖片來源：<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884\">https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884</a>、<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve\">https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve</a>、<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne\">https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>兩張圖片展示</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:media-text {\"mediaId\":98,\"mediaLink\":\"https:\\/\\/2021.wordpress.net\\/about\\/daffodils\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"verticalAlignment\":\"center\",\"className\":\"is-stacked-on-mobile\"} --> <div class=\"wp-block-media-text alignwide is-vertically-aligned-center is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/522e1-daffodils.jpg?w=826&amp;h=1024\" alt=\"\" class=\"wp-image-98 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:image {\"align\":\"center\",\"id\":67,\"width\":418,\"height\":512,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-large is-style-twentytwentyone-image-frame\"} --> <div class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/ef4ec-self-portrait-1885.jpg?w=836&amp;h=1024\" alt=\"\" class=\"wp-image-67\" width=\"418\" height=\"512\" /></figure></div> <!-- /wp:image --></div></div> <!-- /wp:media-text --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>圖片來源：<a href=\"https://www.wikiart.org/en/berthe-morisot/daffodils\">https://www.wikiart.org/en/berthe-morisot/daffodils</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/self-portrait-1885\">https://www.wikiart.org/en/berthe-morisot/self-portrait-1885</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>重疊圖片和文字</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide is-style-twentytwentyone-columns-overlap\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":69,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-full\"} --> <figure class=\"wp-block-image size-large size-full\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=1024&amp;h=811\" alt=\"\" class=\"wp-image-69\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"bottom\"} --> <div class=\"wp-block-column is-vertically-aligned-bottom\"><!-- wp:group {\"className\":\"is-style-twentytwentyone-border\",\"backgroundColor\":\"green\"} --> <div class=\"wp-block-group is-style-twentytwentyone-border has-green-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">貝特·莫里索 (Berthe Morisot) 於 1800 年代後期繪製的美麗花園</p> <!-- /wp:paragraph --></div></div> <!-- /wp:group --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":29,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-full\"} --> <figure class=\"wp-block-image size-large size-full\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/da0e5-villa-with-orange-trees-nice.jpg?w=811&amp;h=1024\" alt=\"\" class=\"wp-image-29\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>圖片來源：<a href=\"https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884\">https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice\">https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>作品集清單</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator alignwide is-style-wide\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a>蜀葵</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":36,\"width\":62,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=248&amp;h=300\" alt=\"\" class=\"wp-image-36\" width=\"62\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a>別墅與橘子樹，尼斯</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":29,\"width\":60,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/da0e5-villa-with-orange-trees-nice.jpg?w=238&amp;h=300\" alt=\"\" class=\"wp-image-29\" width=\"60\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a>布洛涅森林中</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":14,\"width\":75,\"height\":62,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=300&amp;h=247\" alt=\"\" class=\"wp-image-14\" width=\"75\" height=\"62\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\">布吉瓦爾花園</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":69,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=300&amp;h=238\" alt=\"\" class=\"wp-image-69\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\">淡紫色衣服的年輕女子</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":75,\"width\":61,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=243&amp;h=300\" alt=\"\" class=\"wp-image-75\" width=\"61\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\">閱讀</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":97,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg?w=300&amp;h=240\" alt=\"\" class=\"wp-image-97\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator alignwide is-style-wide\" /> <!-- /wp:separator --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><sub><em>圖片來源：<a href=\"https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884\">https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice\">https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne\">https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne</a>、<em><a href=\"https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884\">https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884</a></em>、<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve\">https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/reading\">https://www.wikiart.org/en/berthe-morisot/reading</a></em>。</sub></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>聯絡資訊</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"mailto:#\">example@example.com<br></a>123-456-7890</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\">123 Main Street<br>Cambridge, MA, 02139</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:social-links {\"align\":\"right\",\"className\":\"is-style-twentytwentyone-social-icons-color\"} --> <ul class=\"wp-block-social-links alignright is-style-twentytwentyone-social-icons-color\"><!-- wp:social-link {\"url\":\"https:\\/\\/wordpress.org\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"https:\\/\\/www.facebook.com\\/WordPress\\/\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"https:\\/\\/twitter.com\\/WordPress\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--> <!-- wp:social-link {\"url\":\"https:\\/\\/www.youtube.com\\/wordpress\",\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "block-patterns",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 229,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "新手入門內容",
+            "post_content": "<!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} --> <h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">使用區塊建立自己的網站</h2> <!-- /wp:heading --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/roses-tremieres/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></a></figure> <!-- /wp:image --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image alignfull size-large is-style-twentytwentyone-image-frame\"><a href=\"https://2021.wordpress.net/in-the-bois-de-boulogne-2/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full is-style-twentytwentyone-border\"} --> <figure class=\"wp-block-image size-large alignfull size-full is-style-twentytwentyone-border\"><a href=\"https://2021.wordpress.net/young-woman-in-mauve/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"top\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-top\"><!-- wp:column {\"verticalAlignment\":\"top\"} --> <div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} --> <h3>新增區塊版面配置</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>若要新增區塊版面配置，請在編輯器頂部的工具列選取「新增區塊」按鈕。此按鈕是一個方形加號圖示。搜尋列下方會顯示一些標籤，例如「區塊」和「版面配置」。選取「版面配置」。瀏覽版面配置，然後選取一個新增至你的內容。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"top\"} --> <div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} --> <h3>為圖片加框</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Twenty Twenty-One 提供幾種區塊樣式，包括圖片等區塊的邊框和框架。歡迎體驗此功能，只要在編輯器新增圖片區塊，然後在編輯器側邊欄中開啟「樣式」面板，接著選取「框架」區塊樣式即可。你的圖片就會像藝術品！</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"top\"} --> <div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} --> <h3>重疊內容欄</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Twenty Twenty-One 包含另一種區塊樣式：重疊的內容欄區塊。此樣式可讓你建立堆疊式版面配置，就像本頁的圖庫。只要在編輯器新增內容欄區塊，然後在編輯器側邊欄中開啟「樣式」面板，接著選取「重疊」區塊樣式即可。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} --> <div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"huge\"} --> <p class=\"has-huge-font-size\">需要協助嗎？</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":75} --> <div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"https://wordpress.org/support/article/twenty-twenty-one/\">閱讀佈景主題文件</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"https://wordpress.org/support/theme/twentytwentyone/\">查看支援論壇</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:cover -->",
+            "post_name": "starter-content",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 207,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "女性印象派畫家貝特·莫里索",
+            "post_content": "<!-- wp:paragraph --> <p><strong>珍妮爾·蒙哥馬利 (Janelle Montgomery)</strong>：莫里索是「印象派畫家」中受人尊敬的一員，但後世對其作品研究甚少，現今甚至鮮少展出。你是如何挑選展出作品和策劃本次展覽？對於莫里索和印象派畫家，這場展覽想要傳達什麼訊息？</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><strong>妮可·邁爾斯 (Nicole Myers) 博士</strong>：莫里索是法國印象派團體的創始成員之一，她在 1874 年加入這個叛逆的畫派，並且是當中唯一的女性，她在當時廣為人知，受到讚美推崇；但到了 20 世紀，莫里索在法國印象派歷史的地位卻遭到貶低，有時甚至被抹滅。因此，我們這次展出的目標當然是要重新樹立她的聲譽，並讓參觀者有機會欣賞她的作品，因為其中很多都是私人收藏。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><a href=\"https://youtu.be/o1ObIy92J4o\">更多採訪片段，請上 YouTube 觀看</a>。</p> <!-- /wp:paragraph -->",
+            "post_name": "about-the-berthe-morisot-woman-impressionist-exhibition",
+            "post_excerpt": "珍妮爾·蒙哥馬利 (Janelle Montgomery) 和達拉斯藝術博物館館長妮可·邁爾斯 (Nicole Myers) 博士就女性印象派畫家貝特·莫里索 (Berthe Morisot) 展覽所做的訪談。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 198,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "發掘印象派",
+            "post_content": "<!-- wp:embed {\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=mupxAAjAiWM\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} --> <figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">https://www.youtube.com/watch?v=mupxAAjAiWM </div></figure> <!-- /wp:embed -->",
+            "post_name": "inventing-impressionism",
+            "post_excerpt": "藝術史學家傑姬·克萊因 (Jacky Klein) 在本段 ArtFundUK 影片中，探尋這位才華橫溢的女性印象派畫家的故事。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 193,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "「藝術中的女性主義」：貝特·莫里索",
+            "post_content": "<!-- wp:embed {\"url\":\"https:\\/\\/open.spotify.com\\/episode\\/6h60lXLH8W31EUPU9kXKb4?si=mjqEKEEoQ6KFgv8bSSVgWA#:56\",\"type\":\"rich\",\"providerNameSlug\":\"spotify\",\"responsive\":true,\"className\":\"wp-embed-aspect-21-9 wp-has-aspect-ratio\"} --> <figure class=\"wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">https://open.spotify.com/episode/6h60lXLH8W31EUPU9kXKb4?si=mjqEKEEoQ6KFgv8bSSVgWA#:56 </div></figure> <!-- /wp:embed -->",
+            "post_name": "le-feminisme-en-art-berthe-morisot",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 187,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "莫里索在印象派運動中的重要地位",
+            "post_content": "<!-- wp:paragraph --> <p><a href=\"https://www.newyorker.com/magazine/2018/10/29/berthe-morisot-woman-impressionist-emerges-from-the-margins\">「女性印象派畫家」貝特·莫里索從邊緣崛起</a>。</p> <!-- /wp:paragraph --> <!-- wp:quote --> <blockquote class=\"wp-block-quote\"><p>莫里索是描繪女性的視覺藝術詩人，從古至今沒有一個畫家像她一樣，光她個人對女性經驗的理解，影響力就足以抵過一票同期男性藝術家對女性的發聲。</p><cite>彼得·謝爾達爾 (Peter Schjeldahl)</cite></blockquote> <!-- /wp:quote -->",
+            "post_name": "morisots-importance-in-the-impressionist-movement",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 183,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "貝特·莫里索的早年生活和教育",
+            "post_content": "<!-- wp:paragraph --> <p>莫里索出生於法國布爾吉一個富裕的中産階級家庭。她的父親埃德梅·蒂伯斯·莫里索 (EdméTiburce Morisot) 曾是謝爾省的高官，也曾在法國美術學院學習建築。她的母親瑪麗·約瑟芬·康妮莉·托馬斯 (Marie-Joséphine-CornélieThomas) 是尙·歐諾黑·福拉歌那 (Jean-HonoréFragonard) 的侄女，福拉歌那是舊制度洛可可畫派中最多產的畫家之一。她有兩個姐姐伊夫和埃德瑪，還有一個弟弟蒂伯斯。全家人在 1852 年移居巴黎，當時莫里索還小。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>中產階級家庭的女兒接受藝術教育是常有的事，當時貝特和姐姐伊夫和埃德瑪接受了傑佛羅伊·阿方斯·喬卡恩 (Geoffroy-Alphonse Chocarne) 和約瑟夫·吉查德 (Joseph Guichard) 的私下指導。莫里索和兩個姐姐一開始上課，是為了在父親生日時，每人畫一幅畫送給父親。1857 年，位於穆蘭大街 (Rue des Moulins) 的女子學校負責人吉查德 (Guichardd) 帶著貝特和埃德瑪參觀羅浮宮，兩姊妹在 1858 年開始臨摹學畫。莫里索姐妹只能在有人伴護下到博物館作畫，而且完全禁止接受正規訓練。吉查德也會向她們介紹卡瓦尼 (Gavarni) 的作品。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>貝特和埃德瑪在學習藝術過程中合作無間，直到 1869 年埃德瑪嫁給海軍官阿道夫·蓬蒂隆 (Adolphe Pontillon)，夫妻兩人搬到瑟堡之後，埃德瑪作畫時間就變少了。兩姊妹魚雁往返，信中貝特對兩人之間的距離，以及埃德瑪不再作畫表達悲傷，姊妹情深展露無遺。埃德瑪全心支持貝特繼續作畫，全家人始終保持著親密關係。埃德瑪寫道： </p> <!-- /wp:paragraph --> <!-- wp:quote --> <blockquote class=\"wp-block-quote\"><p>「…我的心經常與你同在，親愛的貝特。我在你的畫室裡，好想溜走，即使 15 分鐘也好，讓我好好感受多年來我們一同經歷的那種感覺…」</p></blockquote> <!-- /wp:quote --> <!-- wp:paragraph --> <p>她的另一個姐姐伊夫在 1866 年與稅務稽查員西奧多·戈比拉德 (Theodore Gobillard) 結婚，伊夫是艾德加·竇加 (Edgar Degas) 畫作「西奧多·戈比拉德夫人」的主角。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>莫里索在羅浮宮重製畫作期間，結識了馬內和莫內等藝術家。1861 年，她認識了巴比松畫派重要的風景畫家尚·巴蒂斯·卡密爾·柯洛 (Jean-Baptiste-Camille Corot)，他在人物繪畫方面也有很深的造詣。在柯洛的影響下，她開始接觸室外作畫。到了 1863 年，她向巴比松派另一位畫家阿基里·奧迪諾 (Achille Oudinot) 拜師。1863 到 1864 年的冬季，她師從艾梅·米勒 (Aimé Millet) 學習雕塑，但並無作品存世。</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"fontSize\":\"small\"} --> <p class=\"has-small-font-size\">維基百科貢獻者。(2020 年， 7 月 29 日)。<a href=\"https://en.wikipedia.org/w/index.php?title=Berthe_Morisot&amp;oldid=970124363\">貝特·莫里索</a>。出自<em>「維基百科，自由的百科全書」</em>中。檢索於 2020 年 10 月 13 日 21:32。</p> <!-- /wp:paragraph -->",
+            "post_name": "berthe-morisots-early-life-and-education",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 174,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "閱讀",
+            "post_content": "<!-- wp:image {\"id\":97,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg?w=1024&amp;h=818\" alt=\"\" class=\"wp-image-97\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>年代</strong>：1888 年</li><li><strong>風格</strong>：印象派</li><li><strong>類型</strong>：風俗畫</li><li><strong>媒材</strong>：油、帆布</li></ul> <!-- /wp:list -->",
+            "post_name": "reading-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 160,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "布吉瓦爾花園",
+            "post_content": "<!-- wp:image {\"id\":69,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=1024&amp;h=811\" alt=\"\" class=\"wp-image-69\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>年代</strong>：1884 年</li><li><strong>風格</strong>：印象派</li><li><strong>類型</strong>：風景畫</li><li><strong>媒材</strong>：油、帆布</li><li><strong>地點</strong>：法國巴黎瑪摩丹美術館</li><li><strong>尺寸</strong>：92 x 73 公分</li></ul> <!-- /wp:list -->",
+            "post_name": "the-garden-at-bougival",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 158,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "淡紫色衣服的年輕女子",
+            "post_content": "<!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>年代</strong>：1880 年</li><li><strong>風格</strong>：印象派</li><li><strong>類型：</strong>肖像畫</li><li><strong>媒材</strong>：油、帆布</li><li><strong>地點</strong>：私人收藏</li></ul> <!-- /wp:list -->",
+            "post_name": "young-woman-in-mauve",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 159,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "坐在露臺的紅髮女孩",
+            "post_content": "<!-- wp:image {\"id\":96,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg\" alt=\"\" class=\"wp-image-96\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>年代</strong>：1884 年</li><li><strong>風格</strong>：印象派</li><li><strong>類型</strong>：風俗畫</li><li><strong>媒材</strong>：油、帆布</li><li><strong>地點</strong>：私人收藏</li></ul> <!-- /wp:list -->",
+            "post_name": "red-haired-girl-sitting-on-a-veranda",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 151,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "別墅與橘子樹，尼斯",
+            "post_content": "<!-- wp:image {\"id\":29,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/da0e5-villa-with-orange-trees-nice.jpg?w=811&amp;h=1024\" alt=\"\" class=\"wp-image-29\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>年代</strong>：1882 年</li><li><strong>風格</strong>：印象派</li><li><strong>類型</strong>：風景畫</li><li><strong>媒材</strong>：油、帆布</li><li><strong>地點</strong>：私人收藏</li></ul> <!-- /wp:list -->",
+            "post_name": "villa-with-orange-trees-nice-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "蜀葵",
+            "post_content": "<!-- wp:image {\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>年代</strong>：1884 年</li><li><strong>風格</strong>：印象派</li><li><strong>類型</strong>：風景畫</li><li><strong>媒材</strong>：油、帆布</li><li><strong>地點</strong>：法國巴黎瑪摩丹美術館</li><li><strong>尺寸</strong>：54 x 65 公分</li></ul> <!-- /wp:list -->",
+            "post_name": "roses-tremieres",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 134,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "關於",
+            "post_content": "<!-- wp:media-text {\"mediaId\":70,\"mediaLink\":\"https:\\/\\/twentytwentyonedemo.wordpress.com\\/about\\/the-old-track-to-auvers-1863\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"verticalAlignment\":\"center\",\"className\":\"is-stacked-on-mobile\"} --> <div class=\"wp-block-media-text alignwide is-vertically-aligned-center is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/fd5fc-the-old-track-to-auvers-1863.jpg?w=676\" alt=\"\" class=\"wp-image-70 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:image {\"align\":\"center\",\"id\":67,\"width\":418,\"height\":512,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-large is-style-twentytwentyone-image-frame\"} --> <div class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/ef4ec-self-portrait-1885.jpg?w=836&amp;h=1024\" alt=\"\" class=\"wp-image-67\" width=\"418\" height=\"512\" /></figure></div> <!-- /wp:image --></div></div> <!-- /wp:media-text --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"85%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:85%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">貝特·瑪麗·寶琳·莫里索 (Berthe Marie Pauline Morisot) 是 19 世紀畫家，也是巴黎印象派的一員。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"40%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:40%;\"><!-- wp:paragraph {\"fontSize\":\"large\",\"style\":{\"typography\":{\"lineHeight\":\"1.6\"}}} --> <p class=\"has-large-font-size\" style=\"line-height:1.6;\">莫里索以日常生活為繪畫主題。她的大部分畫作包含家人、兒童、女士和鮮花的居家場景，描繪 19 世紀後期女性的生活。莫里索沒有刻畫公共空間和社會，而是偏好描繪私密的場景。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"width\":\"60%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:60%;\"><!-- wp:paragraph --> <p>她與另一位印象派畫家瑪麗·卡薩特 (Mary Cassatt) 一樣，主要描繪家庭生活和肖像，身邊親友就是模特兒，包括女兒朱莉 (Julie ) 和姐姐埃德瑪 (Edma)。她以速畫風格呈現日常生活，傳達亟欲停止時光流逝的感受。她透過描繪花朵，以隱喻手法讚頌女性氣質。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>1860 年代前，莫里索的繪畫主題與巴比松畫派一致，之後才轉以當代女性為題。「搖籃」(1872 年) 描繪當時流行的育兒家具，反映出她對時尚和廣告的敏感度，女性觀眾想必也很容易就看得出來。她的作品還包括風景、花園景色、划船場景，以及無聊或喧鬧的主題。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>莫里索在職業生涯後期創作了更多極具野心的主題，例如裸體。在晚期作品中，她經常描繪過去，回憶早年生活和青春，以及與世長辭的友伴。</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\">維基百科貢獻者。(2020 年，7 月 29 日)。<a href=\"https://en.wikipedia.org/w/index.php?title=Berthe_Morisot&amp;oldid=970124363\">貝特·莫里索</a>。出自<em>「維基百科，自由的百科全書」</em>中。檢索於 2020 年 10 月 13 日 下午 08:55。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 43,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "作品",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"width\":\"66.66%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:image {\"id\":96,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg\" alt=\"\" class=\"wp-image-96\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"width\":\"33.33%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:group {\"className\":\"is-style-twentytwentyone-border\",\"backgroundColor\":\"green\"} --> <div class=\"wp-block-group is-style-twentytwentyone-border has-green-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">坐在露臺的紅髮女孩</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>繪於 1884 年</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button {\"className\":\"is-style-fill\"} --> <div class=\"wp-block-button is-style-fill\"><a class=\"wp-block-button__link\" href=\"https://2021.wordpress.net/red-haired-girl-sitting-on-a-veranda/\">更多資訊</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div></div> <!-- /wp:group --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide is-style-twentytwentyone-separator-thick\"} --> <hr class=\"wp-block-separator alignwide is-style-wide is-style-twentytwentyone-separator-thick\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a><a href=\"https://twentytwentyonedemo.wordpress.com/roses-tremieres/\">蜀葵</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":36,\"width\":62,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=248&amp;h=300\" alt=\"\" class=\"wp-image-36\" width=\"62\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"https://2021.wordpress.net/the-garden-at-bougival/\">布吉瓦爾</a><a href=\"https://twentytwentyonedemo.wordpress.com/the-garden-at-bougival/\">花園</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":69,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=300&amp;h=238\" alt=\"\" class=\"wp-image-69\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"https://twentytwentyonedemo.wordpress.com/young-woman-in-mauve/\">淡紫色衣服的年輕女子</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":75,\"width\":61,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=243&amp;h=300\" alt=\"\" class=\"wp-image-75\" width=\"61\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"https://twentytwentyonedemo.wordpress.com/reading/\">閱讀</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":97,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg?w=300&amp;h=240\" alt=\"\" class=\"wp-image-97\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide is-style-twentytwentyone-separator-thick\"} --> <hr class=\"wp-block-separator alignwide is-style-wide is-style-twentytwentyone-separator-thick\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"small\"} --> <p class=\"has-small-font-size\">你可以在 <a href=\"https://www.wikiart.org/en/berthe-morisot\">WikiArt</a> 上欣賞貝特·莫里索更多作品。</p> <!-- /wp:paragraph -->",
+            "post_name": "work",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 44,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "網誌",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "聯絡方式",
+            "post_content": "<!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} --> <div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"huge\"} --> <p class=\"has-huge-font-size\">歡迎造訪我們的社群網站。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":75} --> <div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Contact Us\"} /--> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --> <!-- /wp:jetpack/contact-form --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"https://twitter.com/wordpress\">Twitter</a> / <a href=\"#\">Facebook</a> / <a href=\"#\">YouTube</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\"></p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:cover -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 46,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "首頁",
+            "post_content": "<!-- wp:heading {\"align\":\"wide\",\"className\":\"has-text-align-wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} --> <h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">1800 年代法國畫家貝特·莫里索的作品</h2> <!-- /wp:heading --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/roses-tremieres/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></a></figure> <!-- /wp:image --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/in-the-bois-de-boulogne-2/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full\"} --> <figure class=\"wp-block-image size-large alignfull size-full\"><a href=\"https://2021.wordpress.net/young-woman-in-mauve/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "home-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 254,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "主要",
+            "items": [
+                {
+                    "menu-item-title": "首頁",
+                    "menu-item-db-id": 355,
+                    "menu-item-object-id": "254",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "關於",
+                    "menu-item-db-id": 255,
+                    "menu-item-object-id": "43",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "作品",
+                    "menu-item-db-id": 256,
+                    "menu-item-object-id": "44",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "網誌",
+                    "menu-item-db-id": 257,
+                    "menu-item-object-id": "45",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "聯絡方式",
+                    "menu-item-db-id": 258,
+                    "menu-item-object-id": "46",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "社交",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 5,
+                    "menu-item-object-id": "5",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 6,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 7,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/fd5fc-the-old-track-to-auvers-1863.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/ef4ec-self-portrait-1885.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg"
+    ],
+    "meta": {
+        "blog_id": 187736619,
+        "url": "https://twentytwentyonedemo.wordpress.com",
+        "update_date": "January 8, 2021, 10:09 am",
+        "update_timestamp": 1610100551
+    }
+}
