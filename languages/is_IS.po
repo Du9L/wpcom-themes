@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:55:35+00:00\n"
+"PO-Revision-Date: 2019-05-26 11:44:20+0000\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 100 != 1 && n % 100 != 21 && n % 100 != 31 && n % 100 != 41 && n % 100 != 51 && n % 100 != 61 && n % 100 != 71 && n % 100 != 81 && n % 100 != 91);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:121
+msgid "White"
+msgstr "Hvítur"
+
+#: functions.php:116
+msgid "Yellow"
+msgstr "Gulur"
+
+#: functions.php:101
+msgid "Red"
+msgstr "Rauður"
+
+#: inc/wpcom-colors.php:148
+msgid "Status"
+msgstr "Staða"
+
+#: inc/wpcom-colors.php:104
+msgid "Quotes"
+msgstr "Tilvitnanir"
+
+#: inc/wpcom-colors.php:86
+msgid "Galleries"
+msgstr "Myndasöfn"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentythirteen/style.css
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "Þemað 2013 fyrir WordPress færir okkur aftur til baka í bloggið, býður upp á allan skalann af færslusniðum, hvert og eitt sýnt fallega á þeirra eigin einstaka hátt. Mörg smáatriði í hönnuninni, ber fyrst að nefna lifandi liti og hausmyndir í stíl, fallegar leturgerðir og táknmyndir, sem og útlit sem skalast og lítur frábærlega út í hvaða tæki sem er, stóru sem smáu."
+
+#: taxonomy-post_format.php:23
+msgid "%s Archives"
+msgstr "%s Greinasöfn"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Merkjaskipt greinasafn: %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Leitarniðurstöður fyrir: %s"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Stjarna"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Tígull"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Hringur"
+
+#: image.php:62
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Næsta <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Fyrri"
+
+#: image.php:49
+msgid "Full resolution"
+msgstr "Full upplausn"
+
+#: image.php:48
+msgid "Link to full-size image"
+msgstr "Slóð að mynd í fullri stærð"
+
+#: image.php:29
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\">Birt þann <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> í <a href=\"%3$s\" title=\"Fara aftur á %4$s\" rel=\"gallery\">%5$s</a></span>"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Fara að efni"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Valmynd"
+
+#: functions.php:525
+msgid "Permalink to %s"
+msgstr "Varanleg slóð á %s"
+
+#: functions.php:517
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s þann %2$s"
+
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "Skoða allar færslur eftir %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:487
+msgid ", "
+msgstr ", "
+
+#: functions.php:473
+msgid "Sticky"
+msgstr "Festa"
+
+#: functions.php:455
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:454
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:451
+msgid "Post navigation"
+msgstr "Leiðarstýring færslna"
+
+#: functions.php:424
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nýrri færslur <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:420
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eldri færslur"
+
+#: functions.php:416
+msgid "Posts navigation"
+msgstr "Leiðarstýring færslna"
+
+#: functions.php:391
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Birtist á færslum og síðum í hliðarvaldmynd."
+
+#: functions.php:389
+msgid "Secondary Widget Area"
+msgstr "Aukasvæði aukahluta"
+
+#: functions.php:379
+msgid "Appears in the footer section of the site."
+msgstr "Birtist við síðufót."
+
+#: functions.php:377
+msgid "Main Widget Area"
+msgstr "Aðalsvæði aukahluta"
+
+#: functions.php:362
+msgid "Page %s"
+msgstr "Síða %s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:231
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "virkt"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:225
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "virkt"
+
+#: functions.php:191
+msgid "Navigation Menu"
+msgstr "Valmynd leiðarstýringar"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "Keyrt með stolti á %s"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Það lítur út fyrir að við finnum ekki það sem þú sækist eftir. Hugsanlega hjálpar til að nota leitina."
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Því miður, leit þín bar engan árangur. Vinsamlegast reynið aftur með öðrum leitarorðum."
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Tilbúinn að gefa út þína fyrstu færslu? <a href=\"%1$s\">Byrjaðu hérna</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Ekkert fannst"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Skoða allar % athugasemdir"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "Ein athugasemd hingað til"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Skildu eftir athugasemd"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:54
+#: page.php:51
+msgid "Edit"
+msgstr "Breyta"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:83
+#: page.php:41
+msgid "Pages:"
+msgstr "Síður:"
+
+#. translators: %s: Name of current post
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:639
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lesa áfram %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Lokað er fyrir athugasemdir."
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Nýrri athugasemdir &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldri athugasemdir"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Leiðastýring athugasemda"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein athugasemd á &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s athugasemdir á &ldquo;%2$s&rdquo;"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "Flokkaskipt greinasafn: %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "Allar færslur eftir %s"
+
+#: author-bio.php:30
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skoða allar færslur eftir %s<span class=\"meta-nav\">&rarr;</span>"
+
+#: author-bio.php:26
+msgid "About %s"
+msgstr "Um %s"
+
+#: archive.php:36
+msgid "Archives"
+msgstr "Greinasöfn"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Á"
+
+#: archive.php:34
+msgid "Yearly Archives: %s"
+msgstr "Árskipt greinasafn: %s"
+
+#: archive.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "M Á"
+
+#: archive.php:32
+msgid "Monthly Archives: %s"
+msgstr "Mánaðarskipt greinasafn: %s"
+
+#: archive.php:30
+msgid "Daily Archives: %s"
+msgstr "Dagskipt greinasafn: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Það lýtur út fyrir að ekkert finnist á þessum slóðum. Spurning um að reyna leit?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Þetta er nokkuð neyðarlegt, er það ekki?"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Fannst ekki"

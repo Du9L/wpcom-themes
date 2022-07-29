@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-30T03:19:47+00:00\n"
+"PO-Revision-Date: 2021-12-25 08:24:18+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:162
+msgid "Neil Armstrong<br>James Lovell Jr.<br>Dr. Sally Ride<br>Chris Hadfield"
+msgstr "Neil Armstrong<br>James Lovell Jr.<br>Dr. Sally Ride<br>Chris Hadfield"
+
+#: inc/block-patterns.php:156
+msgid "Yuri Gagarin<br>Alan B. Shepard Jr.<br>Valentina Tereshkova<br>John Glenn Jr."
+msgstr "Yuri Gagarin<br>Alan B. Shepard Jr.<br>Valentina Tereshkova<br>John Glenn Jr."
+
+#: inc/block-patterns.php:150
+msgid "FAMOUS ASTRONAUTS"
+msgstr "ASTRONAUȚI FAMOȘI"
+
+#: inc/block-patterns.php:146
+msgid "Informational List"
+msgstr "Listă informativă"
+
+#: inc/block-patterns.php:136
+msgid "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system."
+msgstr "Când privești stelele și galaxiile, simți că nu ești doar pe Pământ, ci în sistemul solar."
+
+#: inc/block-patterns.php:127
+msgid "Big Quote"
+msgstr "Citat mare"
+
+#: inc/block-patterns.php:116
+#: inc/block-patterns.php:136
+msgid "Kalpana Chawla"
+msgstr "Kalpana Chawla"
+
+#: inc/block-patterns.php:116
+msgid "When you look at <br>the stars and the galaxy, you feel that you are not <br>just from any particular piece of land, but from the solar system."
+msgstr "Când privești <br>stelele și galaxiile, simți că nu ești doar<br> pe Pământ, ci în sistemul solar."
+
+#: inc/block-patterns.php:92
+msgid "Colonies"
+msgstr "Colonii"
+
+#: inc/block-patterns.php:75
+#: inc/block-patterns.php:83
+#: inc/block-patterns.php:91
+msgid "Write title…"
+msgstr "Scrie titlul..."
+
+#: inc/block-patterns.php:76
+msgid "Space"
+msgstr "Spațiu"
+
+#: inc/block-patterns.php:36
+msgid "Solid red square"
+msgstr "Pătrat roșu dens"
+
+#: inc/block-patterns.php:32
+msgid "Decorative Gallery"
+msgstr "Galerie decorativă"
+
+#. translators: 1: Date, 2: Date, 3, Parent permalink, 4, Post title, 5: Post
+#. title.
+#: image.php:30
+msgid "Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Go to %4$s\" rel=\"gallery\">%5$s</a>"
+msgstr "Publicată pe <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> în <a href=\"%3$s\" title=\"Mergi la %4$s\" rel=\"gallery\">%5$s</a>"
+
+#: inc/block-patterns.php:36
+msgid "Solid orange square"
+msgstr "Pătrat portocaliu dens"
+
+#: inc/block-patterns.php:70
+msgid "Decorative Columns"
+msgstr "Coloane decorative"
+
+#: inc/block-patterns.php:59
+msgid "Discover More"
+msgstr "Descoperă mai mult"
+
+#: inc/block-patterns.php:50
+msgid "Exploring Space"
+msgstr "Explorarea spațiului"
+
+#: inc/block-patterns.php:46
+msgid "Informational Section"
+msgstr "Secțiune informativă"
+
+#: functions.php:854
+msgid "No Shadow"
+msgstr "Fără umbră"
+
+#. translators: %s: The post title.
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentariu la „%s”"
+
+#: functions.php:134
+msgid "Dark Brown"
+msgstr "Maro închis"
+
+#: functions.php:144
+msgid "Light Brown"
+msgstr "Maro deschis"
+
+#: functions.php:139
+msgid "Medium Brown"
+msgstr "Maro normal"
+
+#: functions.php:149
+msgid "Beige"
+msgstr "Bej"
+
+#: functions.php:154
+msgid "Off-white"
+msgstr "Alb-gălbui"
+
+#: functions.php:104
+msgid "Dark Gray"
+msgstr "Gri închis"
+
+#: functions.php:109
+msgid "Red"
+msgstr "Roșu"
+
+#: functions.php:124
+msgid "Yellow"
+msgstr "Galben"
+
+#: functions.php:129
+msgid "White"
+msgstr "Alb"
+
+#: functions.php:119
+msgid "Light Orange"
+msgstr "Portocaliu deschis"
+
+#: functions.php:114
+msgid "Medium Orange"
+msgstr "Portocaliu normal"
+
+#. Description of the theme
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "Tema 2013 WordPress ne duce înapoi la blog, oferind o gamă completă de formate de articole, fiecare afișate frumos în felul lor unic. Detaliile de design abundă, începând cu o schemă vibrantă de culori și imagini care se potrivesc cu antetul, tipografia frumosă și iconițele au un aspect flexibil care arată foarte bine pe orice dispozitiv, mare sau mic."
+
+#. translators: %s: Post format name.
+#: taxonomy-post_format.php:26
+msgid "%s Archives"
+msgstr "Arhive %s"
+
+#. translators: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Arhive pe etichete: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutări pentru: %s"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Stea"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Diamant"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Cerc"
+
+#: image.php:64
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Următorul <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:63
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Precedentul"
+
+#: image.php:51
+msgid "Full resolution"
+msgstr "Rezoluție completă"
+
+#: image.php:50
+msgid "Link to full-size image"
+msgstr "Legătură către imagine de dimensiune completă"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Meniu"
+
+#. translators: %s: Post title.
+#: functions.php:541
+msgid "Permalink to %s"
+msgstr "Legătură permanentă la %s"
+
+#. translators: 1: Post format name, 2: Date.
+#: functions.php:532
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s pe %2$s"
+
+#. translators: %s: Author display name.
+#: functions.php:511
+msgid "View all posts by %s"
+msgstr "Vezi toate posturile scrise de %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:494
+#: functions.php:500
+msgid ", "
+msgstr ", "
+
+#: functions.php:486
+msgid "Sticky"
+msgstr "lipicios"
+
+#: functions.php:468
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:467
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:464
+msgid "Post navigation"
+msgstr "Navigare articole"
+
+#: functions.php:437
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articole mai noi <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:433
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articole mai vechi"
+
+#: functions.php:429
+msgid "Posts navigation"
+msgstr "Navigare în articole"
+
+#: functions.php:404
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Apare în articole și pagini în bara laterală."
+
+#: functions.php:402
+msgid "Secondary Widget Area"
+msgstr "Zonă asamblabilă secundară"
+
+#: functions.php:392
+msgid "Appears in the footer section of the site."
+msgstr "Apare în secțiunea subsol a sitului."
+
+#: functions.php:390
+msgid "Main Widget Area"
+msgstr "Zonă asamblabilă principală"
+
+#. translators: %s: Page number.
+#: functions.php:375
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:242
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:236
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:202
+msgid "Navigation Menu"
+msgstr "Meniu navigare"
+
+#. translators: %s: WordPress
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Gata să-ți publici primul articol? <a href=\"%s\">Începe de aici</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Nu a fost găsit nimic"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Vezi toate comentariile %"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "Un coment pană acum"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Scrie un comentariu"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:56
+#: page.php:51
+msgid "Edit"
+msgstr "Editare"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:85
+#: page.php:41
+msgid "Pages:"
+msgstr "Pagini:"
+
+#. translators: %s: Post title.
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:655
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Citește în continuare %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Comentariile nu sunt permise."
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarii mai vechi"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Navigare în comentarii"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentariu la &8222;%2$s&8221;"
+msgstr[1] "%1$s comentarii la &8222;%2$s&8221;"
+msgstr[2] "%1$s de comentarii la &8222;%2$s&8221;"
+
+#. translators: %s: Category title.
+#: category.php:22
+msgid "Category Archives: %s"
+msgstr "Arhive pe categorii: %s"
+
+#. translators: %s: Author display name.
+#: author.php:34
+msgid "All posts by %s"
+msgstr "Toate articolele de %s"
+
+#. translators: %s: Author display name.
+#: author-bio.php:37
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vezi toate articolele lui %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Author display name.
+#: author-bio.php:29
+msgid "About %s"
+msgstr "Despre %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Arhive"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Arhive Anuale: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Arhivele lunare: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Arhive zilnice: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că n-a fost găsit nimic la această locație. Poate încerci o căutare?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Este puțin jenant, nu-i așa?"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Nu a fost găsit"

@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:56:17+00:00\n"
+"PO-Revision-Date: 2021-01-08 01:45:54+0000\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: The post title.
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Един коментар за &ldquo;%s&rdquo;"
+
+#: functions.php:147
+msgid "Off-white"
+msgstr "Черно-бяло"
+
+#: functions.php:142
+msgid "Beige"
+msgstr "Бежово"
+
+#: functions.php:137
+msgid "Light Brown"
+msgstr "Светло кафяво"
+
+#: functions.php:132
+msgid "Medium Brown"
+msgstr "Нормално кафяво"
+
+#: functions.php:127
+msgid "Dark Brown"
+msgstr "Тъмно кафяво"
+
+#: functions.php:102
+msgid "Red"
+msgstr "Червена"
+
+#: functions.php:117
+msgid "Yellow"
+msgstr "Жълто"
+
+#: functions.php:122
+msgid "White"
+msgstr "Бяла"
+
+#: functions.php:97
+msgid "Dark Gray"
+msgstr "Тъмносив"
+
+#: functions.php:112
+msgid "Light Orange"
+msgstr "Светло оранжево"
+
+#: functions.php:107
+msgid "Medium Orange"
+msgstr "Нормално оранжево"
+
+#: inc/wpcom-colors.php:148
+msgid "Status"
+msgstr "Статус"
+
+#: inc/wpcom-colors.php:104
+msgid "Quotes"
+msgstr "Цитати"
+
+#: inc/wpcom-colors.php:86
+msgid "Galleries"
+msgstr "Галерии"
+
+#. translators: %s: Post format name.
+#: taxonomy-post_format.php:26
+msgid "%s Archives"
+msgstr "%s Архив"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentythirteen/style.css
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "Темата 2013 за WordPress акцентира върху различните формати на публикациите, всеки от които е със собствен уникален стил. Темата има ярка и плътна цветова палитра с подходящи заглавни изображения, чудесна типография и икони; и гъвкава структура, която изглежда чудесно на всяко устройство, независимо от големината на екрана. "
+
+#. translators: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Архив за етикет: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Диамант"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Звезда"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Кръгове"
+
+#: image.php:63
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следваща <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:50
+msgid "Full resolution"
+msgstr "Пълен размер"
+
+#: image.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предишна"
+
+#: image.php:49
+msgid "Link to full-size image"
+msgstr "Връзка към пълния размер на изображението"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Меню"
+
+#. translators: %s: Post title.
+#: functions.php:534
+msgid "Permalink to %s"
+msgstr "Постоянна връзка към %s"
+
+#. translators: 1: Post format name, 2: Date.
+#: functions.php:525
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s от %2$s"
+
+#. translators: %s: Author display name.
+#: functions.php:504
+msgid "View all posts by %s"
+msgstr "Всички публикации от %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:487
+#: functions.php:493
+msgid ", "
+msgstr ", "
+
+#: functions.php:461
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:479
+msgid "Sticky"
+msgstr "Залепена"
+
+#: functions.php:460
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:457
+msgid "Post navigation"
+msgstr "Навигация в публикациите"
+
+#: functions.php:430
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "По-нови публикации <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:426
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> По-стари публикации"
+
+#: functions.php:397
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Показва се в страничната лента за публикации и страници."
+
+#: functions.php:422
+msgid "Posts navigation"
+msgstr "Навигация на публикациите"
+
+#: functions.php:395
+msgid "Secondary Widget Area"
+msgstr "Допълнителна зона за джаджи"
+
+#: functions.php:383
+msgid "Main Widget Area"
+msgstr "Основна зона за джаджи"
+
+#: functions.php:385
+msgid "Appears in the footer section of the site."
+msgstr "Появява се в най-долната секция на сайта."
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:235
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: %s: Page number.
+#: functions.php:368
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:229
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:195
+msgid "Navigation Menu"
+msgstr "Навигационно меню"
+
+#. translators: %s: WordPress
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Търсенето не върна резултат. Опитайте отново с различни ключови думи?"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "Един коментар до момента"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Преглед на всичките % коментара"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Вашият коментар"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:55
+#: page.php:51
+msgid "Edit"
+msgstr "Редактиране"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:84
+#: page.php:41
+msgid "Pages:"
+msgstr "Страници:"
+
+#. translators: %s: Post title.
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:648
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продължете да четете %s<span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Коментари са забранени."
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "По-нови коментари &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; По-стари коментари"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s мнение за &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мнения за &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:22
+msgid "Category Archives: %s"
+msgstr "Архив на категория: %s"
+
+#. translators: %s: Author display name.
+#: author.php:34
+msgid "All posts by %s"
+msgstr "Всички публикации от %s"
+
+#. translators: %s: Author display name.
+#: author-bio.php:37
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Всички публикации от %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Author display name.
+#: author-bio.php:29
+msgid "About %s"
+msgstr "За %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Архив"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Архив по години: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Архив по месеци: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Архив по дни: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Тук няма нищо. Опитайте с търсене?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Нещо се обърка. Грешка 404"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Тук няма нищо"

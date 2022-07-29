@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:55:35+00:00\n"
+"PO-Revision-Date: 2019-05-26 11:44:25+0000\n"
+"Language: my_MM\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:121
+msgid "White"
+msgstr "အဖြူ"
+
+#: functions.php:116
+msgid "Yellow"
+msgstr "အဝါရောင်"
+
+#: functions.php:101
+msgid "Red"
+msgstr "အနီရောင်"
+
+#: inc/wpcom-colors.php:148
+msgid "Status"
+msgstr "အခြအေနေ"
+
+#: inc/wpcom-colors.php:104
+msgid "Quotes"
+msgstr "ကိုးကားချက်များ"
+
+#: inc/wpcom-colors.php:86
+msgid "Galleries"
+msgstr "ပြခန်းများ"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentythirteen/style.css
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr " သီးသန့်ပုံစံတစ်ခုစီဖြင့် လှပနေသော စာမူပုံစံများ အပြည့်အစုံတစ်ခု အထူးထည့်သွင်းထားသော WordPress အတွက် ၂၀၁၃ အခင်းအကျင်းသည် ကွျနုပ်တို့အား ဘလော့ဂ်ဆီသို့ ပြန်လည်ခေါ်ဆောင်ပေးထားသည်။ ဒီဇိုင်းအသေးစိတ်တွင် မြူးမြူးကြွကြွ အရောင်အရောအစပ်နှင့် ကိုက်ညီသော ခေါင်းစီးရုပ်ပုံများ၊ လှပသော စာလုံးပုံစံများနှင့် သင်္ကတေပုံများ၊ ထို့ပြင် အကြီးအသေး ကိရိယာမျိုးစုံတို့တွင် အလွန်လှပသော ဒီဇိုင်းပုံစံချထားမှုများစသည်တို့ဖြစ်သည်။"
+
+#: taxonomy-post_format.php:23
+msgid "%s Archives"
+msgstr "%s မှတ်တမ်းများ"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "စကားစုတွဲ မှတ်တမ်းများ : %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s အတွက် ရှာဖွေ တွေ့ရှိမှု ရလဒ်များ"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "ကြယ်သဏ္ဍန်"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "စိန်ကွက်"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "စက်ဝန်း"
+
+#: image.php:62
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "နောက်အသစ် <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> အရင်က"
+
+#: image.php:49
+msgid "Full resolution"
+msgstr "အရည်အသွေးအပြည့်"
+
+#: image.php:48
+msgid "Link to full-size image"
+msgstr "အရွယ်အစားအပြည့်ရုပ်ပုံသို့ ချိတ်ဆက်လိပ်စာ"
+
+#: image.php:29
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\"><a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a>တွင် <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>နေ့၌ ထုတ်ဝေခဲ့သည်</span>"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "စာကိုယ်ပိုင်းသို့ သွားရန်"
+
+#: header.php:43
+msgid "Menu"
+msgstr "မီနူး"
+
+#: functions.php:525
+msgid "Permalink to %s"
+msgstr "%s သို့ အမြဲချိတ်ဆက်လိပ်စာ"
+
+#: functions.php:517
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%2$s နေ့တွင်ရေးသော %1$s"
+
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "%s ရေးသော စာမူအားလုံးကို ကြည့်ရန်"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:487
+msgid ", "
+msgstr "၊ "
+
+#: functions.php:473
+msgid "Sticky"
+msgstr "အရေးကြီးစာမူ"
+
+#: functions.php:455
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:454
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:451
+msgid "Post navigation"
+msgstr "စာမူ လမ်းကြောင်းပြ"
+
+#: functions.php:424
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "စာမူ အသစ်များ <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:420
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> စာမူ အဟောင်းများ"
+
+#: functions.php:416
+msgid "Posts navigation"
+msgstr "စာမူလမ်းကြောင်းပြ"
+
+#: functions.php:391
+msgid "Appears on posts and pages in the sidebar."
+msgstr "စာမူနှင့် စာမျက်နှာများရှိ ဘေးဘားတွင် ပေါ်သည်။"
+
+#: functions.php:389
+msgid "Secondary Widget Area"
+msgstr "ဒုတိယ ဝစ်ဂျက် ဧရိယာ"
+
+#: functions.php:379
+msgid "Appears in the footer section of the site."
+msgstr "ဆိုဒ်အောက်ခြအေပိုင်းတွင် ပေါ်သည်။"
+
+#: functions.php:377
+msgid "Main Widget Area"
+msgstr "အဓိက ဝစ်ဂျက် ဧရိယာ"
+
+#: functions.php:362
+msgid "Page %s"
+msgstr "စာမျက်နှာ %s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:231
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:225
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:191
+msgid "Navigation Menu"
+msgstr "လမ်းကြောင်းပြမီနူး"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "%s မှ ကူညီထောက်ပံ့ပေးထားသည်။"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "သင်တွေ့လိုသည်ကို ကွျန်ုပ်တို့ ရှာမတွေ့ပါ။ ရှာဖွြခေင်းမှ အကူအညီရနိုင်လောက်သည်။"
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "စိတ်မကောင်းပါ၊ သင်ရှာဖွေသော ဝေါဟာရဖြင့် ကိုက်ညီသည်ကို မတွေ့ပါ။ အခြား သော့ချက်စကားလုံးတစ်ခုခုဖြင့် စမ်းကြည့်ပါ။"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "သင့်ပထမဆုံးစာမူကို ထုတ်ဝေရန် အသင့်ဖြစ်ပြီလား။ <a href=\"%1$s\">ဒီမှာ စလိုက်ပါ။</a>။"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "ဘာမှ မတွေ့ပါ"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "အားလုံးသော မှတ်ချက် % ခုကို ကြည့်ရန်"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "မှတ်ချက်တစ်ခုသာရှိသည်"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "ထင်မြင်ချက်ပေးရန်။"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:54
+#: page.php:51
+msgid "Edit"
+msgstr "ပြုပြင်ရန်"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:83
+#: page.php:41
+msgid "Pages:"
+msgstr "စာမျက်နှာများ :"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "မှတ်ချက်ပေးခြင်းကို ပိတ်ထားသည်။"
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "မှတ်ချက် အသစ်များ &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; မှတ်ချက် အဟောင်းများ"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "မှတ်ချက် လမ်းကြောင်းပြများ"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; အတွက် အတွေးတစ်ချက်"
+msgstr[1] "&ldquo;%2$s&rdquo; အတွက် အတွေးများ %1$s ခု"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "ကဏ္ဍ မှတ်တမ်းများ : %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "ပို့စ်များတင်ခဲ့သူမှာ %s"
+
+#: author-bio.php:30
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s ၏ စာမူအားလုံးကို ကြည့်ရန် <span class=\"meta-nav\">&rarr;</span>"
+
+#: author-bio.php:26
+msgid "About %s"
+msgstr "%s အကြောင်း"
+
+#: archive.php:36
+msgid "Archives"
+msgstr "မှတ်တမ်းများ"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Yearly Archives: %s"
+msgstr "နှစ်အလိုက် မှတ်တမ်းများ : %s"
+
+#: archive.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:32
+msgid "Monthly Archives: %s"
+msgstr "လ အလိုက် မှတ်တမ်းများ : %s"
+
+#: archive.php:30
+msgid "Daily Archives: %s"
+msgstr "နေ့စဉ် မှတ်တမ်းများ : %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ဒီနေရာမှာရှာမတော့ဘူးဖြစ်နေပါတယ်။ ကြိုးစားပြီးထပ်ရှာမလား။"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "ဒါက နည်းနည်း ရှက်ဖို့ကောင်းတယ် မဟုတ်ဘူးလား ?"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "မတွေ့ပါ"

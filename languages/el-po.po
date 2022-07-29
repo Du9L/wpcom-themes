@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:55:35+00:00\n"
+"PO-Revision-Date: 2018-11-20 16:28:19+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:148
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: inc/wpcom-colors.php:131
+msgid "Content links, Video, Audio"
+msgstr "Σύνδεσμοι πρὸς περιεχόμενο, βίντεο καὶ ἠχητικά"
+
+#: inc/wpcom-colors.php:86
+msgid "Galleries"
+msgstr "Συλλογὲς εἰκόνων"
+
+#: taxonomy-post_format.php:23
+msgid "%s Archives"
+msgstr "Ἀρχεῖα %s"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Ἀρχεῖα ἐτικέττας: %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Ἀναζήτηση ἀποτελεσμάτων γιά: %s"
+
+#: inc/custom-header.php:59
+msgctxt "header image description"
+msgid "Star"
+msgstr "Ἄστρο"
+
+#: inc/custom-header.php:54
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Διαμάντι"
+
+#: inc/custom-header.php:49
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Κύκλος"
+
+#: image.php:58
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ἑπόμενα <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:57
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Προηγούμενα"
+
+#: image.php:44
+msgid "Link to full-size image"
+msgstr "Συνδεθῆτε μὲ τὴν εἰκόνα στὸ πλῆρες μέγεθός της"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Πηγαίνετε στὸ περιεχόμενο τοῦ ἱστολογίου"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Μενού"
+
+#: functions.php:372
+msgid "Permalink to %s"
+msgstr "Μόνιμος σύνδεσμος πρὸς %s"
+
+#: functions.php:346
+msgid "View all posts by %s"
+msgstr "Δεῖτε ὅλες τὶς καταχωρίσεις τοῦ/τῆς %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:331
+#: functions.php:337
+msgid ", "
+msgstr ","
+
+#: functions.php:325
+msgid "Sticky"
+msgstr "πρωτοσέλιδο"
+
+#: functions.php:307
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:306
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:303
+msgid "Post navigation"
+msgstr "Περιήγηση ἄρθρων"
+
+#: functions.php:277
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Νεώτερα ἄρθρα <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:273
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Παλαιότερα ἄρθρα"
+
+#: functions.php:269
+msgid "Posts navigation"
+msgstr "Περιήγηση ἄρθρων"
+
+#: functions.php:246
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Ἐμφανίζεται σὲ ἄρθρα καὶ σελίδες στὴν πλαϊνὴ στήλη."
+
+#: functions.php:244
+msgid "Secondary Widget Area"
+msgstr "Δευτερεύουσα περιοχὴ προσθηκῶν"
+
+#: functions.php:236
+msgid "Appears in the footer section of the site."
+msgstr "Ἐμφανίζεται στὸ ὑποσέλιδο."
+
+#: functions.php:234
+msgid "Main Widget Area"
+msgstr "Κύρια περιοχὴ προσθηκῶν περιεχομένου"
+
+#: functions.php:221
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+#: functions.php:97
+msgid "Navigation Menu"
+msgstr "Μενοὺ πλοηγήσεως"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Λειτουργεῖ μὲ τὴν βοήθεια τοῦ %s"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Μᾶλλον δὲν μποροῦμε νὰ βροῦμε αὐτὸ ποὺ ψάχνετε. Ἴσως βοηθήσει μιὰ ἀναζήτηση."
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ἕτοιμος/-η γιὰ τὸ πρῶτο σας ἄρθρο; <a href=\"%1$s\">Ξεκινῆστε ἀπὸ δῶ</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Οὑδὲν εὑρέθη!"
+
+#: content-gallery.php:43
+#: content-image.php:39
+#: content-quote.php:29
+#: content-video.php:39
+#: content.php:56
+msgid "One comment so far"
+msgstr "Μέχρι στιγμῆς ἕνα σχόλιο"
+
+#: content-gallery.php:43
+#: content-image.php:39
+#: content-quote.php:29
+#: content-video.php:39
+#: content.php:56
+msgid "Leave a comment"
+msgstr "Σχολιάστε"
+
+#: content-aside.php:27
+#: content-aside.php:35
+#: content-audio.php:38
+#: content-chat.php:36
+#: content-gallery.php:46
+#: content-image.php:42
+#: content-link.php:19
+#: content-quote.php:32
+#: content-status.php:26
+#: content-video.php:42
+#: content.php:31
+#: image.php:50
+#: page.php:39
+msgid "Edit"
+msgstr "Ἐπεξεργασία"
+
+#: content-aside.php:20
+#: content-audio.php:31
+#: content-chat.php:30
+#: content-gallery.php:31
+#: content-image.php:30
+#: content-link.php:31
+#: content-quote.php:20
+#: content-status.php:20
+#: content-video.php:30
+#: content.php:48
+#: image.php:76
+#: page.php:35
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#. translators: %s: Name of current post
+#: content-aside.php:16
+#: content-audio.php:27
+#: content-chat.php:26
+#: content-gallery.php:27
+#: content-image.php:26
+#: content-link.php:27
+#: content-quote.php:16
+#: content-status.php:16
+#: content-video.php:26
+#: content.php:44
+#: functions.php:481
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Ἡ ὑποβολὴ σχολίων ἔχει κλείσει."
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια &rarr;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Παλαιότερα σχόλια"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Πλοήγηση στὰ σχόλια"
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μιὰ σκέψη πάνω στὸ &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις πάνω στὸ &ldquo;%2$s&rdquo;"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "Ἀρχεῖα κατηγορίας: %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "Ὅλα τὰ ἄρθρα τοῦ/τῆς %s"
+
+#: author-bio.php:30
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Δεῖτε ὅλα τὰ ἄρθρα τοῦ/τῆς %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: author-bio.php:26
+msgid "About %s"
+msgstr "Περὶ τοῦ/τῆς: %s"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Ἀρχεῖα"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "Ἐτήσια Ἀρχεῖα: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "Μηνιαία Ἀρχεῖα: %s "
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "Ἡμερήσια ἀρχεῖα: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ὡς φαίνεται, τίποτε δὲν βρέθηκε στὴν τοποθεσία αὐτήν. Νὰ δοκιμάζατε μήπως μιὰ ἀναζήτηση;"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Αὐτὸ εἶναι λίγο περίεργο, ἢ μήπως ὄχι;"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Δὲν βρέθηκε"

@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-14T03:34:26+00:00\n"
+"PO-Revision-Date: 2022-05-13 17:33:56+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:162
+msgid "Neil Armstrong<br>James Lovell Jr.<br>Dr. Sally Ride<br>Chris Hadfield"
+msgstr "Neil Armstrong<br>James Lovell Jr.<br>Dr. Sally Ride<br>Chris Hadfield"
+
+#: inc/block-patterns.php:156
+msgid "Yuri Gagarin<br>Alan B. Shepard Jr.<br>Valentina Tereshkova<br>John Glenn Jr."
+msgstr "Yuri Gagarin<br>Alan B. Shepard Jr.<br>Valentina Tereshkova<br>John Glenn Jr."
+
+#: inc/block-patterns.php:150
+msgid "FAMOUS ASTRONAUTS"
+msgstr "BERÖMDA ASTRONAUTER"
+
+#: inc/block-patterns.php:146
+msgid "Informational List"
+msgstr "Informationslista"
+
+#: inc/block-patterns.php:136
+msgid "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system."
+msgstr "När man tittar på stjärnorna och galaxen känner man att man inte kommer från något visst land, utan från solsystemet."
+
+#: inc/block-patterns.php:127
+msgid "Big Quote"
+msgstr "Stort citat"
+
+#: inc/block-patterns.php:116
+#: inc/block-patterns.php:136
+msgid "Kalpana Chawla"
+msgstr "Kalpana Chawla"
+
+#: inc/block-patterns.php:92
+msgid "Colonies"
+msgstr "Kolonier"
+
+#: inc/block-patterns.php:76
+msgid "Space"
+msgstr "Utrymme"
+
+#: inc/block-patterns.php:75
+#: inc/block-patterns.php:83
+#: inc/block-patterns.php:91
+msgid "Write title…"
+msgstr "Skriv rubrik …"
+
+#: inc/block-patterns.php:70
+msgid "Decorative Columns"
+msgstr "Dekorativa kolumner"
+
+#: inc/block-patterns.php:59
+msgid "Discover More"
+msgstr "Upptäck mer"
+
+#: inc/block-patterns.php:50
+msgid "Exploring Space"
+msgstr "Utforska rymden"
+
+#: inc/block-patterns.php:36
+msgid "Solid orange square"
+msgstr "Solid orange fyrkant"
+
+#: inc/block-patterns.php:36
+msgid "Solid red square"
+msgstr "Solid röd fyrkant"
+
+#: inc/block-patterns.php:32
+msgid "Decorative Gallery"
+msgstr "Dekorativt galleri"
+
+#. translators: 1: Date, 2: Date, 3, Parent permalink, 4, Post title, 5: Post
+#. title.
+#: image.php:30
+msgid "Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Go to %4$s\" rel=\"gallery\">%5$s</a>"
+msgstr "Publicerat den <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> i <a href=\"%3$s\" title=\"Go to %4$s\" rel=\"gallery\">%5$s</a>"
+
+#: functions.php:854
+msgid "No Shadow"
+msgstr "Ingen skugga"
+
+#. translators: %s: The post title.
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En tanke på &ldquo;%s&rdquo;"
+
+#: functions.php:154
+msgid "Off-white"
+msgstr "Benvit"
+
+#: functions.php:149
+msgid "Beige"
+msgstr "Beige"
+
+#: functions.php:144
+msgid "Light Brown"
+msgstr "Ljusbrun"
+
+#: functions.php:139
+msgid "Medium Brown"
+msgstr "Mellanbrun"
+
+#: functions.php:134
+msgid "Dark Brown"
+msgstr "Mörkbrun"
+
+#: functions.php:129
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:124
+msgid "Yellow"
+msgstr "Gul"
+
+#: functions.php:119
+msgid "Light Orange"
+msgstr "Ljusorange"
+
+#: functions.php:114
+msgid "Medium Orange"
+msgstr "Mellanorange"
+
+#: functions.php:109
+msgid "Red"
+msgstr "Röd"
+
+#: functions.php:104
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#. Description of the theme
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "WordPress-temat för 2013 tar oss tillbaka till bloggandet med ett komplett urval av inläggsformat som alla visas på deras egna unika sätt. Det finns mängder av detaljer i temats design: en livfull färgpalett med matchande bilder för sidhuvudet, vacker typografi, genomtänkta ikoner, och en flexibel layout som ser fantastisk ut på små såväl som stora enheter."
+
+#. translators: %s: Post format name.
+#: taxonomy-post_format.php:26
+msgid "%s Archives"
+msgstr "Arkiv för %s"
+
+#. translators: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Etikettarkiv: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Stjärna"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Diamant"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Cirkel"
+
+#: image.php:64
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nästa <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:63
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Föregående"
+
+#: image.php:51
+msgid "Full resolution"
+msgstr "Full upplösning"
+
+#: image.php:50
+msgid "Link to full-size image"
+msgstr "Länk till bild i fullstorlek"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Meny"
+
+#. translators: %s: Post title.
+#: functions.php:541
+msgid "Permalink to %s"
+msgstr "Permalänk till %s"
+
+#. translators: 1: Post format name, 2: Date.
+#: functions.php:532
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s den %2$s"
+
+#. translators: %s: Author display name.
+#: functions.php:511
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:494
+#: functions.php:500
+msgid ", "
+msgstr ", "
+
+#: functions.php:486
+msgid "Sticky"
+msgstr "klistrad"
+
+#: functions.php:468
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:467
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:464
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: functions.php:437
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyare inlägg <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:433
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Äldre inlägg"
+
+#: functions.php:429
+msgid "Posts navigation"
+msgstr "Inläggsnavigering"
+
+#: functions.php:404
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Visas på inlägg och sidor i sidopanelen."
+
+#: functions.php:402
+msgid "Secondary Widget Area"
+msgstr "Sekundärt widgetområde"
+
+#: functions.php:392
+msgid "Appears in the footer section of the site."
+msgstr "Visas i sidfoten på webbplatsen."
+
+#: functions.php:390
+msgid "Main Widget Area"
+msgstr "Primärt widgetområde"
+
+#. translators: %s: Page number.
+#: functions.php:375
+msgid "Page %s"
+msgstr "Sida %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:242
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:236
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:202
+msgid "Navigation Menu"
+msgstr "Navigationsmeny"
+
+#. translators: %s: WordPress
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%s\">Kom igång här</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Visa alla % kommentarer"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "En kommentar än så länge"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:56
+#: page.php:51
+msgid "Edit"
+msgstr "Redigera"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:85
+#: page.php:41
+msgid "Pages:"
+msgstr "Sidor:"
+
+#. translators: %s: Post title.
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:655
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">→</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:22
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#. translators: %s: Author display name.
+#: author.php:34
+msgid "All posts by %s"
+msgstr "Alla inlägg av %s"
+
+#. translators: %s: Author display name.
+#: author-bio.php:37
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Visa alla inlägg av %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Author display name.
+#: author-bio.php:29
+msgid "About %s"
+msgstr "Om %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Arkiv"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Årsarkiv: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Dagsarkiv: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova en sökning?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Det här var ju lite pinsamt, inte sant?"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Hittades inte"

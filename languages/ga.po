@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:55:35+00:00\n"
+"PO-Revision-Date: 2020-01-29 17:08:11+0000\n"
+"Language: ga_IE\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:96
+msgid "Dark Gray"
+msgstr "Dúliath"
+
+#: functions.php:101
+msgid "Red"
+msgstr "Dearg"
+
+#: functions.php:116
+msgid "Yellow"
+msgstr "Buí"
+
+#: functions.php:121
+msgid "White"
+msgstr "Bán"
+
+#: inc/wpcom-colors.php:131
+msgid "Content links, Video, Audio"
+msgstr "Naisc inneachair, Físeáin, Fuaimeanna"
+
+#: inc/wpcom-colors.php:148
+msgid "Status"
+msgstr "Riocht"
+
+#: inc/wpcom-colors.php:104
+msgid "Quotes"
+msgstr "Athráite"
+
+#: inc/wpcom-colors.php:72
+msgid "Menu, Links, Asides"
+msgstr "Roghchlár, Naisc, Seachfhocla"
+
+#: inc/wpcom-colors.php:86
+msgid "Galleries"
+msgstr "Dánlanna"
+
+#: taxonomy-post_format.php:23
+msgid "%s Archives"
+msgstr "Cartlanna %s"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Cartlanna Clibe: %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Torthaí ar: %s"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Muileata"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Réalt"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Ciorcal"
+
+#: image.php:62
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Chun tosaigh <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:49
+msgid "Full resolution"
+msgstr "Lántaifeach"
+
+#: image.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Chun deiridh"
+
+#: image.php:29
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\">Foilsithe ar <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Ar ais chuig %4$s\" rel=\"gallery\">%5$s</a></span>"
+
+#: image.php:48
+msgid "Link to full-size image"
+msgstr "Nasc leis an íomhá lánmhéide"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Beir go dtí an t-alt féin mé"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Roghchlár"
+
+#: functions.php:525
+msgid "Permalink to %s"
+msgstr "Buan-nasc le %s"
+
+#: functions.php:517
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s ar %2$s"
+
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "Gach a bhfuil foilsithe ag %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:487
+msgid ", "
+msgstr ", "
+
+#: functions.php:455
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:473
+msgid "Sticky"
+msgstr "greamaithe"
+
+#: functions.php:454
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:451
+msgid "Post navigation"
+msgstr "Treoraíocht alt"
+
+#: functions.php:424
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Chun tosaigh <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:420
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Chun deiridh"
+
+#: functions.php:391
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Taispeáintear sa taobh-bharra ar ailt agus ar leathanaigh é."
+
+#: functions.php:416
+msgid "Posts navigation"
+msgstr "Treoraíocht alt"
+
+#: functions.php:389
+msgid "Secondary Widget Area"
+msgstr "Limistéar Giúirléidí Tánaisteach"
+
+#: functions.php:377
+msgid "Main Widget Area"
+msgstr "Príomhlimistéar Giúirléidí"
+
+#: functions.php:379
+msgid "Appears in the footer section of the site."
+msgstr "I mbuntásc an tsuímh a thaispeántar é."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:231
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:362
+msgid "Page %s"
+msgstr "Leathanach %s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:225
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:191
+msgid "Navigation Menu"
+msgstr "Roghchlár Treoraíochta"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "Le cumhacht %s"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sén chaoi nár frítheadh an rud a bhí tú a iarraidh. B’fhéidir go gcuartófá é."
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Sén chaoi nach raibh aon cheo ag teacht leis an méid a chuartaigh tú. B’fhéidir go dtraíálfá focla eile."
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "bhFuil tú réidh le halt a fhoilsiú? <a href=\"%1$s\">Féadfaidh tú tosaí anseo</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Gan Toradh"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "Aon fhreagra amháin go dtí seo"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Na freagraí go léir (%)"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Freagra"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:54
+#: page.php:51
+msgid "Edit"
+msgstr "Eagar"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:83
+#: page.php:41
+msgid "Pages:"
+msgstr "Leathanaigh:"
+
+#. translators: %s: Name of current post
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:639
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "An chuid eile de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Freagraí dúnta."
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Freagraí Nua &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Seanfhreagraí"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Treoraíocht freagartha"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Aon tuairim amháin ar “%2$s”"
+msgstr[1] "%1$s thuairim ar “%2$s”"
+msgstr[2] "%1$s thuairim ar “%2$s”"
+msgstr[3] "%1$s dtuairim ar “%2$s”"
+msgstr[4] "%1$s de thuairimí ar “%2$s”"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "Cartlanna Ranga: %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "Chuile Alt dár Scríobh %s"
+
+#: author-bio.php:30
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Féach chuile alt le %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: author-bio.php:26
+msgid "About %s"
+msgstr "Faoi %s"
+
+#: archive.php:36
+msgid "Archives"
+msgstr "Cartlanna"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Yearly Archives: %s"
+msgstr "Cartlanna Bliana: %s"
+
+#: archive.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:32
+msgid "Monthly Archives: %s"
+msgstr "Cartlanna Míosa: %s"
+
+#: archive.php:30
+msgid "Daily Archives: %s"
+msgstr "Cartlanna Lae: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sén chaoi nár fríothadh tada anseo. B’fhéidir go gcuartófá é?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Nach orainne atá an náire muis"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Diabhal Toradh"

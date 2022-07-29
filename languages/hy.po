@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:55:35+00:00\n"
+"PO-Revision-Date: 2019-05-26 11:44:18+0000\n"
+"Language: hy_AM\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:121
+msgid "White"
+msgstr "Սպիտակ "
+
+#: functions.php:116
+msgid "Yellow"
+msgstr "Դեղին"
+
+#: functions.php:101
+msgid "Red"
+msgstr "Կարմիր"
+
+#: inc/wpcom-colors.php:148
+msgid "Status"
+msgstr "Կարգավիճակ"
+
+#: inc/wpcom-colors.php:104
+msgid "Quotes"
+msgstr "Մեջբերումներ"
+
+#: inc/wpcom-colors.php:86
+msgid "Galleries"
+msgstr "Պատկերասրահներ"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentythirteen/style.css
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "WordPress-ի Երկու հազար տասներեք տեսաձևը մեզ հետ է բերում դեպի բլոգեր, աջակցելով գրառումների ձևաչափերի ամբողջական շարքը, ցուցադրելով ամեն մեկը գեղեցիկ և յուրահատուկ ձևով։ Այն լի է հատուկ ընտրած ձևավորման հատկություններով, սկսած կենսունակ գունային գամմայից և համապատասխանող էջագլխի պատկերներից, գեղեցիկ տպագրությունից և պատկերակներից, ինչպես նաև ճկուն դասավորությունով, որ հոյակապ է նայվում ցանկացած էկրանի վրա, լինի այն մեծ, թե փոքր։"
+
+#: taxonomy-post_format.php:23
+msgid "%s Archives"
+msgstr "%s պահոցներ"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Պիտակների պահոցները՝ %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s որոնման արդյունքները"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Աստղ"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Ադամանդ"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Կլորակ"
+
+#: image.php:62
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Հաջորդ <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Նախորդ"
+
+#: image.php:49
+msgid "Full resolution"
+msgstr "Ամբողջ լայնքով"
+
+#: image.php:48
+msgid "Link to full-size image"
+msgstr "Ամբողջական չափերով պատկերի հղումը"
+
+#: image.php:29
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\">Հրատարակված <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> <a href=\"%3$s\" title=\"Վերադառնալ %4$s\" rel=\"gallery\">%5$s-ում</a></span>"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Անցնել բովանդակությանը"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Ընտրացանկ"
+
+#: functions.php:525
+msgid "Permalink to %s"
+msgstr "%s-ի մշտական հղում"
+
+#: functions.php:517
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s՝ %2$s գրառման"
+
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "Դիտել %s-ի բոլոր գրառումները"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:487
+msgid ", "
+msgstr ", "
+
+#: functions.php:473
+msgid "Sticky"
+msgstr "Ամրակցված"
+
+#: functions.php:455
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:454
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:451
+msgid "Post navigation"
+msgstr "Գրառումների նավարկում"
+
+#: functions.php:424
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ավելի նոր գրառումներ <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:420
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ավելի հին գրառումներ"
+
+#: functions.php:416
+msgid "Posts navigation"
+msgstr "Գրառումների նավարկում"
+
+#: functions.php:391
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Ցուցադրվում է գրառումների և էջերի կողագոտում։"
+
+#: functions.php:389
+msgid "Secondary Widget Area"
+msgstr "Երկրորդային ցացանակների տարածություն"
+
+#: functions.php:379
+msgid "Appears in the footer section of the site."
+msgstr "Ցուցադրվում է կայքի էջատակում։"
+
+#: functions.php:377
+msgid "Main Widget Area"
+msgstr "Հիմնական ցուցանակների տարածություն"
+
+#: functions.php:362
+msgid "Page %s"
+msgstr "Էջ %s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:231
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:225
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:191
+msgid "Navigation Menu"
+msgstr "Նավարկման ընտրացանկ"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "Հպարտությամբ օժանդակվում է %s -ով"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Կարծես թե մենք չենք գտնում ձեր փնտրածը։ Միգուցե փորձեք ա՞յլ բան որոնել։"
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Ցավոք, ձեր որոնման հարցումով ոչինչ չի գտնվել։ Փորձեք որոնել այլ հիմնաբառերով։"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Պատրա՞ստ եք հրատարակել առաջին գրառումը։ <a href=\"%1$s\">Գնացի՛նք</a>։"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Ոչինչ չի գտնվել"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Դիտել % բոլոր մեկնաբանությունները"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "Դեռ ընդամենը մեկ մեկնաբանություն"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Թողնել մեկնաբանություն"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:54
+#: page.php:51
+msgid "Edit"
+msgstr "Խմբագրել"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:83
+#: page.php:41
+msgid "Pages:"
+msgstr "Էջեր՝"
+
+#. translators: %s: Name of current post
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:639
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Շարունակել կարդալ %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Մեկնաբանությունները փակված են։"
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Ավելի նոր մեկնաբանություններ &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Ավելի հին մեկնաբանություններ"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Մեկնաբանությունների նավարկումը"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Մեկ կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+msgstr[1] "%1$s կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "Կարգերով պահոցներ՝ %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "%s-ի բոլոր գրառումները"
+
+#: author-bio.php:30
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Դիտել %s-ի բոլոր գրառումները <span class=\"meta-nav\">&rarr;</span>"
+
+#: author-bio.php:26
+msgid "About %s"
+msgstr "%s-ի մասին"
+
+#: archive.php:36
+msgid "Archives"
+msgstr "Պահոցներ"
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Yearly Archives: %s"
+msgstr "Տարեկան պահոցներ՝ %s"
+
+#: archive.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:32
+msgid "Monthly Archives: %s"
+msgstr "Ամսական պահոցներ՝ %s"
+
+#: archive.php:30
+msgid "Daily Archives: %s"
+msgstr "Օրական պահոցներ՝ %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Այս հասցեով ոչինչ չի գտնվել։ Փորձեք օգտվել որոնման համակարգից։"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Սա մի քիչ ջղայնացնող է, չէ՞"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Չի գտնվել"

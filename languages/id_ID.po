@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:56:17+00:00\n"
+"PO-Revision-Date: 2021-01-08 01:45:54+0000\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: The post title.
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Satu komentar pada &ldquo;%s&rdquo;"
+
+#: functions.php:97
+msgid "Dark Gray"
+msgstr "Abu-abu gelap"
+
+#: functions.php:102
+msgid "Red"
+msgstr "Merah"
+
+#: functions.php:117
+msgid "Yellow"
+msgstr "Kuning"
+
+#: functions.php:122
+msgid "White"
+msgstr "Putih"
+
+#: inc/wpcom-colors.php:131
+msgid "Content links, Video, Audio"
+msgstr "Tautan Konten, Video, Audio"
+
+#: inc/wpcom-colors.php:148
+msgid "Status"
+msgstr "Status"
+
+#: inc/wpcom-colors.php:104
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: inc/wpcom-colors.php:72
+msgid "Menu, Links, Asides"
+msgstr "Menu, Tautan, Postingan Singkat"
+
+#: inc/wpcom-colors.php:86
+msgid "Galleries"
+msgstr "Galeri"
+
+#. translators: %s: Post format name.
+#: taxonomy-post_format.php:26
+msgid "%s Archives"
+msgstr "%s Arsip"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentythirteen/style.css
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "Tema WordPress 2013 ini mengembalikan kita ke blog, dengan jajaran format tulisan, yang masing-masing ditampilkan secara apik dalam keunikannya. Di sisi kelengkapan desain, mulai dari skema warna yang cerah dan gambar tajuk yang sesuai, ikon dan tipografi yang cantik, dan tata letak fleksibel yang tampil sempurna di perangkat apa pun, baik besar ataupun kecil."
+
+#. translators: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Arsip Tag: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Intan"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Bintang"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: image.php:63
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Selanjutnya <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:50
+msgid "Full resolution"
+msgstr "Resolusi penuh"
+
+#: image.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Sebelumnya"
+
+#: image.php:49
+msgid "Link to full-size image"
+msgstr "Taut ke gambar ukuran-penuh"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: %s: Post title.
+#: functions.php:534
+msgid "Permalink to %s"
+msgstr "Taut permanen ke %s"
+
+#. translators: 1: Post format name, 2: Date.
+#: functions.php:525
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s pada %2$s"
+
+#. translators: %s: Author display name.
+#: functions.php:504
+msgid "View all posts by %s"
+msgstr "Lihat semua tulisan milik %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:487
+#: functions.php:493
+msgid ", "
+msgstr ", "
+
+#: functions.php:461
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:479
+msgid "Sticky"
+msgstr "lengket"
+
+#: functions.php:460
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:457
+msgid "Post navigation"
+msgstr "Navigasi tulisan"
+
+#: functions.php:430
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tulisan selanjutnya <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:426
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Tulisan sebelumnya"
+
+#: functions.php:397
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Muncul pada tulisan dan halaman di bilah sisi."
+
+#: functions.php:422
+msgid "Posts navigation"
+msgstr "Navigasi tulisan"
+
+#: functions.php:395
+msgid "Secondary Widget Area"
+msgstr "Area Widget Sekunder"
+
+#: functions.php:383
+msgid "Main Widget Area"
+msgstr "Area Widget Utama"
+
+#: functions.php:385
+msgid "Appears in the footer section of the site."
+msgstr "Muncul di bagian kaki dari situs."
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:235
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: %s: Page number.
+#: functions.php:368
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:229
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:195
+msgid "Navigation Menu"
+msgstr "Menu Navigasi"
+
+#. translators: %s: WordPress
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga ditenagai oleh %s"
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Maaf, belum ada yang cocok dengan istilah pencarian Anda. Silahkan coba lagi dengan istilah lain."
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Tidak Menemukan Apa-apa"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "Baru satu komentar saja"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Lihat seluruh % komentar"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Tinggalkan komentar"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:55
+#: page.php:51
+msgid "Edit"
+msgstr "Edit"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:84
+#: page.php:41
+msgid "Pages:"
+msgstr "Halaman:"
+
+#. translators: %s: Post title.
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:648
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lanjutkan membaca %s <span class=\"meta-nav\">→</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Selanjutnya &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Sebelumnya"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:22
+msgid "Category Archives: %s"
+msgstr "Arsip Kategori: %s"
+
+#. translators: %s: Author display name.
+#: author.php:34
+msgid "All posts by %s"
+msgstr "Semua tulisan dari %s"
+
+#. translators: %s: Author display name.
+#: author-bio.php:37
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lihat semua tulisan dari %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Author display name.
+#: author-bio.php:29
+msgid "About %s"
+msgstr "Tentang %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Arsip"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Arsip Tahunan: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Arsip Bulanan: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Arsip Harian: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sepertinya tidak ada apa pun di sini. Mungkin mau coba pencarian?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Maaf, agak mengecewakan ya?"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Tidak ditemukan"

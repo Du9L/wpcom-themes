@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Thirteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-11-19T03:19:03+00:00\n"
+"PO-Revision-Date: 2021-11-18 15:25:04+0000\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: The post title.
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Eén gedachte over &ldquo;%s&rdquo;"
+
+#: functions.php:132
+msgid "Medium Brown"
+msgstr "Midden bruin"
+
+#: functions.php:127
+msgid "Dark Brown"
+msgstr "Donkerbruin"
+
+#: functions.php:122
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:117
+msgid "Yellow"
+msgstr "Geel"
+
+#: functions.php:102
+msgid "Red"
+msgstr "Rood"
+
+#: functions.php:97
+msgid "Dark Gray"
+msgstr "Donkergrijs"
+
+#. Description of the theme
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "Het 2013 thema voor WordPress neemt ons terug naar de blog met alle post formats actief en elke post format wordt op een eigen unieke en prachtige manier getoond. Design details zijn er ten overvloed beginnend met een hoog-contrastkleuren schema en bijpassende header afbeeldingen, prachtige typografie en iconen verpakt in een flexibele layout die op elk device fantastisch toont; groot of klein."
+
+#. translators: %s: Post format name.
+#: taxonomy-post_format.php:26
+msgid "%s Archives"
+msgstr "%s Archieven"
+
+#. translators: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Tagarchief: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Ster"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Diamant"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Cirkel"
+
+#: image.php:63
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Volgende <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vorige"
+
+#: image.php:50
+msgid "Full resolution"
+msgstr "Volledige resolutie"
+
+#: image.php:49
+msgid "Link to full-size image"
+msgstr "Link naar afbeelding op ware grootte"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: %s: Post title.
+#: functions.php:534
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#. translators: 1: Post format name, 2: Date.
+#: functions.php:525
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s op %2$s"
+
+#. translators: %s: Author display name.
+#: functions.php:504
+msgid "View all posts by %s"
+msgstr "Bekijk alle berichten van %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:487
+#: functions.php:493
+msgid ", "
+msgstr ", "
+
+#: functions.php:479
+msgid "Sticky"
+msgstr "Plakker"
+
+#: functions.php:461
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:460
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:457
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: functions.php:430
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:426
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#: functions.php:422
+msgid "Posts navigation"
+msgstr "Berichtennavigatie"
+
+#: functions.php:397
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Wordt weergeven op berichten en in de zijbalk van pagina's."
+
+#: functions.php:395
+msgid "Secondary Widget Area"
+msgstr "Secundaire widgetruimte"
+
+#: functions.php:385
+msgid "Appears in the footer section of the site."
+msgstr "Verschijnt in het footer gedeelte van de site."
+
+#: functions.php:383
+msgid "Main Widget Area"
+msgstr "Hoofd widgetgebied"
+
+#. translators: %s: Page number.
+#: functions.php:368
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:235
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "aan"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:229
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:195
+msgid "Navigation Menu"
+msgstr "Navigatiemenu"
+
+#. translators: %s: WordPress
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Met trots ondersteund door %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien kan zoeken helpen."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Helaas, er kwam niets overeen met de zoektermen. Probeer het opnieuw met andere zoekwoorden."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%s\">Begin hier</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "View all % comments"
+msgstr "Bekijk alle % reacties"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "One comment so far"
+msgstr "Een reactie tot dusverre"
+
+#: content-gallery.php:52
+#: content-image.php:48
+#: content-quote.php:38
+#: content-video.php:48
+#: content.php:65
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: content-aside.php:36
+#: content-aside.php:44
+#: content-audio.php:47
+#: content-chat.php:45
+#: content-gallery.php:55
+#: content-image.php:51
+#: content-link.php:19
+#: content-quote.php:41
+#: content-status.php:35
+#: content-video.php:51
+#: content.php:31
+#: image.php:55
+#: page.php:51
+msgid "Edit"
+msgstr "Bewerken"
+
+#: content-aside.php:24
+#: content-audio.php:35
+#: content-chat.php:34
+#: content-gallery.php:35
+#: content-image.php:34
+#: content-link.php:35
+#: content-quote.php:24
+#: content-status.php:24
+#: content-video.php:34
+#: content.php:52
+#: image.php:84
+#: page.php:41
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#. translators: %s: Post title.
+#: content-aside.php:17
+#: content-audio.php:28
+#: content-chat.php:27
+#: content-gallery.php:28
+#: content-image.php:27
+#: content-link.php:28
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:27
+#: content.php:45
+#: functions.php:648
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwe reacties &rarr;"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:22
+msgid "Category Archives: %s"
+msgstr "Categorie archief: %s"
+
+#. translators: %s: Author display name.
+#: author.php:34
+msgid "All posts by %s"
+msgstr "Alle berichten door %s"
+
+#. translators: %s: Author display name.
+#: author-bio.php:37
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bekijk alle berichten van %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Author display name.
+#: author-bio.php:29
+msgid "About %s"
+msgstr "Over %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archief"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks archief: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks archief: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Dagelijks archief: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets werd gevonden op deze locatie. Misschien een zoekopdracht  proberen?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Helaas."
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Niet gevonden"
