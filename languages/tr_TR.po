@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twentynineteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:52:35+00:00\n"
+"PO-Revision-Date: 2020-04-04 02:35:23+0000\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:158
+msgid "Dark Blue"
+msgstr "Lacivert"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+msgstr "Yorumunuz denetim bekliyor. Bu bir önizlemedir, yorumunuz onaylandıktan sonra görünür olacaktır."
+
+#: functions.php:153
+msgid "Blue"
+msgstr "Mavi"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "the WordPress team"
+msgstr "WordPress ekibi"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\"> \"%s\"</span> okumaya devam et"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Üst Menü"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "%s tarafından yayımlandı"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Yorum yapılmamış"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d yorum"
+msgstr[1] "%d yorum"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Daha fazla yazı görüntüle"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Önceki yazı:"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunmadı"
+
+#. translators: 1: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Öne çıkan"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Daha eski yazılar"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Sonraki Yazı"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Sıradaki Yazı:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Önceki Yazı"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Arama sonuçları:"
+
+#. translators: 1: SVG icon. 2: Posted in label, only visible to screen
+#. readers. 3: List of categories.
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Yazı kategorisi "
+
+#. translators: 1: SVG icon. 2: Posted in label, only visible to screen
+#. readers. 3: List of tags.
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Daha yeni yazılar"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:120
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Düzenle <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Günlük Arşivler:"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Arşivler"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Daha fazla"
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Geri"
+
+#. translators: 1: SVG icon. 2: Post author, only visible to screen readers. 3:
+#. Author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Yazan:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s için</span> bir yorum bırak"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s arşivleri:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Yazı tipi arşivleri:. "
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Birincil Renk"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Yıllık Arşivler:"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Aylık Arşivler:"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">içinde yayınlandı</span><br><span class=\"post-title\">%title</span>"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:40
+#: inc/back-compat.php:55
+#: inc/back-compat.php:76
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Yirmi Ondokuz en az WordPress 4.7 sürümünü gerektirir. Siz %s sürümünü kullanıyorsunuz. Lütfen güncelleyin ve tekrar deneyin."
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Birincil rengi kullanarak öne çıkan görsellere filtre uygulayın"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Tuşlar, bağlantılar, öne çıkan görseller vb. özel bir renk uygulayın."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Özel"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Yazar arşivleri: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Etiket arşivleri: "
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Kategori arşivleri"
+
+#: image.php:56
+msgid "Page"
+msgstr "Sayfa"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Tam boyut"
+
+#: functions.php:195
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Alt Kısım"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "İçeriğe atla"
+
+#: image.php:52
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: functions.php:197
+msgid "Add widgets here to appear in your footer."
+msgstr "Alt alanda gözükmek üzere buraya bileşenler ekleyin."
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Olağan"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Büyük"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "Kocaman"
+
+#: functions.php:173
+msgid "White"
+msgstr "Beyaz"
+
+#: functions.php:168
+msgid "Light Gray"
+msgstr "Açık gri"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "Koyu gri"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:118
+msgid "S"
+msgstr "C"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "%s altyapısını gururla kullanmaktadır. "
+
+#: footer.php:37
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Sayfa alt bölüm menüsü"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Birincil"
+
+#: functions.php:61
+#: template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "Sosyal bağlantılar menüsü"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Küçük"
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#. #-#-#-#-#  twentynineteen.pot (Twenty Nineteen 1.5-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:92
+#: comments.php:95
+#: comments.php:96
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Önceki"
+
+#: comments.php:96
+msgid "Next"
+msgstr "Sonraki"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için %1$s yanıt"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yanıt"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; için bir yanıt"
+
+#: comments.php:35
+#: comments.php:105
+#: comments.php:107
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Sohbete katılın"
+
+#: classes/class-twentynineteen-walker-comment.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim için bekliyor."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Burada bir şey bulamadık. Bir de aramayı denemek ister misiniz?"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:79
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: classes/class-twentynineteen-walker-comment.php:87
+msgid "Edit"
+msgstr "Düzenle"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">diyor ki:</span>"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."
