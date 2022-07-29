@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fourteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:52:15+00:00\n"
+"PO-Revision-Date: 2018-11-27 01:32:58+0000\n"
+"Language: hy_AM\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:110
+msgid "White"
+msgstr "Սպիտակ "
+
+#: functions.php:90
+msgid "Black"
+msgstr "Սև"
+
+#: functions.php:85
+msgid "Green"
+msgstr "Կանաչ"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Մեկ կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+msgstr[1] "%1$s կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+
+#: inc/wpcom-colors.php:6
+msgid "Background Color"
+msgstr "Խորքի գույնը"
+
+#. translators: %s: Name of current post
+#: content-aside.php:48
+#: content-audio.php:48
+#: content-gallery.php:48
+#: content-image.php:48
+#: content-link.php:48
+#: content-quote.php:48
+#: content-video.php:48
+#: content.php:56
+#: inc/template-tags.php:222
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Շարունակել կարդալ %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer.php:44
+#: inc/customizer.php:45
+msgid "May only be visible on wide screens."
+msgstr "Տեսանելի է միայն լայն էկրանների վրա։"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/page-templates/full-width.php
+msgid "Full Width Page"
+msgstr "Ամբողջ լայնքով էջ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/page-templates/contributors.php
+msgid "Contributor Page"
+msgstr "Մասնակիցների էջ"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/style.css
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "Երկու հազար տասնչորս թվականի լռելյան տեսաձևը ձեզ թույլ է տալիս ստեղծել հարմարեցվող և ժամականակաից ձևավորումով ամսագրային կայք։ Ցուցադրեք գլխավոր էջում ձեր ընտրյալ գրառումները՝ ցանցավորման կամ սահիչի տեսքով։ Օգտագործեք ցուցականկերի համար հատկացված երեք տարածություն՝ ձեր կայքը կազմաձևելու համար։ Փոխեք ձեր բովանդակության դասավորությունը՝ ամբողջ լայնքով ձևանմուշի օգնությամբ, և ցուցադրեք ձեր կայքի բոլոր հեղինակներին աջակցողների էջում։ WordPress-ում ամսագրի կայք ստեղծելը հիմա ավելի հեշտ է, քան երբևէ։"
+
+#: tag.php:22
+msgid "Tag Archives: %s"
+msgstr "Պիտակների պահոցները՝ %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s որոնման արդյունքները"
+
+#: inc/widgets.php:283
+msgid "Post format to show:"
+msgstr "Գրառումները ցուցադրելու ձևաչափը՝"
+
+#: inc/widgets.php:280
+msgid "Number of posts to show:"
+msgstr "Ցուցադրելու գրառումների քանակը՝"
+
+#: inc/widgets.php:277
+msgid "Title:"
+msgstr "Վերնագիր՝"
+
+#. translators: used with More archives link
+#: inc/widgets.php:228
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/widgets.php:184
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "Այս պատկերասրահում առկա է <a href=\"%1$s\" rel=\"bookmark\">%2$s նկար</a>։"
+msgstr[1] "Այս պատկերասրահում առկա է <a href=\"%1$s\" rel=\"bookmark\">%2$s նկար</a>։"
+
+#: inc/widgets.php:102
+msgid "More asides"
+msgstr "Այլ նշումներ"
+
+#: inc/widgets.php:101
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "Նշումներ"
+
+#: inc/widgets.php:97
+msgid "More galleries"
+msgstr "Այլ պատկերասրահներ"
+
+#: inc/widgets.php:96
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "Պատկերասրահներ"
+
+#: inc/widgets.php:93
+msgid "More links"
+msgstr "Այլ հղումներ"
+
+#: inc/widgets.php:92
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr "Հղումներ"
+
+#: inc/widgets.php:89
+msgid "More quotes"
+msgstr "Այլ մեջբերումներ"
+
+#: inc/widgets.php:88
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "Մեջբերումներ"
+
+#: inc/widgets.php:85
+msgid "More audio"
+msgstr "Այլ ձայնանյութեր"
+
+#: inc/widgets.php:84
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "Ձայնանյութեր"
+
+#: inc/widgets.php:81
+msgid "More videos"
+msgstr "Այլ տեսանյութեր"
+
+#: inc/widgets.php:80
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "Տեսանյութեր"
+
+#: inc/widgets.php:77
+msgid "More images"
+msgstr "Այլ պատկերներ"
+
+#: inc/widgets.php:76
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr "Պատկերներ"
+
+#: inc/widgets.php:36
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "Օգտագործեք այս ցուցանակը՝ ձեր վերջին նշումները, մեջբերումները, մեդիա ֆայլերը, պատկերասրահները և հղումները ցուցադրելու համար։"
+
+#: inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr "Երկու հազար տասնչորսի անցողիկը"
+
+#: inc/template-tags.php:109
+msgid "Sticky"
+msgstr "Ամրակցված"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Հաջորդ գրառում</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Նախորդ գրառում</span>%title"
+
+#: inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Հրատարակված</span>%title"
+
+#: inc/template-tags.php:85
+msgid "Post navigation"
+msgstr "Գրառումների նավարկում"
+
+#: inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr "Գրառումների նավարկում"
+
+#: inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr "Հաջորդ &rarr;"
+
+#: inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr "&larr; Նախորդ"
+
+#: inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Չցուցադրել պիտակը կայքի ճակատային մասում"
+
+#: inc/featured-content.php:426
+msgid "Tag Name"
+msgstr "Պիտակի անունը"
+
+#: inc/customizer.php:147
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "Մանրակրկիտ ուղեցույցի և հավելյալ խորհուրդների և հուշումների համար այցելեք <a href=\"%s\">Երկու հազար տասնչորս տեսաձևի կայքէջ</a>։"
+
+#: inc/customizer.php:146
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "Գեղեցկացրեք ձեր կայքը <a href=\"%s\">ընտրյալի մանրապատկերների</a> օգնությամբ։ Այս հատկությունը ձեզ թույլ է տալիս համակցել պատկերը ձեր գրառման հետ՝ առանց այն դրա մեջ զետեղելու։ Երկու հազար տասնչորս տեսաձևը ցուցադրում է այդ մանրապատկերները վերնագրից բարձր ցուցադրվող գրառումներում և էջերում, ինչպես նաև գլխավոր էջի &laquo;Ընտրյալ&raquo; բաժնում։"
+
+#: inc/customizer.php:145
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "Գլխավոր էջում հնարավոր է ցանցավորման կամ սահիչի տեսքով ցուցադրել մինչև 6 ընտրյալ գրառում, որոնք նշված էն <a href=\"%1$s\">պիտակով</a>։ Դուք կարող եք փոխել պիտակը և դասավորությունը <a href=\"%2$s\">Արտաքին տեսք &rarr; Կազմաձևել</a> վահանում։ Եթե այդ պիտակով ոչ մի գրառում չգտնվի, դրանց փոխարեն կցուցադրվեն <a href=\"%3$s\">կպչուն գրառումները</a>։"
+
+#: inc/customizer.php:74
+msgid "Slider"
+msgstr "Սահիչ"
+
+#: inc/customizer.php:73
+msgid "Grid"
+msgstr "Ցանցավոր"
+
+#: inc/customizer.php:69
+msgid "Layout"
+msgstr "Դասավորություն"
+
+#: inc/customizer.php:55
+#: inc/customizer.php:145
+#: inc/featured-content.php:405
+#: inc/featured-content.php:414
+#: inc/featured-content.php:474
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "featured"
+
+#: inc/customizer.php:54
+#: inc/featured-content.php:404
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Օգտագործեք <a href=\"%1$s\">պիտակը</a>՝ ձեր գրառումները որպես ընտրյալ նշելու համար։ Եթե այդ պիտակով ոչ մի գրառում չգտնվի, դրանց փոխարեն կցուցադրվեն <a href=\"%2$s\">կպչուն գրառումները</a>։"
+
+#: inc/customizer.php:53
+#: inc/featured-content.php:403
+msgid "Featured Content"
+msgstr "Ընտրյալ բովանդակությունը"
+
+#: inc/customizer.php:40
+msgid "Display Site Title &amp; Tagline"
+msgstr "Ցուցադրել կայքի վերնագիրը և կարճ նկարագրությունը"
+
+#: inc/customizer.php:37
+msgid "Site Title Color"
+msgstr "Կայքի վերնագրի գույնը"
+
+#: inc/customizer.php:47
+#: inc/customizer.php:48
+msgid "Background may only be visible on wide screens."
+msgstr "Խորապատկերը տեսանելի է միայն լայն էկրանների վրա։"
+
+#: inc/back-compat.php:37
+#: inc/back-compat.php:47
+#: inc/back-compat.php:60
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Երկու հազար տասչորս տեսաձևը պահանջում է WordPress-ի առնվազն 3.6 տարբերակը։ Ձեր ընթացիկ տարբերակն է՝ %s։ Խնդրում ենք արդիացնել և կրկին փորձել։ "
+
+#: image.php:69
+msgid "Next Image"
+msgstr "Հաջորդ պատկեր"
+
+#: image.php:68
+msgid "Previous Image"
+msgstr "Նախորդ պատկեր"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Անցնել բովանդակությանը"
+
+#: header.php:52
+msgid "Primary Menu"
+msgstr "Հիմնական ընտրացանկ"
+
+#: header.php:48
+msgid "Search"
+msgstr "Որոնում"
+
+#: functions.php:584
+msgid "Page %s"
+msgstr "Էջ %s"
+
+#: functions.php:465
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d հոդված"
+msgstr[1] "%d հոդված"
+
+#: functions.php:308
+msgid "Next"
+msgstr "Հաջորդ"
+
+#: functions.php:307
+msgid "Previous"
+msgstr "Նախորդ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:259
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:237
+msgid "Appears in the footer section of the site."
+msgstr "Ցուցադրվում է կայքի էջատակում։"
+
+#: functions.php:235
+msgid "Footer Widget Area"
+msgstr "Էջատակի ցուցանակների տարածությունը"
+
+#: functions.php:228
+msgid "Additional sidebar that appears on the right."
+msgstr "Հավելյալ կողագոտի, որը ցուցադրվում է աջից։"
+
+#: functions.php:226
+msgid "Content Sidebar"
+msgstr "Բովանդակության կողագոտին"
+
+#: functions.php:219
+msgid "Main sidebar that appears on the left."
+msgstr "Հիմնական կողագոտի, որը ցուցադրվում է ձախից։"
+
+#: functions.php:217
+msgid "Primary Sidebar"
+msgstr "Հիմնական կողագոտի"
+
+#: functions.php:127
+msgid "Secondary menu in left sidebar"
+msgstr "Հավելյալ ընտրացանկ՝ ձախ կողագոտում"
+
+#: functions.php:126
+msgid "Top primary menu"
+msgstr "Վերևի հիմնական ընտրացանկը"
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Հպարտությամբ օժանդակվում է %s -ով"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Կարծես թե մենք չենք գտնում ձեր փնտրածը։ Միգուցե փորձեք ա՞յլ բան որոնել։"
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ցավոք, ձեր որոնման հարցումով ոչինչ չի գտնվել։ Փորձեք որոնել այլ հիմնաբառերով։"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Պատրա՞ստ եք հրատարակել առաջին գրառումը։ <a href=\"%1$s\">Գնացի՛նք</a>։"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Ոչինչ չի գտնվել"
+
+#: content-aside.php:53
+#: content-audio.php:53
+#: content-gallery.php:53
+#: content-image.php:53
+#: content-link.php:53
+#: content-page.php:22
+#: content-quote.php:53
+#: content-video.php:53
+#: content.php:61
+#: image.php:56
+msgid "Pages:"
+msgstr "Էջեր՝"
+
+#: inc/widgets.php:149
+#: inc/widgets.php:194
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Շարունակել կարդալ <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40
+#: content-audio.php:40
+#: content-gallery.php:40
+#: content-image.php:40
+#: content-link.php:40
+#: content-page.php:28
+#: content-quote.php:40
+#: content-video.php:40
+#: content.php:42
+#: image.php:36
+#: page-templates/contributors.php:35
+msgid "Edit"
+msgstr "Խմբագրել"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:38
+#: inc/widgets.php:216
+msgid "% Comments"
+msgstr "Մեկնաբանություններ (%)"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:38
+#: inc/widgets.php:216
+msgid "1 Comment"
+msgstr "1 մեկնաբանություն"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:38
+#: inc/widgets.php:216
+msgid "Leave a comment"
+msgstr "Թողնել մեկնաբանություն"
+
+#: content-aside.php:17
+#: content-audio.php:17
+#: content-featured-post.php:28
+#: content-gallery.php:17
+#: content-image.php:17
+#: content-link.php:17
+#: content-quote.php:17
+#: content-video.php:17
+#: content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Մեկնաբանությունները փակված են։"
+
+#: comments.php:52
+#: comments.php:70
+msgid "Newer Comments &rarr;"
+msgstr "Ավելի նոր մեկնաբանություններ &rarr;"
+
+#: comments.php:51
+#: comments.php:69
+msgid "&larr; Older Comments"
+msgstr "&larr; Ավելի հին մեկնաբանություններ"
+
+#: comments.php:50
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Մեկնաբանությունների նավարկումը"
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "Կարգերով պահոցներ՝ %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "%s-ի բոլոր գրառումները"
+
+#: archive.php:40
+#: taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "Պահոցներ"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Տարեկան պահոցներ՝ %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Ամսական պահոցներ՝ %s"
+
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Օրական պահոցներ՝ %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Այս հասցեով ոչինչ չի գտնվել։ Փորձեք օգտվել որոնման համակարգից։"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Չի գտնվել"

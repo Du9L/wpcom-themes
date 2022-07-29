@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fourteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:52:15+00:00\n"
+"PO-Revision-Date: 2020-01-29 17:08:11+0000\n"
+"Language: ga_IE\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:90
+msgid "Black"
+msgstr "Dubh"
+
+#: functions.php:95
+msgid "Dark Gray"
+msgstr "Dúliath"
+
+#: functions.php:110
+msgid "White"
+msgstr "Bán"
+
+#: functions.php:85
+msgid "Green"
+msgstr "Uaine"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Aon tuairim amháin ar “%2$s”"
+msgstr[1] "%1$s thuairim ar “%2$s”"
+msgstr[2] "%1$s thuairim ar “%2$s”"
+msgstr[3] "%1$s dtuairim ar “%2$s”"
+msgstr[4] "%1$s de thuairimí ar “%2$s”"
+
+#: inc/wpcom-colors.php:168
+msgid "Accent Color One"
+msgstr "Dath Béimnithe a hAon"
+
+#: inc/wpcom-colors.php:267
+msgid "Accent Color Two"
+msgstr "Dath Béimnithe a Dó"
+
+#: inc/wpcom-colors.php:427
+msgid "Accent Color Three"
+msgstr "Dath Béimnithe a Trí"
+
+#: inc/wpcom-colors.php:6
+msgid "Background Color"
+msgstr "Dath Cúil"
+
+#. translators: %s: Name of current post
+#: content-aside.php:48
+#: content-audio.php:48
+#: content-gallery.php:48
+#: content-image.php:48
+#: content-link.php:48
+#: content-quote.php:48
+#: content-video.php:48
+#: content.php:56
+#: inc/template-tags.php:222
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "An chuid eile de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer.php:44
+#: inc/customizer.php:45
+msgid "May only be visible on wide screens."
+msgstr "Tharlódh nach dtaispeánfaí é ach ar scáileán leathan."
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/page-templates/full-width.php
+msgid "Full Width Page"
+msgstr "Leathanach Lánleithid"
+
+#: tag.php:22
+msgid "Tag Archives: %s"
+msgstr "Cartlanna Clibe: %s"
+
+#: inc/widgets.php:283
+msgid "Post format to show:"
+msgstr "Cineál ailt a thaispeánfar:"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Torthaí ar: %s"
+
+#: inc/widgets.php:280
+msgid "Number of posts to show:"
+msgstr "Líon altanna a thaispeánfar:"
+
+#: inc/widgets.php:184
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "Tá <a href=\"%1$s\" rel=\"bookmark\">%2$s phictiúr amháin</a> sa dánlann seo."
+msgstr[1] "Tá <a href=\"%1$s\" rel=\"bookmark\">%2$s phictiúr</a> sa dánlann seo."
+msgstr[2] "Tá <a href=\"%1$s\" rel=\"bookmark\">%2$s phictiúr</a> sa dánlann seo."
+msgstr[3] "Tá <a href=\"%1$s\" rel=\"bookmark\">%2$s bpictiúr</a> sa dánlann seo."
+msgstr[4] "Tá <a href=\"%1$s\" rel=\"bookmark\">%2$s (b)p(h)ictiúr</a> sa dánlann seo."
+
+#. translators: used with More archives link
+#: inc/widgets.php:228
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/widgets.php:277
+msgid "Title:"
+msgstr "Teideal:"
+
+#: inc/widgets.php:102
+msgid "More asides"
+msgstr "Seachfhocla Eile"
+
+#: inc/widgets.php:101
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "Seachfhocla"
+
+#: inc/widgets.php:97
+msgid "More galleries"
+msgstr "Dánlanna Eile"
+
+#: inc/widgets.php:93
+msgid "More links"
+msgstr "Tuilleadh Nasc"
+
+#: inc/widgets.php:96
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "Dánlanna"
+
+#: inc/widgets.php:92
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr "Naisc"
+
+#: inc/widgets.php:89
+msgid "More quotes"
+msgstr "Tuilleadh Sleachta"
+
+#: inc/widgets.php:85
+msgid "More audio"
+msgstr "Closmheáin eile"
+
+#: inc/widgets.php:88
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "Athfhriotail"
+
+#: inc/widgets.php:84
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "Fuaim"
+
+#: inc/widgets.php:81
+msgid "More videos"
+msgstr "Tuilleadh Físeán"
+
+#: inc/widgets.php:77
+msgid "More images"
+msgstr "Tuilleadh íomhánna"
+
+#: inc/widgets.php:80
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "Físeáin"
+
+#: inc/widgets.php:76
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr "Íomhánna"
+
+#: inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr "Ephemera Twenty Fourteen"
+
+#: inc/widgets.php:36
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "Féadfaidh tú liosta Seachfhocla, Sleachta, Físeán, Fuaimeanna, Íomhánna, Dánlann, agus Nasc nuafhoilsithe a thaispeáint sa ngiúirléid seo."
+
+#: inc/template-tags.php:109
+msgid "Sticky"
+msgstr "greamaithe"
+
+#: inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Ranganna:</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Siar</span>%title"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Aniar</span>%title"
+
+#: inc/template-tags.php:85
+msgid "Post navigation"
+msgstr "Treoraíocht alt"
+
+#: inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr "Treoraíocht alt"
+
+#: inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr "Ar aghaidh &rarr;"
+
+#: inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr "&larr; Chun Deiridh"
+
+#: inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Gan an chlib a thaispeáint ar tosach i gcónaí."
+
+#: inc/customizer.php:147
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "Féach an <a href=\"%s\">cháipéisíocht a bhaineas le Twenty Fourteen</a> áit a bhfaighidh tú miontreoir, dea-chomhairle, agus cleasanna fóinteacha."
+
+#: inc/featured-content.php:426
+msgid "Tag Name"
+msgstr "Ainm clibe"
+
+#: inc/customizer.php:74
+msgid "Slider"
+msgstr "Taispeántas Sleamhnán"
+
+#: inc/customizer.php:73
+msgid "Grid"
+msgstr "Eangach"
+
+#: inc/customizer.php:54
+#: inc/featured-content.php:404
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Socraigh <a href=\"%1$s\">clib</a> leis na hailt a bhfuil an chlib sin leo a chur in airde. Mara bhfuil an chlib sin ag gabháil le halt ar bith, <a href=\"%2$s\">ailt ghreamaithe</a> a thaispeánfar ina leaba."
+
+#: inc/customizer.php:55
+#: inc/customizer.php:145
+#: inc/featured-content.php:405
+#: inc/featured-content.php:414
+#: inc/featured-content.php:474
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "ardaithe"
+
+#: inc/customizer.php:69
+msgid "Layout"
+msgstr "Leagan Amach"
+
+#: inc/customizer.php:53
+#: inc/featured-content.php:403
+msgid "Featured Content"
+msgstr "Scéalta in Airde"
+
+#: inc/customizer.php:47
+#: inc/customizer.php:48
+msgid "Background may only be visible on wide screens."
+msgstr "D’fhéadfadh sé nach dtaispeánfaí an cúlra ar fad ach ar scáileáin leathana."
+
+#: inc/customizer.php:37
+msgid "Site Title Color"
+msgstr "Dath Theideal an tSuímh"
+
+#: inc/customizer.php:40
+msgid "Display Site Title &amp; Tagline"
+msgstr "Teideal ⁊ Nath an tSuímh a Thaispeáint"
+
+#: inc/back-compat.php:37
+#: inc/back-compat.php:47
+#: inc/back-compat.php:60
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Ní mór leagan a 3.6 de WordPress le Twenty Fourteen a chur ag obair. Leagan a %s atá agatsa. Feabhsaigh do shuiteáil agus buail faoi arís."
+
+#: image.php:69
+msgid "Next Image"
+msgstr "An chéad íomhá eile"
+
+#: image.php:68
+msgid "Previous Image"
+msgstr "An íomhá roimpi seo"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Beir go dtí an t-alt féin mé"
+
+#: header.php:52
+msgid "Primary Menu"
+msgstr "Príomhroghchlár"
+
+#: header.php:48
+msgid "Search"
+msgstr "Cuartaigh"
+
+#: functions.php:584
+msgid "Page %s"
+msgstr "Leathanach %s"
+
+#: functions.php:465
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d Alt Amháin"
+msgstr[1] "%d Alt"
+msgstr[2] "%d Alt"
+msgstr[3] "%d nAlt"
+msgstr[4] "%d Alt"
+
+#: functions.php:308
+msgid "Next"
+msgstr "Aniar"
+
+#: functions.php:307
+msgid "Previous"
+msgstr "Siar"
+
+#: functions.php:237
+msgid "Appears in the footer section of the site."
+msgstr "I mbuntásc an tsuímh a thaispeántar é."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:259
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:228
+msgid "Additional sidebar that appears on the right."
+msgstr "Taobh-bharra eile a thaispeántar sa taobh deas."
+
+#: functions.php:235
+msgid "Footer Widget Area"
+msgstr "Limistéar Giúirléidí Buntáisc"
+
+#: functions.php:219
+msgid "Main sidebar that appears on the left."
+msgstr "Mór-thaobh-bharra a thaispeántar sa taobh clé."
+
+#: functions.php:226
+msgid "Content Sidebar"
+msgstr "Barra–Taoibh—Inneachar"
+
+#: functions.php:217
+msgid "Primary Sidebar"
+msgstr "Príomh-Thaobh-Bharra"
+
+#: functions.php:126
+msgid "Top primary menu"
+msgstr "Príomhroghchlár uachtarach"
+
+#: functions.php:127
+msgid "Secondary menu in left sidebar"
+msgstr "Roghchlár tánaisteach sa taobh-bharra clé"
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Le cumhacht %s"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sén chaoi nár frítheadh an rud a bhí tú a iarraidh. B’fhéidir go gcuartófá é."
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sén chaoi nár frítheadh na téarmaí a chuartaigh tú. D’fhéadfá focla eile a chuartú."
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "bhFuil tú réidh le halt a fhoilsiú? <a href=\"%1$s\">Féadfaidh tú tosaí anseo</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Gan Toradh"
+
+#: content-aside.php:53
+#: content-audio.php:53
+#: content-gallery.php:53
+#: content-image.php:53
+#: content-link.php:53
+#: content-page.php:22
+#: content-quote.php:53
+#: content-video.php:53
+#: content.php:61
+#: image.php:56
+msgid "Pages:"
+msgstr "Leathanaigh:"
+
+#: inc/widgets.php:149
+#: inc/widgets.php:194
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tuilleadh <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40
+#: content-audio.php:40
+#: content-gallery.php:40
+#: content-image.php:40
+#: content-link.php:40
+#: content-page.php:28
+#: content-quote.php:40
+#: content-video.php:40
+#: content.php:42
+#: image.php:36
+#: page-templates/contributors.php:35
+msgid "Edit"
+msgstr "Eagar"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:38
+#: inc/widgets.php:216
+msgid "% Comments"
+msgstr "Freagraí: %"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:38
+#: inc/widgets.php:216
+msgid "1 Comment"
+msgstr "1 Fhreagra Amháin"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:38
+#: inc/widgets.php:216
+msgid "Leave a comment"
+msgstr "Freagra"
+
+#: content-aside.php:17
+#: content-audio.php:17
+#: content-featured-post.php:28
+#: content-gallery.php:17
+#: content-image.php:17
+#: content-link.php:17
+#: content-quote.php:17
+#: content-video.php:17
+#: content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Freagraí dúnta."
+
+#: comments.php:52
+#: comments.php:70
+msgid "Newer Comments &rarr;"
+msgstr "Freagraí Nua &rarr;"
+
+#: comments.php:51
+#: comments.php:69
+msgid "&larr; Older Comments"
+msgstr "&larr; Seanfhreagraí"
+
+#: comments.php:50
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Treoraíocht freagartha"
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "Cartlanna Ranga: %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "Chuile Alt dár Scríobh %s"
+
+#: archive.php:40
+#: taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "Cartlanna"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Cartlanna Bliana: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Cartlanna Míosa: %s"
+
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Cartlanna Lae: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sén chaoi nár fríothadh tada anseo. B’fhéidir go gcuartófá é?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Diabhal Toradh"

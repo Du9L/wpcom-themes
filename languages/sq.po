@@ -1,0 +1,676 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fourteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-27T03:12:25+00:00\n"
+"PO-Revision-Date: 2021-12-26 21:37:58+0000\n"
+"Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:69
+msgid "GET IN TOUCH"
+msgstr "LIDHUNI ME NE"
+
+#: inc/block-patterns.php:69
+msgid "Don’t hesitate to reach out."
+msgstr "Mos ngurroni të lidheni me ne."
+
+#: inc/block-patterns.php:69
+msgid "GOT A QUESTION?"
+msgstr "KENI NJË PYETJE?"
+
+#: inc/block-patterns.php:69
+msgid "Write title…"
+msgstr "Shkruani titull…"
+
+#: inc/block-patterns.php:66
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/block-patterns.php:58
+msgid "Read More"
+msgstr "Lexoni Më tepër"
+
+#: inc/block-patterns.php:58
+msgid "Clouds"
+msgstr "Re"
+
+#: inc/block-patterns.php:58
+msgid "Photo of a cloudy mountain"
+msgstr "Foto e një mali me re"
+
+#: inc/block-patterns.php:58
+msgid "Streetscape"
+msgstr "Peizazh rruge"
+
+#: inc/block-patterns.php:58
+msgid "Photo of a streetscape"
+msgstr "Foto e një peizazhi rruge"
+
+#: inc/block-patterns.php:58
+msgid "Bridge"
+msgstr "Urë"
+
+#: inc/block-patterns.php:58
+msgid "Photo of a bridge"
+msgstr "Foto e një ure"
+
+#: inc/block-patterns.php:58
+msgid "Sunset"
+msgstr "Perëndim dielli"
+
+#: inc/block-patterns.php:58
+msgid "Photo of a sunset"
+msgstr "Foto e një perëndimi dielli"
+
+#: inc/block-patterns.php:58
+msgid "Here are some photos from my all-time favorite destinations."
+msgstr "Ja ca foto nga vendet e mia të parapëlqyera ngaherë."
+
+#: inc/block-patterns.php:58
+msgid "Traveling Nostalgia"
+msgstr "Nostalgji Udhëtimi"
+
+#: inc/block-patterns.php:55
+msgid "Summary"
+msgstr "Përmbledhje"
+
+#: inc/block-patterns.php:47
+msgid "This year was devoted entirely to the western hemisphere. I went on a month-long road trip through the U.S.A. and Canada, and also visited Mexico, Brazil, and Colombia."
+msgstr "Ky vit i kushtua tërësisht hemisferës perëndimore. Ndërmora një udhëtim një muaj të gjatë përmes SHBA-ve dhe Kanadasë dhe vizitova gjithashtu Meksikën, Brazilin dhe Kolumbinë."
+
+#: inc/block-patterns.php:47
+msgid "2016"
+msgstr "2016"
+
+#: inc/block-patterns.php:47
+msgid "In 2012, I expanded my travels to Europe. I spent time in Poland, Germany, Italy, France, and Spain."
+msgstr "Më 2012-n, i shtriva udhëtimet e mia në Evropë. Kalova ca kohë në Poloni, Gjermani, Itali, Francë dhe Spanjë."
+
+#: inc/block-patterns.php:47
+msgid "2012"
+msgstr "2012"
+
+#: inc/block-patterns.php:47
+msgid "My first year of traveling. I visited China, Thailand, Japan, and India."
+msgstr "Viti i parë i udhëtimeve të mia. Vizitova Kinën, Tajlandën, Japoninë dhe Indinë."
+
+#: inc/block-patterns.php:47
+msgid "2001"
+msgstr "2001"
+
+#: inc/block-patterns.php:44
+msgid "List"
+msgstr "Listë"
+
+#: inc/block-patterns.php:36
+msgid "I’ve traveled to over 60 countries, and have made many friends along the way. I created this website to keep track of the memories I’ve made in my years of traveling."
+msgstr "Kam udhëtuar në mbi 60 vende dhe kam zënë shumë shokë gjatë udhëtimeve. E krijova këtë sajt për të ruajtur kujtimet që kam prej viteve të mia të udhëtimeve."
+
+#: inc/block-patterns.php:36
+msgid "Hello, my name is Joan. I am passionate about writing, travel, and photography."
+msgstr "Tungjatjeta, quhem Xhoana. Pasionet e mia janë shkrimi, udhëtimet dhe fotografia."
+
+#: inc/block-patterns.php:36
+msgid "A person standing in front of a lake"
+msgstr "Dikush para një liqeni"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Mbi"
+
+#: functions.php:112
+msgid "White"
+msgstr "E bardhë"
+
+#: functions.php:107
+msgid "Light Gray"
+msgstr "Gri e Çelët"
+
+#: functions.php:102
+msgid "Medium Gray"
+msgstr "Gri Mesatare"
+
+#: functions.php:97
+msgid "Dark Gray"
+msgstr "Gri e Errët"
+
+#: functions.php:92
+msgid "Black"
+msgstr "E zezë"
+
+#: functions.php:87
+msgid "Green"
+msgstr "E gjelbër"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mendim te &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime te &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Një mendim te &ldquo;%s&rdquo;"
+
+#: inc/wpcom-colors.php:427
+msgid "Accent Color Three"
+msgstr "Ngjyrë Theksimi Tre"
+
+#: inc/wpcom-colors.php:267
+msgid "Accent Color Two"
+msgstr "Ngjyrë Theksimi Dy"
+
+#: inc/wpcom-colors.php:168
+msgid "Accent Color One"
+msgstr "Ngjyrë Theksimi Një"
+
+#: inc/wpcom-colors.php:6
+msgid "Background Color"
+msgstr "Ngjyrë Sfondi"
+
+#. translators: %s: Post title.
+#: content-aside.php:49
+#: content-audio.php:49
+#: content-gallery.php:49
+#: content-image.php:49
+#: content-link.php:49
+#: content-quote.php:49
+#: content-video.php:49
+#: content.php:58
+#: inc/template-tags.php:230
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni me leximin e %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer.php:50
+#: inc/customizer.php:51
+msgid "May only be visible on wide screens."
+msgstr "Mund të jetë e dukshme vetëm në ekrane të mëdhenj."
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Faqe Në Gjerësi të Plotë"
+
+#. Template Name of the theme
+msgid "Contributor Page"
+msgstr "Faqe Kontribuesish"
+
+#. Description of the theme
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "Më 2014-n, tema jonë parazgjedhje ju lejon të krijoni një sajt reagues dhe në stil reviste, me një dizajn modern të hajthëm. Paraqiteni lëndën tuaj të kreut si në një rrjetë ose si në një rrëshqitës. Përdorni tre fusha widget-esh për të personalizuar sajtin tuaj, dhe ndryshoni skemën për lëndën tuaj me një gjedhe faqeje në gjerësi të plotë dhe një faqe kontribuesish për shfaqjen e autorëve tuaj. Krijimi i një sajti reviste me WordPress-in kurrë nuk ka qenë më i lehtë."
+
+#. translators: %s: Tag title.
+#: tag.php:25
+msgid "Tag Archives: %s"
+msgstr "Arkiva Etiketash: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/widgets.php:305
+msgid "Post format to show:"
+msgstr "Format postimesh për shfaqje:"
+
+#: inc/widgets.php:302
+msgid "Number of posts to show:"
+msgstr "Numër postimesh për shfaqje:"
+
+#: inc/widgets.php:299
+msgid "Title:"
+msgstr "Titull:"
+
+#. translators: Used with More archives link.
+#: inc/widgets.php:243
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: 1: Post permalink, 2: Number of images in the gallery.
+#: inc/widgets.php:198
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "Kjo galeri përmban <a href=\"%1$s\" rel=\"bookmark\">%2$s foto</a>."
+msgstr[1] "Kjo galeri përmban <a href=\"%1$s\" rel=\"bookmark\">%2$s foto</a>."
+
+#: inc/widgets.php:108
+msgid "More asides"
+msgstr "Më tepër anësore"
+
+#: inc/widgets.php:107
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "Anësore"
+
+#: inc/widgets.php:103
+msgid "More galleries"
+msgstr "Më tepër Galeri"
+
+#: inc/widgets.php:102
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "Galeri"
+
+#: inc/widgets.php:99
+msgid "More links"
+msgstr "Më tepër lidhje"
+
+#: inc/widgets.php:98
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr "Lidhje"
+
+#: inc/widgets.php:95
+msgid "More quotes"
+msgstr "Më tepër citime"
+
+#: inc/widgets.php:94
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "Citime"
+
+#: inc/widgets.php:91
+msgid "More audio"
+msgstr "Më tepër audio"
+
+#: inc/widgets.php:90
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/widgets.php:87
+msgid "More videos"
+msgstr "Më tepër video"
+
+#: inc/widgets.php:86
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "Video"
+
+#: inc/widgets.php:83
+msgid "More images"
+msgstr "Më tepër figura"
+
+#: inc/widgets.php:82
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr "Figura"
+
+#: inc/widgets.php:38
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "Përdoreni këtë widget që të shfaqni një listë të postimeve më të reja prej Anësoreve, Citimeve, Videove, Audiove, Figurave, Galerive, dhe Lidhjeve."
+
+#: inc/widgets.php:35
+msgid "Twenty Fourteen Ephemera"
+msgstr "Twenty Eleven Ephemera"
+
+#: inc/template-tags.php:111
+msgid "Sticky"
+msgstr "Ngjitës"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Postimi Pasues</span>%title"
+
+#: inc/template-tags.php:93
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Postimi i Mëparshëm</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Botuar Te</span>%title"
+
+#: inc/template-tags.php:87
+msgid "Post navigation"
+msgstr "Lëvizje te postimet"
+
+#: inc/template-tags.php:60
+msgid "Posts navigation"
+msgstr "Lëvizje te postimet"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "Pasuesi &rarr;"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "&larr; I mëparshmi"
+
+#: inc/featured-content.php:423
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Mos shfaq etiketa te reali."
+
+#: inc/featured-content.php:415
+msgid "Tag Name"
+msgstr "Emër Etikete"
+
+#. translators: %s: Twenty Fourteen documentation URL.
+#: inc/customizer.php:170
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "Për një përkujdesore të thelluar, dhe për më tepër ndihmëza dhe rrengje, vizitoni <a href=\"%s\">dokumentimin e Twenty Fourteen-it</a>."
+
+#. translators: %s: Featured images documentation URL.
+#: inc/customizer.php:168
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "Zgjerojeni dizajnin e sajtit tuaj duke përdorur <a href=\"%s\">Figura të Zgjedhura</a> për postime që do të donit të nxirren në pah (të njohura edhe si miniatura postimesh). Kjo ju lejon t’u përshoqëroni postimeve tuaja figura, pa i futur ato. Twenty Fourteen i përdor figurat e zgjedhura për postime dhe faqe&mdash;sipër titullit&mdash;dhe te fusha Lëndë e Zgjedhur te kreu."
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:166
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "Te kreu mund të nxirrni në pah deri në 6 postime të zgjedhura,  si një mozaik ose si një rrëshqitës, të kontrolluara nga një <a href=\"%1$s\">etiketë</a>; etiketën dhe skemën mund ta ndryshoni te <a href=\"%2$s\">Dukje &rarr; Personalizim</a>. Nëse nuk gjenden postime që përputhen me etiketën, në vend të tyre do të përdoren, <a href=\"%3$s\">postimet e zgjedhura</a>."
+
+#: inc/customizer.php:90
+msgid "Slider"
+msgstr "Rrëshqitës"
+
+#: inc/customizer.php:89
+msgid "Grid"
+msgstr "Rrjetë"
+
+#: inc/customizer.php:85
+msgid "Layout"
+msgstr "Skemë"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:65
+#: inc/customizer.php:166
+#: inc/featured-content.php:385
+#: inc/featured-content.php:397
+#: inc/featured-content.php:463
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "e zgjedhur"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL.
+#: inc/customizer.php:64
+#: inc/featured-content.php:384
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Përdorni një <a href=\"%1$s\"> etiketë</a> për zgjedhje postimesh. Nëse nuk ka postime që përputhen me etiketën, në vend të tyre do të shfaqen <a href=\"%2$s\">postimet ngjitëse</a>."
+
+#: inc/customizer.php:61
+#: inc/featured-content.php:381
+msgid "Featured Content"
+msgstr "Lëndë e Zgjedhur"
+
+#: inc/customizer.php:46
+msgid "Display Site Title &amp; Tagline"
+msgstr "Shfaq Titull &amp; Moto Sajti"
+
+#: inc/customizer.php:43
+msgid "Site Title Color"
+msgstr "Ngjyrë Titulli Sajti"
+
+#: inc/customizer.php:53
+#: inc/customizer.php:54
+msgid "Background may only be visible on wide screens."
+msgstr "Sfondi mund të jetë i dukshëm vetëm në ekrane të mëdhenj."
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:41
+#: inc/back-compat.php:56
+#: inc/back-compat.php:77
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fourteen lyp të paktën WordPress-in në version 3.6. Po xhironi versionin %s. Ju lutemi, përmirësojeni dhe riprovoni."
+
+#: image.php:70
+msgid "Next Image"
+msgstr "Figura Pasuese"
+
+#: image.php:69
+msgid "Previous Image"
+msgstr "Figura e Mëparshme"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Hidhu te lënda"
+
+#: header.php:53
+msgid "Primary Menu"
+msgstr "Menuja Parësore"
+
+#: header.php:49
+msgid "Search"
+msgstr "Kërko"
+
+#. translators: %s: Page number.
+#: functions.php:653
+msgid "Page %s"
+msgstr "Faqe %s"
+
+#. translators: %d: Post count.
+#: functions.php:532
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d Artikull"
+msgstr[1] "%d Artikuj"
+
+#: functions.php:362
+msgid "Next"
+msgstr "Pasuesja"
+
+#: functions.php:361
+msgid "Previous"
+msgstr "I mëparshmi"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:309
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:286
+msgid "Appears in the footer section of the site."
+msgstr "Duket te pjesa e poshtme e sajtit."
+
+#: functions.php:284
+msgid "Footer Widget Area"
+msgstr "Fushë Widget-esh Fundfaqeje"
+
+#: functions.php:275
+msgid "Additional sidebar that appears on the right."
+msgstr "Panel shtesë që shfaqet djathtas."
+
+#: functions.php:273
+msgid "Content Sidebar"
+msgstr "Anështyllë Lënde"
+
+#: functions.php:264
+msgid "Main sidebar that appears on the left."
+msgstr "Anështylla parësore që shfaqet majtas."
+
+#: functions.php:262
+msgid "Primary Sidebar"
+msgstr "Anështyllë Parësore"
+
+#: functions.php:131
+msgid "Secondary menu in left sidebar"
+msgstr "Menuja dytësore në anështyllën e majtë"
+
+#: functions.php:130
+msgid "Top primary menu"
+msgstr "Menuja parësore kryesore"
+
+#. translators: %s: WordPress
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk gjejmë dot ç’po kërkonit. Ndoshta mund t’ju ndihë kërkimi."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por nuk u përputh gjë me termat tuaj të kërkimit. Ju lutemi, riprovoni me ndoca fjalëkyçe të tjera."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%s\">Fillojani këtu</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Nuk u Gjet Gjë"
+
+#: content-aside.php:56
+#: content-audio.php:56
+#: content-gallery.php:56
+#: content-image.php:56
+#: content-link.php:56
+#: content-page.php:23
+#: content-quote.php:56
+#: content-video.php:56
+#: content.php:65
+#: image.php:56
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: inc/widgets.php:158
+#: inc/widgets.php:208
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40
+#: content-audio.php:40
+#: content-gallery.php:40
+#: content-image.php:40
+#: content-link.php:40
+#: content-page.php:30
+#: content-quote.php:40
+#: content-video.php:40
+#: content.php:43
+#: image.php:35
+#: page-templates/contributors.php:36
+msgid "Edit"
+msgstr "Përpunim"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "% Comments"
+msgstr "% Komente"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "1 Comment"
+msgstr "1 Koment"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#: content-aside.php:17
+#: content-audio.php:17
+#: content-featured-post.php:28
+#: content-gallery.php:17
+#: content-image.php:17
+#: content-link.php:17
+#: content-quote.php:17
+#: content-video.php:17
+#: content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#: comments.php:52
+#: comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "Komente Më të Reja &rarr;"
+
+#: comments.php:51
+#: comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&larr; Komente Më të Vjetra"
+
+#: comments.php:50
+#: comments.php:70
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#. translators: %s: Category title.
+#: category.php:23
+msgid "Category Archives: %s"
+msgstr "Arkiva Kategorie: %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "All posts by %s"
+msgstr "Krejt postimet nga %s"
+
+#: archive.php:40
+#: taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "Arkiva"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgid "Yearly Archives: %s"
+msgstr "Arkiva të Përvitshme: %s"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgid "Monthly Archives: %s"
+msgstr "Arkiva të Përmuajshme: %s"
+
+#. translators: %s: Date.
+#: archive.php:32
+msgid "Daily Archives: %s"
+msgstr "Arkiva të Përditshme: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Duket se nuk u gjet gjë në këtë vend. Ndoshta duhet provuar një kërkim?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Nuk u Gjet"

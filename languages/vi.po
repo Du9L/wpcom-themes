@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fourteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-10-03T02:59:17+00:00\n"
+"PO-Revision-Date: 2021-09-24 12:41:30+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:112
+msgid "White"
+msgstr "Trắng"
+
+#: functions.php:107
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:102
+msgid "Medium Gray"
+msgstr "Xám vừa"
+
+#: functions.php:97
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: functions.php:92
+msgid "Black"
+msgstr "Đen"
+
+#: functions.php:87
+msgid "Green"
+msgstr "Xanh lá cây"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Một bình luận về &ldquo;%s&rdquo;"
+
+#: inc/wpcom-colors.php:6
+msgid "Background Color"
+msgstr "Màu nền"
+
+#. translators: %s: Post title.
+#: content-aside.php:49
+#: content-audio.php:49
+#: content-gallery.php:49
+#: content-image.php:49
+#: content-link.php:49
+#: content-quote.php:49
+#: content-video.php:49
+#: content.php:58
+#: inc/template-tags.php:230
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer.php:50
+#: inc/customizer.php:51
+msgid "May only be visible on wide screens."
+msgstr "Chỉ nhìn được trên các màn hình rộng."
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Trang đầy bể rộng"
+
+#. Template Name of the theme
+msgid "Contributor Page"
+msgstr "Trang cộng tác"
+
+#. Description of the theme
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "Năm 2014, theme mặc định của chúng tôi cho phép bạn tạo một trang web tạp chí đáp ứng kiểu dáng đẹp, thiết kế hiện đại. Đề cử nội dung trang chủ yêu thích của bạn dưới dạng lưới hoặc thanh trượt. Sử dụng ba khu vực widget để tùy chỉnh trang web của bạn, và thay đổi cách bố trí nội dung của bạn với một trang mẫu đầy đủ chiều rộng và một trang đóng góp thể hiện các tác giả của bạn. Tạo một trang web tạp chí với WordPress chưa bao giờ được dễ dàng hơn."
+
+#. translators: %s: Tag title.
+#: tag.php:25
+msgid "Tag Archives: %s"
+msgstr "Lưu trữ theo thẻ: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/widgets.php:303
+msgid "Post format to show:"
+msgstr "Định dạng hiển thị bài viết:"
+
+#: inc/widgets.php:300
+msgid "Number of posts to show:"
+msgstr "Số bài viết hiển thị:"
+
+#: inc/widgets.php:297
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#. translators: Used with More archives link.
+#: inc/widgets.php:243
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: 1: Post permalink, 2: Number of images in the gallery.
+#: inc/widgets.php:198
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "Bộ sưu tập này chứa <a href=\"%1$s\" rel=\"bookmark\">%2$s ảnh</a>."
+
+#: inc/widgets.php:108
+msgid "More asides"
+msgstr "Thêm nhận xét"
+
+#: inc/widgets.php:107
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "Nhận xét"
+
+#: inc/widgets.php:103
+msgid "More galleries"
+msgstr "Thêm bộ sưu tập"
+
+#: inc/widgets.php:102
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "Bộ sưu tập"
+
+#: inc/widgets.php:99
+msgid "More links"
+msgstr "Thêm liên kết"
+
+#: inc/widgets.php:98
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr "Liên kết"
+
+#: inc/widgets.php:95
+msgid "More quotes"
+msgstr "Thêm danh ngôn"
+
+#: inc/widgets.php:94
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "Danh ngôn"
+
+#: inc/widgets.php:91
+msgid "More audio"
+msgstr "Thêm âm thanh"
+
+#: inc/widgets.php:90
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "Nhạc"
+
+#: inc/widgets.php:87
+msgid "More videos"
+msgstr "Thêm các video"
+
+#: inc/widgets.php:86
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "Video"
+
+#: inc/widgets.php:83
+msgid "More images"
+msgstr "Thêm ảnh"
+
+#: inc/widgets.php:82
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: inc/widgets.php:38
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "Dùng widget này để liệt kê Nhận xét, Danh ngôn, Video, Âm thanh, Ảnh, Bộ sưu tập, và Liên kết mà bạn đăng gần đây."
+
+#: inc/widgets.php:35
+msgid "Twenty Fourteen Ephemera"
+msgstr "Twenty Fourteen Ephemera"
+
+#: inc/template-tags.php:111
+msgid "Sticky"
+msgstr "Dán"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Bài tiếp theo</span>%title"
+
+#: inc/template-tags.php:93
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Bài trước</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Đã xuất bản trong</span>%title"
+
+#: inc/template-tags.php:87
+msgid "Post navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/template-tags.php:60
+msgid "Posts navigation"
+msgstr "Điều hướng các bài viết"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "Trang sau &rarr;"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "&larr; Trước"
+
+#: inc/featured-content.php:423
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Không hiển thị tag trên trang người dùng"
+
+#: inc/featured-content.php:415
+msgid "Tag Name"
+msgstr "Tên thẻ"
+
+#. translators: %s: Twenty Fourteen documentation URL.
+#: inc/customizer.php:170
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "Để được hướng dẫn sâu hơn, nhiều thủ thuật và mẹo hơn, hãy ghé thăm <a href=\"%s\"> tài liệu Twenty Fourteen</a>."
+
+#. translators: %s: Featured images documentation URL.
+#: inc/customizer.php:168
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "Tăng cường thiết kế trang web của bạn bằng cách sử dụng <a href=\"%s\"> Ảnh đề cử </a> cho bài viết mà bạn muốn nổi bật (còn gọi là bài có ​​hình thu nhỏ). Điều này cho phép bạn liên kết một hình ảnh với bài viết của bạn mà không cần chèn vào bài. Twenty Fourteen sử dụng hình ảnh được đề cử cho bài viết và trang-trên tiêu đề và trong khu vực Nội dung được đề cử trên trang chủ."
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:166
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "Có tính năng cho bạn lựa chọn lên đến 6 bài viết hiển thị nổi bật trên trang chủ dưới dạng lưới hoặc thanh trượt điều khiển bởi một <a href=\"%1$s\">tag</a>; bạn có thể thay đổi tag và bố trí trong <a href=\"%2$s\"> Giao diện → Tùy chỉnh </a>. Nếu không có bài viết phù hợp với tag, <a href=\"%3$s\"> bài viết được đánh dấu </a> sẽ được hiển thị thay thế."
+
+#: inc/customizer.php:90
+msgid "Slider"
+msgstr "Thanh trượt"
+
+#: inc/customizer.php:89
+msgid "Grid"
+msgstr "Lưới"
+
+#: inc/customizer.php:85
+msgid "Layout"
+msgstr "Sơ đồ trình bày"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:65
+#: inc/customizer.php:166
+#: inc/featured-content.php:385
+#: inc/featured-content.php:397
+#: inc/featured-content.php:463
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "đề cử"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL.
+#: inc/customizer.php:64
+#: inc/featured-content.php:384
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Sử dụng <a href=\"%1$s\">tag</a> để đề cử bài của bạn. Nếu không có bài viết phù hợp với tag thì <a href=\"%2$s\">bài đánh dấu</a> sẽ được hiển thị."
+
+#: inc/customizer.php:61
+#: inc/featured-content.php:381
+msgid "Featured Content"
+msgstr "Nội dung đề cử"
+
+#: inc/customizer.php:46
+msgid "Display Site Title &amp; Tagline"
+msgstr "Hiển thị tiêu đề &amp; khẩu hiệu của trang"
+
+#: inc/customizer.php:43
+msgid "Site Title Color"
+msgstr "Màu tiêu đề trang"
+
+#: inc/customizer.php:53
+#: inc/customizer.php:54
+msgid "Background may only be visible on wide screens."
+msgstr "Nền có thể chỉ được nhìn thấy trên màn hình rộng."
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38
+#: inc/back-compat.php:50
+#: inc/back-compat.php:67
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fourteen yêu cầu phiên bản WordPress tối thiểu phải là 3.6. Bạn đang chạy phiên bản %s. Hãy nâng cấp và thử lại."
+
+#: image.php:70
+msgid "Next Image"
+msgstr "Ảnh tiếp theo"
+
+#: image.php:69
+msgid "Previous Image"
+msgstr "Ảnh trước"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#: header.php:53
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: header.php:49
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#. translators: %s: Page number.
+#: functions.php:644
+msgid "Page %s"
+msgstr "Trang %s"
+
+#. translators: %d: Post count.
+#: functions.php:523
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d Bài viết"
+
+#: functions.php:362
+msgid "Next"
+msgstr "Sau"
+
+#: functions.php:361
+msgid "Previous"
+msgstr "Trước"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:309
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:286
+msgid "Appears in the footer section of the site."
+msgstr "Xuất hiện trong phần chân của trang."
+
+#: functions.php:284
+msgid "Footer Widget Area"
+msgstr "Khu vực Widget Chân"
+
+#: functions.php:275
+msgid "Additional sidebar that appears on the right."
+msgstr "Sidebar thêm mà xuất hiện bên phải."
+
+#: functions.php:273
+msgid "Content Sidebar"
+msgstr "Sidebar Nội dung"
+
+#: functions.php:264
+msgid "Main sidebar that appears on the left."
+msgstr "Sidebar chính xuất hiện bên trái."
+
+#: functions.php:262
+msgid "Primary Sidebar"
+msgstr "Sidebar chính"
+
+#: functions.php:131
+msgid "Secondary menu in left sidebar"
+msgstr "Menu thứ hai trong sidebar bên trái"
+
+#: functions.php:130
+msgid "Top primary menu"
+msgstr "Menu chính trên cùng"
+
+#. translators: %s: WordPress
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài đầu tiên? <a href=\"%$s\">Bắt đầu tại đây</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: content-aside.php:56
+#: content-audio.php:56
+#: content-gallery.php:56
+#: content-image.php:56
+#: content-link.php:56
+#: content-page.php:23
+#: content-quote.php:56
+#: content-video.php:56
+#: content.php:65
+#: image.php:56
+msgid "Pages:"
+msgstr "Trang:"
+
+#: inc/widgets.php:158
+#: inc/widgets.php:208
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40
+#: content-audio.php:40
+#: content-gallery.php:40
+#: content-image.php:40
+#: content-link.php:40
+#: content-page.php:30
+#: content-quote.php:40
+#: content-video.php:40
+#: content.php:43
+#: image.php:35
+#: page-templates/contributors.php:36
+msgid "Edit"
+msgstr "Sửa"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "Leave a comment"
+msgstr "Để lại phản hồi"
+
+#: content-aside.php:17
+#: content-audio.php:17
+#: content-featured-post.php:28
+#: content-gallery.php:17
+#: content-image.php:17
+#: content-link.php:17
+#: content-quote.php:17
+#: content-video.php:17
+#: content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "Widget Chân"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: comments.php:52
+#: comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:51
+#: comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:50
+#: comments.php:70
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#. translators: %s: Category title.
+#: category.php:23
+msgid "Category Archives: %s"
+msgstr "Danh mục lưu trữ: %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "All posts by %s"
+msgstr "Các bài đăng bởi %s"
+
+#: archive.php:40
+#: taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "N"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgid "Yearly Archives: %s"
+msgstr "Lưu trữ năm: %s"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F N"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgid "Monthly Archives: %s"
+msgstr "Lưu trữ tháng: %s"
+
+#. translators: %s: Date.
+#: archive.php:32
+msgid "Daily Archives: %s"
+msgstr "Lưu trữ ngày: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Không tìm thấy"

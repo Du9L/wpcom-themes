@@ -1,0 +1,553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fourteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:52:15+00:00\n"
+"PO-Revision-Date: 2021-01-08 10:52:56+0000\n"
+"Language: cy_GB\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:112
+msgid "White"
+msgstr "Gwyn"
+
+#: functions.php:107
+msgid "Light Gray"
+msgstr "Llwyd Golau"
+
+#: functions.php:97
+msgid "Dark Gray"
+msgstr "Llwyd Tywyll"
+
+#: functions.php:92
+msgid "Black"
+msgstr "Du"
+
+#: functions.php:87
+msgid "Green"
+msgstr "Gwyrdd"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s sylw ar  &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s sylw ar  &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s sylw ar  &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un awgrym ar &ldquo;%s&rdquo;"
+
+#: inc/wpcom-colors.php:6
+msgid "Background Color"
+msgstr "Lliw'r Cefndir"
+
+#. translators: %s: Post title.
+#: content-aside.php:49
+#: content-audio.php:49
+#: content-gallery.php:49
+#: content-image.php:49
+#: content-link.php:49
+#: content-quote.php:49
+#: content-video.php:49
+#: content.php:58
+#: inc/template-tags.php:230
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Parhau i ddarllen %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer.php:50
+#: inc/customizer.php:51
+msgid "May only be visible on wide screens."
+msgstr "Efallai dim ond yn weladwy ar sgriniau llydan."
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/page-templates/full-width.php
+msgid "Full Width Page"
+msgstr "Tudalen Lled Llawn"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/page-templates/contributors.php
+msgid "Contributor Page"
+msgstr "Tudalen Cyfrannwyr"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentyfourteen/style.css
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "Yn 2014, mae ein thema ragosodedig yn caniatáu i chi greu gwefan cylchgrawn ymatebol gyda dyluniad llyfn a modern. Dangoswch eich hoff gynnwys tudalen cartref naill ai mewn grid neu lithrydd. Defnyddiwch y tri maes teclyn i gyfaddasu eich gwefan, a newid gosodiad eich cynnwys gyda thempled dudalen lled llawn a thudalen cyfrannwr i arddangos eich awduron. D'yw creu gwefan cylchgrawn gyda WordPress erioed wedi bod yn haws"
+
+#. translators: %s: Tag title.
+#: tag.php:25
+msgid "Tag Archives: %s"
+msgstr "Tagio Archifau: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Canlyniadau Chwilio am: %s"
+
+#: inc/widgets.php:303
+msgid "Post format to show:"
+msgstr "Fformat cofnod i'w ddangos:"
+
+#: inc/widgets.php:300
+msgid "Number of posts to show:"
+msgstr "Nifer o gofnodion yn cael eu dangos:"
+
+#: inc/widgets.php:297
+msgid "Title:"
+msgstr "Teitl:"
+
+#. translators: Used with More archives link.
+#: inc/widgets.php:243
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: 1: Post permalink, 2: Number of images in the gallery.
+#: inc/widgets.php:198
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "Mae'r oriel yn cynnwys <a href=\"%1$s\" rel=\"bookmark\">%2$s llun</a>."
+msgstr[1] "Mae'r oriel yn cynnwys <a href=\"%1$s\" rel=\"bookmark\">%2$s llun</a>."
+msgstr[2] "Mae'r oriel yn cynnwys <a href=\"%1$s\" rel=\"bookmark\">%2$s llun</a>."
+msgstr[3] "Mae'r oriel yn cynnwys <a href=\"%1$s\" rel=\"bookmark\">%2$s llun</a>."
+
+#: inc/widgets.php:108
+msgid "More asides"
+msgstr "Rhagor o neillebion"
+
+#: inc/widgets.php:107
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "Sylwadau"
+
+#: inc/widgets.php:103
+msgid "More galleries"
+msgstr "Rhagor o orielau"
+
+#: inc/widgets.php:102
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "Orielau"
+
+#: inc/widgets.php:99
+msgid "More links"
+msgstr "Rhagor o ddolenni"
+
+#: inc/widgets.php:98
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr "Dolenni"
+
+#: inc/widgets.php:95
+msgid "More quotes"
+msgstr "Rhagor o ddyfyniadau"
+
+#: inc/widgets.php:94
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "Dyfyniadau"
+
+#: inc/widgets.php:91
+msgid "More audio"
+msgstr "Rhagor o sain"
+
+#: inc/widgets.php:90
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "Sain"
+
+#: inc/widgets.php:87
+msgid "More videos"
+msgstr "Rhagor o fideos"
+
+#: inc/widgets.php:86
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "Fideos"
+
+#: inc/widgets.php:83
+msgid "More images"
+msgstr "Rhagor o ddelweddau"
+
+#: inc/widgets.php:82
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr "Delweddau"
+
+#: inc/widgets.php:38
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "Defnyddiwch y teclyn hwn i restru eich cofnodion Neilleb, Dyfyniad, Fideo, Sain, Delwedd, Oriel a Dolen diweddar."
+
+#: inc/widgets.php:35
+msgid "Twenty Fourteen Ephemera"
+msgstr "Effemera Twenty Fourteen"
+
+#: inc/template-tags.php:111
+msgid "Sticky"
+msgstr "Gludiog"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Cofnod Nesaf</span>%title"
+
+#: inc/template-tags.php:93
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Cofnod Blaenorol</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Cyhoeddwyd yn</span>%title"
+
+#: inc/template-tags.php:87
+msgid "Post navigation"
+msgstr "Symud o amgylch cofnodion"
+
+#: inc/template-tags.php:60
+msgid "Posts navigation"
+msgstr "Llywio cofnodion"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "Nesaf &rarr;"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "&larr; Blaenorol"
+
+#: inc/featured-content.php:423
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Peidiwch dangos tag ar y blaen"
+
+#: inc/featured-content.php:415
+msgid "Tag Name"
+msgstr "Enw Tag"
+
+#. translators: %s: Twenty Fourteen documentation URL.
+#: inc/customizer.php:170
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "Mae tiwtorial llawn a rhagor o gynghorion ewch i ddogfennaeth <a href=\"%s\">Twenty Fourteen</a>."
+
+#. translators: %s: Featured images documentation URL.
+#: inc/customizer.php:168
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "Gwnewch y mwyaf o gynllun eich gwefan trwy ddefnyddio <a href=\"%s\"> Delweddau Arbennig </a> ar gyfer cofnodion hoffech chi eu hamlygu (sef cofnodion lluniau bach). Mae hyn yn caniatáu i chi gysylltu delwedd gyda'ch cofnod heb ei fewnosod. Mae Twenty Fourteen hefyd yn defnyddio delweddau ar gyfer  cofnodion a thudalennau&mdash;uwchben y teitl&mdash;ac ym maes Cynnwys Arbennig ar y dudalen gartref."
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:166
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "Mae'r tudalen gartref yn cynnwys eich dewis o hyd at 5 cofnod wedi eu gosod yn amlwg mewn grid neu lithrydd, wedi eu rheoli gan <a href=\"%1$s\">dag</a>; ac mae modd i chi ei newid y tag a'r cynllun yn <a href=\"%2$s\">Gwedd &rarr; Cyfaddasu</a>. Os nad oes cofnodion yn cydweddu a'r tag, bydd <a href=\"%3$s\">cofnodion gludiog</a>yn cael eu dangos yn lle hynny."
+
+#: inc/customizer.php:90
+msgid "Slider"
+msgstr "Llithrydd"
+
+#: inc/customizer.php:89
+msgid "Grid"
+msgstr "Grid"
+
+#: inc/customizer.php:85
+msgid "Layout"
+msgstr "Cynllun"
+
+#: inc/customizer.php:65
+#: inc/customizer.php:166
+#: inc/featured-content.php:385
+#: inc/featured-content.php:397
+#: inc/featured-content.php:463
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "nodweddion"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL.
+#: inc/customizer.php:64
+#: inc/featured-content.php:384
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Defnyddiwch <a href=\"%1$s\">tag</a> i ddangos eich cofnodion. Os nad oes cofnodion yn cydweddu â'r tag, bydd <a href=\"%2$s\">cofnod gludiog</a> yn cael ei ddangos."
+
+#: inc/customizer.php:61
+#: inc/featured-content.php:381
+msgid "Featured Content"
+msgstr "Cynnwys Arbennig"
+
+#: inc/customizer.php:46
+msgid "Display Site Title &amp; Tagline"
+msgstr "Dangos Teitl y Wefan a'r Broliant"
+
+#: inc/customizer.php:43
+msgid "Site Title Color"
+msgstr "Lliw Teitl y Wefan"
+
+#: inc/customizer.php:53
+#: inc/customizer.php:54
+msgid "Background may only be visible on wide screens."
+msgstr "Efallai mai dim ond ar sgrin lydan y bydd hwn i'w weld."
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38
+#: inc/back-compat.php:50
+#: inc/back-compat.php:67
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Mae Twenty Fourteen angen o leiaf WordPress 3.6. Rydych yn rhedeg fersiwn %s. Diweddarwch os gwelwch chi'n dda a cheisiwch eto. "
+
+#: image.php:70
+msgid "Next Image"
+msgstr "Delwedd Nesaf"
+
+#: image.php:69
+msgid "Previous Image"
+msgstr "Delwedd Flaenorol"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Mynd i'r cynnwys"
+
+#: header.php:53
+msgid "Primary Menu"
+msgstr "Dewislen Cynradd"
+
+#: header.php:49
+msgid "Search"
+msgstr "Chwilio"
+
+#. translators: %s: Page number.
+#: functions.php:644
+msgid "Page %s"
+msgstr "Tudalen %s"
+
+#. translators: %d: Post count.
+#: functions.php:523
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d Erthygl"
+msgstr[1] "%d Erthygl"
+msgstr[2] "%d Erthygl"
+msgstr[3] "%d Erthygl"
+
+#: functions.php:362
+msgid "Next"
+msgstr "Nesaf"
+
+#: functions.php:361
+msgid "Previous"
+msgstr "Blaenorol"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:309
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ymlaen"
+
+#: functions.php:286
+msgid "Appears in the footer section of the site."
+msgstr "I'w weld yn adran troedyn y wefan."
+
+#: functions.php:284
+msgid "Footer Widget Area"
+msgstr "Ardal Teclyn Troedyn"
+
+#: functions.php:275
+msgid "Additional sidebar that appears on the right."
+msgstr "Bar ochr ychwanegol sy'n ymddangos ar y dde."
+
+#: functions.php:273
+msgid "Content Sidebar"
+msgstr "Bar Ochr Cynnwys"
+
+#: functions.php:264
+msgid "Main sidebar that appears on the left."
+msgstr "Y prif far ochr sy'n ymddangos ar y chwith."
+
+#: functions.php:262
+msgid "Primary Sidebar"
+msgstr "Bar Ochr Cynradd"
+
+#: functions.php:131
+msgid "Secondary menu in left sidebar"
+msgstr "Dewislen eilradd yn y bar ochr chwith"
+
+#: functions.php:130
+msgid "Top primary menu"
+msgstr "Prif ddewislen cynradd"
+
+#. translators: %s: WordPress
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Grymuso gan %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nid ydym yn gallu canfod yr hyn rydych yn chwilio amdano, Beth am chwilio?"
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Does dim yn cydweddu eich geiriau chwilio. Ceisiwch eto gydag allweddeiriau gwahanol."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Barod i gyhoeddi eich cofnod cyntaf? <a href=\"%s\">Cychwyn fan hyn</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#: content-aside.php:56
+#: content-audio.php:56
+#: content-gallery.php:56
+#: content-image.php:56
+#: content-link.php:56
+#: content-page.php:23
+#: content-quote.php:56
+#: content-video.php:56
+#: content.php:65
+#: image.php:56
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: inc/widgets.php:158
+#: inc/widgets.php:208
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Parhau i ddarllen <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40
+#: content-audio.php:40
+#: content-gallery.php:40
+#: content-image.php:40
+#: content-link.php:40
+#: content-page.php:30
+#: content-quote.php:40
+#: content-video.php:40
+#: content.php:43
+#: image.php:35
+#: page-templates/contributors.php:36
+msgid "Edit"
+msgstr "Golygu"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "% Comments"
+msgstr "% Sylw"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "1 Comment"
+msgstr "1 Sylw"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "Leave a comment"
+msgstr "Gadael sylw"
+
+#: content-aside.php:17
+#: content-audio.php:17
+#: content-featured-post.php:28
+#: content-gallery.php:17
+#: content-image.php:17
+#: content-link.php:17
+#: content-quote.php:17
+#: content-video.php:17
+#: content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Sylwadau wedi cau."
+
+#: comments.php:52
+#: comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "Sylwadau Diweddar &rarr;"
+
+#: comments.php:51
+#: comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&larr; Sylwadau Hŷn"
+
+#: comments.php:50
+#: comments.php:70
+msgid "Comment navigation"
+msgstr "Symud o amgylch sylwadau"
+
+#. translators: %s: Category title.
+#: category.php:23
+msgid "Category Archives: %s"
+msgstr "Archifau Categori: %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "All posts by %s"
+msgstr "Pob cofnod gan %s"
+
+#: archive.php:40
+#: taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "Archifau"
+
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgid "Yearly Archives: %s"
+msgstr "Archif Blynyddol: %s"
+
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgid "Monthly Archives: %s"
+msgstr "Archif Misol: %s"
+
+#. translators: %s: Date.
+#: archive.php:32
+msgid "Daily Archives: %s"
+msgstr "Archif Dyddiol: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Doedd dim byd fan hyn. Beth am chwilio?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Heb Ganfod"

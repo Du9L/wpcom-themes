@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Fourteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-02T03:18:29+00:00\n"
+"PO-Revision-Date: 2021-12-01 09:49:27+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:69
+msgid "GOT A QUESTION?"
+msgstr "HAR DU EN FRÅGA?"
+
+#: inc/block-patterns.php:69
+msgid "Don’t hesitate to reach out."
+msgstr "Tveka inte att höra av dig."
+
+#: inc/block-patterns.php:66
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/block-patterns.php:69
+msgid "Write title…"
+msgstr "Skriv rubrik …"
+
+#: inc/block-patterns.php:58
+msgid "Sunset"
+msgstr "Solnedgång"
+
+#: inc/block-patterns.php:58
+msgid "Clouds"
+msgstr "Moln"
+
+#: inc/block-patterns.php:58
+msgid "Read More"
+msgstr "Läs mer"
+
+#: inc/block-patterns.php:58
+msgid "Photo of a cloudy mountain"
+msgstr "Foto av ett molnigt berg"
+
+#: inc/block-patterns.php:58
+msgid "Bridge"
+msgstr "Bro"
+
+#: inc/block-patterns.php:58
+msgid "Photo of a bridge"
+msgstr "Foto av en bro"
+
+#: inc/block-patterns.php:58
+msgid "Photo of a sunset"
+msgstr "Foto av en solnedgång"
+
+#: inc/block-patterns.php:44
+msgid "List"
+msgstr "Lista"
+
+#: inc/block-patterns.php:55
+msgid "Summary"
+msgstr "Sammanfattning"
+
+#: inc/block-patterns.php:36
+msgid "A person standing in front of a lake"
+msgstr "En person står framför en sjö"
+
+#: inc/block-patterns.php:47
+msgid "2001"
+msgstr "2001"
+
+#: inc/block-patterns.php:47
+msgid "2012"
+msgstr "2012"
+
+#: inc/block-patterns.php:47
+msgid "2016"
+msgstr "2016"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Om"
+
+#: functions.php:92
+msgid "Black"
+msgstr "Svart"
+
+#: functions.php:97
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:107
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:112
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:102
+msgid "Medium Gray"
+msgstr "Medelgrå"
+
+#: functions.php:87
+msgid "Green"
+msgstr "Grön"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En tanke på &ldquo;%s&rdquo;"
+
+#: inc/wpcom-colors.php:168
+msgid "Accent Color One"
+msgstr "Accentfärg ett"
+
+#: inc/wpcom-colors.php:267
+msgid "Accent Color Two"
+msgstr "Accentfärg två"
+
+#: inc/wpcom-colors.php:427
+msgid "Accent Color Three"
+msgstr "Accentfärg tre"
+
+#: inc/wpcom-colors.php:6
+msgid "Background Color"
+msgstr "Färg för bakgrund"
+
+#. translators: %s: Post title.
+#: content-aside.php:49
+#: content-audio.php:49
+#: content-gallery.php:49
+#: content-image.php:49
+#: content-link.php:49
+#: content-quote.php:49
+#: content-video.php:49
+#: content.php:58
+#: inc/template-tags.php:230
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">→</span>"
+
+#: inc/customizer.php:50
+#: inc/customizer.php:51
+msgid "May only be visible on wide screens."
+msgstr "Kan bara synas på breda skärmar."
+
+#. Description of the theme
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "2014 låter vårt standardtema dig att skapa en webbplats med en layout av ett responsivt magasintema med elegant och modern design. Visa dina favoriter som utvald sektion i format av  ett rutnät eller en slider. Använd widgetfälten för att anpassa din webbplats och ändra innehållslayouten med en fullbreddsmall och en författarmall för att visa upp dina medarbetare. Att skapa en webbplats i formatet som magasin har aldrig varit enklare."
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Sida fullbredd"
+
+#. Template Name of the theme
+msgid "Contributor Page"
+msgstr "Sida för bidragsgivare"
+
+#. translators: %s: Tag title.
+#: tag.php:25
+msgid "Tag Archives: %s"
+msgstr "Etikettarkiv: %s"
+
+#: inc/widgets.php:305
+msgid "Post format to show:"
+msgstr "Inläggsformat att visa:"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: inc/widgets.php:302
+msgid "Number of posts to show:"
+msgstr "Antal inlägg att visa:"
+
+#. translators: 1: Post permalink, 2: Number of images in the gallery.
+#: inc/widgets.php:198
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "Detta galleri innehåller <a href=\"%1$s\" rel=\"bookmark\">%2$s bild</a>."
+msgstr[1] "Detta galleri innehåller <a href=\"%1$s\" rel=\"bookmark\">%2$s bilder</a>."
+
+#. translators: Used with More archives link.
+#: inc/widgets.php:243
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/widgets.php:299
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: inc/widgets.php:108
+msgid "More asides"
+msgstr "Fler notiser"
+
+#: inc/widgets.php:107
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/widgets.php:103
+msgid "More galleries"
+msgstr "Fler gallerier"
+
+#: inc/widgets.php:99
+msgid "More links"
+msgstr "Fler länkar"
+
+#: inc/widgets.php:102
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: inc/widgets.php:98
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr "Länkar"
+
+#: inc/widgets.php:95
+msgid "More quotes"
+msgstr "Fler citat"
+
+#: inc/widgets.php:91
+msgid "More audio"
+msgstr "Fler ljudfiler"
+
+#: inc/widgets.php:94
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "Citat"
+
+#: inc/widgets.php:90
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "Ljud"
+
+#: inc/widgets.php:87
+msgid "More videos"
+msgstr "Fler videoklipp"
+
+#: inc/widgets.php:83
+msgid "More images"
+msgstr "Fler bilder"
+
+#: inc/widgets.php:86
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: inc/widgets.php:82
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/widgets.php:35
+msgid "Twenty Fourteen Ephemera"
+msgstr "Twenty Fourteen Ephemera"
+
+#: inc/widgets.php:38
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "Använd denna widget för att visa dina senaste Noterings-, Citat-, Video-, Ljud-, Bild-, Galleri- och Länk-inlägg."
+
+#: inc/template-tags.php:111
+msgid "Sticky"
+msgstr "Klistrat"
+
+#: inc/template-tags.php:93
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Föregående inlägg</span>%title"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Nästa inlägg</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Publicerat i</span>%title"
+
+#: inc/template-tags.php:87
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:60
+msgid "Posts navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "Nästa &rarr;"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "&larr; Föregående"
+
+#: inc/featured-content.php:423
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Visa inte etikett på front-end."
+
+#. translators: %s: Twenty Fourteen documentation URL.
+#: inc/customizer.php:170
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "För en mer fördjupad guide och fler tips, besök <a href=\"%s\">dokumentationen för Twenty Fourteen</a>."
+
+#: inc/featured-content.php:415
+msgid "Tag Name"
+msgstr "Etikettnamn"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:166
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "Startsidan innehåller ditt val av upp till 6 framhävda inlägg visade i ett rutnät eller i ett bildspel, kontrollerat av en <a href=\"%1$s\">etikett</a>; du kan ändra den utvalda etiketten under <a href=\"%2$s\">Utseende &rarr; Anpassa</a>. Om inga inlägg matchar etiketten så används istället <a href=\"%3$s\">klistrade inlägg</a>."
+
+#. translators: %s: Featured images documentation URL.
+#: inc/customizer.php:168
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "Piffa upp din designen av din webbplats med hjälp av <a href=\"%s\">Utvalda bilder</a> för inlägg du vill ska sticka ut (även kallat inläggsminiatyrer). Detta gör att du kan associera en bild med ditt inlägg utan att infoga den. I Twenty Fourteen används utvalda bilder för inlägg och sidor ovanför titeln och i sektionen för utvalt innehåll på startsidan."
+
+#: inc/customizer.php:90
+msgid "Slider"
+msgstr "Bildspel"
+
+#: inc/customizer.php:89
+msgid "Grid"
+msgstr "Rutnät"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL.
+#: inc/customizer.php:64
+#: inc/featured-content.php:384
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Använd en <a href=\"%1$s\">etikett</a> för att framhäva dina inlägg. Om inga inlägg matchar etiketten kommer <a href=\"%2$s\">klistrade inlägg</a> visas istället."
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:65
+#: inc/customizer.php:166
+#: inc/featured-content.php:385
+#: inc/featured-content.php:397
+#: inc/featured-content.php:463
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "utvald"
+
+#: inc/customizer.php:85
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer.php:61
+#: inc/featured-content.php:381
+msgid "Featured Content"
+msgstr "Utvalt innehåll"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:41
+#: inc/back-compat.php:56
+#: inc/back-compat.php:77
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fourteen kräver minst WordPress, version 3.6. Du kör version %s. Uppdatera WordPress och försök igen."
+
+#: inc/customizer.php:53
+#: inc/customizer.php:54
+msgid "Background may only be visible on wide screens."
+msgstr "Bakgrunder är kanske bara synlig för bredare skärmar."
+
+#: inc/customizer.php:46
+msgid "Display Site Title &amp; Tagline"
+msgstr "Visa webbplatsrubrik och slogan"
+
+#: inc/customizer.php:43
+msgid "Site Title Color"
+msgstr "Webbplatsens rubrikfärg"
+
+#: image.php:70
+msgid "Next Image"
+msgstr "Nästa bild"
+
+#: image.php:69
+msgid "Previous Image"
+msgstr "Föregående bild"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: header.php:53
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: header.php:49
+msgid "Search"
+msgstr "Sök"
+
+#. translators: %s: Page number.
+#: functions.php:653
+msgid "Page %s"
+msgstr "Sida %s"
+
+#. translators: %d: Post count.
+#: functions.php:532
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d artikel"
+msgstr[1] "%d artiklar"
+
+#: functions.php:362
+msgid "Next"
+msgstr "Nästa"
+
+#: functions.php:361
+msgid "Previous"
+msgstr "Föregående"
+
+#: functions.php:286
+msgid "Appears in the footer section of the site."
+msgstr "Visas i sidfoten på webbplatsen."
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:309
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:284
+msgid "Footer Widget Area"
+msgstr "Sidfotens widgetområde"
+
+#: functions.php:275
+msgid "Additional sidebar that appears on the right."
+msgstr "Ytterligare sidopanel som visas till höger."
+
+#: functions.php:264
+msgid "Main sidebar that appears on the left."
+msgstr "Primär sidopanel som visas till vänster."
+
+#: functions.php:273
+msgid "Content Sidebar"
+msgstr "Innehåll sidopanel"
+
+#: functions.php:262
+msgid "Primary Sidebar"
+msgstr "Primär sidopanel"
+
+#: functions.php:130
+msgid "Top primary menu"
+msgstr "Övre primär meny"
+
+#: functions.php:131
+msgid "Secondary menu in left sidebar"
+msgstr "Sekundär meny i vänster sidopanel"
+
+#. translators: %s: WordPress
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%s\">Kom igång här</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: content-aside.php:56
+#: content-audio.php:56
+#: content-gallery.php:56
+#: content-image.php:56
+#: content-link.php:56
+#: content-page.php:23
+#: content-quote.php:56
+#: content-video.php:56
+#: content.php:65
+#: image.php:56
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: inc/widgets.php:158
+#: inc/widgets.php:208
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:40
+#: content-audio.php:40
+#: content-gallery.php:40
+#: content-image.php:40
+#: content-link.php:40
+#: content-page.php:30
+#: content-quote.php:40
+#: content-video.php:40
+#: content.php:43
+#: image.php:35
+#: page-templates/contributors.php:36
+msgid "Edit"
+msgstr "Redigera"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-gallery.php:37
+#: content-image.php:37
+#: content-link.php:37
+#: content-quote.php:37
+#: content-video.php:37
+#: content.php:39
+#: inc/widgets.php:231
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: content-aside.php:17
+#: content-audio.php:17
+#: content-featured-post.php:28
+#: content-gallery.php:17
+#: content-image.php:17
+#: content-link.php:17
+#: content-quote.php:17
+#: content-video.php:17
+#: content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:52
+#: comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: comments.php:51
+#: comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: comments.php:50
+#: comments.php:70
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#. translators: %s: Category title.
+#: category.php:23
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "All posts by %s"
+msgstr "Alla inlägg av %s"
+
+#: archive.php:40
+#: taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "Arkiv"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgid "Yearly Archives: %s"
+msgstr "Årsarkiv: %s"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+#. translators: %s: Date.
+#: archive.php:32
+msgid "Daily Archives: %s"
+msgstr "Dagsarkiv: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova en sökning?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Hittades inte"
