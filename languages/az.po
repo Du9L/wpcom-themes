@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:57:46+00:00\n"
+"PO-Revision-Date: 2019-01-31 12:57:38+0000\n"
+"Language: az\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:91
+msgid "White"
+msgstr "Ağ"
+
+#: functions.php:76
+msgid "Dark Gray"
+msgstr "Tutqun Boz"
+
+#: functions.php:71
+msgid "Blue"
+msgstr "Mavi"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/style.css
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "WordPress 2012 mövzusu hər bir cihazınız üçün bütün tələblərə cavab verən yeni mövzudur. Əlavə şrift ekranı, öz vidcetləri, yazılar üçün stil formatları və ön səhifə şablonu ilə o Sizin bütün ehtiyaclarınıza uyğundur."
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "%s Etiket Arxivləri: "
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Bağışlayın, axtarış kriteriyalarınıza uyğun gələn nəticə əldə edilmədi.Fərqli açar kəlmələrlə təkrar yoxlayın."
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr " %s üçün Axtarışın Nəticələri:"
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "İlk yazınızı dərc etməyə hazırsınızmı? <a href=\"%s\">Buradan başlayın</a>."
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "Göstəriləcək yazı yoxdur"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Sonrakı &rarr;"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Öncəki"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Dərc edildiyi tarix  </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Mühtəviyyata keç"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menyu"
+
+#: functions.php:477
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Bu yazı %3$s kateqoriyasına <span class=\"by-author\">%4$s</span> tərəfindən göndərildi."
+
+#: functions.php:475
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Bu yazı %1$s kateqoriyasına %3$s tarixində<span class=\"by-author\"> %4$s</span> tərəfindən göndərildi."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:473
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "%1$s içində %2$s etiketləriylə %3$s tarixində <span class=\"by-author\">%4$s</span> tərəfindən göndərildi."
+
+#: functions.php:467
+msgid "View all posts by %s"
+msgstr "%s tərəfindən yazılmış bütün yazılara bax"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:453
+#: functions.php:456
+msgid ", "
+msgstr ","
+
+#: functions.php:432
+msgid "Reply"
+msgstr "Cavabla"
+
+#: functions.php:423
+msgid "Your comment is awaiting moderation."
+msgstr "Şərhiniz yoxlama gözləyir."
+
+#. translators: 1: date, 2: time
+#: functions.php:417
+msgid "%1$s at %2$s"
+msgstr "%1$s tarixində, saat %2$s"
+
+#: functions.php:411
+msgid "Post author"
+msgstr "Yazı Müəllifi"
+
+#: functions.php:396
+msgid "(Edit)"
+msgstr "(Redaktə et)"
+
+#: functions.php:396
+msgid "Pingback:"
+msgstr "Geri bildiriş: "
+
+#: functions.php:371
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni yazılar <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:370
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Əski yazılar"
+
+#: functions.php:369
+#: single.php:20
+msgid "Post navigation"
+msgstr "Yazı naviqasiyaları"
+
+#: functions.php:347
+msgid "Second Front Page Widget Area"
+msgstr "İkinci ön səhifə vidcet sahəsi"
+
+#: functions.php:339
+#: functions.php:349
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Sadəcə istəyə bağlı ön səhifə şablonu statik ön səhifə olaraq istifadə edildiyində görünür."
+
+#: functions.php:337
+msgid "First Front Page Widget Area"
+msgstr "İlk Ön Səhifə Vidcet Sahəsi"
+
+#: functions.php:329
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Səhifələr və yazılarda görünür fəqət özünə aid vidcetlərə sahib istəyə bağlı ön səhifə şablonlarında görünməz."
+
+#: functions.php:327
+msgid "Main Sidebar"
+msgstr "Əsas yan sütun"
+
+#: functions.php:297
+msgid "Page %s"
+msgstr "Səhifə %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:151
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "altset yoxdur"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:145
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:105
+msgid "Primary Menu"
+msgstr "Əsas menyu"
+
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "%s qürurla təqdim edər"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Müasir Fərdi Yayın Platforması"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span> tərəfindən yazılmış bütün yazılara bax"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Xüsusi yazı"
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:102
+msgid "Pages:"
+msgstr "Səhifələr:"
+
+#: content-none.php:17
+#: index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Bağışlayın, fəqət heç bir nəticə əldə edilmədi. Bəlkə axtarış qutusundan istifadə edərək əlaqəli bir yazı tapa bilərsiniz."
+
+#: content-none.php:13
+#: index.php:49
+#: search.php:34
+msgid "Nothing Found"
+msgstr "Tapılmadı"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "Bağlantı"
+
+#: content-aside.php:26
+#: content-image.php:26
+#: content-link.php:24
+#: content-page.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:51
+#: functions.php:428
+#: image.php:37
+msgid "Edit"
+msgstr "Redaktə et"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "% Replies"
+msgstr "% Cavab"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 Cavab"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Bir cavab yazın"
+
+#: content-aside.php:20
+#: content-link.php:18
+#: content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr "%s üçün daimi bağlantı"
+
+#: content-aside.php:15
+#: content-image.php:13
+#: content-link.php:14
+#: content-quote.php:13
+#: content-status.php:31
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Oxumağa davam et <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Şərh üçün bağlıdır."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Yeni şərhlər &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Əski şərhlər"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Şərh naviqasiyası"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üçün bir cavab"
+msgstr[1] "&ldquo;%2$s&rdquo; üçün %1$s cavab"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "Kateqoriya Arxivləri: %s"
+
+#: author.php:63
+#: content.php:62
+msgid "About %s"
+msgstr "%s haqqında"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "Müəllifin arxivləri: %s"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Arxivlər"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "İ"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "İllik Arxivlər: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Fİ"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "Aylıq Arxivlər: %s"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "Günlük Arxivlər: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Axtardığınız səhifə tapılmadı. Bəlkə axtarış qutusu axtardığınızı tapmaqda sizə kömək edər."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Bir az utandırıcıdır, deyilmi?"

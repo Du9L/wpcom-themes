@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:57:46+00:00\n"
+"PO-Revision-Date: 2019-01-31 12:57:38+0000\n"
+"Language: my_MM\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:91
+msgid "White"
+msgstr "အဖြူ"
+
+#: functions.php:71
+msgid "Blue"
+msgstr "အပြာ"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/style.css
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "၂၀၁၂ အခင်းအကျင်းသည် မည်သည့်ကိရိယာတွင်မဆို လှပစွာတွေ့မြင်နိုင်သည့် တုံ့ပြန်လွယ်သော အခင်းအကျင်းတစ်ခုဖြစ်သည်။ လုပ်ဆောင်ချက်များတွင် ကိုယ်ပိုင် ဝစ်ဂျက်များပါဝင်သော ရှေ့စာမျက်နှာ တန်းပလိတ်ပါဝင်ပြီး၊ ဖော်ပြလိုသော ဖောင့်ရွေးချယ်နိုင်သည်။ အညွှန်းနှင့် တစ်ခုခြင်းကြည့်ရှုမှုများအားလုံးတွင် စာမူပုံစံအမျိုးအစားများအား စတိုင်ပုံစံထည့်သွင်းထားသည်။ ဘေးဘားမပါသော တန်းပလိတ်လည်း ရွေးချယ်နိုင်ရန် ပါဝင်သည်။ သင့်စိတ်ကြိုက်ပုံစံဖြစ်စေရန် စိတ်ကြိုက်မီနူးများ၊ ခေါင်းစီးရုပ်ပုံနှင့် နောက်ခံတို့ဖြင့် ပြုလုပ်နိုင်သည်။"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/front-page.php
+msgid "Front Page Template"
+msgstr "ရှေ့စာမျက်နှာ စံပုံစံ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/full-width.php
+msgid "Full-width Page Template, No Sidebar"
+msgstr "စာမျက်နှာအပြည့် စံပုံစံ၊ ဘေးခြမ်းမပါ"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "စကားစုတွဲ မှတ်တမ်းများ : %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "စိတ်မကောင်းပါ သင့် ရှာဖွမေှု စကားလုံးများနှင့် ကိုက်ညီသည်ကို မတွေ့ပါ။ အခြား သောချက်စကားလုံးများကို သုံးပြီး ပြန်ကြိုးစားကြည့်ပါ။"
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "သင့်ပထမဆုံးစာမူကို ထုတ်ဝေရန် အသင့်ဖြစ်ပြီလား။ <a href=\"%s\">ဒီကနေစပါ</a>။"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s အတွက် ရှာဖွေ တွေ့ရှိမှု ရလဒ်များ"
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "ပြရန် စာမူမရှိပါ"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "ရှေ့ဆက်သွား &rarr;"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; နောက်ပြန်သွား"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<a href=\"%6$s\" title=\"%7$s သို့ပြန်သွား\" rel=\"gallery\">%8$s</a> တွင် <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> အရွယ်ဖြင့်  <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> ၌ <span class=\"meta-prep meta-prep-entry-date\">လွှင့်တင်ခဲ့သည်</span>"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "စာကိုယ်ပိုင်းသို့ သွားရန်"
+
+#: header.php:44
+msgid "Menu"
+msgstr "မီနူး"
+
+#: functions.php:475
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "<span class=\"by-author\">%4$s က</span>.%3$s တွင် %1$s ၌ ရေးတင်ခဲ့သည်။"
+
+#: functions.php:477
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "<span class=\"by-author\">%4$s က</span>.%3$s တွင် ရေးတင်ခဲ့သည်။"
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:473
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "<span class=\"by-author\">%4$s က</span>.%3$s တွင် %2$s ဖြင့် စကားစုတွဲထားပြီး %1$s ၌ ရေးတင်ခဲ့သည်။"
+
+#: functions.php:467
+msgid "View all posts by %s"
+msgstr "%s ရေးသော စာမူအားလုံးကို ကြည့်ရန်"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:453
+#: functions.php:456
+msgid ", "
+msgstr "၊ "
+
+#: functions.php:432
+msgid "Reply"
+msgstr "တုံ့ပြန်ရန်"
+
+#: functions.php:423
+msgid "Your comment is awaiting moderation."
+msgstr "သင့်မှတ်ချက်သည် စစ်ဆေးမှု ခံယူရန် စောင့်ဆိုင်းနေသည်။"
+
+#. translators: 1: date, 2: time
+#: functions.php:417
+msgid "%1$s at %2$s"
+msgstr "%1$s နေ့ %2$s အချိန်"
+
+#: functions.php:411
+msgid "Post author"
+msgstr "စာမူရေးသူ"
+
+#: functions.php:396
+msgid "(Edit)"
+msgstr "(ပြုပြင်)"
+
+#: functions.php:396
+msgid "Pingback:"
+msgstr "ချိတ်ဆက်မှု သတင်းပို့ချက် :"
+
+#: functions.php:371
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "စာမူ အသစ်များ <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:370
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> စာမူ အဟောင်းများ"
+
+#: functions.php:369
+#: single.php:20
+msgid "Post navigation"
+msgstr "စာမူ လမ်းကြောင်းပြ"
+
+#: functions.php:347
+msgid "Second Front Page Widget Area"
+msgstr "ဒုတိယ ရှေ့စာမျက်နှာ ဝစ်ဂျက် ဧရိယာ"
+
+#: functions.php:329
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "ကိုယ်ပိုင် ဝစ်ဂျက်များ ပါဝင်သော အပိုရှေ့စာမျက်နှာ တန်းပလိတ်မှလွဲ၍ စာမူများ စာမျက်နှာများတွင် ပေါ်သည်။"
+
+#: functions.php:339
+#: functions.php:349
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "မူသေ ရှေ့စာမျက်နှာအဖြစ်  အပိုရှေ့စာမျက်နှာ တန်းပလိတ်ကို သုံးထားသော စာမျက်နှာတစ်ခုကို သတ်မှတ်ထားသောအခါ ပေါ်သည်။"
+
+#: functions.php:337
+msgid "First Front Page Widget Area"
+msgstr "ပထမ ရှေ့စာမျက်နှာ ဝစ်ဂျက် ဧရိယာ"
+
+#: functions.php:327
+msgid "Main Sidebar"
+msgstr "အဓိက ဘေးဘားတန်း"
+
+#: functions.php:297
+msgid "Page %s"
+msgstr "စာမျက်နှာ %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:151
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:145
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:105
+msgid "Primary Menu"
+msgstr "အဓိက မီနူး"
+
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "%s မှ ကူညီထောက်ပံ့ပေးထားသည်။"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic ပုဂ္ဂလိက ပုံနှိပ်ဖြန့်ချိရေး ပလက်ဖောင်း"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s ၏ စာမူအားလုံးကို ကြည့်ရန် <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "အထူးစာမူ"
+
+#: content-none.php:17
+#: index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "တောင်းပန်ပါတယ်၊ မည်သည့်ရလဒ်မျှ မတွေ့ပါ။ ဆက်စပ် စာမူများကိုတွေ့နိုင်ရန် ရှာဖွြခေင်းက အကူအညီရနိုင်ပါသည်။"
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:102
+msgid "Pages:"
+msgstr "စာမျက်နှာများ :"
+
+#: content-none.php:13
+#: index.php:49
+#: search.php:34
+msgid "Nothing Found"
+msgstr "ဘာမှ မတွေ့ပါ"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "ချိတ်ဆက်လိပ်စာ"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "% Replies"
+msgstr "တုံ့ပြန်မှု % ခု"
+
+#: content-aside.php:26
+#: content-image.php:26
+#: content-link.php:24
+#: content-page.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:51
+#: functions.php:428
+#: image.php:37
+msgid "Edit"
+msgstr "ပြုပြင်ရန်"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "1 Reply"
+msgstr "တုံ့ြ့ပန်မှု ၁ ခု"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "Leave a reply"
+msgstr "တုံ့ပြန်မှု တစ်ခုထားခဲ့ပါ"
+
+#: content-aside.php:20
+#: content-link.php:18
+#: content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr "%s သို့ အမြဲချိတ်ဆက်လိပ်စာ"
+
+#: content-aside.php:15
+#: content-image.php:13
+#: content-link.php:14
+#: content-quote.php:13
+#: content-status.php:31
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ဆက်ဖတ်မည် <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "မှတ်ချက်ပေးခြင်းကို ပိတ်ထားသည်။"
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "မှတ်ချက် အသစ်များ &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; မှတ်ချက် အဟောင်းများ"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "မှတ်ချက် လမ်းကြောင်းပြများ"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; အတွက် အတွေးတစ်ချက်"
+msgstr[1] "&ldquo;%2$s&rdquo; အတွက် အတွေးများ %1$s"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "ကဏ္ဍ မှတ်တမ်းများ : %s"
+
+#: author.php:63
+#: content.php:62
+msgid "About %s"
+msgstr "%s အကြောင်း"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "ရေးသူ မှတ်တမ်းများ : %s"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "မှတ်တမ်းများ"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "နှစ်အလိုက် မှတ်တမ်းများ : %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "လ အလိုက် မှတ်တမ်းများ : %s"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "နေ့စဉ် မှတ်တမ်းများ : %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "သင်တွေ့လိုသည်ကို ကွျန်ုပ်တို့ ရှာမတွေ့ပါ။ ရှာဖွြခေင်းမှ အကူအညီရနိုင်လောက်သည်။"
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "ဒါက နည်းနည်း ရှက်ဖို့ကောင်းတယ် မဟုတ်ဘူးလား ?"

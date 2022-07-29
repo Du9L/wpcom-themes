@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:57:46+00:00\n"
+"PO-Revision-Date: 2021-01-08 01:47:24+0000\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:434
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Dein Kommentar wartet auf die Moderation. Dies ist eine Vorschau, dein Kommentar wird sichtbar, nachdem er genehmigt wurde."
+
+#: functions.php:93
+msgid "White"
+msgstr "Weiss"
+
+#: functions.php:88
+msgid "Light Gray"
+msgstr "Hellgrau"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "Blau"
+
+#: functions.php:78
+msgid "Dark Gray"
+msgstr "Dunkelgrau"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/front-page.php
+msgid "Front Page Template"
+msgstr "Startseiten Template"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/full-width.php
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Seitentemplate mit voller Breite, keine Sidebar"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/style.css
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Das 2012 Theme für WordPress ist ein komplett adaptives Theme (responsive theme), das auf jedem Ausgabegerät gut aussieht. Zu den Merkmalen gehören eine Startseiten-Vorlage mit eigenen Widgets, eine optionale Display-Schrift, Styling für Beitrags-Formate auf der Übersichts- und der Beitrags-Ansicht und eine optionale Seiten-Vorlage ohne Sidebar. Passe Menü, Header-Bild und Hintergrund deinen Vorstellungen an."
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Schlagwort-Archive: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Mit den Suchkriterien wurden leider nichts gefunden. Bitte mit anderen Suchbegriffen erneut suchen."
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Bereit den ersten Beitrag zu veröffentlichen? <a href=\"%s\">Hier geht es los</a>!"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "Keine Beiträge zum Anzeigen"
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "Weiter &rarr;"
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; Zurück"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:506
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dieser Eintrag wurde veröffentlicht in %1$s am %3$s<span class=\"by-author\"> von %4$s</span>."
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:509
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dieser Eintrag wurde veröffentlicht am %3$s<span class=\"by-author\"> von %4$s</span>."
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menü"
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:503
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dieser Eintrag wurde veröffentlicht in %1$s und getaggt mit %2$s am %3$s<span class=\"by-author\"> von %4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:484
+msgid ", "
+msgstr ", "
+
+#: functions.php:453
+msgid "Reply"
+msgstr "Antwort"
+
+#: functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar muss noch freigeschaltet werden."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:424
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: functions.php:418
+msgid "Post author"
+msgstr "Autor"
+
+#: functions.php:403
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:377
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Beiträge"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "Zweiter Startseiten-Widget-Bereich"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: functions.php:336
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Erscheint auf Beiträgen und Seiten, außer der optionalen Startseiten-Vorlage, welche ihre eigenen Widgets hat"
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "Erster Startseiten-Widget-Bereich"
+
+#: functions.php:346
+#: functions.php:356
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Erscheint, wenn die optionale Startseiten-Vorlage mit einer Seite als statischer Startseite genutzt wird"
+
+#: functions.php:334
+msgid "Main Sidebar"
+msgstr "Allgemeine Sidebar"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "Seite %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:155
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing Platform"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Zeige alle Beiträge von %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Hervorgehobener Beitrag"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Entschuldigung, aber es konnten keine Suchergebnisse gefunden werden. Vielleicht hilft eine Suche einen geeigneten Beitrag zu finden."
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden."
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Link"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "% Antworten"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:444
+#: image.php:39
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 Antwort"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Kommentar verfassen"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Die Kommentarfunktion ist geschlossen."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s Gedanken zu &bdquo;%2$s&ldquo;"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Archiv der Kategorie: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:73
+#: content.php:68
+msgid "About %s"
+msgstr "Über %s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Archiv des Autors: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archiv"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Archiv für das Jahr %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Archiv für den Monat %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Archiv für den Tag %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wie es scheint, kann das Gesuchte nicht gefunden werden. Vielleicht hilft die Suchfunktion."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ups, diesen Inhalt gibt es wohl nicht."

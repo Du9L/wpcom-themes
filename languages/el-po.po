@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:57:46+00:00\n"
+"PO-Revision-Date: 2015-03-25 04:04:53+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Ἀρχεῖα ἐτικέττας: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Λυπούμεθα, ἀλλὰ τίποτα δὲν ταίριαζε μ' αὐτὸ ποὺ ψάχνετε. Παρακαλοῦμε ξαναδοκιμάστε μὲ διαφορετικὲς λέξεις."
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Ἕτοιμος/-η νὰ δημοσιεύσετε τὸ πρῶτο σας ἄρθρο; <a href=\"%s\">Ξεκινῆστε ἀπὸ δῶ</a>."
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Ἀναζήτηση ἀποτελεσμάτων γιά: %s"
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "Δὲν ὑπάρχουν ἄρθρα νὰ προβάλετε"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Ἑπόμενο &rarr;"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Προηγούμενα"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Δημοσιεύθηκε στὶς </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> σὲ διαστάσεις <a href=\"%3$s\" title=\"Σύνδεση μὲ τὴν εἰκόνα στὸ κανονικό της μέγεθος\">%4$s &times; %5$s</a> στην συλλογὴ <a href=\"%6$s\" title=\"Ἐπιστρέψτε στὴν συλλογὴ %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Πηγαίνετε στὸ περιεχόμενο τοῦ ἱστολογίου"
+
+#: functions.php:393
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Καταχωρίσθηκε στὸ %1$s στὶς %3$s ἀπὸ τὸν/τὴν <span class=\"by-author\">%4$s</span>."
+
+#: functions.php:395
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Καταχωρίσθηκε στὶς %3$s<span class=\"by-author\"> ἀπὸ τὸν/τὴν %4$s</span>."
+
+#: header.php:44
+msgid "Menu"
+msgstr "Μενού"
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:391
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Καταχωρίσθηκε ἀπὸ τὸν/τὴν <span class=\"by-author\"> %4$s</span> στὸ %1$s στὶς %3$s καὶ σημειώθηκε ὡς %2$s."
+
+#: functions.php:385
+msgid "View all posts by %s"
+msgstr "Δεῖτε ὅλες τὶς καταχωρίσεις τοῦ/τῆς %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:371
+#: functions.php:374
+msgid ", "
+msgstr ","
+
+#: functions.php:350
+msgid "Reply"
+msgstr "Ἀπάντηση"
+
+#: functions.php:341
+msgid "Your comment is awaiting moderation."
+msgstr "Τὸ σχόλιό σας περιμένει ἔλεγχο γιὰ ἐνδεχόμενες ἀκρότητες."
+
+#. translators: 1: date, 2: time
+#: functions.php:335
+msgid "%1$s at %2$s"
+msgstr "%1$s,  %2$s "
+
+#: functions.php:329
+msgid "Post author"
+msgstr "Συγγραφέας"
+
+#: functions.php:314
+msgid "(Edit)"
+msgstr "(Ἐπεξεργασθῆτε)"
+
+#: functions.php:314
+msgid "Pingback:"
+msgstr "Αὐτόματη εἰδοποίηση σύνδεσης:"
+
+#: functions.php:289
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Νεώτερα ἄρθρα <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:288
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Παλαιότερα ἄρθρα"
+
+#: functions.php:265
+msgid "Second Front Page Widget Area"
+msgstr "Δεύτερη περιοχὴ προσθηκῶν πρώτης σελίδας"
+
+#: functions.php:287
+#: single.php:20
+msgid "Post navigation"
+msgstr "Περιήγηση ἄρθρων"
+
+#: functions.php:255
+msgid "First Front Page Widget Area"
+msgstr "Πρώτη περιοχὴ προσθηκῶν πρώτης σελίδας"
+
+#: functions.php:245
+msgid "Main Sidebar"
+msgstr "Κύρια πλαϊνὴ στήλη"
+
+#: functions.php:215
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Πρωτεῦον μενού"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Λειτουργεῖ μὲ τὴν βοήθεια τοῦ %s"
+
+#: footer.php:16
+msgid "Semantic Personal Publishing Platform"
+msgstr "Πλατφόρμα σημασιολογικῶν προσωπικῶν ἐκδόσεων"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Δεῖτε ὅλα τὰ ἄρθρα τοῦ/τῆς %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Προτεινόμενο ἄρθρο"
+
+#: content-none.php:17
+#: index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Λυπούμεθα, ἀλλὰ δὲν βρήκαμε κάτι. Ἴσως βρῆτε σχετικὸ ἄρθρο μὲ μιὰ ἀναζήτηση.."
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:102
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: content-none.php:13
+#: index.php:49
+#: search.php:34
+msgid "Nothing Found"
+msgstr "Οὑδὲν εὑρέθη!"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "% Replies"
+msgstr "% ἀπαντήσεις"
+
+#: content-aside.php:26
+#: content-image.php:26
+#: content-link.php:24
+#: content-page.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:51
+#: functions.php:346
+#: image.php:37
+msgid "Edit"
+msgstr "Ἐπεξεργασία"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 ἀπάντηση"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:37
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Ἀπαντῆστε"
+
+#: content-aside.php:20
+#: content-link.php:18
+#: content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr "Μόνιμος σύνδεσμος πρὸς %s"
+
+#: content-aside.php:15
+#: content-image.php:13
+#: content-link.php:14
+#: content-quote.php:13
+#: content-status.php:31
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Ἡ ὑποβολὴ σχολίων ἔχει κλείσει."
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια &rarr;"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Παλαιότερα σχόλια"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "Πλοήγηση στὰ σχόλια"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "Ἀρχεῖα κατηγορίας: %s"
+
+#: author.php:63
+#: content.php:62
+msgid "About %s"
+msgstr "Περὶ τοῦ/τῆς: %s"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "Ἀρχεῖα συγγραφέως: %s "
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Ἀρχεῖα"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "Ἐτήσια Ἀρχεῖα: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "Μηνιαία Ἀρχεῖα: %s "
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "Ἡμερήσια ἀρχεῖα: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Μᾶλλον δὲν μποροῦμε νὰ βροῦμε αὐτὸ ποὺ ψάχνετε. Ἴσως βοηθήσει μιὰ ἀναζήτηση."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Αὐτὸ εἶναι λίγο περίεργο, ἢ μήπως ὄχι;"

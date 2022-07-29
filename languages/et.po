@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:57:46+00:00\n"
+"PO-Revision-Date: 2021-01-10 10:37:43+0000\n"
+"Language: et_EE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:434
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Kommentaar ootab läbivaatamist. See on eelvaade, kommentaar avaldatakse peale heakskiitmist."
+
+#: functions.php:93
+msgid "White"
+msgstr "Valge"
+
+#: functions.php:88
+msgid "Light Gray"
+msgstr "Helehall"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "Sinine"
+
+#: functions.php:83
+msgid "Medium Gray"
+msgstr "Hall"
+
+#: functions.php:78
+msgid "Dark Gray"
+msgstr "Tumehall"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/style.css
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Aasta 2012 WordPressi teema on <italic>responsive</italic> ja näeb hea välja igal seadmel. Võimaluste hulgast leiab esilehe põhja koos omade moodulitefa, valikulise fondi, postituse formaatide toe üksiku ja mitme postituse vaate jaoks ning küljepaanideta lehepõhja. Kohanda see endale sobivaks menüü, päisepildi ja taustaga."
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/front-page.php
+msgid "Front Page Template"
+msgstr "Esilehe mall"
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Sildiarhiiv: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Kahjuks ei leitud sinu otsingukriteeriumidele mitte ühtegi vastet. Palun proovi uuesti erinevate otsisõnadega. "
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Otsingu tulemused: %s"
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Oled valmis esimest postitust avalikustama? <a href=\"%s\">Alusta siit</a>."
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "Pole sissekandeid, mida näidata."
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "Järgmine &rarr;"
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; eelmine"
+
+#. translators: 1: Date, 2: Date, 3: Attachment URL, 4: Image width in pixels,
+#. 5: Image height in pixels, 6: Post parent permalink, 7: Post parent title,
+#. 8: Post parent title.
+#: image.php:28
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Go to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Avaldatud </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> <a href=\"%3$s\" title=\"Link full-size pildile\">%4$s x %5$s</a> <a href=\"%6$s\" title=\"Tagasi %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Sisu juurde edasi"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menüü"
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:509
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Selle sissekande on avaldanud %3$s<span class=\"by-author\">%4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "Vaata %s kõiki postitusi"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:484
+msgid ", "
+msgstr ", "
+
+#: functions.php:453
+msgid "Reply"
+msgstr "Vasta"
+
+#: functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr "Sinu kommentaar ootab modereerimist"
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:424
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: functions.php:418
+msgid "Post author"
+msgstr "Postituse autor"
+
+#: functions.php:403
+msgid "(Edit)"
+msgstr "(Muuda)"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "Pingback-viide:"
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Uuemad postitused <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "Navigeerimine"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "Teine esilehe mooduliala"
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "Esimene esilehe mooduliala"
+
+#: functions.php:334
+msgid "Main Sidebar"
+msgstr "Peamine külgriba"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "Lehekülg %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:155
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "alamhulka pole määratud"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "sees"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "Peamenüü"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Kasutame %si"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantiline avaldamisplatvorm"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vaata postitusi (sorteeritud: %s) <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Peamine postitus"
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "Lehed:"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Vabandust, kuid soovitut ei leitud. Ehk aitab otsing leida midagi ligilähedast."
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "Midagi ei leitud"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Viide"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:444
+#: image.php:39
+msgid "Edit"
+msgstr "Muuda"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "% vastust"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 vastus"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Lisa kommentaar"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "Püsiviide lehele %s"
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Jätka lugemist <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Kommenteerimine on suletud."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Uuemad kommentaarid &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanemad kommentaarid"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Kommentaarides liikumine"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Üks mõte &ldquo;%2$s&rdquo; kohta"
+msgstr[1] "%1$s mõtet &ldquo;%2$s&rdquo;  kohta"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Rubriigi arhiiv: %s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Autori arhiivid: %s "
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Arhiiv"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Arhiiv aastate lõikes: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Arhiiv kuude lõikes: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Arhiiv kuupäevade lõikes: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Paistab, et me ei leia otsitut. Ehk aitab otsing."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "See on nüüd veidi piinlik, kas pole?"

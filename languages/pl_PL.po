@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:57:46+00:00\n"
+"PO-Revision-Date: 2021-01-08 01:47:24+0000\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:434
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Komentarz czeka na zatwierdzenie. To jest podgląd komentarza, który będzie widoczny po jego zatwierdzeniu."
+
+#: functions.php:93
+msgid "White"
+msgstr "Biały"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "Niebieski"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/style.css
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Motyw 2012 jest w pełni responsywny i świetnie wygląda na różnych urządzeniach. Szerokie możliwości konfiguracji: własny szablon strony głównej z własnymi widgetami, wybór kroju czcionki, zmiany wyglądu wpisów na podstawie ich typów obejmuje zarówno tryb pojedynczego wpisu jak i wyświetlanie na listach oraz opcjonalny szablon bez panelu bocznego. Dodatkowo można ustawić własne: menu czy obrazek w nagłówku oraz wybrać tło."
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Archiwa tagu: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Przepraszamy, ale nic nie zostało dopasowane do Twoich kryteriów wyszukiwania. Proszę spróbować ponownie, korzystając z innych słów kluczowych."
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Czy chcesz opublikować swój pierwszy wpis? <a href=\"%s\">Kliknij tutaj</a>."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla zapytania &#8222;%s&#8221;"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "Brak wpisów"
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "Następny &rarr; "
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; Poprzednie"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Przeskocz do treści"
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:506
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Ten wpis został opublikowany w %1$s dnia %3$s, <span class=\"by-author\">przez %4$s</span>."
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:509
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Ten wpis został opublikowany dnia %3$s, <span class=\"by-author\">przez %4$s</span>."
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:503
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Wpis opublikowany w %1$s i otagowany %2$s %3$s<span class=\"by-author\"> przez %4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "Zobacz wszystkie wpisy, których autorem jest %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:484
+msgid ", "
+msgstr ", "
+
+#: functions.php:453
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:424
+msgid "%1$s at %2$s"
+msgstr "%1$s o %2$s"
+
+#: functions.php:418
+msgid "Post author"
+msgstr "Autor wpisu"
+
+#: functions.php:403
+msgid "(Edit)"
+msgstr "(Edytuj)"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze wpisy <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:377
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze wpisy"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "Drugi obszar widgetu strony tytułowej"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "Zobacz wpisy"
+
+#: functions.php:336
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Pojawia się na wpisach i stronach, z wyjątkiem opcjonalnego szablonu strony tytułowej, która ma swoje własne widgety."
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "Pierwszy obszar widgetu strony tytułowej"
+
+#: functions.php:346
+#: functions.php:356
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Pojawia się przy użyciu opcjonalnego szablon strony głównej z wybraną stroną statyczną"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "Strona %s."
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "Menu główne"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez WordPressa"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantyczną, osobistą platformę publikacyjną"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Zobacz wszystkie wpisy, których autorem jest %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Wyróżniony wpis"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Przepraszamy, ale niczego nie znaleziono. Być może użycie wyszukiwarki przyniesie oczekiwany rezultat."
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "Strony:"
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Odnośnik"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "% odpowiedzi"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:444
+#: image.php:39
+msgid "Edit"
+msgstr "Edytuj"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 odpowiedź"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Dodaj komentarz"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "Bezpośredni odnośnik do %s"
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Nawigacja po komentarzach"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentarz do &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentarze do &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentarzy do &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Archiwum kategorii: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:73
+#: content.php:68
+msgid "About %s"
+msgstr "Informacje o %s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Archiwum autora: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archiwa"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Roczne archiwa: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Archiwa miesięczne: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Archiwum dnia: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Jest to trochę krępujące, nieprawdaż?"

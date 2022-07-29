@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-01T03:24:29+00:00\n"
+"PO-Revision-Date: 2021-01-08 10:56:28+0000\n"
+"Language: cy_GB\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:435
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Mae'ch sylw yn disgwyl ei gymedroli. Rhagolwg yw hon, bydd eich sylw yn weladwy ar ôl iddo gael ei gymeradwyo."
+
+#. translators: %s: The post title.
+#: comments.php:34
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un sylw ar &ldquo;%s&rdquo;"
+
+#: functions.php:93
+msgid "White"
+msgstr "Gwyn"
+
+#: functions.php:88
+msgid "Light Gray"
+msgstr "Llwyd Golau"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "Glas"
+
+#: functions.php:78
+msgid "Dark Gray"
+msgstr "Llwyd Tywyll"
+
+#. Description of the theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Mae thema 2012 WordPress yn thema ymatebol lawn sy'n edych yn dda ar unrhyw ddyfais. Mae'r nodweddion yn cynnwys templed tudalen flaen gyda'i theclynnau ei hun, ffont dangos dewisol, arddullio ar gyfer fformat cofnod ar y golwg mynegai a sengl, a thempled tudalen dim bar ochr dewisol. Addaswch hwn gyda dewislen gyfaddas, delwedd a chefndir pennyn eich hun."
+
+#. Template Name of the theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Templed Tudalen Lled Llawn, Dim Bar Ochr"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Templed Tudalen Flaen"
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Tag Archif: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Ymddiheuriadau, ond does dim yn cyfateb i'r meini prawf chwilio. Ceisiwch eto gyda geiriau gwahanol."
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Parod i gyhoeddi eich blog cyntaf? <a href=\"%s\">Cychwyn fan hyn</a>."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Canlyniadau Chwilio: %s"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "Dim cofnodion i'w dangos"
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "Nesaf &rarr;"
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; Blaenorol"
+
+#. translators: 1: Date, 2: Date, 3: Attachment URL, 4: Image width in pixels,
+#. 5: Image height in pixels, 6: Post parent permalink, 7: Post parent title,
+#. 8: Post parent title.
+#: image.php:28
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Go to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Cyhoeddwyd </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> ar <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> yn <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Neidio i'r cynnwys"
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:507
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Cofnodwyd hwn yn %1$s ar %3$s<span class=\"by-author\"> gan %4$s</span>."
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:510
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Cofnodwyd hwn ar %3$s<span class=\"by-author\"> gan %4$s</span>."
+
+#: header.php:45
+msgid "Menu"
+msgstr "Dewislen"
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:504
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Cofnodwyd hwn yn %1$s a'i dagio %2$s ar %3$s<span class=\"by-author\"> gan %4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:498
+msgid "View all posts by %s"
+msgstr "Gweld pob cofnod gan %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:482
+#: functions.php:485
+msgid ", "
+msgstr ", "
+
+#: functions.php:454
+msgid "Reply"
+msgstr "Ateb"
+
+#: functions.php:433
+msgid "Your comment is awaiting moderation."
+msgstr "Mae dy sylw'n disgwyl ei gymedroi."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:425
+msgid "%1$s at %2$s"
+msgstr "%1$s yn %2$s"
+
+#: functions.php:419
+msgid "Post author"
+msgstr "Awdur cofnod"
+
+#: functions.php:404
+msgid "(Edit)"
+msgstr "(Golygu)"
+
+#: functions.php:404
+msgid "Pingback:"
+msgstr "Hysbysiad:"
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Cofnodion mwy diweddar <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:377
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Cofnodion hŷn"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "Ail Ardal Teclyn Tudalen Flaen Teclynnau"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "Llywio cofnod"
+
+#: functions.php:336
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Yn ymddangos ar gofnodion a thudalennau ar wahân i'r templed Tudalen Flaen dewisol, sydd a'i theclynnau ei hun"
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "Ardal Gyntaf Teclyn Tudalen Flaen Teclynnau"
+
+#: functions.php:346
+#: functions.php:356
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Yn ymddangos pan yn defnyddio'r templed Tudalen Flaen dewisol gyda tudalen wedi ei gosod fel Tudalen Flaen Statig"
+
+#: functions.php:334
+msgid "Main Sidebar"
+msgstr "Prif Far Ochr"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "Tudalen %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:155
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ar"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "Dewislen Cynradd"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Yn falch o gael ei bweru gan %s"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Platfform Cyhoeddi Semantig Personol"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Gweld pob cofnod gan %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Cofnod nodwedd"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Ymddiheuriadau, ond doedd dim canlyniadau ar gael. Efallai y byddai chwilio yn helpu i ddod o hyd i gofnod cysylltiedig."
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Dolen"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "% Ateb"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:445
+#: image.php:39
+msgid "Edit"
+msgstr "Golygu"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 Ateb"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Gadael Ymateb"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "Dolen barhaol i %s"
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Parhau i ddarllen <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Sylwadau ar gau."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Cofnodion Diweddarach &raquo;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&laquo; Cofnodion Hŷn"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Llywio Sylwadau"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un sylw ar &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[2] ""
+msgstr[3] ""
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Archifau Categori: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:73
+#: content.php:68
+msgid "About %s"
+msgstr "Ynghylch %s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Archif Awdur: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archifau"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Archifau Blynyddol: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Archifau Misol: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Archifau Dyddiol: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Mae'n ymddangos nad ydych yn gallu canfod yr hyn rydych yn chwilio amdano. Efallai y gall chwilio fod o gymorth."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Mae hyn bach yn embaras?"

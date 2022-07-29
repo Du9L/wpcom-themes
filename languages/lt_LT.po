@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:57:46+00:00\n"
+"PO-Revision-Date: 2021-01-08 01:47:24+0000\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:434
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Jūsų komentaras laukia patvirtinimo. Tai yra komentaro peržiūra Jums, o kitiems jis bus matomas po patvirtinimo."
+
+#: functions.php:88
+msgid "Light Gray"
+msgstr "Šviesiai pilka"
+
+#: functions.php:93
+msgid "White"
+msgstr "Balta"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "Mėlyna"
+
+#: functions.php:78
+msgid "Dark Gray"
+msgstr "Tamsiai pilka"
+
+#: functions.php:83
+msgid "Medium Gray"
+msgstr "Pilka"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/full-width.php
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Pilno pločio šablonas, be šoninės juostos"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/front-page.php
+msgid "Front Page Template"
+msgstr "Pradžios puslapio šablonas"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/style.css
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "2012 – puikiai prie bet kokio dydžio ekrano prisitaikanti tema. Ji turi specialų pradžios puslapio dizainą su jam skirtais valdikliais, pasirenkamą šriftą, skirtingus stilius įrašų formatams. Taip pat galėsite pasirinkti šabloną be šoninės juostos, susikurti savo meniu, įkelti antraštės paveikslėlį ir savaip priderinti foną."
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Žymų Archyvai: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai: %s"
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%s\">Pradėkite nuo čia</a>."
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "Įrašų nėra"
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "Kitas &rarr;"
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; Ankstesnis"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Pereiti prie turinio"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Meniu"
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:509
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "%3$s <span class=\"by-author\">| Paskelbė: %4$s</span>"
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:506
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Kategorijos: %1$s | %3$s <span class=\"by-author\">| Paskelbė: %4$s</span>"
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:503
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Kategorijos: %1$s | Žymos: %2$s | %3$s <span class=\"by-author\">| Paskelbė: %4$s</span>"
+
+#. translators: %s: Author display name.
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "Peržiūrėti visus įrašus, kuriuos paskelbė %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:484
+msgid ", "
+msgstr ", "
+
+#: functions.php:453
+msgid "Reply"
+msgstr "Atsakyti"
+
+#: functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras laukia patvirtinimo."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:424
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:418
+msgid "Post author"
+msgstr "Įrašo autorius(-ė)"
+
+#: functions.php:403
+msgid "(Edit)"
+msgstr "(Redaguoti)"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "Atgalinis pranešimas:"
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Naujesni įrašai <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:377
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Senesni įrašai"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "Įrašo navigacija"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "Antroji pradžios puslapio sritis"
+
+#: functions.php:346
+#: functions.php:356
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Rodoma pasirinkus pradžios puslapio šabloną"
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "Pirmoji pradžios puslapio sritis"
+
+#: functions.php:336
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Rodoma šalia įrašų ir puslapių (išskyrus pradžios puslapio šabloną, kuris turi savo valdiklius)"
+
+#: functions.php:334
+msgid "Main Sidebar"
+msgstr "Pagrindinė valdiklių sritis"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "Puslapis %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:155
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantinė Asmeninės Leidybos Sistema"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Peržiūrėti visus %s įrašus <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Rekomenduojamas įrašas"
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Deja, rasti nepavyko. Pabandykite pasinaudoti paieška."
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "Nieko nerasta"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Nuoroda"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:444
+#: image.php:39
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "Komentarų: %"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "Komentarų: 1"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Parašykite komentarą"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "Tiesioginė „%s“ nuoroda"
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaitykite toliau <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Naujesni komentarai &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Senesni komentarai"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Įrašo &ldquo;%2$s&rdquo; komentarų: %1$s"
+msgstr[1] "Įrašo &ldquo;%2$s&rdquo; komentarai: %1$s"
+msgstr[2] "Įrašo &ldquo;%2$s&rdquo; komentarų: %1$s"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Temos Archyvai: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:73
+#: content.php:68
+msgid "About %s"
+msgstr "%s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Autoriaus Archyvai: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archyvai"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Metų archyvas: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Mėnesio archyvas: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Dienos archyvas: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nepavyko rasti ieškomo puslapio. Galbūt Jums padės paieška."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ieškomas puslapis nerastas"

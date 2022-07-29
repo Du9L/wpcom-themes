@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-01T03:24:19+00:00\n"
+"PO-Revision-Date: 2021-01-08 01:47:24+0000\n"
+"Language: ug_CN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:434
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "باھايىڭىز تەستىقلىنىشنى كۈتىۋاتىدۇ. بۇ ئالدىن كۆرۈش، باھايىڭىز تەستىقلانغاندىن كىيىن ئاندىن كۆرۈنىدۇ."
+
+#: functions.php:93
+msgid "White"
+msgstr "ئاق"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "كۆك"
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "خەتكۈش بويىچە ئارخىپلار: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&larr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&rarr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "كەچۈرۈڭ، ئىزدىگەن مەزمۇنىڭىزغا ماس ھېچنەرسە تېپىلمىدى. باشقا ھالقىلىق سۆزلەر بىلەن قايتا سىناپ بېقىڭ."
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "تۇنجى يازمىڭىزنى يوللاشقا تەييار بولدىڭىزمۇ؟ <a href=\"%s\">بۇ يەردىن باشلاڭ</a>."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "ئىزدەش نەتىجىسى: %s"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "كۆرسىتىلىدىغان يازما يوق"
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "كېيىنكى &rarr;"
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; ئالدىنقى"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "مەزمۇنغا ئاتلاش"
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:506
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "بۇ يازما <span class=\"by-author\">%4$s</span> تەرىپىدىن %1$s %3$s دە يېزىلدى."
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:509
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "بۇ يازما <span class=\"by-author\">%4$s</span> تەرىپىدىن %3$s دە يېزىلدى."
+
+#: header.php:45
+msgid "Menu"
+msgstr "تىزىملىك"
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:503
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "بۇ يازما <span class=\"by-author\">%4$s</span> تەرىپىدىن %1$s گە چاپلىنىپ، %2$s %3$s دە خەتكۈش سېلىندى."
+
+#. translators: %s: Author display name.
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "«%s»نىڭ بارلىق يازمىلىرىنى كۆرۈش"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:484
+msgid ", "
+msgstr "،"
+
+#: functions.php:453
+msgid "Reply"
+msgstr "جاۋاب"
+
+#: functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr "باھايىڭىز تەستىق كۈتۈۋاتىدۇ."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:424
+msgid "%1$s at %2$s"
+msgstr "%1$s سائەت %2$s"
+
+#: functions.php:418
+msgid "Post author"
+msgstr "يازما ئاپتورى"
+
+#: functions.php:403
+msgid "(Edit)"
+msgstr "(تەھرىرلەش)"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "قايتما:"
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "يېڭىراق يازمىلار <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:377
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> كونىراق يازمىلار"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "ئىككىنچى «ئالدى بەت» كىچىك قورالى رايونى"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "يازما يولباشچىسى"
+
+#: functions.php:336
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "ئۆزىنىڭ كىچىك قورالى بولغان ئىختىيارى «ئالدى بەت» قېلىپى بولمىغان يازما ۋە بەتلەر كۆرۈنسۇن"
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "تۇنجى «ئالدى بەت» كىچىك قورالى رايونى"
+
+#: functions.php:346
+#: functions.php:356
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "«تىنچ ئالدى بەت» بولغان ئىختىيارى «ئالدى بەت» قېلىپىنى ئىشلەتكەندە كۆرۈنسۇن."
+
+#: functions.php:334
+msgid "Main Sidebar"
+msgstr "ئاساسىي يانبالداق"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "بەت %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:155
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "تېمىسىز"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ئاچ"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "ئاساسىي تىزىملىك"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "پەخىرلىك %s تە قۇرۇلدى."
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "دەۋرنىڭ ئالدىدا ماڭىدىغان شەخسىي نەشرىيات سۇپىسى"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "«%s»نىڭ بارلىق يازمىلىرىنى كۆرۈش <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "تەۋسىيەلىك يازما"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "ئىنتايىن خىجىلمىز، ئەمما ھېچقانداق نەتىجە تېپىلمىدى. بەلكىم ئىزدەش مۇناسىۋەتلىك يازمىلارنى تېپىپ بېرەلەيدۇ."
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "بەتلەر:"
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "ھېچنېمە تېپىلمىدى"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "ئۇلانما"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "<b>%</b> جاۋاب"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:444
+#: image.php:39
+msgid "Edit"
+msgstr "تەھرىرلەش"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "<b>1</b> جاۋاب"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "جاۋاب يېزىش"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "%s نىڭ مۇقىم ئۇلانمىسى"
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "داۋامىنى ئوقۇش <span class=\"meta-nav\">&larr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "باھا يېزىش چەكلەنگەن."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "يېڭىراق باھالار &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; كونىراق باھالار"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "باھا يولباشچىسى"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "كاتېگورىيە ئارخىپلىرى: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:73
+#: content.php:68
+msgid "About %s"
+msgstr "%s ھەققىدە"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "ئاپتور ئارخىپلىرى: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "ئارخىپلار"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y- يىل"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "يىللىق ئارخىپلار: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y- يىل F"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "ئايلىق ئارخىپلار: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "كۈندىلىك ئارخىپلار: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "نېمە ئىزدەۋاتقانلىقىڭىزنى تاپالماي قالغاندەك قىلىمىز. بەلكىم ئىزدەش ياردەم بېرەلەيدۇ."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "سەت ئىش بولدى- ھە، شۇنداقمۇ؟"

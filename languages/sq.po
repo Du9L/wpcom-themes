@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-09T03:18:52+00:00\n"
+"PO-Revision-Date: 2022-01-07 11:05:57+0000\n"
+"Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:89
+msgid "Left-aligned Image and Paragraph"
+msgstr "Figurë dhe Paragraf të vendosur majtas"
+
+#: inc/block-patterns.php:80
+msgid "—  Albert Einstein"
+msgstr "—  Albert Ainshtajn "
+
+#: inc/block-patterns.php:78
+msgid "\"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social eznvironment. Most people are even incapable of forming such opinions.\""
+msgstr "“Pak vetë janë të aftë të shprehin me qetësi opinione që janë të ndryshme nga paragjykimet e mjedisit të tyre shoqëror. Shumica e njerëzve as që janë në gjendje të formojnë opinione të tilla.”"
+
+#: inc/block-patterns.php:74
+msgid "Left-aligned Large Quote"
+msgstr "Citim i Madh, i vendosur majtas"
+
+#: inc/block-patterns.php:48
+#: inc/block-patterns.php:95
+msgid "Close up of a yellow leaf."
+msgstr "Pamje nga afër e një gjetheje të verdhë."
+
+#: inc/block-patterns.php:43
+#: inc/block-patterns.php:54
+#: inc/block-patterns.php:62
+msgid "Close up of a yellow and green leaf."
+msgstr "Pamje nga afër e një gjetheje të verdhë dhe të gjelbër."
+
+#: inc/block-patterns.php:33
+msgid "Floating Images Gallery"
+msgstr "Galeri Figurash Pezull"
+
+#: functions.php:435
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Komenti juaj po pret moderimin. Kjo është një paraparje, komenti juaj do të jetë i dukshëm pasi të jetë miratuar."
+
+#. translators: %s: The post title.
+#: comments.php:34
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Një mendim mbi &ldquo;%s&rdquo;"
+
+#: functions.php:93
+msgid "White"
+msgstr "E bardhë"
+
+#: functions.php:88
+msgid "Light Gray"
+msgstr "Gri e Çelët"
+
+#: functions.php:83
+msgid "Medium Gray"
+msgstr "Gri Mesatare"
+
+#: functions.php:78
+msgid "Dark Gray"
+msgstr "Gri e Errët"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "Blu"
+
+#. Template Name of the theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Gjedhe Faqeje të Plotë, Pa Anështyllë"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Gjedhe Faqeje Ballore"
+
+#. Description of the theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Tema e 2012 për WordPress-in është një temë që i përgjigjet plotësisht veprimeve brenda saj dhe që duket e hijshme në çfarëdo pajisje. Ndër karakteristikat e saj përfshihet një gjedhe faqeje ballore me widget-et e saj, një lloj opsional shkronjash, stilizim për formate postimesh si për pamjen indeks, ashtu edhe për atë njëshe, dhe një faqe opsionale pa anështylla. Bëjeni si dëshironi, me një menu, figurë kryeje dhe sfond të personalizuar."
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Arkiva Etiketash: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Na ndjeni, por nuk u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%s\">Fillojani këtu</a>."
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "Pa postime për shfaqje"
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "Pasuesi &rarr;"
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; I mëparshmi"
+
+#. translators: 1: Date, 2: Date, 3: Attachment URL, 4: Image width in pixels,
+#. 5: Image height in pixels, 6: Post parent permalink, 7: Post parent title,
+#. 8: Post parent title.
+#: image.php:28
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Go to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Botuar më </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> te <a href=\"%3$s\" title=\"Lidhje për te figura në madhësi të plotë\">%4$s &times; %5$s</a> te <a href=\"%6$s\" title=\"Kthehuni te %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Hidhu te lënda"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:510
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Ky zë qe postuar më %3$s<span class=\"by-author\"> nga %4$s</span>."
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:507
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Ky zë qe postuar te %1$s më %3$s<span class=\"by-author\"> nga %4$s</span>."
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:504
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Ky zë qe postuar te %1$s dhe etiketuar me %2$s më %3$s<span class=\"by-author\"> nga %4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:498
+msgid "View all posts by %s"
+msgstr "Shihni tërë postimet nga %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:482
+#: functions.php:485
+msgid ", "
+msgstr ", "
+
+#: functions.php:454
+msgid "Reply"
+msgstr "Përgjigjiuni"
+
+#: functions.php:433
+msgid "Your comment is awaiting moderation."
+msgstr "Komenti juaj po pret moderimin."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:425
+msgid "%1$s at %2$s"
+msgstr "%1$s te %2$s"
+
+#: functions.php:419
+msgid "Post author"
+msgstr "Autor postimi"
+
+#: functions.php:404
+msgid "(Edit)"
+msgstr "(Përpunojeni)"
+
+#: functions.php:404
+msgid "Pingback:"
+msgstr "<em>Pingback</em>:"
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Postime më të reja <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:377
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Postime më të vjetra"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "Lëvizje te postimet"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "Fusha e Dytë Widget-esh te Faqja Ballore."
+
+#: functions.php:346
+#: functions.php:356
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Shfaqet kur përdoret gjedhja opsionale për Faqe Ballore me një faqe të rregulluar si Faqe Ballore Statike"
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "Fusha e Parë Widget-esh te Faqja Ballore."
+
+#: functions.php:336
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Shfaqet te postimet dhe faqet, hiq gjedhen opsionale për Faqe Ballore, e cila ka widget-et e veta"
+
+#: functions.php:334
+msgid "Main Sidebar"
+msgstr "Anështylla Kryesore"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "Faqe %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:155
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "më"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "Menuja Parësore"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Platformë Semantike Publikimesh Personale"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Shihni krejt postimet nga %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Postim i zgjedhur"
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Na ndjeni, por nuk u gjetën përfundime. Ndoshta kërkimi mund t&#8217;ju ndihë të gjeni një postim që ka lidhje me të."
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "Nuk u Gjet Gjë"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Lidhje"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:445
+#: image.php:39
+msgid "Edit"
+msgstr "Përpunim"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "% Përgjigje"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 Përgjigje"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "Lini një Përgjigje"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "Permalidhje te %s"
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Komentet Më të Reja &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentet Më të Vjetra"
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Arkiva Kategorie: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:73
+#: content.php:68
+msgid "About %s"
+msgstr "Rreth %s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Arkiva Autori: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Arkiva"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Arkiva të Përvitshme: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Arkiva të Përmuajshme: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Arkiva të Përditshme: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk gjejmë dot ç&rsquo;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Kjo është paksa turpëruese, apo jo?"

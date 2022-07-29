@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twenty Twelve\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-01T03:24:19+00:00\n"
+"PO-Revision-Date: 2021-01-08 01:47:24+0000\n"
+"Language: ur_PK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:434
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "آپ کا تبصرہ ماڈریشن کا منتظر ہے۔ یہ پیش منظر ہے، اس کی منظوری دی جانے کے بعد ہی آپ کا تبصرہ نظر آئے گا۔"
+
+#: functions.php:93
+msgid "White"
+msgstr "سفید"
+
+#: functions.php:88
+msgid "Light Gray"
+msgstr "ہلکا گرے"
+
+#: functions.php:73
+msgid "Blue"
+msgstr "نیلا"
+
+#: functions.php:78
+msgid "Dark Gray"
+msgstr "گہرا گرے"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/style.css
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "WordPress کے لیے 2012 تھیم کسی بھی ڈیوائس پر بہت اچھی لگتی ہے کیونکہ یہ ایک مکمل طور پر موثر تھیم ہے۔ خصوصیات، اس کی اپنی ویجٹ کے ساتھ سرورق ٹیپملیٹ شامل ہے، ایک اختیاری نمائشی فونٹ، انڈیکس اور واحد مناظر دونوں پر پوسٹ فارمیٹس کے لیے اسٹائل، اور ایک اختیاری سائیڈبار صفحے کا ٹیپملیٹ۔ ایک اپنی مرضی کا مینو، ہیڈر کی تصویر، اور پس منظر کے ساتھ اس کو اپنا بنائیں۔"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/full-width.php
+msgid "Full-width Page Template, No Sidebar"
+msgstr "مکمل چوڑا صفحے کی ٹیمپلیٹ، کوئی سائیڈ بار نہیں"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/twentytwelve/page-templates/front-page.php
+msgid "Front Page Template"
+msgstr "سرورق ٹیمپلیٹ"
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "ٹیگ کے محفوظات: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "معاف کیجیے گا، لیکن آپ کے تلاش کے الفاظ سے مشابہ کچھ بھی نہیں تها۔ براہ مہربانی كچھ مختلف کی ورڈز کے ساتھ دوبارہ کوشش کریں۔"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "تلاش کے نتائج برائے: %s"
+
+#. translators: %s: Post editor URL.
+#: index.php:48
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "اپنی پہلی پوسٹ شائع کرنے کے لیے تیار ہیں؟ <a href=\"%s\">یہاں سے شروع کریں</a>۔"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "دکھانے کے لیے کوئی پوسٹیں نہیں ہیں"
+
+#: image.php:44
+msgid "Next &rarr;"
+msgstr "آگے &rarr;"
+
+#: image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; پیچھے"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "چھوڑیں مواد پر جائیں"
+
+#: header.php:45
+msgid "Menu"
+msgstr "مینو"
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:509
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "اس اندراج کو %3$s پر <span class=\"by-author\"> %4$s نے</span> پوسٹ کیا تھا۔"
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:506
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "اس اندراج کو %3$s پر %1$s میں <span class=\"by-author\"> %4$s نے</span> پوسٹ کیا تھا۔"
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:503
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "اس اندراج کو %3$s پر %1$s میں اور %2$s ٹیگ کردہ <span class=\"by-author\"> %4$s نے</span> پوسٹ کیا تھا۔"
+
+#. translators: %s: Author display name.
+#: functions.php:497
+msgid "View all posts by %s"
+msgstr "%s کی تمام پوسٹیں دیکھیں"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:481
+#: functions.php:484
+msgid ", "
+msgstr "، "
+
+#: functions.php:453
+msgid "Reply"
+msgstr "جواب "
+
+#: functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr "آپ کی رائے اعتدال پسندی کا انتظار کر رہا ہے."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:424
+msgid "%1$s at %2$s"
+msgstr "%1$s پر %2$s"
+
+#: functions.php:418
+msgid "Post author"
+msgstr "پوسٹ کا مصنف"
+
+#: functions.php:403
+msgid "(Edit)"
+msgstr "(ترمیم کریں)"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "پنگ بیک:"
+
+#: functions.php:378
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نئی پوسٹیں <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:377
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> پرانی پوسٹیں"
+
+#: functions.php:376
+#: single.php:20
+msgid "Post navigation"
+msgstr "پوسٹوں کی نیویگیشن"
+
+#: functions.php:354
+msgid "Second Front Page Widget Area"
+msgstr "دوسرا سرورق ویجٹ ایریا"
+
+#: functions.php:346
+#: functions.php:356
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "ظاہر ہوتا ہے جب ایک صفحے کے طور پر اختیاری سرورق سیٹ کے ساتھ ساکن سرورق صفحے کے ٹیمپلیٹ کا استعمال ہوتا ہے۔"
+
+#: functions.php:344
+msgid "First Front Page Widget Area"
+msgstr "پہلا سرورق ویجٹ ایریا"
+
+#: functions.php:336
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "اختیاری سرورق ٹیمپلیٹ کے سوائے پوسٹوں اور صفحات پر ظاہر ہوتا ہے جس کی اپنے ہی ویجٹ ہے"
+
+#: functions.php:334
+msgid "Main Sidebar"
+msgstr "مرکزی سائیڈ بار"
+
+#. translators: %s: Page number.
+#: functions.php:304
+msgid "Page %s"
+msgstr "صفحہ %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:155
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "عنوان نہیں ہے"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:148
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "پر"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "بنیادی مینو"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "فخریہ تقویت شدہ از %s"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "معنوی ذاتی پبلشنگ پلیٹ فارم"
+
+#. translators: %s: Author display name.
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span> کی تمام پوسٹیں دیکھیے"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "نمایاں پوسٹ"
+
+#: content-page.php:21
+#: content.php:45
+#: image.php:106
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: content-none.php:17
+#: index.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "معاف کیجیے گا، لیکن کوئی نتائج نہیں ملے۔ شاید تلاش متعلقہ پوسٹ کو ڈھونڈنے میں مدد کر سکے۔"
+
+#: content-none.php:13
+#: index.php:57
+#: search.php:42
+msgid "Nothing Found"
+msgstr "کچھ نہیں ملا"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "لنک"
+
+#: content-aside.php:29
+#: content-image.php:26
+#: content-link.php:27
+#: content-page.php:24
+#: content-quote.php:26
+#: content-status.php:43
+#: content.php:51
+#: functions.php:444
+#: image.php:39
+msgid "Edit"
+msgstr "ترمیم کریں"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "% Replies"
+msgstr "% جوابات"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "1 Reply"
+msgstr "1 جواب"
+
+#: content-aside.php:26
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:23
+#: content-status.php:40
+#: content.php:33
+msgid "Leave a reply"
+msgstr "جواب دیں"
+
+#. translators: %s: Post title.
+#: content-aside.php:11
+#: content-link.php:11
+#: content-quote.php:11
+#: content-status.php:11
+msgid "Permalink to %s"
+msgstr "%s کے لیے پرمالنک "
+
+#: content-aside.php:18
+#: content-image.php:13
+#: content-link.php:17
+#: content-quote.php:16
+#: content-status.php:34
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&rarr;</span> پڑھنا جاری رکھیں"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں۔"
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "نئے تبصرے &rarr;"
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; پرانے تبصرے "
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "تبصروں کی نیویگیشن"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:40
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; پر ایک تبصرہ "
+msgstr[1] "&ldquo;%2$s&rdquo; پر %1$s تبصرے "
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "زمرہ جات کے محفوظات: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:73
+#: content.php:68
+msgid "About %s"
+msgstr "%s کے متعلق"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "مصنف کے محفوظات: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "محفوظات"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "سالانہ محفوظات : %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "ماہانہ محفوظات: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "یومیہ محفوظات: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ایسا لگتا ہے کہ ہم وہ تلاش نہیں کر سکے جسے آپ ڈھونڈ رہے ہیں۔ شاید تلاش مدد کر سکے۔"
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "یہ کچھ شرمناک نہیں ہے؟"
