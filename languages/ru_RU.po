@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Spearhead\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-21T02:24:03+00:00\n"
+"PO-Revision-Date: 2021-07-20 14:54:03+0000\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:34
+msgid "Disable Dark Mode"
+msgstr "Отключить тёмный режим"
+
+#. translators: %s: link to how to support system display modes
+#: inc/wpcom-colors.php:37
+msgid "Unless checked, this theme's default palette will display a dark color palette automatically for users who have dark mode enabled on their devices. <a href='%s' target='_blank'>Learn more about dark mode</a>."
+msgstr "Если этот флажок не установлен, то для пользователей, у которых на устройствах включён тёмный режим, эта тема по умолчанию будет использовать тёмную цветовую палитру. <a href='%s' target='_blank'>Подробнее о темном режиме</a>."
+
+#: template-parts/header/navigation.php:86
+msgid "Cart"
+msgstr "Корзина"
+
+#: template-parts/header/navigation.php:76
+msgid "View your shopping list"
+msgstr "Просмотреть свою корзину"
+
+#: template-parts/header/navigation.php:74
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#: template-parts/header/navigation.php:53
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:47
+#: template-parts/header/navigation.php:87
+msgid "expanded"
+msgstr "развернутый"
+
+#: template-parts/header/navigation.php:46
+msgid "Menu"
+msgstr "Меню"
+
+#: template-parts/header/navigation.php:7
+#: template-parts/header/navigation.php:72
+msgid "collapsed"
+msgstr "свернутый"
+
+#: template-parts/header/navigation.php:6
+#: template-parts/header/navigation.php:70
+msgid "Close"
+msgstr "Закрыть"
+
+#: template-parts/header/navigation.php:4
+msgid "Main"
+msgstr "Основной"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/spearhead"
+msgstr "https://wordpress.com/theme/spearhead"
+
+#. Description of the theme
+msgid "Share your podcast with the world using Spearhead."
+msgstr "Поделитесь своими подкастами с миром, используя Spearhead."
+
+#: search.php:31
+#: template-parts/content/content-excerpt.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "Продвигаемая"
+
+#: inc/block-patterns.php:77
+msgid "Podcast links list"
+msgstr "Список ссылок на подкасты"
+
+#: inc/block-patterns.php:61
+msgid "Podcast available on:"
+msgstr "Подкаст доступен по ссылке:"
+
+#: inc/block-patterns.php:57
+msgid "Podcast links"
+msgstr "Ссылки на подкасты"
+
+#: inc/block-patterns.php:49
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/block-patterns.php:46
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: inc/block-patterns.php:42
+msgid "Archive page"
+msgstr "Страница архива"
+
+#: inc/block-patterns.php:33
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Spearhead"
+msgstr "Spearhead"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:308
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post.
+#: functions.php:233
+msgid "More"
+msgstr "Больше"
+
+#: functions.php:91
+msgid "Background"
+msgstr "Фон"
+
+#: functions.php:86
+msgid "Foreground"
+msgstr "Передний план"
+
+#: functions.php:81
+msgid "Primary"
+msgstr "Главный"
+
+#: functions.php:69
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:68
+msgid "Huge"
+msgstr "Большой"
+
+#: functions.php:62
+#: functions.php:63
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:57
+msgid "L"
+msgstr "L"
+
+#: functions.php:56
+msgid "Large"
+msgstr "Большой"
+
+#: functions.php:51
+msgid "M"
+msgstr "M"
+
+#: functions.php:50
+msgid "Medium"
+msgstr "Средний"
+
+#: functions.php:45
+msgid "S"
+msgstr "S"
+
+#: functions.php:44
+msgid "Small"
+msgstr "Маленький"
+
+#: functions.php:39
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:38
+msgid "Tiny"
+msgstr "Маленький"
