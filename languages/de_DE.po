@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Archeo\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-05T01:30:06+00:00\n"
+"PO-Revision-Date: 2022-07-04 11:00:55+0000\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/archeo"
+msgstr "https://wordpress.com/theme/archeo"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title)"
+msgstr "Seite (ohne Titel)"
+
+#: functions.php:75
+msgid "Query"
+msgstr "Abfrage"
+
+#: functions.php:74
+msgid "Footers"
+msgstr "Footer"
+
+#: functions.php:73
+msgid "Featured"
+msgstr "Empfohlen"
+
+#: functions.php:72
+msgid "Images"
+msgstr "Bilder"
+
+#. Description of the theme
+msgid "A theme inspired by Mayan history and culture"
+msgstr "Ein von der Geschichte und Kultur der Maya inspiriertes Theme"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Leer"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Hintergrund"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Vordergrund"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Chivo"
+msgstr "Chivo"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Riesig"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Groß"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mittel"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Klein"
+
+#: patterns/simple-list-of-posts-with-background.php:16
+msgid "Selected Writings"
+msgstr "Ausgewählte Schriften"
+
+#: patterns/layout-with-two-images-and-text.php:37
+msgid "On the right: Governor's Palace, detail of the main gate"
+msgstr "Rechts: Gouverneurspalast, Detail des Haupttors"
+
+#: patterns/layout-with-two-images-and-text.php:33
+msgid "Uxmal is an ancient Maya city located in present-day Mexico. It is considered one of the most important archaeological sites of Mayan culture."
+msgstr "Uxmal ist eine alte Stadt der Maya im heutigen Mexiko, die als eine der bedeutendsten archäologischen Stätten der Mayakultur gilt."
+
+#: patterns/layout-with-two-images-and-text.php:22
+msgid "Photograph by Désiré Charnay, 1862 to 1863"
+msgstr "Foto von Désiré Charnay, 1862 bis 1863"
+
+#: patterns/layout-with-two-images-and-text.php:18
+msgid "The Pyramid of the <br>Magician at Uxmal"
+msgstr "Die Pyramide des <br>Zauberers in Uxmal"
+
+#: patterns/layout-with-two-images-and-text.php:10
+msgid "Photo of the Pyramid of the Magician, at Uxmal"
+msgstr "Foto der Pyramide des Zauberers in Uxmal"
+
+#: patterns/layered-images-with-headline.php:22
+msgid "Palace of <br>the Circus at <br>Chichen-Itza, <br><em>bas-relief</em> of <br>tigers"
+msgstr "Palast des <br>Zirkus in <br>Chichen-Itza, <br><em>Basrelief</em> mit <br>Tigern"
+
+#: patterns/layered-images-with-headline.php:10
+#: patterns/layered-images-with-headline.php:33
+msgid "Photo of Palace of the Circus"
+msgstr "Foto des Zirkuspalastes"
+
+#: patterns/image-with-headline-separate-description.php:22
+msgid "The pyramid is the tallest structure in Uxmal. Construction on the pyramid began around the 6th century AD. It was added and iterated on for the next 400 years."
+msgstr "Die Pyramide ist das höchste Bauwerk in Uxmal. Die Arbeiten an der Pyramide begannen etwa im 6. Jahrhundert n. Chr. und dauerten die nächsten 400 Jahre an."
+
+#: patterns/image-with-headline-separate-description.php:18
+msgid "Also referred to as <br>The Pyramid of the Magician"
+msgstr "Auch bekannt als die <br>„Pyramide des Zauberers“"
+
+#: patterns/image-with-headline-separate-description.php:12
+msgid "House of <br>the dwarf <br>in Uxmal"
+msgstr "Haus des <br>Zwerges <br>in Uxmal"
+
+#: patterns/image-with-headline-separate-description.php:10
+msgid "Photo of House of the dwarf, in Uxmal"
+msgstr "Foto vom Haus des Zwerges in Uxmal"
+
+#: patterns/image-with-headline-on-dark-background.php:14
+msgid "Gigantic figure at <br>Izamal; at the <br>bottom of the <br>second pyramid."
+msgstr "Riesige Figur in <br>Izamal; am <br>Fuß der <br>zweiten Pyramide."
+
+#: patterns/image-with-headline-on-dark-background.php:10
+msgid "Photo of gigantic figure at Izamal"
+msgstr "Foto der gigantischen Figur in Izamal"
+
+#: patterns/image-with-headline-description.php:21
+msgid "Chaahk is shown here clutching his axe, ready to strike rain and thunder from the clouds. This sculpture was likely created in the Puuc hills of Yucatan and Campeche."
+msgstr "Chaahk ist hier mit seiner Axt dargestellt, die er mit festem Griff umklammert, bereit, Regen und Donner aus den Wolken zu schleudern. Diese Skulptur wurde wahrscheinlich in den Hügeln von Puuc in Yucatan und Campeche erschaffen."
+
+#: patterns/image-with-headline-description.php:14
+msgid "Chahk:<br>Rain<br>deity"
+msgstr "Chaahk:<br>Regengott"
+
+#: patterns/image-with-headline-description.php:30
+msgid "Chahk: rain deity"
+msgstr "Chaahk: Regengott"
+
+#: patterns/image-with-description.php:30
+msgid "Photo of ancient temple, at Chichen-Itza"
+msgstr "Foto des alten Tempels in Chichen-Itza"
+
+#: patterns/image-with-description.php:26
+msgid "From \"American Cities and Ruins: Mitla, Palenqué, Izamal, Chichen-Itza, Uxmal, Atlas\" housed at the New York Public Library."
+msgstr "Aus „American Cities and Ruins: Mitla, Palenqué, Izamal, Chichen-Itza, Uxmal, Atlas“ in der New York Public Library."
+
+#: patterns/image-with-description.php:22
+msgid "Ancient Temple, at Chichen-Itza, called the Castle"
+msgstr "Alter Tempel in Chichen-Itza, genannt „die Burg“"
+
+#: patterns/image-with-description-and-right-aligned-headline.php:30
+msgid "Uxmal is an ancient Maya city located in present-day Mexico. It is considered one of the most important sites of Mayan culture."
+msgstr "Uxmal ist eine alte Stadt der Maya im heutigen Mexiko, die als eine der bedeutendsten Stätten der Mayakultur gilt."
+
+#: patterns/image-with-description-and-right-aligned-headline.php:26
+#: patterns/layout-with-two-images-and-text.php:22
+msgid "Photograph by Désiré Charnay, 1862 – 1863"
+msgstr "Foto von Désiré Charnay, 1862–1863"
+
+#: patterns/image-with-description-and-right-aligned-headline.php:20
+msgid "Photo of the Nunnery Quadrangle, at Uxmal"
+msgstr "Foto des Nonnenvierecks in Uxmal"
+
+#: patterns/image-with-description-and-right-aligned-headline.php:13
+msgid "The Nunnery Quadrangle at Uxmal"
+msgstr "Das Nonnenviereck in Uxmal"
+
+#: patterns/hidden-404.php:21
+msgid "Search"
+msgstr "Suche"
+
+#: patterns/hidden-404.php:14
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Diese Seite wurde nicht gefunden. Vielleicht möchtest du es mit einer Suche probieren?"
+
+#: patterns/hidden-404.php:11
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/headline-over-dark-image.php:11
+msgid "Governor's <br>palace at Uxmal, <br>detail of the <br>main gate"
+msgstr "Gouverneurspalast <br>in Uxmal, <br>Detail des <br>Haupttors "
+
+#: patterns/headline-over-dark-image.php:10
+msgid "Photo of the Governor's Palace at Uxmal"
+msgstr "Foto des Gouverneurspalastes in Uxmal"
+
+#: patterns/footer.php:21
+msgid "https://wordpress.org"
+msgstr "https://de.wordpress.org/"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:20
+msgid "Proudly powered by %s"
+msgstr "Mit Stolz bereitgestellt von %s"
