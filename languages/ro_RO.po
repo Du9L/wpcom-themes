@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Remote\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-16T03:37:46+00:00\n"
+"PO-Revision-Date: 2022-07-15 11:55:14+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/remote"
+msgstr "https://wordpress.com/theme/remote"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Body (DM Sans)"
+msgstr "Corp (DM Sans)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#. Description of the theme
+msgid "Remote is a dark, minimal block theme ideal for bloggers. Its default styles - a sans-serif font and dark background - contribute for a comfortable, immersive reading experience. It features a set of bold block patterns such as a large posts list and bordered categories and tags."
+msgstr "Remote este o temă cu blocuri, minimală și întunecată, ideală pentru bloggeri. Stilurile ei implicite - un font sans-serif și un fundal întunecat - contribuie la o experiență de lectură confortabilă și captivantă. Are un set de modele de blocuri debordante, cum ar fi o listă mare cu articole și liste nemărginite pentru categorii și etichete."
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "Etichete"
+
+#: patterns/subscribe.php:18
+msgid "Success! An email was just sent to confirm your subscription. Please find the email now and click 'Confirm Follow' to start subscribing."
+msgstr "Succes! A fost trimis un email pentru a-ți confirma abonamentul. Te rog găsește emailul acum și dă clic pe „Confirmă urmărirea” pentru a începe abonarea."
+
+#: patterns/subscribe.php:14
+msgid "Sign up to have each new post delivered to your inbox."
+msgstr "Înregistrează-te ca să primești fiecare articol nou prin email."
+
+#: patterns/subscribe.php:10
+msgid "Follow this blog"
+msgstr "Urmărește acest blog"
+
+#: patterns/small-quote.php:12
+msgid "Picture of a user"
+msgstr "Fotografia utilizatorului"
+
+#: patterns/large-quote.php:17
+#: patterns/small-quote.php:23
+msgid "— Jane Adams"
+msgstr "- Jane Adams"
+
+#: patterns/large-quote.php:13
+msgid "I’m spending more time with my family, exercising more, and getting more sleep."
+msgstr "Petrec mai mult timp cu familia, fac mai mult exerciții și dorm mai mult."
+
+#: patterns/image-with-text.php:9
+msgid "Picture of a laptop"
+msgstr "Fotografia unui laptop"
+
+#: patterns/hidden-404-content.php:19
+#: patterns/hidden-search-form.php:12
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/hidden-404-content.php:12
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Nu am putut găsi această pagină. Poate încerci o căutare?"
+
+#: patterns/hidden-404-content.php:9
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/categories.php:9
+msgid "Categories"
+msgstr "Categorii"
+
+#: functions.php:78
+msgid "Query"
+msgstr "Interogare"
+
+#: functions.php:77
+msgid "Text"
+msgstr "Text"
+
+#: functions.php:76
+msgid "Columns"
+msgstr "Coloane"
+
+#: functions.php:75
+msgid "Featured"
+msgstr "Reprezentativ"
