@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Heiwa\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-21T02:42:48+00:00\n"
+"PO-Revision-Date: 2022-07-11 09:31:03+0000\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний фон"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: patterns/footer-default.php:140
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#. Translators: WordPress link.
+#: patterns/footer-default.php:139
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: patterns/footer-default.php:114
+msgid "Instagram"
+msgstr "Instagram"
+
+#: patterns/footer-default.php:106
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: patterns/footer-default.php:98
+msgid "Facebook"
+msgstr "Facebook"
+
+#: patterns/footer-default.php:79
+msgid "123-456-7890"
+msgstr "(123) 456-78-90"
+
+#: patterns/footer-default.php:72
+msgid "example@example.com"
+msgstr "example@example.com"
