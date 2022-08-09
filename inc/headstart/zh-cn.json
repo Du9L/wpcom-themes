@@ -1,0 +1,278 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": "social",
+                "menu-1": "primary",
+                "menu-2": "primary"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "预订",
+            "post_content": "<!-- wp:paragraph -->\n<p>我们一起来讨论 &amp;#128075; 您可以随时通过以下联系信息联系我们，或者使用表单发送消息。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">如需订位，请致电我们或使用以下表单。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">地址</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"1 Example Street\",\"city\":\"Anytown\",\"region\":\"NY\",\"postal\":\"10100\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">北京市</div><div><span class=\"jetpack-address__region\">海淀区</span><span class=\"jetpack-address__city\">示例街道 1 号，</span><span class=\"jetpack-address__postal\">100000</span></div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(010) 6880 1234</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:jetpack/contact-info -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>营业时间</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>周一：</strong>闭店<br><strong>周二至周日：</strong>上午 11:30 至晚上 10:00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">在线预订</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "reservations",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 163,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "动态",
+            "post_content": "<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg\",\"id\":125,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">我们的最新动态</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:a8c/posts-list {\"postsPerPage\":3} /-->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator is-style-default\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">关注我们</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">获取直接发送到收件箱的新内容。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 16,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "新闻（全部）",
+            "post_content": "",
+            "post_name": "news-all",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "菜单",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">我们的菜单汇聚了各种法国地区的美食，而且会根据季节变化进行调整。<br>请务必询问每日特色菜！</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">开胃菜</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>三文鱼小食<br></strong><em>烟熏三文鱼配法式酸奶油、莳萝和酸豆<br></em>15.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>猪肉酱<br></strong><em>搭配快速腌制的杏干和开心果碎<br></em>14.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>普罗旺斯蔬菜馅饼<br></strong><em>配时令蔬菜<br></em>12.50 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>迷你火焰馅饼<br></strong><em>传统的阿尔萨斯菜，由家常熏肉和洋葱制成</em><br>12.50 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>山羊奶酪沙拉<br></strong><em>温热，配蜂蜜和面包丁</em><br>12.50 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>野蘑菇碎肉</strong><br><em>红烧野蘑菇配海带和液氮</em><br>14.50 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">主菜</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>阿尔萨斯葡萄酒焖鸡<br></strong><em>用雷司令葡萄酒烹制的鸡肉，搭配洋葱、蘑菇和香草</em><br>25.50 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>马赛鱼汤</strong><br><em>传统的普罗旺斯炖鱼，包括虾、贻贝、蛤蜊和安康鱼<br></em>26.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>干煎比目鱼</strong><br><em>用黄油煎比目鱼，佐以牛油沙司、欧芹和柠檬<br></em>28.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>肋骨牛排<br></strong><em>60 天的幼牛肋骨牛排、辣椒酱、翻糖土豆<br></em>31.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>法式橙鸭<br></strong><em>烤鸭脯配脆皮和柔醇柑橘汁<br></em>26.50 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>豌豆和芦笋烩饭</strong><br><em>配羊奶奶酪、芝麻菜和嫩笋沙拉<br></em>22.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">甜点</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>巧克力马卡龙</strong><br><em>经典的法国美食，充满浓郁的巧克力奶油夹心<br></em>12.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>法式火焰可丽饼</strong><br><em>精美的可丽饼配橙汁；特色火焰<br></em>13.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>果仁糖蛋糕</strong><br><em>多层果仁巧克力蛋糕配焦糖奶油芝士<br></em>12.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>法式苹果挞</strong><br><em>黏黏的焦糖酱配上苹果，佐以鲜奶油</em><br>12.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>柠檬挞</strong><br><em>口味浓郁的柠檬果珍、奶油蛋奶冻，淋上蛋白霜</em><br>12.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>水果三重奏</strong><br><em>蓝莓、草莓、覆盆子、李子和百香果<br></em>28.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"foreground-light\"} -->\n<p style=\"text-align:center;\" class=\"has-text-color has-foreground-light-color\"><em>我们对鱼的来源严格把关，只使用可持续来源的鱼</em>。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "首页",
+            "post_content": "<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg\",\"id\":217,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">享受我们的美食体验</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">欢迎光临 Rockfield</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>本餐厅由主厨 Patron Joan Smith 和行政总厨 François Lemoine 携手创立，是海淀区最棒的餐厅之一。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>法国本身的迷人风情激发了我们的创意和热情，启发我们设计出美味的招牌菜品。我们致力于以充满新意和创意的方式改造您喜爱的法国菜肴，并以此为傲。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg\",\"id\":218,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">浏览我们的菜单</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>我们的菜单汇聚了各种法国地区的美食，而且会根据季节变化进行调整。<br>请务必询问每日特色菜！</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">示例菜单</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>开胃菜</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>野蘑菇碎肉</strong><br><em>红烧野蘑菇配海带和液氮</em><br>14.50 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>主菜</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>阿尔萨斯葡萄酒焖鸡<br></strong><em>用雷司令葡萄酒烹制的鸡肉，搭配洋葱、蘑菇和香草</em><br>25.50 美元<br></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>甜点</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>南瓜蛋奶酥</strong><br><em>配波本威士忌、肉桂和糖蜜酱</em><br>9.00 美元</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://rockfielddemo.wordpress.com/menu/\">查看完整菜单</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg\",\"id\":219,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">订位</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>如需订位，请致电 (123) 444–5678 联系我们或使用以下表单。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg\",\"id\":220,\"hasParallax\":true,\"dimRatio\":60,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-60 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} -->\n<p style=\"text-align:center;\" class=\"has-huge-font-size\"><strong>Rockfield</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">访客想要了解页面制作者。请使用此空间介绍您的业务。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":5} -->\n<h5>营业时间</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\"><strong>周一：</strong>闭店<br><strong>周二至周日：</strong>上午 11:30 至晚上 10:00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">地址</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">北京市海淀区<br>示例街道 1 号，100000</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">预订</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">(010) 6880 1234<br>mail@example.com</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "专业摆盘技巧",
+            "post_content": "<!-- wp:paragraph -->\n<p>食物展示是修饰、加工、摆放或装饰食物以增强其美感的艺术。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>在准备食物的各个不同阶段，无论是绑肉或缝肉的方式、切肉或切菜所用的切割类型，还是盛菜所用的模具样式，主厨往往都会考虑食物的视觉展示。食物本身可以像精心制作的冰镇蛋糕一样进行装饰，上面有时装饰着极具观赏性的雕刻样式的食材，淋上酱汁，撒上种籽、粉末或其他配料，也可以搭配可食用或不可食用的配菜。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>在将食物放入餐盘时，食物的摆放和整体造型叫做“摆盘”。一些常见的摆盘造型包括：“经典”造型，即主菜摆放在餐盘的前面，蔬菜或淀粉质食品放在餐盘的后面；各种食品“堆叠”在一起；或者将主菜斜靠或“搭叠”在蔬菜或配菜上。食品在餐盘上的位置经常使用时钟表盘来表示，六点钟是最靠近用餐者的位置。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>要实现好的摆盘，甚至在某些情况下进行备菜时，一个基本规则是确保一道菜包含 5 个组成部分：通常放在 6 点钟位置的蛋白质类，放在 2 点钟位置的蔬菜类，放在 11 点钟位置的淀粉类，另外还有酱汁和配菜。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>来源：<a href=\"https://en.wikipedia.org/wiki/Food_presentation\">Wikipedia</a>。</em></p>\n<!-- /wp:paragraph -->",
+            "post_name": "tricks-to-plating-like-a-pro",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 149,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "冬季菜单",
+            "post_content": "<!-- wp:paragraph -->\n<p>今年冬天，快来和我们一起享用丰盛的浓汤和炖菜、奶酪烤菜和砂锅菜。这些美味佳肴就在我们的时令菜单上，而且特色菜每天不重样。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":142,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg?w=1024\" class=\"wp-image-142\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "winter-menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Rockfield 的圣诞派对",
+            "post_content": "<!-- wp:paragraph -->\n<p>Rockfield 承办各种规模的圣诞派对，现在就开始计划您的圣诞节午餐或晚餐吧。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>点击此处，立即预订！</p>\n<!-- /wp:paragraph -->",
+            "post_name": "christmas-party-at-rockfields",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 146,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "主要",
+            "items": [
+                {
+                    "menu-item-title": "首页",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "菜单",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "动态",
+                    "menu-item-db-id": 28,
+                    "menu-item-object-id": "16",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "预订",
+                    "menu-item-db-id": 166,
+                    "menu-item-object-id": "163",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "社交",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 21,
+                    "menu-item-object-id": "21",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "22",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Foursquare",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://foursquare.com"
+                },
+                {
+                    "menu-item-title": "Yelp",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://yelp.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/cropped-healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2019/08/healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/architecture-bar-ceiling-2225577.jpg"
+    ]
+}
