@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Alves\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-02T01:25:54+00:00\n"
+"PO-Revision-Date: 2022-06-01 15:54:03+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/alves"
+msgstr "https://wordpress.com/theme/alves"
+
+#: functions.php:99
+msgid "Foreground Dark"
+msgstr "ظلام أمامي"
+
+#: functions.php:94
+msgid "Foreground Light"
+msgstr "ضوء أمامي"
+
+#: functions.php:89
+msgid "Foreground"
+msgstr "المقدمة الأمامية"
+
+#: functions.php:84
+msgid "Background"
+msgstr "خلفية"
+
+#. Description of the theme
+msgid "Convincing design for your charity or organization’s online presence. Highlight your actions, causes and projects, Alves is versatile enough to be your personal site too."
+msgstr "تصميم مقنع لوجود مؤسستك الخيرية أو مؤسستك على الإنترنت. سلّط الضوء على أفعالك وأسبابك ومشاريعك مع قالب Alves متعدد الاستخدامات الذي يمكنه أن يكون موقعك الشخصي أيضًا."
+
+#: template-parts/footer/footer-widgets.php:17
+msgid "Footer 1"
+msgstr "تذييل 1"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:176
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "تشغيل"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:170
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "تشغيل"
+
+#: functions.php:135
+#: template-parts/footer/footer-widgets.php:41
+msgid "Footer 3"
+msgstr "تذييل"
+
+#: functions.php:125
+#: functions.php:137
+msgid "Add widgets here to appear in your footer."
+msgstr "إضافة ودجات هنا لتظهر في تذييل موقعك."
+
+#: functions.php:123
+#: template-parts/footer/footer-widgets.php:29
+msgid "Footer 2"
+msgstr "تذييل 2"
+
+#: functions.php:79
+msgid "Secondary"
+msgstr "الثانوي"
+
+#: functions.php:74
+msgid "Primary"
+msgstr "أساسي"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "كبير جدًا"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:42
+msgid "Large"
+msgstr "كبير"
+
+#: functions.php:37
+msgid "M"
+msgstr "م"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "عادي"
+
+#: functions.php:31
+msgid "S"
+msgstr "د"
+
+#: functions.php:30
+msgid "Small"
+msgstr "صغير"
