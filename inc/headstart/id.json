@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Perihal",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist adalah blog khusus tentang segala hal yang terkubur di bawah permukaan bumi.</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Tentang Penulis:</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Sarah Edwards</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah adalah seorang geolog di Universitas Negeri Anthem. Kecintaannya terhadap segala hal di bawah tanah terpicu di Taman Kanak-Kanak saat ia menemukan sebuah mainan yang ditinggalkan seseorang terkubur di kotak pasir.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Angelo Ortiz</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Angelo adalah seorang peneliti dan penghobi independen. Koleksi batu permatanya menyaingi beberapa museum. Angelo selalu mencari penemuan baru, dan membawa peralatannya ke manapun ia pergi.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Batu Permata",
+            "post_content": "<!-- wp:paragraph --> <p>“Aku akan pergi ke Green Gables setelah meminum teh dan bertanya kepada Marilla ke mana dia pergi dan mengapa,” simpulan wanita kaya itu. “Di tahun seperti ini, dia biasanya tidak pergi ke kota dan dia <em>tidak pernah</em> berkunjung; jika kehabisan biji lobak, dia tidak akan berdandan dan naik kereta kuda untuk pergi membeli tambahan; dan dia juga terlalu pelan jika membutuhkan dokter. Sesuatu pasti telah terjadi tadi malam dan membuatnya seperti ini. Saya benar-benar bingung, sungguh. Pikiran dan hati saya tidak akan tenang sebelum saya tahu alasan Matthew Cuthbert pergi keluar Avonlea hari ini.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Maka, setelah minum teh, Nyonya Rachel pergi keluar; ia tidak perlu pergi jauh; rumah megah, mewah, yang dipenuhi kebun buah-buahan tempat keluarga Cuthbert tinggal berjarak seperempat mil dari Lembah di Lynde.  Yang pasti, jalur yang panjang membuatnya terlihat jauh. Ayah Matthew Cuthbert, yang juga pemalu dan pendiam seperti putranya, memilih tinggal sejauh mungkin dari rekan-rekannya tanpa benar-benar masuk ke dalam hutan saat mendirikan rumahnya. Green Gables dibangun di tepi terjauh dari lahan yang telah dibukanya, dan di sanalah letaknya hingga saat ini, nyaris tidak terlihat dari jalan utama, berbeda dari semua rumah di Avonlea yang terletak dekat satu sama lain. Nyonya Rachel Lynde berkata bahwa tempat seperti itu bukan tempat  <em>tinggal</em> sama sekali.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>“hanya seperti tempat <em>singgah</em>, menurutku,” katanya sambil melangkah di sepanjang jalan yang berumput dan dibatasi dengan semak mawar liar. “Tidak heran jika Matthew dan Marilla sedikit aneh karena tinggal jauh di belakang sini sendirian. Pohon tidak bisa dijadikan teman meskipun jumlahnya sangat banyak.  Saya lebih memilih bertemu dengan orang. Anehnya, mereka terlihat cukup bahagia; meski kemudian, saya rasa karena mereka sudah terbiasa. Tubuh bisa terbiasa dengan apa pun, bahkan digantung, seperti kata orang Irlandia itu.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Sembari berkata demikian, Nyonya Rachel mulai masuk ke halaman belakang Green Gables. Halaman belakang itu terlihat sangat hijau, rapi, dan bersih, di satu sisi ada pohon dedalu besar yang gagah dan di sisi yang lain ada pohon poplar yang elegan.  Tidak ada ranting atau batu di halaman tersebut, jika ada pasti akan terlihat oleh Nyonya Rachel.  Nyonya Rachel berpendapat bahwa Marilla Cuthbert menyapu halaman itu sesering ia menyapu rumahnya. Siapa pun bisa memungut makanan dari halaman tanpa khawatir ada kotoran yang akan menempel.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Ilustrasi Batu Permata oleh Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "“Aku akan pergi ke Green Gables setelah meminum teh dan bertanya kepada Marilla ke mana dia pergi dan mengapa,” simpulan wanita kaya itu. “Di tahun seperti ini, dia biasanya tidak pergi ke kota dan dia tidak pernah berkunjung; jika kehabisan biji lobak, dia tidak akan berdandan dan naik kereta kuda untuk pergi membeli tambahan; dia juga terlalu pelan jika membutuhkan dokter. ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Fosil",
+            "post_content": "<!-- wp:paragraph --> <p>Ia sedang duduk di sana pada suatu sore di awal Juni. Sinar mentari masuk melalui jendela, hangat dan cerah; kebun buah di lereng di bawah rumah itu ditumbuhi bunga-bunga berwarna putih-merah muda, dan diselimuti oleh sekumpulan lebah.  Thomas Lynde—pria kecil lemah lembut yang dijuluki warga Avonlea sebagai “suami Rachel Lynde”—sedang menabur benih lobak terakhir di ladang bukit di belakang lumbung; dan Matthew Cuthbert seharusnya juga sedang menabur benihnya di anak sungai merah besar di dekat Green Gables. Nyonya Rachel mengetahui hal itu karena ia mendengarnya memberi tahu Peter Morrison saat petang hari sebelumnya di toko William J. Blair’s di Carmody bahwa dia akan menabur benih lobaknya esok sore. Peter yang bertanya, tentu saja, karena Matthew Cuthbert dikenal tidak pernah memberi tahu informasi apa pun kepada siapa pun selama hidupnya jika tidak ditanya.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Namun, di sana lah Matthew Cuthbert, pada pukul setengah tiga sore di hari yang sibuk, dengan tenang mengemudikan kereta kudanya melewati lembah dan mendaki bukit; terlebih lagi, dia mengenakan kerah putih dan pakaian terbaiknya, yang menjadi bukti nyata bahwa ia akan pergi keluar Avonlea; dan dia pergi menggunakan kereta kuda bersama kuda coklatnya yang kemerah-merahan, menandakan bahwa dia akan menempuh jarak yang cukup jauh. Mana kah tujuan Matthew Cuthbert dan mengapa dia pergi ke sana?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Jika pria itu bukan Matthew Cuthbert tetapi pria lain dari Avonlea, Nyonya Rachel, yang dengan cekatan menghubungkan informasi satu dan lainnya, mungkin dapat memberikan jawaban bagus untuk kedua pertanyaan tersebut. Namun, Matthew sangat jarang pergi dari rumah jika bukan karena hal mendesak dan tidak biasa; dia adalah pria paling pemalu yang pernah ada dan benci jika harus bertemu orang asing atau pergi ke suatu tempat yang mengharuskan dia berbicara. Matthew, yang berdandan rapi dan pergi mengendarai kereta kuda, bukanlah hal yang sering terjadi. Nyonya Rachel berusaha keras untuk merenungkan alasan Matthew dan tidak bisa berbuat apa-apa. Kesenangan sorenya pun rusak berantakan. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Ilustrasi Fosil oleh Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "Ia sedang duduk di sana pada suatu sore di awal Juni. Sinar mentari masuk melalui jendela, hangat dan cerah; kebun buah di lereng di bawah rumah itu ditumbuhi bunga-bunga berwarna putih-merah muda, dan diselimuti oleh sekumpulan lebah. ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Dan sebagainya",
+            "post_content": "<!-- wp:paragraph --> <p>Nyonya Rachel tinggal tepat di jalan utama Avonlea di sebuah lembah kecil, dibatasi dengan pohon alnus dan fuschia, dan dilewati anak sungai yang sumbernya berada jauh di dalam hutan dekat tempat tinggal Cuthbert yang lama; anak sungai yang terkenal rumit, panjang berliku di dalam hutan, dengan rahasia kelam tentang kolam dan air terjun, tetapi ketika sampai di Lembah Lynde alirannya kecil dan tenang, bahkan anak sungai pun lewat depan pintu rumah Nyonya Rachel Lynde dengan sopan, layaknya anak sungai ini tahu bahwa Nyonya Rachel duduk di sebelah jendela rumah, menatap tajam segala hal yang lewat, mulai dari anak sungai hingga anak-anak di sekitar. Dan jika ia melihat sesuatu yang aneh atau tidak pada tempatnya, ia tidak akan berhenti sebelum menemukan alasan dan solusi atas apa yang perlu ia lakukan terhadapnya.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Ada banyak orang dari dalam dan luar Avonlea, yang memperhatikan urusan tetangga tetapi mengabaikan urusannya sendiri; namun Nyonya Rachel Lynde merupakan salah satu makhluk yang dapat menangani urusan pribadi dan urusan orang lain secara seimbang.   Ia adalah seorang ibu rumah tangga yang terkenal; pekerjaannya selalu dikerjakan dan diselesaikan dengan baik; ia \"mengelola\" Perkumpulan Menjahit, membantu menjalankan sekolah minggu, dan merupakan pendukung utama dari Lembaga Bantuan Gereja dan Pembantu Misi Asing. Namun, dengan semua aktivitasnya, Nyonya Rachel memiliki banyak waktu untuk duduk selama berjam-jam di sebelah jendela dapurnya, merajut selimut \"lungsin katun\"—ia telah menyelesaikan enam belas rajutan, seperti diceritakan para pengurus rumah tangga Avonlea dengan kagum—sambil mengawasi jalan utama dengan tajam yang melintasi lembah dan berakhir di bukit merah terjal di seberangnya. Karena Avonlea berada di semenanjung segitiga kecil yang menjorok ke Teluk St. Lawrence dengan air laut di kedua sisinya, siapa pun yang keluar atau masuk ke Avonlea harus melewati jalan bukit itu dan menghadapi mata Nyonya Rachel yang melihat segalanya.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Ilustrasi Batu Permata oleh Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "Nyonya Rachel Lynde tinggal tepat di jalan utama Avonlea yang sedikit menjorok ke lembah kecil, dibatasi dengan pohon alnus dan fuschia dan dilewati anak sungai yang sumbernya berada jauh di dalam hutan dekat tempat tinggal Cuthbert yang lama.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Kontak",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">Jalan Contoh No. 1,<br>Kota Mana Saja, NY, AS 10100</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">kontak@contoh.com</a><br>(012) 345 67 89</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Utama",
+            "items": [
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Perihal",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Kontak",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}
