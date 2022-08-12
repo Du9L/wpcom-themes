@@ -1,0 +1,35 @@
+--- zoologist/child-theme.json
++++ zoologist/child-theme.json
+@@ -117,7 +117,8 @@
+ 				"body": 1.7
+ 			},
+ 			"gap": {
+-				"horizontal": "min(20px, 5vw)",
++				"baseline": "10px",
++				"horizontal": "min(30px, 5vw)",
+ 				"vertical": "min(30px, 5vw)"
+ 			},
+ 			"paragraph": {
+@@ -236,7 +237,7 @@
+ 				"typography": {
+ 					"fontFamily": "var(--wp--preset--font-family--dm-sans)",
+ 					"fontSize": "min(max(48px, 7vw), 64px)",
+-					"fontWeight": 700,
++					"fontWeight": "700",
+ 					"lineHeight": 1.2
+ 				}
+ 			},
+@@ -357,13 +358,6 @@
+ 		"typography": {
+ 			"fontFamily": "var(--wp--preset--font-family--dm-sans)",
+ 			"fontWeight": "400"
+-		},
+-		"core/site-logo": {
+-			"spacing": {
+-				"padding": {
+-					"left": "35px"
+-				}
+-			}
+ 		}
+ 	}
+ }

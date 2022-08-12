@@ -1,0 +1,44 @@
+--- zoologist/theme.json
++++ zoologist/theme.json
+@@ -228,8 +228,8 @@
+ 				}
+ 			},
+ 			"gap": {
+-				"baseline": "15px",
+-				"horizontal": "min(20px, 5vw)",
++				"baseline": "10px",
++				"horizontal": "min(30px, 5vw)",
+ 				"vertical": "min(30px, 5vw)"
+ 			},
+ 			"paragraph": {
+@@ -284,7 +284,6 @@
+ 			},
+ 			"separator": {
+ 				"opacity": 1,
+-				"margin": "var(--wp--custom--gap--vertical) auto",
+ 				"width": "150px"
+ 			},
+ 			"table": {
+@@ -424,7 +423,7 @@
+ 					"fontFamily": "var(--wp--preset--font-family--dm-sans)",
+ 					"fontSize": "min(max(48px, 7vw), 64px)",
+ 					"lineHeight": 1.2,
+-					"fontWeight": 700
++					"fontWeight": "700"
+ 				}
+ 			},
+ 			"core/post-date": {
+@@ -630,13 +629,6 @@
+ 			"fontFamily": "var(--wp--preset--font-family--dm-sans)",
+ 			"fontSize": "var(--wp--preset--font-size--normal)",
+ 			"fontWeight": "400"
+-		},
+-		"core/site-logo": {
+-			"spacing": {
+-				"padding": {
+-					"left": "35px"
+-				}
+-			}
+ 		}
+ 	}
+ }
