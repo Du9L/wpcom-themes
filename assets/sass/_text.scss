@@ -1,0 +1,19 @@
+.has-link-color a, a {
+    border-color: transparent;
+    transition: all 0.1s ease;
+    text-decoration: none;
+
+    &:hover {
+        color: var( --global--color-primary-hover );
+        text-decoration: 1px solid underline;
+    }
+}
+
+.wp-block a,
+.entry-content a {
+    font-weight: var(--global--link-font-weight);
+    border-color: var( --global--color-primary );
+    &:hover {
+        border-color: transparent;
+    }
+}

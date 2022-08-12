@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Spearhead\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-20T02:16:24+00:00\n"
+"PO-Revision-Date: 2021-07-19 18:54:04+0000\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:34
+msgid "Disable Dark Mode"
+msgstr "Dunkelmodus deaktivieren"
+
+#. translators: %s: link to how to support system display modes
+#: inc/wpcom-colors.php:37
+msgid "Unless checked, this theme's default palette will display a dark color palette automatically for users who have dark mode enabled on their devices. <a href='%s' target='_blank'>Learn more about dark mode</a>."
+msgstr "Wenn du kein Häkchen gesetzt hast, wird dieses Theme automatisch standardmäßig eine dunkle Farbpalette für Benutzer anzeigen, die den Dunkelmodus auf ihren Geräten aktiviert haben. <a href='%s' target='_blank'>Weitere Informationen über den Dunkelmodus</a>."
+
+#: template-parts/header/navigation.php:86
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: template-parts/header/navigation.php:76
+msgid "View your shopping list"
+msgstr "Einkaufsliste anzeigen"
+
+#: template-parts/header/navigation.php:74
+msgid "View your shopping cart"
+msgstr "Warenkorb anzeigen"
+
+#: template-parts/header/navigation.php:53
+msgid "Woo Minicart"
+msgstr "Woo-Mini-Warenkorb"
+
+#: template-parts/header/navigation.php:47
+#: template-parts/header/navigation.php:87
+msgid "expanded"
+msgstr "aufgeklappt"
+
+#: template-parts/header/navigation.php:46
+msgid "Menu"
+msgstr "Menü"
+
+#: template-parts/header/navigation.php:7
+#: template-parts/header/navigation.php:72
+msgid "collapsed"
+msgstr "zugeklappt"
+
+#: template-parts/header/navigation.php:6
+#: template-parts/header/navigation.php:70
+msgid "Close"
+msgstr "Schließen"
+
+#: template-parts/header/navigation.php:4
+msgid "Main"
+msgstr "Hauptgang"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/spearhead"
+msgstr "https://wordpress.com/theme/spearhead"
+
+#. Description of the theme
+msgid "Share your podcast with the world using Spearhead."
+msgstr "Teile deinen Podcast mit der Welt – mit Spearhead."
+
+#: search.php:31
+#: template-parts/content/content-excerpt.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+#: inc/block-patterns.php:77
+msgid "Podcast links list"
+msgstr "Liste mit Podcast-Links"
+
+#: inc/block-patterns.php:61
+msgid "Podcast available on:"
+msgstr "Podcast verfügbar auf:"
+
+#: inc/block-patterns.php:57
+msgid "Podcast links"
+msgstr "Podcast-Links"
+
+#: inc/block-patterns.php:49
+msgid "Categories"
+msgstr "Kategorien"
+
+#: inc/block-patterns.php:46
+msgid "Latest Posts"
+msgstr "Neueste Beiträge"
+
+#: inc/block-patterns.php:42
+msgid "Archive page"
+msgstr "Archivseite"
+
+#: inc/block-patterns.php:33
+msgid "Related Posts"
+msgstr "Ähnliche Beiträge"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Spearhead"
+msgstr "Spearhead"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:308
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> bearbeiten"
+
+#. translators: %s: Name of current post.
+#: functions.php:233
+msgid "More"
+msgstr "Mehr"
+
+#: functions.php:91
+msgid "Background"
+msgstr "Hintergrund"
+
+#: functions.php:86
+msgid "Foreground"
+msgstr "Vordergrund"
+
+#: functions.php:81
+msgid "Primary"
+msgstr "Hauptblog"
+
+#: functions.php:69
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:68
+msgid "Huge"
+msgstr "Groß"
+
+#: functions.php:62
+#: functions.php:63
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:57
+msgid "L"
+msgstr "L"
+
+#: functions.php:56
+msgid "Large"
+msgstr "Groß"
+
+#: functions.php:51
+msgid "M"
+msgstr "M"
+
+#: functions.php:50
+msgid "Medium"
+msgstr "Mittel"
+
+#: functions.php:45
+msgid "S"
+msgstr "S"
+
+#: functions.php:44
+msgid "Small"
+msgstr "Klein"
+
+#: functions.php:39
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:38
+msgid "Tiny"
+msgstr "Sehr klein"
