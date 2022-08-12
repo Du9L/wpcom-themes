@@ -1,0 +1,554 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1,
+            "index_display_excerpt_or_full_post": "excerpt",
+            "archive_display_excerpt_or_full_post": "excerpt"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Over",
+            "post_content": "<!-- wp:paragraph --> <p id=\"block-a9f75419-6c61-4156-ae3a-98aac1c9011b\">Spearhead is een wekelijkse techpodcast die op iedere woensdag uitkomt.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p id=\"block-3208ff2a-bf7f-4626-95fe-5a0d4a57bc83\">Schuif aan bij Kjell, Mel en Jeff en neem een duik in de grootste gebeurtenissen, het belangrijkste technieuws en ontdek welke start-ups durfkapitaal hebben gekregen.</p> <!-- /wp:paragraph -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 233,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Wekelijks nieuws over tech, investeringen en de digitale eeuw",
+            "post_content": "<!-- wp:paragraph --> <p>Spearhead is een wekelijkse techpodcast die op iedere woensdag uitkomt.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Schuif aan bij Kjell, Mel en Jeff en neem een duik in de grootste gebeurtenissen, het belangrijkste technieuws en ontdek welke start-ups durfkapitaal hebben gekregen.</p> <!-- /wp:paragraph -->",
+            "post_name": "weekly-news-about-tech-investing-and-the-digital-age",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 194,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "sticky": true
+        },
+        {
+            "post_type": "page",
+            "post_title": "Podcast",
+            "post_content": "<!-- wp:navigation {\"orientation\":\"horizontal\"} --> <!-- wp:paragraph --> <p>Podcast te beluisteren op:</p> <!-- /wp:paragraph --> <!-- wp:navigation-link {\"label\":\"Apple\",\"url\":\"https:\\/\\/www.apple.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Breaker\",\"url\":\"https:\\/\\/www.breaker.audio\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Google\",\"url\":\"https:\\/\\/www.google.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"LinkedIn\",\"url\":\"https:\\/\\/www.linkedin.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Overcast\",\"url\":\"https:\\/\\/overcast.fm\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Spotify\",\"url\":\"https:\\/\\/spotify.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Twitter\",\"url\":\"https:\\/\\/twitter.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"YouTube\",\"url\":\"https:\\/\\/youtube.com\\/\"} /--> <!-- /wp:navigation --> <!-- wp:navigation {\"orientation\":\"horizontal\"} /--> <!-- wp:a8c/blog-posts {\"moreButton\":true,\"showAvatar\":false,\"postsToShow\":10} /--> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:heading {\"align\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Mijn blog volgen</h3> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">Ontvang nieuwe inhoud rechtstreeks in je inbox.</p> <!-- /wp:paragraph --> <!-- wp:jetpack/subscriptions {\"subscribePlaceholder\":\"Email Address\",\"buttonOnNewLine\":true,\"submitButtonText\":\"Subscribe\",\"buttonBackgroundColor\":\"primary\",\"textColor\":\"background\"} --> <div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline\">[jetpack_subscription_form subscribe_placeholder=\"Email Address\" show_subscribers_total=\"false\" button_on_newline=\"true\" submit_button_text=\"Subscribe\" custom_font_size=\"16\" custom_border_radius=\"0\" custom_border_weight=\"1\" custom_padding=\"15\" custom_spacing=\"10\" submit_button_classes=\"has-text-color has-background-color has-background has-primary-background-color\" email_field_classes=\"\" show_only_email_and_button=\"true\"]</div> <!-- /wp:jetpack/subscriptions -->",
+            "post_name": "podcast",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blog",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contact",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">Aarzel niet om contact met ons op te nemen via de onderstaande contactgegevens, of door een bericht te sturen via het formulier.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Neem contact op</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} --> <div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Dorpsstraat 10</div><div><span class=\"jetpack-address__city\">1234 AB</span>, <span class=\"jetpack-address__region\"></span><span class=\"jetpack-address__postal\">Stad</span></div><div class=\"jetpack-address__country\">Nederland</div></div> <!-- /wp:jetpack/address --> <!-- wp:jetpack/email {\"email\":\"myemail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:myemail@example.com\">mijnemail@voorbeeld.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123) 456 78 90</a></div> <!-- /wp:jetpack/phone --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"instagram.com\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--> <!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"facebook.com\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"twitter.com\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"wordpress.com\",\"service\":\"wordpress\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Stuur ons een bericht</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-url /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Contact Us\"} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:cover {\"url\":\"https:\\/\\/headstartdata.files.wordpress.com\\/2020\\/07\\/qi-bin-w4hbafegiac-unsplash.jpg\",\"id\":26,\"dimRatio\":10,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim-10 has-background-dim\" style=\"background-image:url('https://headstartdata.files.wordpress.com/2020/07/qi-bin-w4hbafegiac-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":8,\"column1DesktopOffset\":2,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":4,\"className\":\"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"align\":\"center\",\"level\":1} --> <h1 class=\"has-text-align-center\">Welkom bij je nieuwe site.</h1> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\">Welkom bij je nieuwe site! Je kunt deze pagina bewerken door op de koppeling Bewerken te klikken. Voor meer informatie over het aanpassen van je site, ga naar <a href=\"https://href.li/?http://learn.wordpress.com/\">http://learn.wordpress.com/</a></p> <!-- /wp:paragraph --> <!-- wp:buttons {\"align\":\"center\"} --> <div class=\"wp-block-buttons aligncenter\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"http://learn.wordpress.com\" title=\"learn.wordpress.com\">Meer informatie</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:cover --> <!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":12,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"level\":4} --> <h4>Nieuwste toevoegingen aan de blog</h4> <!-- /wp:heading --> <!-- wp:a8c/blog-posts {\"imageShape\":\"uncropped\",\"showAuthor\":false,\"showAvatar\":false,\"postLayout\":\"grid\",\"typeScale\":3} /--></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group --> <!-- wp:group {\"backgroundColor\":\"foreground-dark\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-foreground-dark-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":3,\"column1DesktopOffset\":2,\"column1TabletSpan\":4,\"column1MobileSpan\":4,\"column2DesktopSpan\":5,\"column2TabletSpan\":4,\"column2MobileSpan\":4,\"column3DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-left has-huge-font-size\">Ontvang nieuwe inhoud rechtstreeks in je inbox.</p> <!-- /wp:paragraph --></div> <!-- /wp:jetpack/layout-grid-column --> <!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:jetpack/subscriptions --> <div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div> <!-- /wp:jetpack/subscriptions --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group -->",
+            "post_name": "",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 33,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Start-ups: Verwachtingen vs. realiteit",
+            "post_content": "<!-- wp:paragraph --> <p>Startgeld niet-openbaar crowdfunding durfkapitaal iPhone implementatie release agile ontwikkeling business-to-business. Bèta validatie gebruikerservaring eigendomskosten influencer-kanalen. Ondernemen churn rate gebruikerservaring termenblad MVP-financiering.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":199} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/startups.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "startups-expectations-vs-reality",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 59,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Zal tech ooit de wereld overnemen?",
+            "post_content": "<!-- wp:paragraph --> <p>First-mover advantage early adopters freemium angel investor koper partners onderzoek en ontwikkeling profijt lean startup monetisatie nieuws innoveren alfa business-to-business. Ondernemingsplan validatie infographic iPad wachtperiode.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Infographic creatieve ondernemer business-to-business. Prototype bèta leercurve responsief webdesign crowdfunding strategie kleine branche sociale bewijskracht business model canvas draaipunt churn rate.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Paradigmaverschuiving direct mailing iteratie ecosysteem integraal ketenbeheer. Direct mailing first-mover advantage kanalen conversie profijt gebruikerservaring geheimhoudingsverklaring handdruk statistieken. Start-up branche freemium iPad koper MVP ondernemer nieuws A/B-testen eigendomskosten serie A-financiering. Omrekening productmanagement financiering b2b eigendomskosten business model canvas hackathon groei hacken first-mover advantage.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Publiek sociale media crowdfunding ondernemer netwerk effecten grafische gebruikersinterface verstorend resultaten partners nieuws monetisatie oprichters.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>MVP nieuws startgeld aandelen agile ontwikkeling long tail crowdfunding business-to-business oprichters influencer responsief webdesign. Onderzoek en ontwikkeling first-mover advantage Facebook bandbreedte verstorend viral. Grafisch gebruikersinterface Twitter focus oprichters activa.<br>Statistieken partners sociale media grafisch gebruikersinterface burn rate klant bèta profijt verkoopcijfers oprichters implementatie crowdfunding.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Release financiering openingsfeest viral Android burn rate merknaamverspreiding ecosysteem vermogen klant long tail draaipunt strategie resultaten. Focus generatie Z hackathon crowdfunding scrum-project oprichters business-to-consumer early adopters financiering statistieken omrekening. Termenblad validatie handdruk adviseur financieringspartner netwerk hypothese ecosysteem.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Ondernemersplan serie A-financiering angel investor financiering klant statistieken. Crowdfunding bandbreedte ondernemer direct mailing early adopters scrum-project geheime verkoopcijfers Android resultaten. Business-to-business kleine branche ondernemersplan koper generatie Z onderzoek en ontwikkeling business-to-consumer long tail leercurve wachtperiode durfkapitaal churn rate geheim.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":218} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/will-tech-ever-rule-the-world.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "will-tech-ever-rule-the-world",
+            "post_excerpt": "Startgeld resultaten vermogen ondernemersplan waarde voorstel creatief sociale bewijskracht. Rockstar kanalen iPhone gamificatie strategie interactie-designer. Productmanagement first-mover advantage merknaamverspreiding aandelen validatie eigendomskosten. Geheim alfa serie A.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 57,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "De volgende grote ontwikkeling bij financiering d.m.v. durfkapitaal",
+            "post_content": "<!-- wp:paragraph --> <p>Incubator responsief webdesign gebruikerservaring resultaten eigendomskosten investeerder. Churn rate nieuws iPad direct mailing strategie ramen grafische gebruikersinterface Rockstar. Alfa merknaamverspreiding ramen geheimhoudingsverklaring durfkapitaal partners angel investor paradigmaverschuiving.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":216} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/the-next-big-thing.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "the-next-big-thing-in-vc-funding",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 55,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "AI uitgelegd in minder dan 140 tekens",
+            "post_content": "<!-- wp:paragraph --> <p>Agile ontwikkeling grafische gebruikersinterface Android statistieken iPhone. Sociale media serie A-financiering geheim hackathon creatief investeerder incubator profijt leercurve. Onderzoek en ontwikkeling technologie publiek hackathon lean start-up crowdfunding direct mailing.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":214} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/ai-explained.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "ai-explained-in-fewer-than-140-characters",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 53,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Het grootste nieuws van deze week over Blockchain",
+            "post_content": "<!-- wp:paragraph --> <p>Laag hangend fruit oprichters hackathon focus influencer freemium. Geheim MVP branche prototype. Rendement prototype lean start-up focus waarde voorstel responsief webdesign business-to-business. Partners crowdfunding scrum-project.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":212} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/blockchain.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "this-weeks-top-stories-about-blockchain",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 51,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Wat is de beste versleutelde chatservice?",
+            "post_content": "<!-- wp:paragraph --> <p>Paradigmaverschuiving financiering infographic direct mailing startgeld implementatie sociale bewijskracht alfa. Prototype wachtperiode klant focus start-up statistieken. Ondernemersplan durfkapitaal ramen startgeld oprichters publiek gebruikerservaring infrastructuur verkooppraatje agile ontwikkeling termenblad.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":210} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/encrypted-chat.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "whats-the-best-encrypted-chat-service",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 49,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Waarom QR-codes weer populair aan het worden zijn",
+            "post_content": "<!-- wp:paragraph --> <p>kriebel merknaamverspreiding statistieken partners iPhone koper activa verkoopcijfers. Gamificatie draaipunt leercurve merknaamverspreiding iteratie geheime investeerder. Vermogen branche profijt startgeld ondernemersplan ecosysteem versneller agile ontwikkeling openingsfeest.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":208} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/qr-codes.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "how-qr-codes-are-making-a-comeback",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 47,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "5G, het Dark Web en meer: Het grootste nieuws van deze week",
+            "post_content": "<!-- wp:paragraph --> <p>Resultaten sociale media influencer. Draaipunt termenblad geheimhoudingsverklaring kanalen scrum-project implementatie koper. Monetisatie A/B-testen bootstrapping. Generatie Z interactie ontwerp business-to-consumer marketing monetisatie klant.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":202} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/5g.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "5g-the-dark-web-and-more-this-weeks-top-stories",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Wat iedere eigenaar van een start-up moet weten om winst te boeken",
+            "post_content": "<!-- wp:paragraph --> <p>Heilige graal Facebook bèta groei hacken waarde voorstel business-to-business start-up massamarkt ecosysteem A/B-testen hackathon iteratie draaipunt. Startgeld hackathon gebruikerservaring Facebook kleine branche merknaamverspreiding agile ontwikkeling durfkapitaal release financiering.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":206} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/what-every-ceo-needs-to-know.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "what-every-startup-ceo-needs-to-know-to-succeed",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 42,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Knopen doorhakken in de COVID-19-samenleving",
+            "post_content": "<!-- wp:paragraph --> <p>Bootstrapping nieuws crowdfunding adviseur burn rate business-to-business generatie Z klant A/B-testen ecosysteem. Profijt leercurve openingsfeest verstorend Android ramen bèta versneller prototype investeerder. MVP klant netwerk effecten.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":204} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/covid19.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "cord-cutting-in-the-age-of-covid-19",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 40,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "podcasts": {
+            "name": "Podcasts",
+            "items": [
+                {
+                    "menu-item-title": "Apple",
+                    "menu-item-db-id": 68,
+                    "menu-item-object-id": "68",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Breaker",
+                    "menu-item-db-id": 69,
+                    "menu-item-object-id": "69",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Google",
+                    "menu-item-db-id": 70,
+                    "menu-item-object-id": "70",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "LinkedIn",
+                    "menu-item-db-id": 71,
+                    "menu-item-object-id": "71",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Overcast",
+                    "menu-item-db-id": 72,
+                    "menu-item-object-id": "72",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Spotify",
+                    "menu-item-db-id": 73,
+                    "menu-item-object-id": "73",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 74,
+                    "menu-item-object-id": "74",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 7,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "YouTube",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "75",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 8,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                }
+            ]
+        },
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 19,
+                    "menu-item-object-id": "33",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Over",
+                    "menu-item-db-id": 235,
+                    "menu-item-object-id": "233",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Podcast",
+                    "menu-item-db-id": 20,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Contact",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sociaal",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 25,
+                    "menu-item-object-id": "25",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://instagram.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://pinterest.com"
+                },
+                {
+                    "menu-item-title": "WordPress",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "27",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://wordpress.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://spearheaddemo.files.wordpress.com/2020/10/qi-bin-w4hbafegiac-unsplash.jpg",
+        "https://spearheaddemo.files.wordpress.com/2020/10/rachel-pfuetzner-0fn7fxv1ewa-unsplash.jpg"
+    ],
+    "meta": {
+        "blog_id": 183906040,
+        "url": "https://spearheaddemo.wordpress.com",
+        "update_date": "October 27, 2020, 12:45 pm",
+        "update_timestamp": 1603802740
+    }
+}
