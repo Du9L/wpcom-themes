@@ -1,0 +1,143 @@
+.wp-block-button.wp-block-button__link:not(.has-background):not(.has-text-color):hover, .wp-block-button.wp-block-button__link:not(.has-background):not(.has-text-color):focus, .wp-block-button.wp-block-button__link:not(.has-background):not(.has-text-color).has-focus,
+.wp-block-button .wp-block-button__link:not(.has-background):not(.has-text-color):hover,
+.wp-block-button .wp-block-button__link:not(.has-background):not(.has-text-color):focus,
+.wp-block-button .wp-block-button__link:not(.has-background):not(.has-text-color).has-focus {
+  border-style: var(--wp--custom--button--border--style);
+  border-color: currentColor;
+  border-width: var(--wp--custom--button--border--width);
+  padding-top: var(--wp--custom--button--spacing--padding--top);
+  padding-bottom: var(--wp--custom--button--spacing--padding--bottom);
+  padding-left: var(--wp--custom--button--spacing--padding--left);
+  padding-right: var(--wp--custom--button--spacing--padding--right);
+}
+
+.wp-block-file .wp-block-file__button:hover, .wp-block-file .wp-block-file__button:focus, .wp-block-file .wp-block-file__button.has-focus {
+  border-style: var(--wp--custom--button--border--style);
+  border-color: currentColor;
+  border-width: var(--wp--custom--button--border--width);
+  padding-top: var(--wp--custom--button--spacing--padding--top);
+  padding-bottom: var(--wp--custom--button--spacing--padding--bottom);
+  padding-left: var(--wp--custom--button--spacing--padding--left);
+  padding-right: var(--wp--custom--button--spacing--padding--right);
+}
+
+.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__button:hover, .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__button:focus, .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__button.has-focus,
+.wp-block-search .wp-block-search__button:hover,
+.wp-block-search .wp-block-search__button:focus,
+.wp-block-search .wp-block-search__button.has-focus {
+  border-style: var(--wp--custom--button--border--style);
+  border-color: currentColor;
+  border-width: var(--wp--custom--button--border--width);
+  padding-top: var(--wp--custom--button--spacing--padding--top);
+  padding-bottom: var(--wp--custom--button--spacing--padding--bottom);
+  padding-left: var(--wp--custom--button--spacing--padding--left);
+  padding-right: var(--wp--custom--button--spacing--padding--right);
+}
+
+.wp-block-button.wp-block-button.is-style-outline.wp-block-button__link:not(.has-background):not(.has-text-color):hover, .wp-block-button.wp-block-button.is-style-outline.wp-block-button__link:not(.has-background):not(.has-text-color):focus, .wp-block-button.wp-block-button.is-style-outline.wp-block-button__link:not(.has-background):not(.has-text-color).has-focus,
+.wp-block-button.wp-block-button.is-style-outline .wp-block-button__link:not(.has-background):not(.has-text-color):hover,
+.wp-block-button.wp-block-button.is-style-outline .wp-block-button__link:not(.has-background):not(.has-text-color):focus,
+.wp-block-button.wp-block-button.is-style-outline .wp-block-button__link:not(.has-background):not(.has-text-color).has-focus {
+  color: var(--wp--custom--button--color--background);
+  background-color: var(--wp--custom--button--color--text);
+}
+
+/* Text selection text color */
+::selection {
+  color: var(--wp--custom--color--background);
+  background-color: var(--wp--custom--color--foreground);
+}
+
+/* Post title when featured image is present */
+body:not(.has-featured-image) h1.wp-block-post-title {
+  border-bottom: var(--wp--custom--form--border--width) var(--wp--custom--form--border--style) var(--wp--preset--color--primary);
+  padding-bottom: calc(var(--wp--custom--gap--vertical) * 3);
+}
+
+/* Separator width */
+/* We can remove after https://github.com/WordPress/gutenberg/pull/38635 gets deployed */
+.wp-block-separator.is-style-wide {
+  border-width: 0 0 3px 0;
+}
+
+/* Links and underlines */
+a {
+  text-decoration-thickness: 0.07em;
+  text-underline-offset: 0.46ex;
+}
+
+.wp-block-post-content p a:not(.wp-block-post-excerpt__more-link) {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+}
+.wp-block-post-content p a:not(.wp-block-post-excerpt__more-link):hover {
+  text-decoration: none;
+  background-color: var(--wp--custom--color--primary);
+  color: var(--wp--custom--color--background);
+}
+
+.wp-block-post-comments .comment-meta > a,
+.wp-block-post-comments .comment-body > p > a,
+.wp-block-post-comments .comment-edit-link,
+.post-meta a {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+}
+.wp-block-post-comments .comment-meta > a:hover,
+.wp-block-post-comments .comment-body > p > a:hover,
+.wp-block-post-comments .comment-edit-link:hover,
+.post-meta a:hover {
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+.wp-block-site-title a,
+.wp-block-post-title a {
+  text-underline-offset: 0.1ex;
+}
+
+.wp-block-site-title a,
+.wp-block-post-title a,
+.wp-block-query-pagination a {
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+}
+.wp-block-site-title a:hover,
+.wp-block-post-title a:hover,
+.wp-block-query-pagination a:hover {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+}
+
+.wp-block-search__button:active, .wp-block-search__button:focus,
+a:not(.ab-item):not(.screen-reader-shortcut):active,
+a:not(.ab-item):not(.screen-reader-shortcut):focus {
+  outline: 1px dotted var(--wp--custom--color--primary);
+  outline-offset: 0.1em;
+  text-decoration: none;
+}
+
+.archive .wp-block-post-date,
+.blog .wp-block-post-date,
+.home .wp-block-post-date {
+  text-decoration: underline;
+  text-decoration-thickness: 0.07em;
+  text-underline-offset: 0.46ex;
+}
+
+.wp-block-query-pagination .wp-block-query-pagination-numbers .current {
+  text-decoration-thickness: 0.07em;
+  text-underline-offset: 0.46ex;
+}
+
+.wp-block-post-excerpt__more-link {
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=theme.css.map */
