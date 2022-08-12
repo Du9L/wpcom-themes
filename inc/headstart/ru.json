@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Блог",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "О нас",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist — это блог, посвящённый всему, что погребено под поверхностью земли.</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Об авторах:</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Сара Эдвардс</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Сара работает геологом в Университете Антема. Её любовь ко всему подземному началась ещё в детском саду, когда она выкопала в песочнице забытую кем-то игрушку.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Анджело Ортис</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Анджело — независимый исследователь и коллекционер. Его подборке драгоценных камней могут позавидовать некоторые музеи. Анджело всегда готов к новым открытиям и везде таскает с собой набор инструментов.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Драгоценные камни",
+            "post_content": "<!-- wp:paragraph --> <p>— Придётся после чая пойти в Зелёные Мезонины и выяснить у Мариллы, куда он поехал и зачем, — в конце концов решила эта достойная женщина. — Он никогда не отправляется в город в это время года и <em>никогда</em> не ездит в гости. Если бы ему не хватило семян и пришлось бы за ними поехать, то он не стал бы наряжаться и брать кабриолет. Не может быть, чтобы он направлялся за доктором — он ехал слишком медленно для этого. Однако что-то несомненно произошло со вчерашнего вечера, что заставило его выехать из дома. Ну прямо загадка, скажу я вам! И я не успокоюсь, пока не узнаю, что же заставило Мэтью Касберта выехать сегодня из Авонлеи.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>И вот после чая миссис Рейчел направилась к Зелёным Мезонинам. Идти было недалеко. От Долины Линд до просторного, утопающего в садах дома, где жила семья Касбертов, было всего четверть мили по большой дороге. Правда, потом предстояло ещё пройти по довольно длинной тропинке. Отец Мэтью Касберта, такой же робкий и молчаливый, как и его сын, постарался, закладывая своё хозяйство, разместить его как можно дальше от соседей, возле самого леса. Зелёные Мезонины были выстроены на самом дальнем краю принадлежавшего ему расчищенного участка и там стояли по сей день, едва видимые с дороги, вдоль которой дружно расположились остальные домики Авонлеи. Миссис Рейчел никак не могла назвать дом, выстроенный на таком месте, <em>жильём</em> .</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>— Это так, просто <em>крыша над головой</em>, скажу я вам, — говорила она себе самой, шагая по поросшей травой и обсаженной кустами шиповника тропинке с глубокими колеями. — Ничего удивительного, что Мэтью и Марилла оба чуточку странные, ведь живут они так обособленно. Конечно, если деревья могут составить компанию, то их тут, слава Богу, вполне достаточно. Но я предпочла бы смотреть на людей. По правде сказать, оба они, кажется, всем довольны, но я полагаю, они просто привыкли к такой жизни. Ко всему можно привыкнуть, как сказал ирландец, приговорённый к повешению. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>С этими словами миссис Рейчел ступила с тропинки на задний двор Зелёных Мезонинов. Весь в зелени, очень чистый и аккуратный, двор этот был обсажен с одной стороны высокими старыми ивами, а с другой — ровными пирамидальными тополями. Ни одной случайно оброненной палочки или камешка не было видно, ибо, несомненно, миссис Рейчел увидела бы их, если бы они там находились. В глубине души она была уверена, что Марилла Касберт подметает двор так же часто, как и дом. Можно было бы обедать прямо на земле, не опасаясь проглотить даже и комочка грязи.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Иллюстрации драгоценных камней Эмиля Хохданца. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "— Придётся после чая пойти в Зелёные Мезонины и выяснить у Мариллы, куда он поехал и зачем, — в конце концов решила эта достойная женщина. — Он никогда не отправляется в город в это время года и никогда не ездит в гости. Если бы ему не хватило семян и пришлось бы за ними поехать, то он не стал бы наряжаться и брать кабриолет. Не может быть, чтобы он направлялся за доктором — он ехал слишком медленно для этого. ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Окаменелости",
+            "post_content": "<!-- wp:paragraph --> <p>Как-то раз в начале июня она сидела в кухне на своём обычном месте. Теплое, яркое солнце заглядывало в окно. Сад, раскинувшийся на склоне холма за домом, стоял в чудесном подвенечном наряде бледно-розовых цветов, над которыми с жужжанием вились мириады пчел. Томас Линд — скромный человечек, которого все в Авонлее называли «муж Рейчел Линд», — сеял свою позднюю репу на склоне за коровником, и Мэтью Касберт тоже должен бы был сеять свою на большом поле у ручья, возле Зелёных Мезонинов. Миссис Рейчел знала, что должен, потому что слышала накануне, как он говорил Питеру Моррисону в магазине Уильяма Блэра в Кармоди, что собирается сеять репу на следующий день после обеда. Разумеется, Питер его об этом спросил, потому что Мэтью Касберт не принадлежал к числу людей, которые говорят о том, о чём их не спрашивали.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>И однако, вот он, Мэтью Касберт, в половине четвёртого, в будний день, не спеша, направляется по дороге через долину. И что ещё удивительнее — так это то, что на нём его лучший костюм и белый воротничок — неопровержимое доказательство, что он выезжает куда-то из Авонлеи. И едет он в кабриолете, запряжённом гнедой кобылой, из чего ясно, что путь ему предстоит неблизкий. Так куда же Мэтью Касберт едет и зачем он туда едет?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Будь это любой другой человек в Авонлее, миссис Рейчел, минутку подумав, легко смогла бы дать ответ на оба эти вопроса. Но Мэтью так редко выезжал из дома, что только нечто весьма настоятельное и необычное могло заставить его двинуться в путь. Он был на редкость робким человеком, и отправиться туда, где он оказался бы в обществе незнакомых ему людей или где ему пришлось бы с кем-то разговаривать, было для него тяжким испытанием. Мэтью в белом воротничке, в кабриолете — такое редко случалось. Миссис Рейчел долго размышляла об этом, но так ни к чему и не пришла, и вся прелесть безмятежного вечера была для неё потеряна.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Иллюстрации драгоценных камней Эмиля Хохданца. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "Как-то раз в начале июня она сидела в кухне на своём обычном месте. Теплое, яркое солнце заглядывало в окно. Сад, раскинувшийся на склоне холма за домом, стоял в чудесном подвенечном наряде бледно-розовых цветов, над которыми с жужжанием вились мириады пчел.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "И так далее",
+            "post_content": "<!-- wp:paragraph --> <p>Дом миссис Рейчел Линд стоял как раз в том месте, где широкая дорога, ведущая в Авонлею, ныряла в небольшую долину, окаймлённую с обеих сторон зарослями ольхи и папоротников, и где её пересекал ручей, который брал свое начало далеко, ещё в лесах, окружавших старый двор Касбертов. Там, в начале своего течения, этот ручей был капризным и своевольным, прыгал каскадами и разливался небольшими темными и таинственными прудами, но к тому времени, когда он добирался до Долины Линд, это уже был спокойный, благовоспитанный маленький поток, потому что даже ручей не мог протекать мимо дома миссис Рейчел Линд без должного соблюдения приличий. Он, вероятно, отдавал себе отчёт в том, что миссис Рейчел, сидя у окна, смотрит внимательным взором на всё, что делается вокруг, начиная от ручьёв и детей, и если она заметит что-нибудь странное или неуместное, то не обретёт покоя, пока не дойдёт до всех «отчего» и «почему».</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Много есть людей, как в Авонлее, так и за её пределами, которые любят заниматься делами своих соседей, упуская при этом из виду свои собственные. Но миссис Рейчел Линд принадлежала к тем одарённым особам, которые, питая живой интерес к делам ближних, прекрасно управляются и со своими. Она была отличной хозяйкой, в доме у неё все блестело; она вела кружок рукоделия для девочек, помогала организовывать занятия воскресной школы, была надёжнейшей опорой благотворительной организации при местной церкви и общества поддержки миссионеров. И при всем том у миссис Рейчел хватало времени, чтобы сидеть часами возле окна своей кухни, вязать на спицах одеяла из толстых хлопчатых ниток — а связала она их уже шестнадцать, как с почтительным трепетом в голосе говорили друг другу хозяйки в Авонлее, — и неусыпно наблюдать за дорогой, которая сворачивала здесь в долину, а затем вилась вверх по крутому красноватому холму. Так как Авонлея занимала маленький полуостров в форме треугольника, выступавший в залив Святого Лаврентия и окружённый с двух сторон водой, всякий, кто направлялся в эту деревню или из неё, должен был пройти по этой взбирающейся на холм дороге. И потому, сам о том не ведая, представал пред всевидящим оком миссис Рейчел.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Иллюстрации драгоценных камней Эмиля Хохданца. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "Дом миссис Рейчел Линд стоял как раз в том месте, где широкая дорога, ведущая в Авонлею, ныряла в небольшую долину, окаймлённую с обеих сторон зарослями ольхи и папоротников, и где её пересекал ручей, который брал своё начало далеко, ещё в лесах, окружавших старый двор Касбертов.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Контакты",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">1 Улица, <br>город, 10100 USA (США)</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">contact@example.com</a><br>(012) 345 67 89</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Главный",
+            "items": [
+                {
+                    "menu-item-title": "Блог",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "О нас",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Контакты",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}
