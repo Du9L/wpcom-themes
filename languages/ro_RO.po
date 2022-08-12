@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Stewart\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-02T03:08:51+00:00\n"
+"PO-Revision-Date: 2022-04-01 11:32:13+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:21
+msgid "Query"
+msgstr "Interogare"
+
+#: inc/patterns/posts-list.php:6
+msgid "Posts list"
+msgstr "Listă articole"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigantic"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terțiară"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Pagină goală"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "Numai antet și subsol"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Sidebar and Footer Only"
+msgstr "Numai bară laterală și subsol"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Prim-plan și fundal"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Background and Foreground"
+msgstr "Fundal și prim-plan "
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr "Work Sans"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header with Site Title and Navigation"
+msgstr "Antet cu titlu site-ului și navigare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Foarte mic"
+
+#: inc/patterns/sidebar-categories-tags.php:24
+msgid "Tags"
+msgstr "Etichete"
+
+#: inc/patterns/sidebar-default.php:6
+msgid "Default sidebar"
+msgstr "Bară laterală implicită"
+
+#. Description of the theme
+msgid "Stewart is a modern blogging theme with a left sidebar. Its default color scheme is a striking combination of orange and light gray, to give your blog a sophisticated appearance from day one."
+msgstr "Stewart este o temă modernă de blogging cu o bară laterală în stânga. Schema sa implicită de culori este o combinație frapantă de portocaliu și gri deschis care îi oferă blogului tău un aspect sofisticat din prima zi."
+
+#: inc/patterns/sidebar-introduction.php:6
+msgid "Sidebar with introduction"
+msgstr "Bară laterală cu introducere"
+
+#: inc/patterns/sidebar-blogging.php:38
+msgid "Latest Comments"
+msgstr "Ultimele comentarii"
+
+#: inc/patterns/sidebar-categories-tags.php:14
+msgid "Categories"
+msgstr "Categorii"
+
+#: inc/patterns/sidebar-categories-tags.php:6
+msgid "Sidebar with categories and tags"
+msgstr "Bară laterală cu categorii și etichete"
+
+#: inc/patterns/sidebar-border.php:6
+msgid "Sidebar with border"
+msgstr "Bară laterală cu chenar"
+
+#: inc/patterns/sidebar-blogging.php:14
+msgid "Start here"
+msgstr "Începe de aici"
+
+#: inc/patterns/sidebar-blogging.php:28
+msgid "Archives"
+msgstr "Arhive"
+
+#: inc/patterns/sidebar-background.php:6
+msgid "Sidebar with background color"
+msgstr "Bară laterală cu culoare de fundal"
+
+#: inc/patterns/page-contact.php:39
+msgid "@instagram"
+msgstr "@instagram"
+
+#: inc/patterns/sidebar-blogging.php:6
+msgid "Blogging sidebar"
+msgstr "Bară laterală de blogging"
+
+#: inc/patterns/page-contact.php:21
+msgid "Email"
+msgstr "e-mail"
+
+#: inc/patterns/page-contact.php:25
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/patterns/page-contact.php:35
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: inc/patterns/page-contact.php:31
+msgid "@twitter"
+msgstr "@twitter"
+
+#: inc/patterns/header-image.php:6
+msgid "Header image"
+msgstr "Imagine antet"
+
+#: inc/patterns/page-about.php:25
+msgid "Experience"
+msgstr "Experiență"
+
+#: inc/patterns/page-contact.php:17
+msgid "Twitter"
+msgstr "Twitter "
+
+#: inc/patterns/page-contact.php:6
+msgid "Contact page"
+msgstr "Pagină Contact"
+
+#: inc/patterns/page-about.php:9
+msgid "Jenn<br>Stewart"
+msgstr "Jenn<br>Stewart"
+
+#: inc/patterns/page-about.php:6
+msgid "About page"
+msgstr "Pagină Despre"
+
+#: inc/patterns/header-traditional.php:6
+msgid "Traditional header"
+msgstr "Antet tradițional"
+
+#: inc/patterns/footer-nav-right.php:6
+msgid "Footer with right navigation"
+msgstr "Subsol cu navigare în dreapta"
+
+#: inc/patterns/footer-nav-left.php:6
+msgid "Footer with left navigation"
+msgstr "Subsol cu navigare în stânga"
+
+#: inc/patterns/footer-right.php:6
+msgid "Right-aligned footer"
+msgstr "Subsol aliniat în dreapta"
+
+#: inc/patterns/header-traditional-background.php:6
+msgid "Traditional header with color background"
+msgstr "Antet tradițional cu fundal colorat"
+
+#: inc/patterns/footer-left.php:6
+msgid "Left-aligned footer"
+msgstr "Subsol aliniat în stânga"
+
+#: inc/patterns/footer-default.php:20
+#: inc/patterns/footer-left.php:21
+#: inc/patterns/footer-nav-left.php:26
+#: inc/patterns/footer-nav-right.php:21
+#: inc/patterns/footer-right.php:21
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: inc/patterns/page-about.php:19
+#: inc/patterns/sidebar-introduction.php:10
+msgid "A collage featuring the portrait of a woman."
+msgstr "Un colaj care prezintă portretul unei femei."
+
+#: inc/patterns/page-about.php:39
+msgid "Awards"
+msgstr "Premii"
+
+#: inc/patterns/header-image.php:10
+#: inc/patterns/page-contact.php:9
+#: inc/patterns/sidebar-background.php:10
+msgid "An abstract image featuring a brushstroke."
+msgstr "O imagine abstractă cu o pensulă."
+
+#: inc/block-patterns.php:20
+msgid "Sidebars"
+msgstr "Bare laterale"
+
+#. Translators: WordPress link.
+#: inc/patterns/footer-default.php:19
+#: inc/patterns/footer-left.php:20
+#: inc/patterns/footer-nav-left.php:25
+#: inc/patterns/footer-nav-right.php:20
+#: inc/patterns/footer-right.php:20
+msgid "Proudly powered by %s"
+msgstr "Propulsată cu mândrie de %s"
+
+#: inc/patterns/footer-default.php:6
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr "Pagini"
+
+#: inc/block-patterns.php:18
+msgid "Headers"
+msgstr "Anteturi"
+
+#: inc/block-patterns.php:17
+msgid "Footers"
+msgstr "Subsoluri"
