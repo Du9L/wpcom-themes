@@ -1,0 +1,5 @@
+//NOTE: Setting the font size as a block attributes forces ALL elements to have that font size
+//preventing mobile menu items (and sub-menu items) from having a different size value
+.wp-block-navigation {
+	font-size: var(--wp--preset--font-size--small);
+}
