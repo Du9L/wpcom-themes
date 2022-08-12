@@ -1,0 +1,28 @@
+.post-meta {
+	.wp-block-post-author,
+	.wp-block-post-date,
+	.taxonomy-post_tag,
+	.taxonomy-category {
+		@include post-meta-icon;
+	}
+
+	.wp-block-post-author:before {
+		-webkit-mask-image: url(svg/post-author.svg);
+		mask-image: url(svg/post-author.svg);
+	}
+
+	.wp-block-post-date:before {
+		-webkit-mask-image: url(svg/post-date.svg);
+		mask-image: url(svg/post-date.svg);
+	}
+
+	.taxonomy-category:before  {
+		-webkit-mask-image: url(svg/post-category.svg);
+		mask-image: url(svg/post-category.svg);
+	}
+
+	.taxonomy-post_tag:before {
+		-webkit-mask-image: url(svg/post-tag.svg);
+		mask-image: url(svg/post-tag.svg);
+	}
+}
