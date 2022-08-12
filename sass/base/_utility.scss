@@ -1,0 +1,25 @@
+//Utility classes for Block styles/Patterns:
+
+//Apply to Image block when we don't want margin bottom before caption
+.image-no-margin {
+	margin: 0;
+	& * { //Removes any whitespace created by child elements (a div on the editor, and an image or link on the frontend)
+		vertical-align: bottom;
+	}
+}
+
+//Removes padding on Column block when it has a background color
+.has-background-no-padding.wp-block-columns.has-background {
+	padding: 0;
+}
+
+// Needed until we have a solution for https://github.com/WordPress/gutenberg/issues/34588.
+.has-background {
+	&:not(.wp-block-separator){
+		padding: var(--wp--custom--gap--vertical) var(--wp--custom--gap--horizontal);
+	}
+
+	:last-child {
+		margin-bottom: 0;
+	}
+}
