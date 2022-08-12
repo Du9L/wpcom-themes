@@ -1,0 +1,283 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "unset",
+                "font_headings": "unset"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1,
+            "color_palette": "default-palette"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 104,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contact",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p class=\"has-text-align-left\">We're here and we want to listen to your feedback. Have a topic you'd like to hear in our podcast? Leave it in the form below, we'll try to get back to you soon.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>Leave Us A Message<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:jetpack\/contact-form {\"subject\":\"New feedback received from your website\"} -->\n<!-- wp:jetpack\/field-name {\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-email {\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-textarea \/-->\n\n<!-- wp:jetpack\/button {\"element\":\"button\",\"text\":\"Send Message\"} \/-->\n<!-- \/wp:jetpack\/contact-form -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 66,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "About",
+            "post_content": "<!-- wp:spacer {\"height\":40} -->\n<div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":120,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/quadratdemo.files.wordpress.com\/2021\/06\/illustration-of-two-women.png?w=921\" alt=\"\" class=\"wp-image-120\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"50%\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"1em\",\"right\":\"1em\",\"bottom\":\"1em\",\"left\":\"1em\"}}}} -->\n<div class=\"wp-block-column\" style=\"padding-top:1em;padding-right:1em;padding-bottom:1em;padding-left:1em;flex-basis:50%;\"><!-- wp:heading {\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":\"40px\"}}} -->\n<h2 style=\"font-size:40px;line-height:1.3;\">Sarah and Olivia are journalists, activists and feminists who fight for equality and promote critical thinking.<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>When they met in college neither of them had the aspiration to create podcasts. They'd stare blankly into their laptop screens most of the time, and wonder why the same chances weren't given to them because they were women.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":30} -->\n<div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Empty complaints led to deeper conversations, which eventually led to the <em>Quadrat<\/em> podcast. A weekly chat where they discuss all things related to womanhood, from fundamental rights to feminism, body literacy and mental health.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":30} -->\n<div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":173,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/quadratdemo.files.wordpress.com\/2021\/06\/a-woman-in-a-light-pink-wall._.png?w=908\" alt=\"\" class=\"wp-image-173\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>Sarah Coleman<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Sarah prides herself in educating and promoting body literacy.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:social-links {\"iconColor\":\"primary\",\"iconColorValue\":\"#FFD1D1\",\"className\":\"is-style-logos-only\"} -->\n<ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"tumblr\"} \/--><\/ul>\n<!-- \/wp:social-links --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":174,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https:\/\/quadratdemo.files.wordpress.com\/2021\/06\/a-woman-in-an-orange-wall._.png?w=908\" alt=\"\" class=\"wp-image-174\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>Olivia Wong<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Olivia is an avid reader of feminist classics and comic books.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:social-links {\"iconColor\":\"primary\",\"iconColorValue\":\"#FFD1D1\",\"className\":\"is-style-logos-only\"} -->\n<ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} \/--><\/ul>\n<!-- \/wp:social-links --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 65,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Behind the Episode: A Cycle of Emotions",
+            "post_content": "<!-- wp:paragraph -->\n<p>Welcome to the blog series where Sarah and Olivia break down the research that went into each episode. We\u2019ll also expand on some of the fun side discussions we had while creating the episode.&nbsp;<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This week, we\u2019re exploring <a href=\"https:\/\/quadratdemo.wordpress.com\/2021\/05\/20\/episode-3-a-cycle-of-emotions\/\">Episode 3: A Cycle of&nbsp;Emotions<\/a>. In this episode, we discuss a recurring question: why aren\u2019t there more women in leadership? Sarah and Olivia get deep into the subject.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "behind-the-episode-a-cycle-of-emotions",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 206,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Behind the Episode"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratdemo.files.wordpress.com\/2021\/07\/group-of-squares-displayed-diagonally._.png"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Episode 3: A Cycle of Emotions",
+            "post_content": "<!-- wp:paragraph -->\n<p>Quadrat is a weekly podcast where we discuss all things related to womanhood, from fundamental rights to feminism, body literacy and mental health. We hope to help women become more empowered through knowledge and information, whether they're in America, Africa or in the Middle East. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Join us every week!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:audio {\"id\":50} -->\n<figure class=\"wp-block-audio\"><audio controls src=\"https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/quadrat-episode-3.wav\"><\/audio><\/figure>\n<!-- \/wp:audio -->\n\n<!-- wp:paragraph -->\n<p><em>\u201cDo we need periods if they make us crazy?\u201d<\/em>, Sarah asks. Hint: yes, we do. We reached out to our friend Diana Roth, an endocrinologist specialised in women\u2019s hormonal health to know how menstrual cycles impact women\u2019s brains and emotions.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "episode-3-a-cycle-of-emotions",
+            "post_excerpt": "\u201cDo we need periods if they make us crazy?\u201d, Sarah asks. Hint: yes, we do. We reached out to our friend Diana Roth, an endocrinologist specialised in women\u2019s hormonal health to know how menstrual cycles impact women\u2019s brains and emotions.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 48,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/illustration-of-an-introspective-woman._.png"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Behind the Episode: Female Leaders, Where Are They?",
+            "post_content": "<!-- wp:paragraph -->\n<p>Welcome to the blog series where Sarah and Olivia break down the research that went into each episode. We\u2019ll also expand on some of the fun side discussions we had while creating the episode.&nbsp;<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This week, we\u2019re exploring\u00a0<a href=\"https:\/\/quadratdemo.wordpress.com\/2021\/05\/20\/episode-1-how-screens-affect-hormones\/\">Episode 2: Female Leaders, Where Are\u00a0They?<\/a>. In this episode, we reached out to our friend Diana Roth, an endocrinologist specialized in women\u2019s hormonal health to know how menstrual cycles impact women\u2019s brains and emotions.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "behind-the-episode-how-screens-affect-hormones-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 202,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Behind the Episode"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratdemo.files.wordpress.com\/2021\/07\/pink-square-with-dark-shadow-on-orange-background._.png"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Episode 2: Female Leaders, Where Are They?",
+            "post_content": "<!-- wp:paragraph -->\n<p>Quadrat is a weekly podcast where we discuss all things related to womanhood, from fundamental rights to feminism, body literacy and mental health. We hope to help women become more empowered through knowledge and information, whether they're in America, Africa or in the Middle East. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Join us every week!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:audio {\"id\":41} -->\n<figure class=\"wp-block-audio\"><audio controls src=\"https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/quadrat-episode-2.wav\"><\/audio><\/figure>\n<!-- \/wp:audio -->\n\n<!-- wp:paragraph -->\n<p>After years of revolution, the big question remains: why aren\u2019t there more women in leadership? Sarah and Olivia get deep into the subject.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "episode-2-female-leaders-where-are-they",
+            "post_excerpt": "After years of revolution, the big question remains: why aren\u2019t there more women in leadership? Sarah and Olivia get deep into the subject.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 40,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/illustration-of-a-woman-climbing-steps._.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Behind the Episode: How Screens Affect Hormones",
+            "post_content": "<!-- wp:paragraph -->\n<p>Welcome to the blog series where Sarah and Olivia break down the research that went into each episode. We'll also expand on some of the fun side discussions we had while creating the episode. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This week, we're exploring <a href=\"https:\/\/quadratdemo.wordpress.com\/2021\/05\/20\/episode-1-how-screens-affect-hormones\/\">Episode 1: How Screens Affect\u00a0Hormones<\/a>. In this episode, we talk with female hormone specialist Diana Roth about the impact that gadgets and technology have on hormone and fertility health.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "behind-the-episode-how-screens-affect-hormones",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 196,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Behind the Episode"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratdemo.files.wordpress.com\/2021\/07\/combination-of-white-orange-and-pink-triangles._.png"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Episode 1: How Screens Affect Hormones",
+            "post_content": "<!-- wp:paragraph -->\n<p>Quadrat is a weekly podcast where we discuss all things related to womanhood, from fundamental rights to feminism, body literacy and mental health. We hope to help women become more empowered through knowledge and information, whether they're in America, Africa or in the Middle East. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Join us every week!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:audio {\"id\":26} -->\n<figure class=\"wp-block-audio\"><audio controls src=\"https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/quadrat-episode-1.wav\"><\/audio><\/figure>\n<!-- \/wp:audio -->\n\n<!-- wp:paragraph -->\n<p>In this episode, Sarah and Olivia talk with female hormone specialist Diana Roth about the impact that gadgets and technology have on hormone and fertility health.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "episode-1-how-screens-affect-hormones",
+            "post_excerpt": "In this episode, Sarah and Olivia talk with female hormone specialist Diana Roth about the impact that gadgets and technology have on hormone and fertility health.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 25,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/illustration-of-a-woman-working-on-a-laptop._-1.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"730px\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:730px;\"><!-- wp:heading -->\n<h2>The podcast for women about all the things that matter.<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>#QuadratPodcast<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":170} -->\n<div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:spacer {\"height\":30} -->\n<div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"30px\"}}}} -->\n<div class=\"wp-block-group\" style=\"padding-top:0;padding-right:0;padding-bottom:30px;\"><!-- wp:image {\"id\":1438,\"sizeSlug\":\"large\",\"linkDestination\":\"custom\",\"className\":\"image-no-margin mb-0\"} -->\n<figure class=\"wp-block-image size-large image-no-margin mb-0\"><a href=\"\/episode-1-how-screens-affect-hormones\/\"><img src=\"https:\/\/quadrat.mystagingwebsite.com\/wp-content\/uploads\/2021\/04\/Screen-usage-1024x623.jpg\" alt=\"Illustration of a woman working on a laptop.\" class=\"wp-image-1438\" \/><\/a><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:cover {\"overlayColor\":\"secondary\",\"minHeight\":360,\"className\":\"mt-0\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"30px\",\"right\":\"40px\",\"bottom\":\"20px\",\"left\":\"40px\"}}}} -->\n<div class=\"wp-block-cover has-secondary-background-color has-background-dim mt-0\" style=\"padding-top:30px;padding-right:40px;padding-bottom:20px;padding-left:40px;min-height:360px;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"level\":3,\"textColor\":\"primary\"} -->\n<h3 class=\"has-primary-color has-text-color\"><a href=\"\/episode-1-how-screens-affect-hormones\/\">Episode 1: How Screens Affect Hormones<\/a><\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"primary\",\"fontSize\":\"small\"} -->\n<p class=\"has-primary-color has-text-color has-small-font-size\">In this episode, Sarah and Olivia talk with female hormone specialist Diana Roth about the impact that gadgets and technology have on hormone and fertility health.<\/p>\n<!-- \/wp:paragraph --><\/div><\/div>\n<!-- \/wp:cover --><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"30px\"}}}} -->\n<div class=\"wp-block-group\" style=\"padding-top:0;padding-right:0;padding-bottom:30px;\"><!-- wp:image {\"id\":1439,\"sizeSlug\":\"large\",\"linkDestination\":\"custom\",\"className\":\"image-no-margin mb-0\"} -->\n<figure class=\"wp-block-image size-large image-no-margin mb-0\"><a href=\"\/episode-2-female-leaders-where-are-they\/\"><img src=\"https:\/\/quadrat.mystagingwebsite.com\/wp-content\/uploads\/2021\/04\/Leadership-1024x623.jpg\" alt=\"Illustration of a woman climbing steps.\" class=\"wp-image-1439\" \/><\/a><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:cover {\"overlayColor\":\"secondary\",\"minHeight\":360,\"className\":\"mt-0\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"30px\",\"right\":\"40px\",\"bottom\":\"20px\",\"left\":\"40px\"}}}} -->\n<div class=\"wp-block-cover has-secondary-background-color has-background-dim mt-0\" style=\"padding-top:30px;padding-right:40px;padding-bottom:20px;padding-left:40px;min-height:360px;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"level\":3,\"textColor\":\"primary\"} -->\n<h3 class=\"has-primary-color has-text-color\"><a href=\"\/episode-2-female-leaders-where-are-they\/\">Episode 2: Female Leaders, Where Are They?<\/a><\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"primary\",\"fontSize\":\"small\"} -->\n<p class=\"has-primary-color has-text-color has-small-font-size\">After years of revolution, the big question remains: why aren\u2019t there more women in leadership? Sarah and Olivia get deep into the subject.<\/p>\n<!-- \/wp:paragraph --><\/div><\/div>\n<!-- \/wp:cover --><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:media-text {\"mediaId\":1497,\"mediaLink\":\"https:\\\/\\\/quadrat.mystagingwebsite.com\\\/wp-content\\\/uploads\\\/2021\\\/04\\\/Introspection-scaled.jpg\",\"linkDestination\":\"custom\",\"mediaType\":\"image\",\"mediaWidth\":40,\"mediaSizeSlug\":\"large\",\"imageFill\":false,\"className\":\"has-pink-color has-darker-blue-background-color has-text-color is-style-default\",\"backgroundColor\":\"secondary\"} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile has-pink-color has-darker-blue-background-color has-text-color is-style-default has-secondary-background-color has-background\" style=\"grid-template-columns:40% auto;\"><figure class=\"wp-block-media-text__media\"><a href=\"\/episode-3-a-cycle-of-emotions\/\"><img src=\"https:\/\/quadrat.mystagingwebsite.com\/wp-content\/uploads\/2021\/04\/Introspection-scaled.jpg\" alt=\"Illustration of an introspective woman.\" class=\"wp-image-1497 size-large\" \/><\/a><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"level\":3} -->\n<h3><a href=\"\/episode-3-a-cycle-of-emotions\/\">Episode 3: A Cycle of Emotions<\/a><\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><em>\u201cDo we need periods if they make us crazy?\u201d<\/em>, Sarah asks. We reached out to our friend Diana Roth, an endocrinologist specialized in women\u2019s hormonal health to know how menstrual cycles impact women\u2019s brains and emotions. Hint: yes, we do.<\/p>\n<!-- \/wp:paragraph --><\/div><\/div>\n<!-- \/wp:media-text -->\n\n<!-- wp:spacer {\"height\":170} -->\n<div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"960px\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:960px;\"><!-- wp:paragraph -->\n<p>The Hosts<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:heading -->\n<h2>Sarah and Olivia are both writers and activists.<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"className\":\"is-style-fill\"} -->\n<div class=\"wp-block-button is-style-fill\"><a class=\"wp-block-button__link\" href=\"\/about\/\">Learn More<\/a><\/div>\n<!-- \/wp:button --><\/div>\n<!-- \/wp:buttons --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":170} -->\n<div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"66.66%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:heading {\"level\":3} -->\n<h3>Join the Community<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>We\u2019re thrilled to have you here! Now, if you don\u2019t want to miss an article or an episode, you can subscribe to our newsletter.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"33.33%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:spacer {\"height\":35} -->\n<div style=\"height:35px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:jetpack\/subscriptions {\"buttonOnNewLine\":true,\"spacing\":15} -->\n<div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline\">[jetpack_subscription_form show_subscribers_total=\"false\" button_on_newline=\"true\" custom_font_size=\"16px\" custom_border_radius=\"0\" custom_border_weight=\"1\" custom_padding=\"15\" custom_spacing=\"15\" submit_button_classes=\"\" email_field_classes=\"\" show_only_email_and_button=\"true\"]<\/div>\n<!-- \/wp:jetpack\/subscriptions --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:spacer {\"height\":170} -->\n<div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p class=\"has-text-align-center\"><strong>LISTEN ON<br><\/strong><a href=\"http:\/\/wordpress.com\">Apple Podcasts<\/a> \u00b7 <a href=\"http:\/\/wordpress.com\">Stitcher<\/a> \u00b7 <a href=\"http:\/\/wordpress.com\">Spotify<\/a><\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "7-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "page_template": "page-without-title"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 302,
+                    "menu-item-object-id": "104",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "About",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "65",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Contact",
+                    "menu-item-db-id": 76,
+                    "menu-item-object-id": "66",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/illustration-of-an-introspective-woman._.png",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/07\/group-of-squares-displayed-diagonally._.png",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/07\/pink-square-with-dark-shadow-on-orange-background._.png",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/07\/combination-of-white-orange-and-pink-triangles._.png",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/06\/a-woman-in-an-orange-wall._.png",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/06\/a-woman-in-a-light-pink-wall._.png",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/06\/illustration-of-two-women.png",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/illustration-of-a-woman-climbing-steps._.jpg",
+        "https:\/\/quadratdemo.files.wordpress.com\/2021\/05\/illustration-of-a-woman-working-on-a-laptop._-1.jpg"
+    ],
+    "meta": {
+        "blog_id": 193232910,
+        "url": "https:\/\/quadratdemo.wordpress.com",
+        "update_date": "July 22, 2021, 3:19 pm",
+        "update_timestamp": 1626967183
+    }
+}
