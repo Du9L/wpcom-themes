@@ -1,0 +1,241 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "unset",
+                "font_headings": "unset"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1,
+            "color_palette": "blue"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Podcast",
+            "post_content": "<!-- wp:query {\"query\":{\"perPage\":\"3\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false},\"displayLayout\":{\"type\":\"list\",\"columns\":3},\"align\":\"wide\",\"className\":\"is-style-quadrat-diamond-posts\"} -->\n<div class=\"wp-block-query alignwide is-style-quadrat-diamond-posts\"><!-- wp:post-template -->\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:group {\"className\":\"post-meta\",\"layout\":{\"type\":\"flex\"}} -->\n<div class=\"wp-block-group post-meta\"><!-- wp:post-date {\"isLink\":true,\"fontSize\":\"tiny\"} /-->\n\n<!-- wp:post-terms {\"term\":\"category\",\"fontSize\":\"tiny\"} /--></div>\n<!-- /wp:group -->\n\n<!-- wp:post-title {\"textAlign\":\"left\",\"isLink\":true,\"fontSize\":\"extra-large\"} /-->\n\n<!-- wp:post-excerpt {\"moreText\":\"Read more\",\"fontSize\":\"normal\"} /--></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:post-featured-image /--></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n<!-- /wp:post-template -->\n\n<!-- wp:query-pagination -->\n<div class=\"wp-block-query-pagination\"><!-- wp:query-pagination-previous /-->\n\n<!-- wp:query-pagination-next /--></div>\n<!-- /wp:query-pagination --></div>\n<!-- /wp:query -->",
+            "post_name": "podcast",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 326,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 104,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "contact",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">Nous sommes prêtes à entendre vos commentaires. Y a-t-il un sujet dont vous aimeriez entendre parler dans notre podcast ? Faites-nous en part dans le formulaire ci-dessous, nous reviendrons vers vous rapidement.</p> <!-- /wp:paragraph --> <!-- wp:heading {\"level\":3} --> <h3>Laissez-nous un message</h3> <!-- /wp:heading --> <!-- wp:jetpack/contact-form {\"subject\":\"New feedback received from your website\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Send Message\",\"borderRadius\":0,\"width\":\"\",\"className\":\"is-style-fill\"} /--> <!-- /wp:jetpack/contact-form -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 66,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "À propos",
+            "post_content": "<!-- wp:media-text {\"mediaLink\":\"https://quadratreddemo.files.wordpress.com/2021/12/girls-illustration.png\",\"mediaType\":\"image\"} --> <div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://quadratreddemo.files.wordpress.com/2021/12/girls-illustration.png\" alt=\"Illustration présentant deux femmes\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":\"40px\",\"lineHeight\":\"1.3\"}}} --> <p style=\"font-size:40px;line-height:1.3;\">Sarah et Olivia sont des journalistes activistes et féministes qui ont fait de l’égalité et de l’esprit critique leur fer de lance.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>L’envie de créer des podcasts. Autrefois, elles observaient leur écran en silence en se demandant pourquoi le simple fait d’être des femmes leur fermait des portes.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":36} --> <div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:media-text --> <!-- wp:spacer {\"height\":30} --> <div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>De plaintes inutiles en conversations fructueuses, elles ont finalement décidé de créer le podcast <em>Quadrat</em>. Chaque semaine, elles se réunissent pour discuter de sujets ayant trait à la condition féminine, de leurs droits les plus fondamentaux au féminisme, en passant par la connaissance de leur corps et la santé mentale.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":30} --> <div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":173,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://quadratreddemo.files.wordpress.com/2021/12/girl-one-illustration.png?w=908\" alt=\"\" class=\"wp-image-173\" /></figure> <!-- /wp:image --> <!-- wp:heading {\"level\":3} --> <h3>Sarah Coleman</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah est fière de partager ses connaissances sur le corps féminin.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"primary\",\"iconColorValue\":\"#8E3636\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"tumblr\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":174,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://quadratreddemo.files.wordpress.com/2021/12/girl-two-illustration.png?w=908\" alt=\"\" class=\"wp-image-174\" /></figure> <!-- /wp:image --> <!-- wp:heading {\"level\":3} --> <h3>Olivia Wong</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Olivia adore lire les grands classiques et les bandes dessinées féministes.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"primary\",\"iconColorValue\":\"#8E3636\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 65,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Épisode 3 : Un cycle d’émotions",
+            "post_content": "<!-- wp:paragraph --> <p>Quadrat est un podcast hebdomadaire durant lequel nous discutons de sujets ayant trait à la condition féminine, de nos droits les plus fondamentaux au féminisme, en passant par la connaissance de notre corps et la santé mentale. Nous voulons aider les femmes en leurs donnant accès à des connaissances et à des informations les concernant, qu’elles habitent en Amérique, en Afrique ou au Moyen-Orient. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Rejoignez-nous toutes les semaines !</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":50} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-3.wav\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p><em>« Nos règles sont-elles vraiment si indispensables que cela, quand elles peuvent être si pénibles ? »</em>, se demande Sarah. Petit indice : Oui, elles le sont. Nous avons contacté notre amie Diana Roth, qui est une endocrinologiste spécialisée dans les hormones féminines, pour lui demander comment les cycles menstruels impactent le cerveau des femmes et leurs émotions.</p> <!-- /wp:paragraph -->",
+            "post_name": "episode-3-a-cycle-of-emotions",
+            "post_excerpt": "« Nos règles sont-elles vraiment si indispensables que cela, quand elles peuvent être si pénibles ? », se demande Sarah. Petit indice : Oui, elles le sont. Nous avons contacté notre amie Diana Roth, qui est une endocrinologiste spécialisée dans les hormones féminines, pour lui demander comment les cycles menstruels impactent le cerveau des femmes et leurs émotions.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 48,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://quadratreddemo.files.wordpress.com/2021/12/introspection-scaled-1.jpeg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Épisode 2 : Où sont nos dirigeantes ?",
+            "post_content": "<!-- wp:paragraph --> <p>Quadrat est un podcast hebdomadaire durant lequel nous discutons de sujets ayant trait à la condition féminine, de nos droits les plus fondamentaux au féminisme, en passant par la connaissance de notre corps et la santé mentale. Nous voulons aider les femmes en leurs donnant accès à des connaissances et à des informations les concernant, qu’elles habitent en Amérique, en Afrique ou au Moyen-Orient. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Rejoignez-nous toutes les semaines !</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":41} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-2.wav\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p>Après des années de lutte féministe, une question se pose toujours : pourquoi ne voit-on pas plus de femmes en position de pouvoir ? Sarah et Olivia s’intéressent à ce sujet en détail.</p> <!-- /wp:paragraph -->",
+            "post_name": "episode-2-female-leaders-where-are-they",
+            "post_excerpt": "Après des années de lutte féministe, une question se pose toujours : pourquoi ne voit-on pas plus de femmes en position de pouvoir ? Sarah et Olivia s’intéressent à ce sujet en détail.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 40,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/quadratreddemo.files.wordpress.com/2021/12/leadership.jpeg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Épisode 1 : L’impact des écrans sur nos hormones",
+            "post_content": "<!-- wp:paragraph --> <p>Quadrat est un podcast hebdomadaire durant lequel nous discutons de sujets ayant trait à la condition féminine, de nos droits les plus fondamentaux au féminisme, en passant par la connaissance de notre corps et la santé mentale. Nous voulons aider les femmes en leurs donnant accès à des connaissances et à des informations les concernant, qu’elles habitent en Amérique, en Afrique ou au Moyen-Orient. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Rejoignez-nous toutes les semaines !</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":26} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://quadratdemo.files.wordpress.com/2021/05/quadrat-episode-1.wav\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p>Dans cet épisode, Sarah et Olivia discutent avec la spécialiste des hormones féminines Diana Roth de l’impact des nouvelles technologies et écrans sur nos hormones et notre fertilité.</p> <!-- /wp:paragraph -->",
+            "post_name": "episode-1-how-screens-affect-hormones",
+            "post_excerpt": "Dans cet épisode, Sarah et Olivia discutent avec la spécialiste des hormones féminines Diana Roth de l’impact des nouvelles technologies et écrans sur nos hormones et notre fertilité.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 25,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Podcast"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://quadratreddemo.files.wordpress.com/2021/12/screen-usage.jpeg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Accueil",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"900px\"} --> <div class=\"wp-block-column\" style=\"flex-basis:900px;\"><!-- wp:heading {\"level\":1} --> <h1>Le podcast pour les femmes, sur tous les sujets qui les touchent.</h1> <!-- /wp:heading --> <!-- wp:paragraph {\"fontSize\":\"normal\"} --> <p class=\"has-normal-font-size\">#QuadratPodcast</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:spacer {\"height\":30} --> <div style=\"height:30px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:query {\"queryId\":10,\"query\":{\"perPage\":\"2\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"exclude\",\"inherit\":false},\"displayLayout\":{\"type\":\"flex\",\"columns\":2},\"align\":\"wide\"} --> <div class=\"wp-block-query alignwide\"><!-- wp:post-template --> <!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"}}},\"className\":\"vertical-query-pattern\",\"layout\":{\"inherit\":false}} --> <div class=\"wp-block-group vertical-query-pattern\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;\"><!-- wp:post-featured-image {\"className\":\"mb-0\"} /--> <!-- wp:cover {\"overlayColor\":\"tertiary\",\"minHeight\":360,\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\"},\"padding\":{\"top\":\"30px\",\"right\":\"40px\",\"bottom\":\"20px\",\"left\":\"40px\"}}}} --> <div class=\"wp-block-cover has-tertiary-background-color has-background-dim\" style=\"margin-top:0;padding-top:30px;padding-right:40px;padding-bottom:20px;padding-left:40px;min-height:360px;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:post-title {\"isLink\":true,\"linkTarget\":\"_blank\",\"textColor\":\"primary\"} /--> <!-- wp:post-excerpt {\"textColor\":\"primary\",\"fontSize\":\"small\"} /--></div></div> <!-- /wp:cover --></div> <!-- /wp:group --> <!-- /wp:post-template --></div> <!-- /wp:query --> <!-- wp:query {\"queryId\":11,\"query\":{\"perPage\":\"1\",\"pages\":0,\"offset\":\"2\",\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"exclude\",\"inherit\":false},\"align\":\"wide\"} --> <div class=\"wp-block-query alignwide\"><!-- wp:post-template --> <!-- wp:group {\"className\":\"horizontal-query-pattern\",\"layout\":{\"type\":\"flex\"}} --> <div class=\"wp-block-group horizontal-query-pattern\"><!-- wp:post-featured-image {\"className\":\"image-no-margin mb-0\"} /--> <!-- wp:cover {\"overlayColor\":\"tertiary\",\"minHeight\":360,\"className\":\"horizontal-query-pattern\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\"},\"padding\":{\"top\":\"30px\",\"right\":\"40px\",\"bottom\":\"30px\",\"left\":\"40px\"}}}} --> <div class=\"wp-block-cover has-tertiary-background-color has-background-dim horizontal-query-pattern\" style=\"margin-top:0;padding-top:30px;padding-right:40px;padding-bottom:30px;padding-left:40px;min-height:360px;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:post-title {\"isLink\":true,\"linkTarget\":\"_blank\",\"textColor\":\"primary\"} /--> <!-- wp:post-excerpt {\"textColor\":\"primary\",\"fontSize\":\"small\"} /--></div></div> <!-- /wp:cover --></div> <!-- /wp:group --> <!-- /wp:post-template --></div> <!-- /wp:query --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"align\":\"wide\"} --> <div class=\"wp-block-group alignwide\"><!-- wp:paragraph --> <p>Les hôtes</p> <!-- /wp:paragraph --> <!-- wp:heading --> <h2>Sarah et Olivia sont toutes deux autrices et activistes.</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":36} --> <div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\">En savoir plus</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:group --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Rejoindre la communauté</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Nous sommes ravies de vous voir ! Pour ne pas passer à côté d’un article ou d’un épisode, n’hésitez pas à vous abonner à notre newsletter.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\",\"className\":\"subscription-column\"} --> <div class=\"wp-block-column is-vertically-aligned-center subscription-column\"><!-- wp:jetpack/subscriptions {\"buttonOnNewLine\":true} --> <div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline\">[jetpack_subscription_form show_subscribers_total=\"false\" button_on_newline=\"true\" custom_font_size=\"16px\" custom_border_radius=\"0\" custom_border_weight=\"1\" custom_padding=\"15\" custom_spacing=\"10\" submit_button_classes=\"\" email_field_classes=\"\" show_only_email_and_button=\"true\"]</div> <!-- /wp:jetpack/subscriptions --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":170} --> <div style=\"height:170px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\"><strong>ÉCOUTER SUR<br></strong><a href=\"http://wordpress.com\">Apple Podcasts</a> · <a href=\"http://wordpress.com\">Stitcher</a> · <a href=\"http://wordpress.com\">Spotify</a></p> <!-- /wp:paragraph -->",
+            "post_name": "7-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "page_template": "page-without-title"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Principal",
+            "items": [
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 302,
+                    "menu-item-object-id": "104",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Podcast",
+                    "menu-item-db-id": 336,
+                    "menu-item-object-id": "326",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "À propos",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "65",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "contact",
+                    "menu-item-db-id": 76,
+                    "menu-item-object-id": "66",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+		"https://quadratreddemo.files.wordpress.com/2021/12/introspection-scaled-1.jpeg",
+        "https://quadratreddemo.files.wordpress.com/2021/12/girl-one-illustration.png",
+        "https://quadratreddemo.files.wordpress.com/2021/12/girl-two-illustration.png",
+		"https://quadratreddemo.files.wordpress.com/2021/12/girls-illustration.png",
+		"https://quadratreddemo.files.wordpress.com/2021/12/leadership.jpeg",
+		"https://quadratreddemo.files.wordpress.com/2021/12/screen-usage.jpeg"
+    ],
+    "meta": {
+        "blog_id": 193232910,
+        "url": "https://quadratdemo.wordpress.com",
+        "update_date": "September 30, 2021, 2:38 pm",
+        "update_timestamp": 1633012735
+    }
+}
