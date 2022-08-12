@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Over",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist is een blog gewijd aan alles wat zich onder de grond bevindt.</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Over de schrijvers:</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Sarah Edwards</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah is geoloog aan de Anthem State University (Georgia, Verenigde Staten). Al sinds ze klein was heeft ze een liefde voor alles wat zich onder de grond bevindt. Dat begon toen ze een speeltje opgroef dat iemand in de zandbak had begraven.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Angelo Ortiz</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Angelo is een onafhankelijk onderzoeker en hobbyist. Zijn verzameling edelstenen doet niet onder voor die van enkele musea. Angelo is altijd uit op een nieuwe ontdekking en draagt daarom altijd zijn gereedschap met zich mee.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Edelstenen",
+            "post_content": "<!-- wp:paragraph --> <p>\"Ik ga na de thee even naar het groene huis om te kijken waar Marilla heen is en met welke reden,\" concludeerde de waardige vrouw tenslotte. \"Hij gaat normaliter niet naar het dorp in deze tijd van het jaar, en hij gaat <em>nooit</em> nooit langs. Als zijn knolzaad op zou zijn, zou hij zich niet netjes kleden en de paardenwagen pakken, noch reed hij snel genoeg om haast te lijken hebben. Toch moet er gisteravond iets zijn gebeurd waardoor hij is vertrokken. Het is me een raadsel en ik zal geen seconde rustig tegen zitten tot ik weet wat Matthew Cuthbert ertoe aanzette om vandaag Avonlea te verlaten.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>En mevr. Rachel ging inderdaad na de thee op weg. Ze hoefde niet ver te lopen: het grote, rammelige huis omgeven door boomgaarden en waar de Cuthbert-familie woonde, was slechts enkele honderden meters vanaf Lynde. De lange laan maakte het nog net een stukje verder. Mattew Cuthberts vader, zo verlegen en stil als zijn zoon na hem, was zo ver mogelijk weg van zijn collega-mannen gegaan zonder daadwerkelijk zich te hebben teruggetrokken in het woud, toen hij zijn thuis stichtte. Het groene huis was gebouwd op de verste hoek van zijn kale land, waar het tot op vandaag nog altijd staat, nog net te zien vanaf de hoofdweg waarlangs alle andere huizen in Avonlea op sociale wijze waren gegroepeerd. Mevr. Rachel Lynde vond een dergelijk huis totaal niet <em>woonwaardig</em>.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>\"Het <em>blijft</em> maar wat staan,\" zei ze terwijl ze over de met gras bedekte weg met diepe voren en met wilderozenstruiken in de berm. \"Geen wonder dat Matthew en Marilla beide een beetje vreemd zijn, als ze zo ver naar achter en op hunzelf wonen. Bomen zijn niet gezellig, en zelfs als ze dat al waren, weet ik niet of er genoeg van ze zijn. Ik kijk liever naar mensen. Ach, ze lijken tevreden te zijn. Maar ze zijn 't dan ook gewend. Een lichaam kan aan alles wennen, zelfs aan de galg, zoals de Ier zei.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Dat gezegd hebbende stapte mevr. Rachel van het pad in de achtertuin van het groene huis. De tuin stond vol groen en was zeer strak bijgehouden, met aan een kant imposante wilgen en aan de andere zwarte populieren. Er was geen zwervende tak of steen te bekennen; die zou mevr. Rachel immers zijn opgevallen. Zelf meende ze dat Marilla Cuthbert haar tuin net zo vaak aanveegde als zij haar huis aanveegde. Je zou er van de grond hebben kunnen eten.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Afbeelding van edelsteen door Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "\"Ik ga na de thee even naar het groene huis om te kijken waar Marilla heen is en met welke reden,\" concludeerde de waardige vrouw tenslotte. \"Hij gaat normaliter niet naar het dorp in deze tijd van het jaar, en hij gaat nooit langs. Als zijn knolzaad op zou zijn, zou hij zich niet netjes kleden en de paardenwagen pakken, noch reed hij snel genoeg om naar te dokter te moeten. ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Fossielen",
+            "post_content": "<!-- wp:paragraph --> <p>Op een middag in de eerste weken van juni zat ze daar. De zon schitterende door het raam, de boomgaard op de helling onder aan het huis stond in bloei met roze-witte bloemen die niet zouden misstaan op een bruiloft, en de lucht werd gevuld door het gezoem van honderden bijen. Thomas Lynde, een verlegen kleine man die de dorpelingen van Avonlea 'Rachel Lyndes echtgenoot' noemde, zaaide zijn laatste knolzaad op het heuvelveld achter de schuur, en Matthew Cuthbert zal het zijne wel aan het zaaien zijn op het grote veld bij de rode beek, vlakbij het groene huis. Mevr. Rachel vermoedde dat laatste omdat zij hem de avond tevoren in de winkel van William J. Blair in Carmody aan Peter Morrison had horen zeggen dat hij van plan was zijn knolzaad de volgende middag te zaaien. Dat had Peter hem natuurlijk gevraagd, want Matthew Cuthbert zou nooit uit zichzelf iets over zijn leven delen.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>En opeens was daar Matthew Cuthbert, om half drie op de middag van een drukke dag, en reed hij kalm door het dal en over de heuvel. Opvallend was dat hij over een strak wit hemd zijn beste kleren droeg, wat erop wees dat hij verder dan Avonlea zou gaan. Hij reed op zijn paardenwagen met de roodbruine merrie, dus hij moest best een stuk. Maar waar ging de reis van Matthew Cuthbert heen, en met welk doel?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Als het iedere andere man van Avonlea had betroffen, dan had mevr. Rachel wel een en ander bij elkaar opgeteld en een goede gok kunnen wagen. Maar Matthew verliet zo zelden zijn huis dat hij moest zijn gedreven door iets belangrijks en ongewoons. Hij was de meest verlegen man die je maar kennen kon en had er een hekel aan om zich onder vreemden te mengen of naar een plek te gaan waar hij moest praten. Matthew gekleed in zijn witte hemd en op een paardenwagen, was een zeldzaam verschijnsel. Mevr. Rachel kon maar geen reden bedenken, hoe hard ze ook nadacht. Haar middag was verpest.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Afbeelding van fossiel door Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "Op een middag in de eerste weken van juni zat ze daar. De zon schitterende door het raam, de boomgaard op de helling onder aan het huis stond in bloei met roze-witte bloemen die niet zouden misstaan op een bruiloft, en de lucht werd gevuld door het gezoem van honderden bijen.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Etcetera",
+            "post_content": "<!-- wp:paragraph --> <p>Mevr. Rachel Lynde woonde net waar de hoofdweg van Avonlea een klein dal indook, geflankeerd door elzenbomen en bellenplanten en doorkruist door een beek waarvan de bron tot in het woud bij het huis van de oude Cuthbert lag. Het ging rond dat de beek aan het begin van zijn route door het woud kronkelend en onstuimig was, met kwaadaardige geheimen verhuld in kleine meren en watervalletjes. Maar tegen de tijd dat de beek Lyndes grond bereikte, was deze een stil, strak stroompje. Want zelfs een beek kwam niet bij mevr. Rachel Lynde binnen zonder enige vorm van fatsoen en decorum. Mevr. Rachel zat waarschijnlijk doelbewust aan haar raam en hield nauwlettend alles wat langskwam in de gaten, van beken tot kinderen aan toe. En als ze maar iets vreemds of ongewoons zag, zou ze niet rusten tot ze de achterliggende redenen wist.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Er wonen tal mensen in Avonlea en daarbuiten die op hun buren kunnen letten en daarbij zichzelf soms kunnen vergeten, maar mevr. Rachel Lynde was een van de handige mensen die zich zowel om haarzelf kan bekommeren als om anderen. Ze was een vooraanstaande huisvrouw. Ze deed altijd netjes op tijd haar werk, ze 'leidde' de Naaikring, hielp op de zondagsschool en was de sterkte steunpilaar van de kerkelijke hulpgemeenschap en buitendorpse missievereniging. Maar ondanks al deze activiteit had mevr. Rachel meer dan genoeg tijd om urenlang aan haar keukenraam te zitten, waar ze spreien van geweven katoen maakte (tot nog toe zestien, zoals andere huisvrouwen met ontzag vertelde) en de hoofdweg, die door het dal liep en de stijle rode heuvel verderop op liep, scherp in de gaten hield. Omdat Avonlea op een klein driehoekig schiereiland lag dat aan twee kanten werd geflankeerd door het water van de Saint Lawrencebaai, moest iedereen die het schiereiland wou betreden of verlaten over die weg op de heuvel; aan de haviksogen van mevr. Rachel was niet te ontkomen.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Afbeelding van edelsteen door Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "Mevr. Rachel Lynde woonde net waar de hoofdweg van Avonlea een klein dal indook, geflankeerd door elzenbomen en bellenplanten en doorkruist door een beek waarvan de bron tot in het woud bij het huis van de oude Cuthbert lag.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contact",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">Voorbeeldstraat 1<br>1234 AB Plaats, Nederland</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">contact@voorbeeld.nl</a><br>(+31) 010 123 45 67</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primaire",
+            "items": [
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Over",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Contact",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}
