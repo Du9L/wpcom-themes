@@ -1,0 +1,43 @@
+// See https://github.com/WordPress/gutenberg/issues/34648
+.wp-block-navigation {
+	// See https://github.com/WordPress/gutenberg/issues/34648
+	.has-child .wp-block-navigation__submenu-container {
+		background-color: var(--wp--custom--color--background);
+		border: var(--wp--custom--form--border--width) var(--wp--custom--form--border--style) var(--wp--preset--color--primary);
+	}
+	&.is-responsive {
+		&:not(.has-background) .wp-block-navigation__responsive-container.is-menu-open {
+			background-color: var(--wp--custom--color--background);
+			color: var(--wp--custom--color--foreground);
+		}
+		ul.wp-block-social-links {
+			margin: 0;
+			gap: var(--wp--custom--gap--baseline);
+		}
+	}
+}
+
+.wp-block-navigation.is-style-blockbase-navigation-improved-responsive {
+	&.is-responsive .is-menu-open {
+		font-size: var(--wp--preset--font-size--medium) !important;
+		.wp-block-navigation__container {
+			row-gap: 0.5rem !important;
+			align-items: flex-start !important;
+			flex: unset;
+			padding-bottom: 0;
+		}
+		.wp-block-navigation-item {
+			align-items: flex-start !important;
+		}
+		.wp-block-navigation__submenu-container {
+			font-size: var(--wp--preset--font-size--normal) !important;
+			padding-bottom: 0;
+			padding-left: var(--wp--custom--gap--horizontal) !important;
+			padding-top: 0.5rem;
+			row-gap: 0.5rem !important;
+		}
+		ul.wp-block-social-links {
+			justify-content: flex-start;
+		}
+	}
+}
