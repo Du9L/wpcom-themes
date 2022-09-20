@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Rivington\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-03T03:06:39+00:00\n"
+"PO-Revision-Date: 2022-06-02 09:54:03+0000\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/rivington"
+msgstr "https://wordpress.com/theme/rivington"
+
+#: functions.php:100
+msgid "Foreground Dark"
+msgstr "전경 어둡게"
+
+#: functions.php:95
+msgid "Foreground Light"
+msgstr "전경 밝게"
+
+#: functions.php:90
+msgid "Foreground"
+msgstr "전경"
+
+#: functions.php:85
+msgid "Background"
+msgstr "배경"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:139
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Description of the theme
+msgid "Rivington is a robust theme designed for single property real estate."
+msgstr "Rivington은 한 건의 부동산 정보를 보여주기에 적합하게 디자인된 강력한 테마입니다."
+
+#: template-parts/header/site-navigation.php:11
+msgid "collapsed"
+msgstr "접힘"
+
+#: template-parts/header/site-navigation.php:10
+msgid "expanded"
+msgstr "열림"
+
+#: template-parts/header/site-navigation.php:7
+msgid "Menu"
+msgstr "메뉴"
+
+#: template-parts/header/site-navigation.php:4
+msgid "Main Navigation"
+msgstr "메인 탐색"
+
+#: functions.php:80
+msgid "Secondary"
+msgstr "보조"
+
+#: functions.php:75
+msgid "Primary"
+msgstr "기본"
+
+#: functions.php:50
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:49
+msgid "Huge"
+msgstr "큼"
+
+#: functions.php:44
+msgid "L"
+msgstr "L"
+
+#: functions.php:43
+msgid "Large"
+msgstr "최대 크기"
+
+#: functions.php:38
+msgid "M"
+msgstr "M"
+
+#: functions.php:37
+msgid "Normal"
+msgstr "일반"
+
+#: functions.php:32
+msgid "S"
+msgstr "S"
+
+#: functions.php:31
+msgid "Small"
+msgstr "소"
