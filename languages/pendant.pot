@@ -1,0 +1,257 @@
+# Copyright (C) 2022 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pendant 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pendant\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-09T03:50:31+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: pendant\n"
+
+#. Theme Name of the theme
+msgid "Pendant"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/pendant"
+msgstr ""
+
+#. Description of the theme
+msgid "An elegant product-focused theme"
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com"
+msgstr ""
+
+#: functions.php:65
+#: patterns/hero.php:20
+msgid "Featured"
+msgstr ""
+
+#: functions.php:66
+msgid "Query"
+msgstr ""
+
+#: functions.php:67
+msgid "Call to Action"
+msgstr ""
+
+#: functions.php:68
+msgid "Media"
+msgstr ""
+
+#: functions.php:69
+msgid "Quotes"
+msgstr ""
+
+#: functions.php:70
+msgid "List"
+msgstr ""
+
+#: functions.php:71
+msgid "Images"
+msgstr ""
+
+#: functions.php:72
+msgid "Gallery"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "There's nothing here."
+msgstr ""
+
+#: patterns/404.php:22
+msgid "This page could not be found. Try searching posts using the search field."
+msgstr ""
+
+#: patterns/404.php:26
+msgid "Search…"
+msgstr ""
+
+#: patterns/404.php:26
+msgid "Search"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "2021 Pendant © All Rights Reserved"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "Powered by"
+msgstr ""
+
+#: patterns/hero.php:24
+msgid "October Finds"
+msgstr ""
+
+#: patterns/hero.php:29
+msgid "Explore"
+msgstr ""
+
+#: patterns/image-and-quote.php:14
+msgid "\"We’re very lucky to be able to write about our passion and interview those whose work we admire.\""
+msgstr ""
+
+#: patterns/image-and-quote.php:15
+msgid "Marie, editor for PNDNT"
+msgstr ""
+
+#: patterns/image-gallery.php:14
+msgid "What We're Loving"
+msgstr ""
+
+#: patterns/image-series.php:11
+msgid "Our Picks"
+msgstr ""
+
+#: patterns/latest-articles.php:12
+msgid "Latest Articles"
+msgstr ""
+
+#: patterns/latest-articles.php:16
+msgid "Read All"
+msgstr ""
+
+#: patterns/latest-interviews.php:10
+msgid "Latest Interviews"
+msgstr ""
+
+#: patterns/latest-interviews.php:20
+msgid "Q&amp;A with Lana DeVito, Jewelry designer"
+msgstr ""
+
+#: patterns/latest-interviews.php:30
+msgid "Q&amp;A with Andrew Holsen, handmaker"
+msgstr ""
+
+#: patterns/media-and-text.php:13
+msgid "About"
+msgstr ""
+
+#: patterns/media-and-text.php:23
+msgid "Mia Moore, Jewelry lover"
+msgstr ""
+
+#: patterns/media-and-text.php:27
+msgid "“The more I learn about jewelry and dive into its history, the more I love it. Getting to know the meanings behind objects in particular moments in time, how they translated into status, wealth or power. Jewelry has always been a way to communicate and distinguish and with the evolution of society, it turned into another way of expression, like clothing. I’m passionate about how we use it to express who we really are.”"
+msgstr ""
+
+#: patterns/post-navigation.php:11
+msgid "Previous Post"
+msgstr ""
+
+#: patterns/post-navigation.php:19
+msgid "Next Post"
+msgstr ""
+
+#: patterns/post-topics.php:10
+msgid "Popular Topics"
+msgstr ""
+
+#: patterns/team.php:13
+msgid "The Team"
+msgstr ""
+
+#: patterns/team.php:25
+msgid "Marie"
+msgstr ""
+
+#: patterns/team.php:29
+msgid "Editor &amp; Jeweler"
+msgstr ""
+
+#: patterns/team.php:45
+msgid "Writer, Editor &amp; Jewelry Designer"
+msgstr ""
+
+#: patterns/team.php:59
+msgid "Tanya"
+msgstr ""
+
+#: patterns/team.php:63
+msgid "Editor &amp; Public Relations"
+msgstr ""
+
+#: patterns/team.php:75
+msgid "Ryan"
+msgstr ""
+
+#: patterns/team.php:79
+msgid "Marketing &amp; Social Media"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Body (System Font)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Headings (System Font)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Footer Only"
+msgstr ""
