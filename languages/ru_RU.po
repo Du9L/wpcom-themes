@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-21T02:45:58+00:00\n"
+"PO-Revision-Date: 2022-12-21 02:45:00+0000\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал (footer)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок (header)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний фон"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#. Description of the theme
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "Тема для авторов, публикующих рассылки с помощью Jetpack."
+
+#: inc/patterns/tags.php:9
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/patterns/tags.php:6
+msgid "Tag buttons"
+msgstr "Кнопки меток"
+
+#: inc/patterns/query-sidebar.php:39
+msgid "About Manuel"
+msgstr "О Мануэле"
+
+#: inc/patterns/query-sidebar.php:6
+msgid "List of posts with sidebar"
+msgstr "Список записей с боковой панелью"
+
+#: inc/patterns/query-related-post.php:9
+msgid "Related post"
+msgstr "Похожая запись"
+
+#: inc/patterns/query-related-post.php:6
+msgid "In-post article promo"
+msgstr "Промостатья в записи"
+
+#: inc/patterns/query-posts.php:6
+msgid "List of posts"
+msgstr "Список записей"
+
+#: inc/patterns/newsletter-video.php:11
+msgid "Get our latest posts in your inbox."
+msgstr "Получайте последние записи по электронной почте."
+
+#: inc/patterns/newsletter-video.php:6
+msgid "Newsletter signup with video background"
+msgstr "Подписка на рассылку с фоновым видео"
+
+#: inc/patterns/newsletter-site-logos.php:6
+msgid "Newsletter signup with lots of site logos"
+msgstr "Подписка на рассылку со множеством логотипов сайтов"
+
+#: inc/patterns/newsletter-media-text.php:15
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "Подпишитесь на рассылку, чтобы получать последние статьи по электронной почте."
+
+#: inc/patterns/newsletter-media-text.php:6
+msgid "Newsletter signup with media on the left"
+msgstr "Подписка на рассылку с медиафайлами слева"
+
+#: inc/patterns/newsletter-large.php:6
+msgid "Large newsletter signup"
+msgstr "Подписка на большую рассылку"
+
+#: inc/patterns/newsletter-intro.php:6
+msgid "Newsletter intro"
+msgstr "Введение в рассылку"
+
+#: inc/patterns/newsletter-intro-light-background.php:9
+msgid "A photograph of an envelope."
+msgstr "Фотография конверта."
+
+#: inc/patterns/newsletter-intro-light-background.php:6
+msgid "Newsletter intro with light background image"
+msgstr "Введение в рассылку со светлым фоновым изображением"
+
+#: inc/patterns/newsletter-intro-dark-background.php:27
+#: inc/patterns/newsletter-intro-light-background.php:27
+#: inc/patterns/newsletter-intro.php:27
+msgid "Read all posts"
+msgstr "Читать все записи"
+
+#: inc/patterns/newsletter-intro-dark-background.php:9
+msgid "A photograph of vintage envelopes."
+msgstr "Фотография винтажных конвертов."
+
+#: inc/patterns/newsletter-intro-dark-background.php:6
+msgid "Newsletter intro with dark background image"
+msgstr "Введение в рассылку с тёмным фоновым изображением"
+
+#: inc/patterns/newsletter-in-post.php:16
+msgid "Subscribe for more posts like this"
+msgstr "Подпишитесь, чтобы получать больше подобных записей"
+
+#: inc/patterns/newsletter-in-post.php:6
+msgid "In-post newsletter signup"
+msgstr "Подписка на рассылку в записи"
+
+#: inc/patterns/newsletter-fixed-cover.php:15
+msgid "Get the latest articles in your inbox."
+msgstr "Получайте последние статьи по электронной почте."
+
+#: inc/patterns/newsletter-fixed-cover.php:11
+msgid "You don’t wanna miss it."
+msgstr "Вам не захочется это пропустить."
+
+#: inc/patterns/newsletter-fixed-cover.php:6
+msgid "Newsletter signup with fixed background image"
+msgstr "Подписка на рассылку с фиксированным фоновым изображением"
+
+#: inc/patterns/newsletter-columns.php:18
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "Введите адрес эл. почты и нажмите кнопку \"Подписаться\", чтобы получать последние статьи по электронной почте."
+
+#: inc/patterns/newsletter-columns.php:12
+msgid "Don’t miss an update"
+msgstr "Не пропустите обновление"
+
+#: inc/patterns/newsletter-columns.php:6
+msgid "Two-column newsletter signup"
+msgstr "Подписка на рассылку: два столбца"
+
+#: inc/patterns/newsletter-bold.php:12
+msgid "Sign up for updates"
+msgstr "Подпишитесь на обновления"
+
+#: inc/patterns/newsletter-bold.php:6
+msgid "Bold newsletter signup"
+msgstr "Подписка на рассылку: полужирный шрифт"
+
+#: inc/patterns/hidden-subscription-form.php:6
+msgid "Subscription form"
+msgstr "Форма подписки"
+
+#: inc/patterns/hidden-footer.php:19
+msgid "https://wordpress.com"
+msgstr "https://wordpress.com"
+
+#: inc/patterns/hidden-footer.php:18
+msgid "A %s newsletter"
+msgstr "Рассылка %s"
+
+#: inc/patterns/hidden-footer.php:6
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/patterns/hidden-404.php:14
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/patterns/hidden-404.php:12
+msgid " Maybe try a search?"
+msgstr " Не хотите воспользоваться поиском?"
+
+#: inc/patterns/hidden-404.php:10
+msgid "This page could not be found."
+msgstr "Эта страница не найдена."
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 content"
+msgstr "Содержимое страницы 404"
+
+#: inc/patterns/categories.php:9
+#: inc/patterns/query-sidebar.php:51
+msgid "Categories"
+msgstr "Категории"
+
+#: inc/patterns/categories.php:6
+msgid "Category buttons"
+msgstr "Кнопки рубрик"
+
+#: inc/patterns/about-single.php:6
+msgid "About the author"
+msgstr "Об авторе"
+
+#: inc/patterns/about-multiple.php:43
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "Я автор и иллюстратор. Люблю классику. Как правило, меня можно найти в кофейне за чтением книги."
+
+#: inc/patterns/about-multiple.php:39
+msgid "Jennifer Rosa"
+msgstr "Дженнифер Роза (Jennifer Rosa)"
+
+#: inc/patterns/about-multiple.php:23
+#: inc/patterns/about-single.php:21
+#: inc/patterns/query-sidebar.php:43
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "Здравствуйте! Я автор этой рассылки. Я профессор литературы в Университете культуры в Бразилии."
+
+#: inc/patterns/about-multiple.php:19
+#: inc/patterns/about-single.php:17
+msgid "Manuel de Carlo"
+msgstr "Мануэль Де Карло (Manuel de Carlo)"
+
+#: inc/patterns/about-multiple.php:13
+#: inc/patterns/about-multiple.php:33
+#: inc/patterns/about-single.php:11
+msgid "A generic profile picture."
+msgstr "Типовое изображение профиля."
+
+#: inc/patterns/about-multiple.php:6
+msgid "About the authors"
+msgstr "Об авторах"
+
+#: inc/block-patterns.php:20
+msgid "Newsletter"
+msgstr "Рассылка"
+
+#: inc/block-patterns.php:19
+msgid "Featured"
+msgstr "Рекомендуется"
+
+#: inc/block-patterns.php:18
+msgid "Columns"
+msgstr "Колонки"
+
+#: inc/block-patterns.php:17
+msgid "About"
+msgstr "О нас"
