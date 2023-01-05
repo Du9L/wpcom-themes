@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-21T02:45:28+00:00\n"
+"PO-Revision-Date: 2022-12-21 02:45:00+0000\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pied de page"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "En-tête"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Vide"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Premier plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiaire"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secondaire"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primaire"
+
+#. Description of the theme
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "Un thème destiné aux auteurs qui veulent publier une newsletter à l’aide de Jetpack."
+
+#: inc/patterns/tags.php:9
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/patterns/tags.php:6
+msgid "Tag buttons"
+msgstr "Boutons Étiquette"
+
+#: inc/patterns/query-sidebar.php:39
+msgid "About Manuel"
+msgstr "À propos de Manuel"
+
+#: inc/patterns/query-sidebar.php:6
+msgid "List of posts with sidebar"
+msgstr "Liste d’articles avec colonne latérale"
+
+#: inc/patterns/query-related-post.php:9
+msgid "Related post"
+msgstr "Article similaire"
+
+#: inc/patterns/query-related-post.php:6
+msgid "In-post article promo"
+msgstr "Promotion dans l’article"
+
+#: inc/patterns/query-posts.php:6
+msgid "List of posts"
+msgstr "Liste d’articles"
+
+#: inc/patterns/newsletter-video.php:11
+msgid "Get our latest posts in your inbox."
+msgstr "Recevez nos derniers articles dans votre boîte de réception."
+
+#: inc/patterns/newsletter-video.php:6
+msgid "Newsletter signup with video background"
+msgstr "Inscription à une newsletter avec arrière-plan vidéo"
+
+#: inc/patterns/newsletter-site-logos.php:6
+msgid "Newsletter signup with lots of site logos"
+msgstr "Inscription à une newsletter avec beaucoup de logos de site"
+
+#: inc/patterns/newsletter-media-text.php:15
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "Abonnez-vous à notre newsletter pour recevoir les dernières stories dans votre boîte de réception."
+
+#: inc/patterns/newsletter-media-text.php:6
+msgid "Newsletter signup with media on the left"
+msgstr "Inscription à une newsletter avec médias à gauche"
+
+#: inc/patterns/newsletter-large.php:6
+msgid "Large newsletter signup"
+msgstr "Grande inscription à une newsletter"
+
+#: inc/patterns/newsletter-intro.php:6
+msgid "Newsletter intro"
+msgstr "Intro de newsletter"
+
+#: inc/patterns/newsletter-intro-light-background.php:9
+msgid "A photograph of an envelope."
+msgstr "Photo d’une enveloppe."
+
+#: inc/patterns/newsletter-intro-light-background.php:6
+msgid "Newsletter intro with light background image"
+msgstr "Intro de newsletter avec image d’arrière-plan claire"
+
+#: inc/patterns/newsletter-intro-dark-background.php:27
+#: inc/patterns/newsletter-intro-light-background.php:27
+#: inc/patterns/newsletter-intro.php:27
+msgid "Read all posts"
+msgstr "Lire tous les articles"
+
+#: inc/patterns/newsletter-intro-dark-background.php:9
+msgid "A photograph of vintage envelopes."
+msgstr "Photo d’enveloppes vintage."
+
+#: inc/patterns/newsletter-intro-dark-background.php:6
+msgid "Newsletter intro with dark background image"
+msgstr "Intro de newsletter avec image d’arrière-plan sombre"
+
+#: inc/patterns/newsletter-in-post.php:16
+msgid "Subscribe for more posts like this"
+msgstr "S’abonner à plus d’articles comme celui-ci"
+
+#: inc/patterns/newsletter-in-post.php:6
+msgid "In-post newsletter signup"
+msgstr "Inscription à une newsletter dans l’article"
+
+#: inc/patterns/newsletter-fixed-cover.php:15
+msgid "Get the latest articles in your inbox."
+msgstr "Recevez les derniers articles dans votre boîte de réception."
+
+#: inc/patterns/newsletter-fixed-cover.php:11
+msgid "You don’t wanna miss it."
+msgstr "Vous ne voulez pas rater ça."
+
+#: inc/patterns/newsletter-fixed-cover.php:6
+msgid "Newsletter signup with fixed background image"
+msgstr "Inscription à une newsletter avec image d’arrière-plan fixe"
+
+#: inc/patterns/newsletter-columns.php:18
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "Saisissez votre e-mail et appuyez sur le bouton S’abonner pour recevoir nos dernières stories dans votre boîte de réception."
+
+#: inc/patterns/newsletter-columns.php:12
+msgid "Don’t miss an update"
+msgstr "Ne ratez aucune mise à jour"
+
+#: inc/patterns/newsletter-columns.php:6
+msgid "Two-column newsletter signup"
+msgstr "Inscription à une newsletter à deux colonnes"
+
+#: inc/patterns/newsletter-bold.php:12
+msgid "Sign up for updates"
+msgstr "S’inscrire pour des mises à jour"
+
+#: inc/patterns/newsletter-bold.php:6
+msgid "Bold newsletter signup"
+msgstr "Inscription à une newsletter en gras"
+
+#: inc/patterns/hidden-subscription-form.php:6
+msgid "Subscription form"
+msgstr "Formulaire d’abonnement"
+
+#: inc/patterns/hidden-footer.php:19
+msgid "https://wordpress.com"
+msgstr "https://wordpress.com"
+
+#: inc/patterns/hidden-footer.php:18
+msgid "A %s newsletter"
+msgstr "Une newsletter %s"
+
+#: inc/patterns/hidden-footer.php:6
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/patterns/hidden-404.php:14
+msgid "Search"
+msgstr "Recherche"
+
+#: inc/patterns/hidden-404.php:12
+msgid " Maybe try a search?"
+msgstr " Essayez d’effectuer une recherche."
+
+#: inc/patterns/hidden-404.php:10
+msgid "This page could not be found."
+msgstr "Cette page est introuvable."
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 content"
+msgstr "Contenu 404"
+
+#: inc/patterns/categories.php:9
+#: inc/patterns/query-sidebar.php:51
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/patterns/categories.php:6
+msgid "Category buttons"
+msgstr "Boutons Catégorie"
+
+#: inc/patterns/about-single.php:6
+msgid "About the author"
+msgstr "À propos de l'auteur"
+
+#: inc/patterns/about-multiple.php:43
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "Je suis une auteur et illustratrice passionnée par les classiques. Vous me trouverez généralement dans un café, le nez dans un livre."
+
+#: inc/patterns/about-multiple.php:39
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: inc/patterns/about-multiple.php:23
+#: inc/patterns/about-single.php:21
+#: inc/patterns/query-sidebar.php:43
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "Bonjour, Je suis l’auteur de cette newsletter. Je suis professeur de littérature à l’Université de la Culture, au Brésil."
+
+#: inc/patterns/about-multiple.php:19
+#: inc/patterns/about-single.php:17
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: inc/patterns/about-multiple.php:13
+#: inc/patterns/about-multiple.php:33
+#: inc/patterns/about-single.php:11
+msgid "A generic profile picture."
+msgstr "Photo de profil générique."
+
+#: inc/patterns/about-multiple.php:6
+msgid "About the authors"
+msgstr "À propos des auteurs"
+
+#: inc/block-patterns.php:20
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/block-patterns.php:19
+msgid "Featured"
+msgstr "À la Une"
+
+#: inc/block-patterns.php:18
+msgid "Columns"
+msgstr "Colonnes"
+
+#: inc/block-patterns.php:17
+msgid "About"
+msgstr "À propos"
