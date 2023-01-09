@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "블로그",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "소개",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist는 지표면 아래에 묻힌 모든 것을 다루는 블로그입니다.</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>글쓴이 소개:</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Sarah Edwards</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah는 Anthem State University의 지질학자입니다. 땅속의 모든 것에 대한 그녀의 사랑은 유치원에서 누군가 모래통에 묻어놓은 장난감을 파냈을 때 시작되었습니다.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Angelo Ortiz</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Angelo는 독립 연구원이며 취미 생활자입니다. 그의 보석 컬렉션은 일부 박물관의 컬렉션에 필적합니다. Angelo는 항상 새로운 발견을 찾고 있으며 어디에나 자신의 도구 일체를 가지고 다닙니다.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "보석",
+            "post_content": "<!-- wp:paragraph --> <p>현명했던 그녀는 마침내 \"차를 마신 후 그가 어디로 왜 갔는지 Marilla에게 확인하러 초록지붕집으로 건너가 봐야 되겠어\"라고 결론을 내렸습니다. \"그는 보통 연중 이맘때는 시내로 나가지 않고 누군가를 방문하는 일도 <em>없어</em>. 순무 종자가 떨어졌다면 옷을 차려입고 마차까지 끌고 나가지 않았을 거야. 의사를 만나러 가는 것처럼 서둘러 달려가지도 않았어. 그런데 어젯밤부터 무언가 들썩이게 만든 것이 있었던 거야. 도대체 무엇 때문인지 이해를 못 하겠어. 무엇이 오늘 Matthew Cuthbert를 Avonlea에서 나가게 했는지 알 때까지는 잠시도 마음이나 양심의 평화를 얻지 못할 거야.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>그래서 Rachel 부인은 차를 마신 후 출발했습니다. 멀리 가지 않아도 되었습니다. Lynde의 골짜기에서 1/4마일 정도 길을 따라 올라가면 Cuthbert네가 사는 크고 구불구불하고 과수원으로 둘러싸인 집이 있었습니다. 확실히, 긴 길은 더 멀게 느껴졌습니다. 자신을 닮은 아들처럼 내성적이고 조용한 Matthew Cuthbert의 아버지는 농장을 지을 때 숲속으로 많이 들어가지 않고 친구들로부터 가능한 멀리 떨어졌습니다. 초록지붕집은 그가 닦은 길의 맨 가장자리에 지어져 이날까지 거기에 있었으며, Avonlea의 다른 집들이 모두 옹기종기 모여있는 큰길에서 거의 보이지 않았습니다. Rachel Lynde 부인은 그런 곳에 <em>사는 것</em>을 결코 사는 것이라고 부르지 않았습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>\"그냥 <em>머무는 것</em>이지, 뭐\"라고 바퀴 자국이 깊고 들장미 덤불이 늘어선 풀밭 길을 따라 걸으며 그녀는 말했습니다. \"멀리 떨어진 여기에 사니까 Matthew와 Marilla가 둘 다 별난 것도 이상할 게 없지. 나무가 많다고 친구가 많은 게 아닌데도 그걸로 충분한 것처럼 알고 있어. 나는 사람을 보는 게 더 좋아. 확실히, 충분히 만족하는 것처럼 보이긴 하는데 익숙해진 게 아닌가 싶어. 아일랜드 사람들 말처럼 몸은 매달린 상태일지라도 어떤 것에나 익숙해질 수 있지.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Rachel 부인은 길에서 벗어나 초록지붕집의 뒷마당으로 들어갔습니다. 한쪽에는 크고 오래된 버드나무가 있고 다른 쪽에는 단정한 포플러나무가 있는 마당은 녹색이 넘치고 깔끔하고 꼼꼼했습니다. 떨어진 나뭇가지나 돌이 있었으면 Rachel 부인이 보았을 텐데 그런 것은 보이지 않았습니다. 그녀는 속으로 Marilla Cuthbert가 집 청소만큼 자주 마당을 청소한다고 생각했습니다. 굴러다니는 흙덩이가 없다면 한 끼 정도는 바닥에서 먹을 수 있을 정도였습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz의 보석 일러스트레이션. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "현명했던 그녀는 마침내 \"차를 마신 후 그가 어디로 왜 갔는지 Marilla에게 확인하러 초록지붕집으로 건너가 봐야 되겠어\"라고 결론을 내렸습니다. \"그는 보통 연중 이맘때는 시내로 나가지 않고 누군가를 방문하는 일도 없어. 순무 종자가 떨어졌다면 옷을 차려입고 마차까지 끌고 나가지 않았을 거야. 의사를 만나러 가는 것처럼 서둘러 달려가지도 않았어.\" ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "화석",
+            "post_content": "<!-- wp:paragraph --> <p>6월 초 어느 날 그녀는 그곳에 앉아 있었습니다. 따뜻하고 밝은 햇볕이 창으로 들어왔습니다. 집 아래 비탈의 벌떼가 윙윙거리는 신부의 홍조 같은 연분홍 꽃 안에 과수원이 있었습니다. Avonlea 사람들이 \"Rachel Lynde의 남편\"이라고 부르는 Thomas Lynde는 헛간 너머 언덕배기 밭에 뒤늦은 순무 종자를 뿌리고 있었습니다. Matthew Cuthbert는 초록지붕집 위쪽의 붉은 개울 밭에 씨를 뿌려야 했습니다. Rachel 부인은 그가 전날 저녁에 Carmody에 있는 William J. Blair의 가게에서 다음날 오후에 순무 종자를 뿌릴 것이라고 Peter Morrison에게 말하는 것을 들었기 때문에 그가 그렇게 해야 한다는 것을 알고 있었습니다. 당연히, Matthew Cuthbert는 평생 먼저 말하는 법이 없었기 때문에 Peter가 그에게 물어봤습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>그런데 분주한 날의 오후 3시 반쯤에 Matthew Cuthbert가 차분히 마차를 몰고 골짜기를 지나 언덕을 올라가고 있었습니다. 게다가 그는 Avonlea 밖으로 나간다는 명백한 증거인 하얀 칼라와 가장 좋은 옷을 차려입고 있었습니다. 그리고 상당히 멀리 간다는 것을 나타내는 마차와 갈색 암말이 그에게 있었습니다. 그렇다면 Matthew Cuthbert는 어디로 가는 것이고 거기로 왜 가는 것이었을까?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Avonlea의 다른 남자였다면 Rachel 부인이 이것저것 끼워 맞춰서 두 가지 질문에 대해 그럴듯하게 추측했을 수 있습니다. 그러나 Matthew는 집에서 나가는 경우가 거의 없어서 그를 데리고 나간 절박하고 범상치 않은 이유가 분명히 있었습니다. 그는 살아 있는 남자 중에 가장 내성적이었고 낯선 사람들 틈에 섞이거나 대화해야 하는 곳에 가는 것을 싫어했습니다. Matthew가 흰색 칼라까지 갖춰 입는다는 것은 흔하지 않은 일이었습니다. Rachel 부인이 아무리 곰곰이 생각해봐도 헛수고였고 오후의 즐거움만 망칠 뿐이었습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz의 화석 일러스트레이션. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "6월 초 어느 날 그녀는 그곳에 앉아 있었습니다. 따뜻하고 밝은 햇볕이 창으로 들어왔습니다. 집 아래 비탈의 벌떼가 윙윙거리는 신부의 홍조 같은 연분홍 꽃 안에 과수원이 있었습니다.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "기타 등등",
+            "post_content": "<!-- wp:paragraph --> <p>Rachel Lynde 부인은 Avonlea의 큰길이 작은 골짜기로 들어가고, 주변에 오리나무와 금낭화가 자라고, 오래된 Cuthbert 동네 숲에서 흘러나온 개울이 가로지르는 곳에서 살았습니다. 어둡고 비밀스러운 물웅덩이와 작은 폭포가 있는 그 숲의 진입로는 복잡하고 물살이 거센 개울로 유명했습니다. 그러나 개울조차도 품위와 예의를 차리지 않고 Rachel Lynde 부인의 문 앞을 지나갈 수 없어서 Lynde의 골짜기에 이르면 조용하고 반듯한 작은 시냇물이 되었습니다. Rachel 부인이 창가에 앉아서 개울부터 아이까지 지나가는 모든 것을 지켜보다가 이상하거나 어울리지 않는 것이 눈에 띄면 이유와 원인을 알아낼 때까지 절대 쉬지 않는다는 것을 의식했을 수도 있습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Avonlea 안팎에는 자기 일은 제쳐놓고 이웃의 일에 참견하는 사람이 많이 있습니다. 그런데 Rachel Lynde 부인은 자신의 관심사뿐만 아니라 다른 사람의 관심사까지 관리할 수 있는 능력자에 속했습니다. 그녀는 훌륭한 가정주부였습니다. 그녀가 맡은 일은 항상 잘 마무리되었습니다. 그녀는 주일학교 운영에 도움이 되는 바느질 모임을 \"운영\"했으며, 교회 봉사단체와 해외선교 후원회의 가장 강력한 버팀목이었습니다. 이 모든 것에도 불구하고 Rachel 부인은 부엌 창가에 몇 시간 동안 앉아서 \"목화실\" 퀼트를 짤 여유 시간이 있었습니다. Avonlea의 가정주부들이 존경해마지 않았듯이 16개를 짜면서 골짜기를 가로지르고 가파른 붉은 언덕 너머로 휘어지는 큰길을 계속 지켜보았습니다. Avonlea가 양쪽에 물이 있는 세인트로렌스만의 돌출된 작은 삼각형 반도에 들어선 이래 나가거나 들어오는 사람은 누구나 그 언덕을 지나야만 했으므로 Rachel 부인의 눈을 벗어날 수 있는 것은 없었습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz의 보석 일러스트레이션. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "Rachel Lynde 부인은 Avonlea의 큰길이 작은 골짜기로 들어가고, 주변에 오리나무와 금낭화가 자라고, 오래된 Cuthbert 동네 숲에서 흘러나온 개울이 가로지르는 곳에서 살았습니다.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "연락처",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">1 Example Street,<br>Anytown, NY 10100 USA</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">contact@example.com</a><br>(012) 345 67 89</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "기본",
+            "items": [
+                {
+                    "menu-item-title": "블로그",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "소개",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "연락처",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}
