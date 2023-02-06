@@ -1,0 +1,198 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lettre 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/lettre\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-05T02:43:26+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: lettre\n"
+
+#. Theme Name of the theme
+msgid "Lettre"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://wordpress.com/theme/lettre/"
+msgstr ""
+
+#. Description of the theme
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr ""
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr ""
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr ""
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr ""
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr ""
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr ""
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr ""
+
+#: patterns/hidden-footer.php:23
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr ""
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr ""
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr ""
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr ""
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr ""
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr ""
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr ""
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr ""
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr ""
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr ""
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr ""
+
+#: patterns/newsletter-media-text.php:10
+msgid "Illustration of flowers in a vase."
+msgstr ""
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr ""
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr ""
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr ""
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr ""
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Newsreader"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""

@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-28T02:42:12+00:00\n"
+"PO-Revision-Date: 2022-12-27 08:47:23+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Pagină goală"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#. Description of the theme
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "O temă pentru cei care doresc să publice buletine de știri folosind Jetpack."
+
+#: inc/patterns/tags.php:9
+msgid "Tags"
+msgstr "Etichete"
+
+#: inc/patterns/newsletter-columns.php:12
+msgid "Don’t miss an update"
+msgstr "Nu pierzi nicio actualizare"
+
+#: inc/patterns/newsletter-fixed-cover.php:15
+msgid "Get the latest articles in your inbox."
+msgstr "Primești ultimele articole direct, prin email."
+
+#: inc/patterns/newsletter-video.php:11
+msgid "Get our latest posts in your inbox."
+msgstr "Primești direct ultimele noastre articole, prin email."
+
+#: inc/patterns/hidden-footer.php:19
+msgid "https://wordpress.com"
+msgstr "https://wordpress.com"
+
+#: inc/patterns/query-sidebar.php:39
+msgid "About Manuel"
+msgstr "Despre Manuel"
+
+#: inc/patterns/query-sidebar.php:6
+msgid "List of posts with sidebar"
+msgstr "Listă articole cu bară laterală"
+
+#: inc/patterns/query-related-post.php:9
+msgid "Related post"
+msgstr "Articole similare"
+
+#: inc/patterns/query-posts.php:6
+msgid "List of posts"
+msgstr "Listă cu articole"
+
+#: inc/patterns/newsletter-media-text.php:15
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "Abonează-te la buletinul nostru de știri ca să primești ultimele articole prin email."
+
+#: inc/patterns/newsletter-intro-dark-background.php:27
+#: inc/patterns/newsletter-intro-light-background.php:27
+#: inc/patterns/newsletter-intro.php:27
+msgid "Read all posts"
+msgstr "Citește toate articolele"
+
+#: inc/patterns/newsletter-in-post.php:16
+msgid "Subscribe for more posts like this"
+msgstr "Abonează-te pentru a vedea mai multe articole ca acesta"
+
+#: inc/patterns/newsletter-fixed-cover.php:11
+msgid "You don’t wanna miss it."
+msgstr "Nu vrei să le pierzi."
+
+#: inc/patterns/newsletter-fixed-cover.php:6
+msgid "Newsletter signup with fixed background image"
+msgstr "Înregistrare la buletinul de știri cu o imagine de fundal fixă"
+
+#: inc/patterns/newsletter-columns.php:18
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "Introdu adresa de email și apasă butonul pentru abonare ca să primești direct ultimele noastre articole prin email."
+
+#: inc/patterns/newsletter-columns.php:6
+msgid "Two-column newsletter signup"
+msgstr "Înregistrare la buletinul de știri pe două coloane"
+
+#: inc/patterns/newsletter-bold.php:12
+msgid "Sign up for updates"
+msgstr "Înregistrează-te pentru a primi actualizări"
+
+#: inc/patterns/hidden-subscription-form.php:6
+msgid "Subscription form"
+msgstr "Formular de abonare"
+
+#: inc/patterns/newsletter-intro-light-background.php:9
+msgid "A photograph of an envelope."
+msgstr "O fotografie a unui plic."
+
+#: inc/patterns/newsletter-intro-dark-background.php:9
+msgid "A photograph of vintage envelopes."
+msgstr "O fotografie cu plicuri vechi."
+
+#: inc/patterns/tags.php:6
+msgid "Tag buttons"
+msgstr "Butoane pentru etichete"
+
+#: inc/patterns/newsletter-media-text.php:6
+msgid "Newsletter signup with media on the left"
+msgstr "Înregistrare la buletinul de știri cu un element media în stânga"
+
+#: inc/patterns/newsletter-large.php:6
+msgid "Large newsletter signup"
+msgstr "Înregistrare la buletinul de știri mare"
+
+#: inc/patterns/newsletter-video.php:6
+msgid "Newsletter signup with video background"
+msgstr "Înregistrare la buletinul de știri cu un video în fundal"
+
+#: inc/patterns/newsletter-site-logos.php:6
+msgid "Newsletter signup with lots of site logos"
+msgstr "Înregistrare la buletinul de știri cu multe logouri de site-uri"
+
+#: inc/patterns/hidden-footer.php:18
+msgid "A %s newsletter"
+msgstr "Un buletin de știri %s"
+
+#: inc/patterns/newsletter-bold.php:6
+msgid "Bold newsletter signup"
+msgstr "Înregistrare la buletinul de știri (cu aldine)"
+
+#: inc/patterns/newsletter-intro.php:6
+msgid "Newsletter intro"
+msgstr "Introducere la buletinul de știri"
+
+#: inc/patterns/newsletter-intro-light-background.php:6
+msgid "Newsletter intro with light background image"
+msgstr "Introducere la buletinul de știri cu imagine de fundal luminoasă"
+
+#: inc/patterns/newsletter-intro-dark-background.php:6
+msgid "Newsletter intro with dark background image"
+msgstr "Introducere la buletinul de știri cu imagine de fundal întunecată"
+
+#: inc/patterns/hidden-footer.php:6
+msgid "Footer"
+msgstr "Subsol"
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 content"
+msgstr "Conținut 404"
+
+#: inc/patterns/hidden-404.php:14
+msgid "Search"
+msgstr "Caută"
+
+#: inc/patterns/hidden-404.php:12
+msgid " Maybe try a search?"
+msgstr "Poate încerci o căutare?"
+
+#: inc/patterns/hidden-404.php:10
+msgid "This page could not be found."
+msgstr "Această pagină nu a putut fi găsită."
+
+#: inc/patterns/about-single.php:6
+msgid "About the author"
+msgstr "Despre autor"
+
+#: inc/patterns/categories.php:9
+#: inc/patterns/query-sidebar.php:51
+msgid "Categories"
+msgstr "Categorii"
+
+#: inc/patterns/about-multiple.php:39
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: inc/patterns/about-multiple.php:19
+#: inc/patterns/about-single.php:17
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: inc/patterns/categories.php:6
+msgid "Category buttons"
+msgstr "Butoane pentru categorii"
+
+#: inc/patterns/about-multiple.php:6
+msgid "About the authors"
+msgstr "Despre autori"
+
+#: inc/patterns/about-multiple.php:13
+#: inc/patterns/about-multiple.php:33
+#: inc/patterns/about-single.php:11
+msgid "A generic profile picture."
+msgstr "O fotografie de profil generală"
+
+#: inc/block-patterns.php:20
+msgid "Newsletter"
+msgstr "Buletin de știri"
+
+#: inc/block-patterns.php:19
+msgid "Featured"
+msgstr "Reprezentativ"
+
+#: inc/block-patterns.php:17
+msgid "About"
+msgstr "Despre"
+
+#: inc/block-patterns.php:18
+msgid "Columns"
+msgstr "Coloane"
