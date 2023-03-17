@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Spearhead\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-24T02:27:54+00:00\n"
+"PO-Revision-Date: 2021-07-23 11:54:04+0000\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:34
+msgid "Disable Dark Mode"
+msgstr "ダークモードを無効にする"
+
+#. translators: %s: link to how to support system display modes
+#: inc/wpcom-colors.php:37
+msgid "Unless checked, this theme's default palette will display a dark color palette automatically for users who have dark mode enabled on their devices. <a href='%s' target='_blank'>Learn more about dark mode</a>."
+msgstr "チェックを外さない限り、このテーマのデフォルトのパレットでは、端末でダークモードを有効にしているユーザーに対して自動的にダークカラーのパレットを表示します。 <a href='%s' target='_blank'>ダークモードの詳細をご覧ください</a>。"
+
+#: template-parts/header/navigation.php:86
+msgid "Cart"
+msgstr "お買い物カゴ"
+
+#: template-parts/header/navigation.php:76
+msgid "View your shopping list"
+msgstr "ショッピングリストを表示"
+
+#: template-parts/header/navigation.php:74
+msgid "View your shopping cart"
+msgstr "カートを表示"
+
+#: template-parts/header/navigation.php:53
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:47
+#: template-parts/header/navigation.php:87
+msgid "expanded"
+msgstr "開いた状態"
+
+#: template-parts/header/navigation.php:46
+msgid "Menu"
+msgstr "メニュー"
+
+#: template-parts/header/navigation.php:7
+#: template-parts/header/navigation.php:72
+msgid "collapsed"
+msgstr "閉じた状態"
+
+#: template-parts/header/navigation.php:6
+#: template-parts/header/navigation.php:70
+msgid "Close"
+msgstr "終了"
+
+#: template-parts/header/navigation.php:4
+msgid "Main"
+msgstr "メイン"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/spearhead"
+msgstr "https://wordpress.com/theme/spearhead"
+
+#. Description of the theme
+msgid "Share your podcast with the world using Spearhead."
+msgstr "Spearhead を使用してポッドキャストを世界中にシェアしましょう。"
+
+#: search.php:31
+#: template-parts/content/content-excerpt.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "おすすめ"
+
+#: inc/block-patterns.php:77
+msgid "Podcast links list"
+msgstr "ポッドキャストへのリンクのリスト"
+
+#: inc/block-patterns.php:61
+msgid "Podcast available on:"
+msgstr "ポッドキャストプラットフォーム :"
+
+#: inc/block-patterns.php:57
+msgid "Podcast links"
+msgstr "ポッドキャストへのリンク"
+
+#: inc/block-patterns.php:49
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/block-patterns.php:46
+msgid "Latest Posts"
+msgstr "最新の記事"
+
+#: inc/block-patterns.php:42
+msgid "Archive page"
+msgstr "アーカイブページ"
+
+#: inc/block-patterns.php:33
+msgid "Related Posts"
+msgstr "関連記事"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Spearhead"
+msgstr "Spearhead"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:308
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post.
+#: functions.php:233
+msgid "More"
+msgstr "続き"
+
+#: functions.php:91
+msgid "Background"
+msgstr "背景"
+
+#: functions.php:86
+msgid "Foreground"
+msgstr "前景"
+
+#: functions.php:81
+msgid "Primary"
+msgstr "メイン"
+
+#: functions.php:69
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:68
+msgid "Huge"
+msgstr "特大"
+
+#: functions.php:62
+#: functions.php:63
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:57
+msgid "L"
+msgstr "L"
+
+#: functions.php:56
+msgid "Large"
+msgstr "大サイズ"
+
+#: functions.php:51
+msgid "M"
+msgstr "M"
+
+#: functions.php:50
+msgid "Medium"
+msgstr "中"
+
+#: functions.php:45
+msgid "S"
+msgstr "S"
+
+#: functions.php:44
+msgid "Small"
+msgstr "小さい"
+
+#: functions.php:39
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:38
+msgid "Tiny"
+msgstr "最小"
