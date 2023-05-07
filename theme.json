@@ -1,0 +1,72 @@
+{
+	"$schema": "https://json.schemastore.org/theme-v1.json",
+	"version": 1,
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "primary",
+					"color": "#343e47",
+					"name": "Primary",
+					"default": "#007cba"
+				},
+				{
+					"slug": "secondary",
+					"color": "#33b26e",
+					"name": "Secondary",
+					"default": "#006ba1"
+				},
+				{
+					"slug": "foreground",
+					"color": "#6e797f",
+					"name": "Foreground",
+					"default": "#333333"
+				},
+				{
+					"slug": "background",
+					"color": "#ffffff",
+					"name": "Background",
+					"default": "#ffffff"
+				},
+				{
+					"slug": "tertiary",
+					"color": "#FAFAFA",
+					"name": "Tertiary",
+					"default": "#FAFAFA"
+				}
+			]
+		},
+		"custom": {
+			"heading": {
+				"typography": {
+					"fontWeight": 600
+				}
+			},
+			"gap": {
+				"vertical": "min(40px, 5vw)"
+			}
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/site-tagline": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)"
+				}
+			},
+			"core/site-title": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			},
+			"core/post-title": {
+				"typography": {
+					"fontSize": "48px"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var:preset|font-family|roboto"
+		}
+	}
+}
