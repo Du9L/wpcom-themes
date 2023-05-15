@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-08T02:24:34+00:00\n"
+"PO-Revision-Date: 2023-04-07 13:56:23+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Newsreader"
+msgstr "Newsreader"
+
+#: patterns/newsletter-media-text.php:10
+msgid "Illustration of flowers in a vase."
+msgstr "Ilustrație cu flori într-o vază."
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "Abonare"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "Adresă de email"
+
+#. Theme URI of the theme
+msgid "http://wordpress.com/theme/lettre/"
+msgstr "http://wordpress.com/theme/lettre/"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#. Description of the theme
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "O temă pentru cei care doresc să publice buletine de știri folosind Jetpack."
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "Etichete"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "Despre Manuel"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "Articole similare"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "Primești direct ultimele noastre articole, prin email."
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "Abonează-te la buletinul nostru de știri ca să primești ultimele articole prin email."
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "O fotografie a unui plic."
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "Citește toate articolele"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "O fotografie cu plicuri vechi."
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "Abonează-te pentru a vedea mai multe articole ca acesta"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "Primești ultimele articole direct, prin email."
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "Nu vrei să le pierzi."
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "Introdu adresa de email și apasă butonul pentru abonare ca să primești direct ultimele noastre articole prin email."
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "Nu pierzi nicio actualizare"
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "Înregistrează-te pentru a primi actualizări"
+
+#: patterns/hidden-footer.php:23
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "Un buletin de știri %s"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr "Poate încerci o căutare?"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "Această pagină nu a putut fi găsită."
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "Categorii"
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "O fotografie de profil generală"
