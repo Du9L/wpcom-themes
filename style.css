@@ -1,0 +1,28 @@
+/*
+Theme Name: Iotix
+Theme URI: https://wordpress.com/themes/iotix/
+Description: Iotix provides a great starting point for creating a business or startup website.
+Version: 1.0.4
+Author: Automattic
+Author URI: https://automattic.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: iotix
+*/
+
+/*
+ * Font smoothing
+ */
+ body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: 0.0625em !important;
+	text-underline-offset: 0.15em;
+}
