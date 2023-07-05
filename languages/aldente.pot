@@ -1,0 +1,232 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Al Dente 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/aldente\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-02T01:23:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: aldente\n"
+
+#. Theme Name of the theme
+msgid "Al Dente"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/aldente"
+msgstr ""
+
+#. Description of the theme
+msgid "Al Dente is a blog theme perfect for blogs whose posts are categorised, for example food recipe blogs."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:9
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/featured-categories.php
+msgctxt "Pattern title"
+msgid "Featured Categories"
+msgstr ""
+
+#: patterns/featured-categories.php:20
+msgid "Main Dishes"
+msgstr ""
+
+#: patterns/featured-categories.php:32
+msgid "Lunch"
+msgstr ""
+
+#: patterns/featured-categories.php:44
+msgid "Ice Pops"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Stay up to date with our latest, recipes, videos and other news by joining our newsletter."
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:71
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/newsletter.php
+msgctxt "Pattern title"
+msgid "Newsletter"
+msgstr ""
+
+#: patterns/newsletter.php:16
+msgid "Join the fun!"
+msgstr ""
+
+#: patterns/newsletter.php:20
+#: patterns/sidebar.php:44
+msgid "Stay updated with our latest recipes and other news by joining our newsletter."
+msgstr ""
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr ""
+
+#: patterns/no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:9
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "We are devoted food enthusiasts who believe in the power of a good meal to travel the world without leaving our kitchen in the heart of Manchester. We find joy in crafting, cooking, and above all, devouring delicious dishes that not only satisfy the tastebuds but also nourish the soul."
+msgstr ""
+
+#: patterns/sidebar.php:16
+msgid "Find us on:"
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "Join the fun!\t"
+msgstr ""
+
+#: patterns/sidebar.php:54
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:64
+msgid "Recent Posts"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
