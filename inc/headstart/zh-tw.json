@@ -1,0 +1,135 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "簡介",
+            "post_content": "<!-- wp:paragraph -->\n<p> 👋「遠距生活點滴」是一位在聖保羅的社群媒體主管所撰寫的網誌。 我過去在偌大的辦公室工作，現在已成功換到一間三角窗辦公室，就位在我的小公寓裡。 但這棒極了，真的！ </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>如果可以的話，我再也不要回到辦公室了。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading -->\n<h2>是否有任何問題？</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"[Remote] About\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-textarea /-->\n\n<!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Ask me a question\"} /--></div>\n<!-- /wp:jetpack/contact-form -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 21,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "回顧過去遠端工作的一年",
+            "post_content": "<!-- wp:paragraph -->\n<p>直到最近幾年，人們才開始以科學的角度注意蜜蜂養殖業。  過去蜂農只是按照特定的傳統方法採收蜂蜜，卻不瞭解背後的原因。  現在，多虧偉大科學家對蜜蜂生活和習性的觀察，並謹慎、耐心地記錄下這種昆蟲的工作方式，我們已掌握相關知識，讓實際應用的蜂農能夠減少古老而隨意的做法，並訴諸於方法、條理和明確目標。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>新手蜂農讀了這些關於蜜蜂及其習性的實用文獻後，可能會開始懷疑自己能否勝任這份工作，以及自己是否真的想精通養蜂這門學問和技術。 這麼說好了，只要有耐心、堅持並勤奮不懈，任何運用智慧工作的人必能找到成功之道。 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.23\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"line-height:1.23;\">我會花更多時間<br>與家人相處、更注重運動，<br>也會多睡一點。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>各種疑問和困難會讓初學者十分困擾，而他們產生各種問題卻只會讓行家回想起自己早期的抱負與耕耘，並為此會心一笑，但沒必要為此感到絕望；儘管一定會遭遇挫折，初學者仍應接受這些情緒，將其視為更加努力的動力，一步步邁向最終的成功目標。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>有些人會貿然認為在蜜蜂這個領域之中，已經沒有新知可學，或一切都是老生常談了；但事實上，就連科學家也還不清楚特定幾個蜜蜂器官的用途，甚至對蜜蜂某些疾病的起因和治療方法，也仍舊一無所知。 因此，除了養蜂的商業層面以外，還有廣大的領域和研究等著有智慧的蜂農探索。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "looking-back-on-a-year-of-working-remotely",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "生產力秘訣",
+                    "排程"
+                ],
+                "post_tag_name": [
+                    "通勤"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "我每天只查閱電子郵件兩次，這樣就夠了",
+            "post_content": "<!-- wp:paragraph -->\n<p>直到最近幾年，人們才開始以科學的角度注意蜜蜂養殖業。  過去蜂農只是按照特定的傳統方法採收蜂蜜，卻不瞭解背後的原因。  現在，多虧偉大科學家對蜜蜂生活和習性的觀察，並謹慎、耐心地記錄下這種昆蟲的工作方式，我們已掌握相關知識，讓實際應用的蜂農能夠減少古老而隨意的做法，並訴諸於方法、條理和明確目標。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>新手蜂農讀了這些關於蜜蜂及其習性的實用文獻後，可能會開始懷疑自己能否勝任這份工作，以及自己是否真的想精通養蜂這門學問和技術。 這麼說好了，只要有耐心、堅持並勤奮不懈，任何運用智慧工作的人必能找到成功之道。 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>各種疑問和困難會讓初學者十分困擾，而他們產生各種問題卻只會讓行家回想起自己早期的抱負與耕耘，並為此會心一笑，但沒必要為此感到絕望；儘管一定會遭遇挫折，初學者仍應接受這些情緒，將其視為更加努力的動力，一步步邁向最終的成功目標。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>有些人會貿然認為在蜜蜂這個領域之中，已經沒有新知可學，或一切都是老生常談了；但事實上，就連科學家也還不清楚特定幾個蜜蜂器官的用途，甚至對蜜蜂某些疾病的起因和治療方法，也仍舊一無所知。 因此，除了養蜂的商業層面以外，還有廣大的領域和研究等著有智慧的蜂農探索。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "i-check-email-just-two-times-a-day-and-its-fine",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "協作",
+                    "居家辦公室設置"
+                ],
+                "post_tag_name": [
+                    "視訊會議"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "這就是我的日常生活樣貌",
+            "post_content": "<!-- wp:paragraph -->\n<p>直到最近幾年，人們才開始以科學的角度注意蜜蜂養殖業。  過去蜂農只是按照特定的傳統方法採收蜂蜜，卻不瞭解背後的原因。  現在，多虧偉大科學家對蜜蜂生活和習性的觀察，並謹慎、耐心地記錄下這種昆蟲的工作方式，我們已掌握相關知識，讓實際應用的蜂農能夠減少古老而隨意的做法，並訴諸於方法、條理和明確目標。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>新手蜂農讀了這些關於蜜蜂及其習性的實用文獻後，可能會開始懷疑自己能否勝任這份工作，以及自己是否真的想精通養蜂這門學問和技術。 這麼說好了，只要有耐心、堅持並勤奮不懈，任何運用智慧工作的人必能找到成功之道。 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>各種疑問和困難會讓初學者十分困擾，而他們產生各種問題卻只會讓行家回想起自己早期的抱負與耕耘，並為此會心一笑，但沒必要為此感到絕望；儘管一定會遭遇挫折，初學者仍應接受這些情緒，將其視為更加努力的動力，一步步邁向最終的成功目標。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>有些人會貿然認為在蜜蜂這個領域之中，已經沒有新知可學，或一切都是老生常談了；但事實上，就連科學家也還不清楚特定幾個蜜蜂器官的用途，甚至對蜜蜂某些疾病的起因和治療方法，也仍舊一無所知。 因此，除了養蜂的商業層面以外，還有廣大的領域和研究等著有智慧的蜂農探索。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "this-is-what-a-typical-day-looks-like-for-me",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "生產力秘訣",
+                    "排程"
+                ],
+                "post_tag_name": [
+                    "站立式辦公桌"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "主要",
+            "items": []
+        },
+        "primary": {
+            "name": "主要",
+            "items": []
+        }
+    },
+    "images": [
+        "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+    ],
+    "meta": {
+        "blog_id": 202726634,
+        "url": "https://remotedemo.wordpress.com",
+        "update_date": "2022 年 4 月 5 日，下午 1:16",
+        "update_timestamp": 1649164578
+    }
+}

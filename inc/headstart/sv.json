@@ -1,0 +1,135 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Om",
+            "post_content": "<!-- wp:paragraph -->\n<p> 👋 Remote är en blogg skriven av en social media manager i São Paulo. Jag brukade arbeta på ett gigantiskt kontor, men har nu gått över till ett hörnkontor... i min lilla lägenhet. Det är helt fantastiskt, jag lovar. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Om jag får bestämma kommer jag aldrig att gå tillbaka till att jobba på ett kontor.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Frågor</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"[Remote] About\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-textarea /-->\n\n<!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Ask me a question\"} /--></div>\n<!-- /wp:jetpack/contact-form -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 21,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "En tillbakablick på ett år med distansarbete",
+            "post_content": "<!-- wp:paragraph -->\n<p>Det är först under senare år som biodling har uppmärksammats på vetenskaplig grund. Tidigare fanns det vissa traditionella metoder att följa för att säkra honungsskörden, men de som praktiserade dessa visste inte varför eller på vilka grunder de gjorde det. Tack vare våra stora vetenskapsmäns iakttagelser om biets liv och vanor, deras tålamod och flit rörande att notera insektens sätt att arbeta, har vi idag dock kunskap som har gjort det möjligt för den praktiska biodlaren att lämna dessa slumpartade metoder bakom sig till förmån för ordning, reda och ett bestämt syfte.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Den spirande biodlaren kan, när han läser något av dessa stora verk om biet och dess leverne, börja undra om det hela inte är alltför fantastiskt för honom att hantera, och om han någonsin kan hoppas bli skicklig i sitt biodlande. Låt mig säga, här och nu, att med tålamod, uthållighet och flit har alla som hanterar arbetet på ett intelligent sätt möjlighet att lyckas. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.23\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"line-height:1.23;\">Jag spenderar mer tid med <br>min familj, tränar mer <br>och sover bättre.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Även om de tvivel och svårigheter som drabbar nybörjaren, och frågorna som uppstår därav, kan väcka ett leende hos experten – om än bara som en påminnelse om egna tidiga strävanden och ansträngningar – finns det ingen anledning till förtvivlan. Besvikelser kommer säkerligen att uppstå, men dessa bör endast ses som sporrar till ytterligare ansträngningar, som steg mot det slutliga målet att lyckas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Vissa tror kanske – förhastat – att det inte finns något nytt att säga eller lära sig om biet, men faktum är att även vetenskapsmän fortfarande saknar insikt i hur vissa av insektens organ faktiskt används och hur vissa av de sjukdomar som insekten lider av uppstår och botas. Om man bortser från den strikt kommersiella aspekten av biodling finns det alltså fortfarande ett brett intresse- och forskningsområde för den intelligenta biodlaren att utforska.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "looking-back-on-a-year-of-working-remotely",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Produktivitetstips",
+                    "Scheman"
+                ],
+                "post_tag_name": [
+                    "Pendlande"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Jag kollar bara min e-post två gånger om dagen och det går fint",
+            "post_content": "<!-- wp:paragraph -->\n<p>Det är först under senare år som biodling har uppmärksammats på vetenskaplig grund. Tidigare fanns det vissa traditionella metoder att följa för att säkra honungsskörden, men de som praktiserade dessa visste inte varför eller på vilka grunder de gjorde det. Tack vare våra stora vetenskapsmäns iakttagelser om biets liv och vanor, deras tålamod och flit rörande att notera insektens sätt att arbeta, har vi idag dock kunskap som har gjort det möjligt för den praktiska biodlaren att lämna dessa slumpartade metoder bakom sig till förmån för ordning, reda och ett bestämt syfte.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Den spirande biodlaren kan, när han läser något av dessa stora verk om biet och dess leverne, börja undra om det hela inte är alltför fantastiskt för honom att hantera, och om han någonsin kan hoppas bli skicklig i sitt biodlande. Låt mig säga, här och nu, att med tålamod, uthållighet och flit har alla som hanterar arbetet på ett intelligent sätt möjlighet att lyckas. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Även om de tvivel och svårigheter som drabbar nybörjaren, och frågorna som uppstår därav, kan väcka ett leende hos experten – om än bara som en påminnelse om egna tidiga strävanden och ansträngningar – finns det ingen anledning till förtvivlan. Besvikelser kommer säkerligen att uppstå, med dessa bör endast ses som sporrar till ytterligare ansträngningar, som steg mot det slutliga målet att lyckas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Vissa tror kanske – förhastat – att det inte finns något nytt att säga eller lära sig om biet, men faktum är att även vetenskapsmän fortfarande saknar insikt i hur vissa av insektens organ faktiskt används och hur vissa av de sjukdomar som insekten lider av uppstår och botas. Om man bortser från den strikt kommersiella aspekten av biodling finns det alltså fortfarande ett brett intresse- och forskningsområde för den intelligenta biodlaren att utforska.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "i-check-email-just-two-times-a-day-and-its-fine",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Samarbete",
+                    "Hemmakontor"
+                ],
+                "post_tag_name": [
+                    "Videokonferenser"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Så här ser en typisk dag ut för mig",
+            "post_content": "<!-- wp:paragraph -->\n<p>Det är först under senare år som biodling har uppmärksammats på vetenskaplig grund. Tidigare fanns det vissa traditionella metoder att följa för att säkra honungsskörden, men de som praktiserade dessa visste inte varför eller på vilka grunder de gjorde det. Tack vare våra stora vetenskapsmäns iakttagelser om biets liv och vanor, deras tålamod och flit rörande att notera insektens sätt att arbeta, har vi idag dock kunskap som har gjort det möjligt för den praktiska biodlaren att lämna dessa slumpartade metoder bakom sig till förmån för ordning, reda och ett bestämt syfte.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Den spirande biodlaren kan, när han läser något av dessa stora verk om biet och dess leverne, börja undra om det hela inte är alltför fantastiskt för honom att hantera, och om han någonsin kan hoppas bli skicklig i sitt biodlande. Låt mig säga, här och nu, att med tålamod, uthållighet och flit har alla som hanterar arbetet på ett intelligent sätt möjlighet att lyckas. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Även om de tvivel och svårigheter som drabbar nybörjaren, och frågorna som uppstår därav, kan väcka ett leende hos experten – om än bara som en påminnelse om egna tidiga strävanden och ansträngningar – finns det ingen anledning till förtvivlan. Besvikelser kommer säkerligen att uppstå, med dessa bör endast ses som sporrar till ytterligare ansträngningar, som steg mot det slutliga målet att lyckas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Vissa tror kanske – förhastat – att det inte finns något nytt att säga eller lära sig om biet, men faktum är att även vetenskapsmän fortfarande saknar insikt i hur vissa av insektens organ faktiskt används och hur vissa av de sjukdomar som insekten lider av uppstår och botas. Om man bortser från den strikt kommersiella aspekten av biodling finns det alltså fortfarande ett brett intresse- och forskningsområde för den intelligenta biodlaren att utforska.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "this-is-what-a-typical-day-looks-like-for-me",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Produktivitetstips",
+                    "Scheman"
+                ],
+                "post_tag_name": [
+                    "Ståbord"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Huvudrätt",
+            "items": []
+        },
+        "primary": {
+            "name": "Primär",
+            "items": []
+        }
+    },
+    "images": [
+        "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+    ],
+    "meta": {
+        "blog_id": 202726634,
+        "url": "https://remotedemo.wordpress.com",
+        "update_date": "5 april 2022, 13:36",
+        "update_timestamp": 1649164578
+    }
+}
