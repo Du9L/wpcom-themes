@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-05T02:43:49+00:00\n"
+"PO-Revision-Date: 2023-01-05 02:43:32+0000\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "訂閱"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "電子郵件地址"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "頁尾"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "頁首"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "前景"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "第三色彩"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "次要色彩"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "主要"
+
+#. Description of the theme
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "這款佈景主題適合想使用 Jetpack 發行電子報的作者"
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "標籤"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "關於 Manuel"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "相關文章"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "讓最新文章寄到你的收件匣。"
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "訂閱我們的電子報，我們會將最新消息寄到你的收件匣。"
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "信封的照片。"
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "閱讀所有文章"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "復古信封的照片。"
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "訂閱更多同類型文章"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "讓最新文章寄到你的收件匣。"
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "千萬不要錯過。"
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "輸入電子郵件並點選訂閱按鈕，我們會將最新消息寄到你的收件匣。"
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "別錯過最新消息"
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "註冊即可獲得最新消息"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "%s 電子報"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "搜尋"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr " 要嘗試搜尋？"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "找不到此頁面。"
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "分類"
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "我是作家兼插畫家，熱愛經典名著。 我經常在咖啡店出沒，埋頭看書。"
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "你好！ 我是這篇電子報的作者。 我是巴西文化大學的文學教授。"
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "通用的個人檔案圖片。"
