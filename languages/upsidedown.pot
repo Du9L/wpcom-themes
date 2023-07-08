@@ -1,0 +1,164 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Upsidedown 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/upsidedown\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-07T03:40:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: upsidedown\n"
+
+#. Theme Name of the theme
+#: patterns/header.php:67
+msgid "Upsidedown"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/upsidedown/"
+msgstr ""
+
+#. Description of the theme
+msgid "Upsidedown is a blog theme designed in the WordPress Site Editor. With its neat visuals, it introduces a direct experience on post reading: noticeable post titles listed on a text-only page, with an original swap of header and footer blocks."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Nothing here,"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "sorry."
+msgstr ""
+
+#: patterns/404.php:29
+msgid "This page or post could not be found. Maybe a search would help?"
+msgstr ""
+
+#: patterns/404.php:32
+msgid "Search"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "Blogs tend to have a very common structure. Upsidedown is not here to repeat old formulas as we, the humans, do not fit into the same boxes. This Theme Design is not here for certainty but freshness. It is here to invert things, proposing a brand new way to convey personal blogs. More than being yet another WordPress blog theme, Upsidedown is designed with the Site Editor and it is full of ambition. Maybe it is the best choice for your blog."
+msgstr ""
+
+#: patterns/footer.php:31
+msgid "Email the author"
+msgstr ""
+
+#: patterns/footer.php:31
+msgid "and share this blog theme with your colleagues. Enjoy!"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:56
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "© Designed with %1$s"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default header"
+msgstr ""
+
+#: patterns/header.php:49
+msgid "Explore my side projects and work using"
+msgstr ""
+
+#: patterns/header.php:49
+msgid "this link"
+msgstr ""
+
+#: patterns/header.php:67
+msgid "is a WordPress theme design that brings blog posts rising above inverted header and footer components."
+msgstr ""
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Single"
+msgstr ""
+
+#: patterns/single.php:33
+msgid "Written in"
+msgstr ""
+
+#: patterns/single.php:39
+msgid "by"
+msgstr ""
+
+#: patterns/single.php:69
+msgid "Tags"
+msgstr ""
+
+#: styles/noir.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/noir.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/noir.json
+msgctxt "Style variation name"
+msgid "Noir"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
