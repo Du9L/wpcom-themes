@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Pendant\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-21T03:09:58+00:00\n"
+"PO-Revision-Date: 2023-05-20 07:58:56+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr "Roz"
+
+#: styles/electric-blue.json
+msgctxt "Style variation name"
+msgid "Electric Blue"
+msgstr "Albastru electric"
+
+#: styles/dark-navy.json
+msgctxt "Font family name"
+msgid "Headings"
+msgstr "Titluri"
+
+#: styles/dark-navy.json
+msgctxt "Font family name"
+msgid "Body"
+msgstr "Corp"
+
+#: styles/dark-navy.json
+msgctxt "Style variation name"
+msgid "Dark Navy"
+msgstr "Albastru marin închis"
+
+#: patterns/team.php
+msgctxt "Pattern title"
+msgid "Team"
+msgstr "Echipă"
+
+#: patterns/post-navigation.php
+msgctxt "Pattern title"
+msgid "Post Navigation"
+msgstr "Navigare în articole"
+
+#: patterns/media-and-text.php
+msgctxt "Pattern title"
+msgid "Media & Text"
+msgstr "Media și text"
+
+#: patterns/latest-interviews.php
+#: patterns/post-topics.php
+msgctxt "Pattern title"
+msgid "Posts and Topics"
+msgstr "Articole și subiecte"
+
+#: patterns/latest-articles.php
+msgctxt "Pattern title"
+msgid "Latest Articles"
+msgstr "Ultimele articole"
+
+#: patterns/image-series.php
+msgctxt "Pattern title"
+msgid "Our Picks"
+msgstr "Alegerile noastre"
+
+#: patterns/image-gallery.php
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr "Galerie"
+
+#: patterns/image-and-quote.php
+msgctxt "Pattern title"
+msgid "Image & Quote"
+msgstr "Imagine și citat"
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "Home Page Hero"
+msgstr "Pagină de pornire Hero"
+
+#: patterns/grid-of-posts.php
+msgctxt "Pattern title"
+msgid "Grid of Posts"
+msgstr "Grilă cu articole"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Footer Only"
+msgstr "Numai subsol"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "Numai antet și subsol"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Pagină goală"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Font family name"
+msgid "Headings (System Font)"
+msgstr "Titluri (System Font)"
+
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Font family name"
+msgid "Body (System Font)"
+msgstr "Corp (System Font)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#. Description of the theme
+msgid "An elegant product-focused theme"
+msgstr "O temă elegantă axată pe produse"
+
+#: patterns/team.php:79
+msgid "Marketing &amp; Social Media"
+msgstr "Marketing și media socială"
+
+#: patterns/team.php:75
+msgid "Ryan"
+msgstr "Ryan"
+
+#: patterns/team.php:63
+msgid "Editor &amp; Public Relations"
+msgstr "Editor și relații publice"
+
+#: patterns/team.php:59
+msgid "Tanya"
+msgstr "Tanya"
+
+#: patterns/team.php:45
+msgid "Writer, Editor &amp; Jewelry Designer"
+msgstr "Scriitor, editor și designer de bijuterii"
+
+#: patterns/team.php:29
+msgid "Editor &amp; Jeweler"
+msgstr "Editor și bijutier"
+
+#: patterns/team.php:25
+msgid "Marie"
+msgstr "Marie"
+
+#: patterns/team.php:13
+msgid "The Team"
+msgstr "Echipa"
+
+#: patterns/post-topics.php:10
+msgid "Popular Topics"
+msgstr "Subiecte populare"
+
+#: patterns/post-navigation.php:19
+msgid "Next Post"
+msgstr "Articolul următor"
+
+#: patterns/post-navigation.php:11
+msgid "Previous Post"
+msgstr "Articolul anterior"
+
+#: patterns/media-and-text.php:23
+msgid "Mia Moore, Jewelry lover"
+msgstr "Mia Moore, iubitoare de bijuterii"
+
+#: patterns/media-and-text.php:13
+msgid "About"
+msgstr "Despre"
+
+#: patterns/latest-interviews.php:30
+msgid "Q&amp;A with Andrew Holsen, handmaker"
+msgstr "Întrebări și răspunsuri cu Andrew Holsen, artizan"
+
+#: patterns/latest-interviews.php:20
+msgid "Q&amp;A with Lana DeVito, Jewelry designer"
+msgstr "Întrebări și răspunsuri cu Lana DeVito, designer de bijuterii"
+
+#: patterns/latest-interviews.php:10
+msgid "Latest Interviews"
+msgstr "Ultimele interviuri"
+
+#: patterns/latest-articles.php:16
+msgid "Read All"
+msgstr "Citește tot"
+
+#: patterns/latest-articles.php:12
+msgid "Latest Articles"
+msgstr "Ultimele articole"
+
+#: patterns/image-series.php:11
+msgid "Our Picks"
+msgstr "Alegerile noastre"
+
+#: patterns/image-gallery.php:14
+msgid "What We're Loving"
+msgstr "Ce ne place"
+
+#: patterns/image-and-quote.php:15
+msgid "Marie, editor for PNDNT"
+msgstr "Marie, editor pentru PNDNT"
+
+#: patterns/image-and-quote.php:14
+msgid "\"We’re very lucky to be able to write about our passion and interview those whose work we admire.\""
+msgstr "„Suntem foarte norocoși că putem să scriem despre pasiunea noastră și să îi intervievăm pe cei cărora le admirăm munca.”"
+
+#: patterns/hero.php:29
+msgid "Explore"
+msgstr "Explorează"
+
+#: patterns/hero.php:24
+msgid "October Finds"
+msgstr "Descoperiri din octombrie"
+
+#: patterns/footer.php:17
+msgid "Powered by"
+msgstr "Propulsat de"
+
+#: patterns/footer.php:13
+msgid "2021 Pendant © All Rights Reserved"
+msgstr "2021 Pendant © Toate drepturile sunt rezervate"
+
+#: patterns/404.php:26
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/404.php:26
+msgid "Search…"
+msgstr "Caută..."
+
+#: patterns/404.php:22
+msgid "This page could not be found. Try searching posts using the search field."
+msgstr "Această pagină nu poate fi găsită. Încearcă să cauți în articole folosind câmpul de căutare."
+
+#: patterns/404.php:11
+msgid "There's nothing here."
+msgstr "Nu există nimic aici."
+
+#: functions.php:72
+msgid "Gallery"
+msgstr "Galerie"
+
+#: functions.php:71
+msgid "Images"
+msgstr "Fotografii"
+
+#: functions.php:70
+msgid "List"
+msgstr "Listă"
+
+#: functions.php:69
+msgid "Quotes"
+msgstr "Citate"
+
+#: functions.php:68
+msgid "Media"
+msgstr "Media "
+
+#: functions.php:67
+msgid "Call to Action"
+msgstr "Apel la acțiune"
+
+#: functions.php:66
+msgid "Query"
+msgstr "Interogare"
+
+#: functions.php:65
+#: patterns/hero.php:20
+msgid "Featured"
+msgstr "Reprezentativ"
