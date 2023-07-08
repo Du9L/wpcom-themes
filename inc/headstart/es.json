@@ -1,0 +1,135 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Acerca de",
+            "post_content": "<!-- wp:paragraph -->\n<p> 👋 Remote es un blog escrito por un administrador de redes sociales de São Paulo. Solía trabajar en una oficina enorme, pero hice la transición con éxito a una oficina en una esquina... de mi pequeño apartamento. Pero prometo que es genial. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>No volveré nunca más a una oficina si puedo evitarlo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Preguntas</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"[Remote] About\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-textarea /-->\n\n<!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Ask me a question\"} /--></div>\n<!-- /wp:jetpack/contact-form -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 21,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Retrospectiva de un año de trabajo remoto",
+            "post_content": "<!-- wp:paragraph -->\n<p>Solo durante los últimos años se ha prestado atención a la apicultura sobre una base científica. Antiguamente, se seguían ciertos métodos tradicionales para asegurar la cosecha de miel, pero quienes los practicaban desconocían el por qué o el para qué. Actualmente, sin embargo, gracias a las observaciones de los científicos sobre la vida y los hábitos de la abeja, así como al estudio paciente y diligente de la forma de trabajar del insecto, disponemos de conocimientos que han permitido al apicultor práctico reciclar las antiguas técnicas en un método con un orden y un propósito definido.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>El apicultor en ciernes, mientras lee uno u otro de estos importantes trabajos sobre la abeja y las posibilidades que ofrece, puede empezar a preguntarse si no es demasiado abrumador y si alguna vez podría esperar convertirse en un experto en el arte y la práctica de la apicultura. Te diré que tiene mayor probabilidad de éxito quien, además de paciencia, perseverancia y diligencia, aporta inteligencia a su trabajo. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.23\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"line-height:1.23;\">Estoy pasando más tiempo con <br>mi familia, haciendo más ejercicio <br>y durmiendo más.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Aunque las dificultades y las dudas del principiante pueden provocar más de una sonrisa al experto (aunque solo sea como un recordatorio de sus propios esfuerzos y aspiraciones iniciales), no existe motivo para la desesperación. Aunque es obvio que surgirán decepciones, debe aceptarlas simplemente como estímulos para seguir esforzándose, como los pasos que lo conducirán a la meta final del éxito.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Algunos pueden pensar, temerariamente, que no hay nada nuevo que decir o aprender acerca de la abeja, pero el hecho es que incluso los científicos ignoran aún los usos definidos de ciertos órganos del insecto, así como el origen y la curación de algunas de las enfermedades que padece. Dejando de lado el aspecto meramente comercial de la apicultura, su campo de interés y de investigación sigue siendo amplio y ofrece un gran potencial de exploración para el apicultor inteligente.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "looking-back-on-a-year-of-working-remotely",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Consejos de productividad",
+                    "Programas"
+                ],
+                "post_tag_name": [
+                    "Desplazamientos al lugar de trabajo"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Compruebo el correo electrónico dos veces al día y es suficiente.",
+            "post_content": "<!-- wp:paragraph -->\n<p>Solo durante los últimos años se ha prestado atención a la apicultura sobre una base científica. Antiguamente, se seguían ciertos métodos tradicionales para asegurar la cosecha de miel, pero quienes los practicaban desconocían el por qué o el para qué. Actualmente, sin embargo, gracias a las observaciones de los científicos sobre la vida y los hábitos de la abeja, así como al estudio paciente y diligente de la forma de trabajar del insecto, disponemos de conocimientos que han permitido al apicultor práctico reciclar las antiguas técnicas en un método con un orden y un propósito definido.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>El apicultor en ciernes, mientras lee uno u otro de estos importantes trabajos sobre la abeja y las posibilidades que ofrece, puede empezar a preguntarse si no es demasiado abrumador y si alguna vez podría esperar convertirse en un experto en el arte y la práctica de la apicultura. Te diré que tiene mayor probabilidad de éxito quien, además de paciencia, perseverancia y diligencia, aporta inteligencia a su trabajo. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Aunque las dificultades y las dudas del principiante pueden provocar más de una sonrisa al experto (aunque solo sea como un recordatorio de sus propios esfuerzos y aspiraciones iniciales), no existe motivo para la desesperación. Aunque es obvio que surgirán decepciones, debe aceptarlas simplemente como estímulos para seguir esforzándose, como los pasos que lo conducirán a la meta final del éxito.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Algunos pueden pensar, temerariamente, que no hay nada nuevo que decir o aprender acerca de la abeja, pero el hecho es que incluso los científicos ignoran aún los usos definidos de ciertos órganos del insecto, así como el origen y la curación de algunas de las enfermedades que padece. Dejando de lado el aspecto meramente comercial de la apicultura, su campo de interés y de investigación sigue siendo amplio y ofrece un gran potencial de exploración para el apicultor inteligente.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "i-check-email-just-two-times-a-day-and-its-fine",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Colaboración",
+                    "Configuración de la oficina en casa"
+                ],
+                "post_tag_name": [
+                    "Videoconferencias"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Así es un día típico para mí",
+            "post_content": "<!-- wp:paragraph -->\n<p>Solo durante los últimos años se ha prestado atención a la apicultura sobre una base científica. Antiguamente, se seguían ciertos métodos tradicionales para asegurar la cosecha de miel, pero quienes los practicaban desconocían el por qué o el para qué. Actualmente, sin embargo, gracias a las observaciones de los científicos sobre la vida y los hábitos de la abeja, así como al estudio paciente y diligente de la forma de trabajar del insecto, disponemos de conocimientos que han permitido al apicultor práctico reciclar las antiguas técnicas en un método con un orden y un propósito definido.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>El apicultor en ciernes, mientras lee uno u otro de estos importantes trabajos sobre la abeja y las posibilidades que ofrece, puede empezar a preguntarse si no es demasiado abrumador y si alguna vez podría esperar convertirse en un experto en el arte y la práctica de la apicultura. Te diré que tiene mayor probabilidad de éxito quien, además de paciencia, perseverancia y diligencia, aporta inteligencia a su trabajo. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Aunque las dificultades y las dudas del principiante pueden provocar más de una sonrisa al experto (aunque solo sea como un recordatorio de sus propios esfuerzos y aspiraciones iniciales), no existe motivo para la desesperación. Aunque es obvio que surgirán decepciones, debe aceptarlas simplemente como estímulos para seguir esforzándose, como los pasos que lo conducirán a la meta final del éxito.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Algunos pueden pensar, temerariamente, que no hay nada nuevo que decir o aprender acerca de la abeja, pero el hecho es que incluso los científicos ignoran aún los usos definidos de ciertos órganos del insecto, así como el origen y la curación de algunas de las enfermedades que padece. Dejando de lado el aspecto meramente comercial de la apicultura, su campo de interés y de investigación sigue siendo amplio y ofrece un gran potencial de exploración para el apicultor inteligente.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "this-is-what-a-typical-day-looks-like-for-me",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Consejos de productividad",
+                    "Programas"
+                ],
+                "post_tag_name": [
+                    "Escritorios de altura regulable"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Plato principal",
+            "items": []
+        },
+        "primary": {
+            "name": "Principal",
+            "items": []
+        }
+    },
+    "images": [
+        "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+    ],
+    "meta": {
+        "blog_id": 202726634,
+        "url": "https://remotedemo.wordpress.com",
+        "update_date": "5 de abril de 2022 a las 13:16",
+        "update_timestamp": 1649164578
+    }
+}

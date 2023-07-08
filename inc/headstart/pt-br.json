@@ -1,0 +1,135 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Sobre",
+            "post_content": "<!-- wp:paragraph -->\n<p> 👋 Remoto é um blog escrito por um gerente de redes sociais em São Paulo. Eu trabalhava em um escritório enorme, mas fiz muito bem em mudar para um escritório de canto... dentro do meu apartamento minúsculo. Prometo a vocês que é excelente! </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Jamais voltarei a pisar em um escritório, se puder evitar.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Perguntas?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"[Remote] About\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-textarea /-->\n\n<!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Ask me a question\"} /--></div>\n<!-- /wp:jetpack/contact-form -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 21,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Uma retrospectiva de um ano de trabalho remoto",
+            "post_content": "<!-- wp:paragraph -->\n<p>A apicultura, como base científica, recebeu atenção apenas recentemente. Antigamente, havia alguns métodos tradicionais a serem seguidos, a fim de garantir a colheita do mel, mas aqueles que os praticavam não sabiam o porquê nem para quê. Hoje, no entanto, graças às observações dos nossos incríveis cientistas sobre a vida e os hábitos das abelhas, além da paciência e rigor em observar a forma de trabalho desse inseto, agora temos conhecimentos que permitiram ao apicultor prático reduzir as velhas formas aleatórias de método, ordem e finalidade definida.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>O apicultor iniciante, ao ler uma ou outra dessas grandes obras sobre as abelhas e seu comportamento muito particular, pode começar a se perguntar se lidar com isso, para ele, não é de fato maravilhoso e se ele espera tornar-se proficiente na arte e na prática da apicultura. É importante apontar que, com paciência, perseverança e diligência, o sucesso é alcançável para qualquer um que seja inteligente em seu trabalho. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.23\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"line-height:1.23;\">Passo mais tempo com a <br>minha família, faço mais exercícios <br>e durmo mais.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Embora as dúvidas e dificuldades que assolam o principiante, e as dúvidas decorrentes delas, possam fazer o especialista rir (mesmo que apenas como um lembrete das suas próprias aspirações e esforços iniciais), ainda assim, não há motivo para desespero; embora as decepções certamente surjam, elas devem ser aceitas apenas como estímulos para que se exerça um esforço adicional, sob a forma de passos em direção ao objetivo final: o sucesso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Alguns podem afirmar, categoricamente, que não há mais nada novo a ser dito ou aprendido sobre abelhas, mas o fato é que até mesmo os cientistas ainda são ignorantes sobre as reais funcionalidades de alguns dos órgãos desse inseto e a origem e cura das doenças das quais ele sofre. Portanto, além dos propósitos comerciais de criar abelhas, há um amplo campo de interesse e pesquisa aberto para exploração do apicultor inteligente.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "looking-back-on-a-year-of-working-remotely",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Dicas de produtividade",
+                    "Cronogramas"
+                ],
+                "post_tag_name": [
+                    "Trajetos diários"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Verifico meus e-mails apenas duas vezes ao dia e é o suficiente",
+            "post_content": "<!-- wp:paragraph -->\n<p>A apicultura, como base científica, recebeu atenção apenas recentemente. Antigamente, havia alguns métodos tradicionais a serem seguidos, a fim de garantir a colheita do mel, mas aqueles que os praticavam não sabiam o porquê nem para quê. Hoje, no entanto, graças às observações dos nossos incríveis cientistas sobre a vida e os hábitos das abelhas, além da paciência e rigor em observar a forma de trabalho desse inseto, agora temos conhecimentos que permitiram ao apicultor prático reduzir as velhas formas aleatórias de método, ordem e finalidade definida.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>O apicultor iniciante, ao ler uma ou outra dessas grandes obras sobre as abelhas e seu comportamento muito particular, pode começar a se perguntar se lidar com isso, para ele, não é de fato maravilhoso e se ele espera tornar-se proficiente na arte e na prática da apicultura. É importante apontar que, com paciência, perseverança e diligência, o sucesso é alcançável para qualquer um que seja inteligente em seu trabalho. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Embora as dúvidas e dificuldades que assolam o principiante, e as dúvidas decorrentes delas, possam fazer o especialista rir (mesmo que apenas como um lembrete das suas próprias aspirações e esforços iniciais), ainda assim, não há motivo para desespero; embora as decepções certamente surjam, elas devem ser aceitas apenas como estímulos para que se exerça um esforço adicional, sob a forma de passos em direção ao objetivo final: o sucesso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Alguns podem afirmar, categoricamente, que não há mais nada novo a ser dito ou aprendido sobre abelhas, mas o fato é que até mesmo os cientistas ainda são ignorantes sobre as reais funcionalidades de alguns dos órgãos desse inseto e a origem e cura das doenças das quais ele sofre. Portanto, além dos propósitos comerciais de criar abelhas, há um amplo campo de interesse e pesquisa aberto para exploração do apicultor inteligente.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "i-check-email-just-two-times-a-day-and-its-fine",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Colaboração",
+                    "Configuração para trabalho remoto"
+                ],
+                "post_tag_name": [
+                    "Videoconferências"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Normalmente, o meu dia é assim",
+            "post_content": "<!-- wp:paragraph -->\n<p>A apicultura, como base científica, recebeu atenção apenas recentemente. Antigamente, havia alguns métodos tradicionais a serem seguidos, a fim de garantir a colheita do mel, mas aqueles que os praticavam não sabiam o porquê nem para quê. Hoje, no entanto, graças às observações dos nossos incríveis cientistas sobre a vida e os hábitos das abelhas, além da paciência e rigor em observar a forma de trabalho desse inseto, agora temos conhecimentos que permitiram ao apicultor prático reduzir as velhas formas aleatórias de método, ordem e finalidade definida.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>O apicultor iniciante, ao ler uma ou outra dessas grandes obras sobre as abelhas e seu comportamento muito particular, pode começar a se perguntar se lidar com isso, para ele, não é de fato maravilhoso e se ele espera tornar-se proficiente na arte e na prática da apicultura. É importante apontar que, com paciência, perseverança e diligência, o sucesso é alcançável para qualquer um que seja inteligente em seu trabalho. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Embora as dúvidas e dificuldades que assolam o principiante, e as dúvidas decorrentes delas, possam fazer o especialista rir (mesmo que apenas como um lembrete das suas próprias aspirações e esforços iniciais), ainda assim, não há motivo para desespero; embora as decepções certamente surjam, elas devem ser aceitas apenas como estímulos para que se exerça um esforço adicional, sob a forma de passos em direção ao objetivo final: o sucesso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Alguns podem afirmar, categoricamente, que não há mais nada novo a ser dito ou aprendido sobre abelhas, mas o fato é que até mesmo os cientistas ainda são ignorantes sobre as reais funcionalidades de alguns dos órgãos desse inseto e a origem e cura das doenças das quais ele sofre. Portanto, além dos propósitos comerciais de criar abelhas, há um amplo campo de interesse e pesquisa aberto para exploração do apicultor inteligente.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "this-is-what-a-typical-day-looks-like-for-me",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Dicas de produtividade",
+                    "Cronogramas"
+                ],
+                "post_tag_name": [
+                    "Standing desks"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Prato principal",
+            "items": []
+        },
+        "primary": {
+            "name": "Principal",
+            "items": []
+        }
+    },
+    "images": [
+        "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+    ],
+    "meta": {
+        "blog_id": 202726634,
+        "url": "https://remotedemo.wordpress.com",
+        "update_date": "5 de abril de 2022, 13:16",
+        "update_timestamp": 1649164578
+    }
+}
