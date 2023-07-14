@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Pieria\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-09T02:54:44+00:00\n"
+"PO-Revision-Date: 2023-07-08 18:49:57+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "sidebar"
+msgstr "bară laterală"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:24
+#: patterns/sidebar.php:30
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:22
+#: patterns/sidebar.php:27
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: patterns/404.php:14
+msgid "Oops! That page can’t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Pieria is a theme focused on typography — essentially following a low-level styling approach. Its headings, paragraphs, links, and navigation have the same appearance, with everything sitting quietly into simple columns that split navigation, blog posts, and a content block. A soft design to make your content sparkle."
+msgstr "Pieria este o temă axată pe tipografice - urmează în esență o abordare a designului la un nivel scăzut. Titlurile, paragrafele, legăturile și navigarea au același aspect, totul fiind așezat liniștit în coloane simple care împart navigarea, articolele de blog și blocul cu conținut. Un design delicat pentru a-ți face conținutul să strălucească."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/pieria"
+msgstr "https://wordpress.com/theme/pieria"
+
+#. Theme Name of the theme
+msgid "Pieria"
+msgstr "Pieria"
