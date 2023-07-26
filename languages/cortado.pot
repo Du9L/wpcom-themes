@@ -1,0 +1,423 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cortado 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cortado\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-22T01:52:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: cortado\n"
+
+#. Theme Name of the theme
+msgid "Cortado"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/cortado"
+msgstr ""
+
+#. Description of the theme
+msgid "Cortado is a simple and elegant theme. Its colors and typography work together perfectly to deliver a subtle style, perfect for restaurants and coffee shops."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:22
+msgid "https://wordpress.org"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr ""
+
+#: patterns/front-page.php:17
+#: patterns/wp-custom-template-home-alt.php:17
+msgid "We serve the finest freshly ground beans from all over the world."
+msgstr ""
+
+#: patterns/front-page.php:55
+#: patterns/wp-custom-template-home-alt.php:55
+msgid "Our menu"
+msgstr ""
+
+#: patterns/front-page.php:64
+#: patterns/wp-custom-template-home-alt.php:64
+msgid "Drinks"
+msgstr ""
+
+#: patterns/front-page.php:66
+#: patterns/wp-custom-template-home-alt.php:66
+msgid "Hot Drinks"
+msgstr ""
+
+#: patterns/front-page.php:72
+#: patterns/wp-custom-template-home-alt.php:72
+msgid "Pour Over Coffee"
+msgstr ""
+
+#: patterns/front-page.php:76
+#: patterns/front-page.php:188
+#: patterns/front-page.php:198
+#: patterns/front-page.php:208
+#: patterns/front-page.php:253
+#: patterns/front-page.php:269
+#: patterns/front-page.php:279
+#: patterns/front-page.php:289
+#: patterns/front-page.php:305
+#: patterns/front-page.php:315
+#: patterns/front-page.php:325
+#: patterns/wp-custom-template-home-alt.php:76
+#: patterns/wp-custom-template-home-alt.php:188
+#: patterns/wp-custom-template-home-alt.php:198
+#: patterns/wp-custom-template-home-alt.php:208
+#: patterns/wp-custom-template-home-alt.php:253
+#: patterns/wp-custom-template-home-alt.php:269
+#: patterns/wp-custom-template-home-alt.php:279
+#: patterns/wp-custom-template-home-alt.php:289
+#: patterns/wp-custom-template-home-alt.php:305
+#: patterns/wp-custom-template-home-alt.php:315
+#: patterns/wp-custom-template-home-alt.php:325
+msgid "$2.75"
+msgstr ""
+
+#: patterns/front-page.php:82
+#: patterns/wp-custom-template-home-alt.php:82
+msgid "Café Au Lait"
+msgstr ""
+
+#: patterns/front-page.php:86
+#: patterns/wp-custom-template-home-alt.php:86
+msgid "$3.25"
+msgstr ""
+
+#: patterns/front-page.php:92
+#: patterns/wp-custom-template-home-alt.php:92
+msgid "Espresso"
+msgstr ""
+
+#: patterns/front-page.php:96
+#: patterns/wp-custom-template-home-alt.php:96
+msgid "$1.50"
+msgstr ""
+
+#: patterns/front-page.php:102
+#: patterns/wp-custom-template-home-alt.php:102
+msgid "Americano"
+msgstr ""
+
+#: patterns/front-page.php:106
+#: patterns/wp-custom-template-home-alt.php:106
+msgid "$1.75"
+msgstr ""
+
+#: patterns/front-page.php:112
+#: patterns/wp-custom-template-home-alt.php:112
+msgid "Cappucino"
+msgstr ""
+
+#: patterns/front-page.php:116
+#: patterns/front-page.php:126
+#: patterns/wp-custom-template-home-alt.php:116
+#: patterns/wp-custom-template-home-alt.php:126
+msgid "$3.75"
+msgstr ""
+
+#: patterns/front-page.php:122
+#: patterns/wp-custom-template-home-alt.php:122
+msgid "Flat White"
+msgstr ""
+
+#: patterns/front-page.php:132
+#: patterns/wp-custom-template-home-alt.php:132
+msgid "Latte"
+msgstr ""
+
+#: patterns/front-page.php:136
+#: patterns/front-page.php:218
+#: patterns/wp-custom-template-home-alt.php:136
+#: patterns/wp-custom-template-home-alt.php:218
+msgid "$4.25"
+msgstr ""
+
+#: patterns/front-page.php:142
+#: patterns/wp-custom-template-home-alt.php:142
+msgid "Mocha"
+msgstr ""
+
+#: patterns/front-page.php:146
+#: patterns/front-page.php:156
+#: patterns/front-page.php:228
+#: patterns/wp-custom-template-home-alt.php:146
+#: patterns/wp-custom-template-home-alt.php:156
+#: patterns/wp-custom-template-home-alt.php:228
+msgid "$4.75"
+msgstr ""
+
+#: patterns/front-page.php:152
+#: patterns/wp-custom-template-home-alt.php:152
+msgid "Hot Chocolate"
+msgstr ""
+
+#: patterns/front-page.php:168
+#: patterns/wp-custom-template-home-alt.php:168
+msgid "Cold Drinks"
+msgstr ""
+
+#: patterns/front-page.php:174
+#: patterns/wp-custom-template-home-alt.php:174
+msgid "Cold Brew"
+msgstr ""
+
+#: patterns/front-page.php:178
+#: patterns/wp-custom-template-home-alt.php:178
+msgid "$3.00"
+msgstr ""
+
+#: patterns/front-page.php:184
+#: patterns/wp-custom-template-home-alt.php:184
+msgid "Iced Tea"
+msgstr ""
+
+#: patterns/front-page.php:194
+#: patterns/wp-custom-template-home-alt.php:194
+msgid "Espresso Over Ice"
+msgstr ""
+
+#: patterns/front-page.php:204
+#: patterns/wp-custom-template-home-alt.php:204
+msgid "Iced Americano"
+msgstr ""
+
+#: patterns/front-page.php:214
+#: patterns/wp-custom-template-home-alt.php:214
+msgid "Iced Latte"
+msgstr ""
+
+#: patterns/front-page.php:224
+#: patterns/wp-custom-template-home-alt.php:224
+msgid "Iced Mocha"
+msgstr ""
+
+#: patterns/front-page.php:236
+#: patterns/wp-custom-template-home-alt.php:236
+msgid "Breakfast"
+msgstr ""
+
+#: patterns/front-page.php:237
+#: patterns/wp-custom-template-home-alt.php:237
+msgid "Breakfast served 7:00am - 3:00pm"
+msgstr ""
+
+#: patterns/front-page.php:244
+#: patterns/wp-custom-template-home-alt.php:244
+msgid "Egg Sandwich"
+msgstr ""
+
+#: patterns/front-page.php:248
+#: patterns/wp-custom-template-home-alt.php:248
+msgid "Organic scrambled eggs and melted cheddar on a toasted brioche bun"
+msgstr ""
+
+#: patterns/front-page.php:260
+#: patterns/wp-custom-template-home-alt.php:260
+msgid "Egg over Arugula"
+msgstr ""
+
+#: patterns/front-page.php:264
+#: patterns/wp-custom-template-home-alt.php:264
+msgid "Poached local organic eggs over a pile of dressed arugula"
+msgstr ""
+
+#: patterns/front-page.php:275
+#: patterns/wp-custom-template-home-alt.php:275
+msgid "Texas Cinnamon Toast"
+msgstr ""
+
+#: patterns/front-page.php:285
+#: patterns/front-page.php:311
+#: patterns/wp-custom-template-home-alt.php:285
+#: patterns/wp-custom-template-home-alt.php:311
+msgid "Texas Toast with Butter & Seasonal Preserves"
+msgstr ""
+
+#: patterns/front-page.php:296
+#: patterns/wp-custom-template-home-alt.php:296
+msgid "Organic Yogurt & Local Granola"
+msgstr ""
+
+#: patterns/front-page.php:300
+#: patterns/wp-custom-template-home-alt.php:300
+msgid "Made with gluten free oats"
+msgstr ""
+
+#: patterns/front-page.php:321
+#: patterns/wp-custom-template-home-alt.php:321
+msgid "Seasonal Fruit Bowl"
+msgstr ""
+
+#: patterns/front-page.php:332
+#: patterns/wp-custom-template-home-alt.php:332
+msgid "Brunch"
+msgstr ""
+
+#: patterns/front-page.php:332
+#: patterns/wp-custom-template-home-alt.php:332
+msgid "Type / to add a hidden block"
+msgstr ""
+
+#: patterns/hero-inverted.php
+msgctxt "Pattern title"
+msgid "hero-inverted"
+msgstr ""
+
+#: patterns/hero-inverted.php:14
+#: patterns/hero.php:14
+msgid "Delicious"
+msgstr ""
+
+#: patterns/hero-inverted.php:14
+#: patterns/hero.php:14
+msgid "food & coffee"
+msgstr ""
+
+#: patterns/hero-inverted.php:14
+#: patterns/hero.php:14
+msgid "plus a vibrant"
+msgstr ""
+
+#: patterns/hero-inverted.php:14
+#: patterns/hero.php:14
+msgid "community"
+msgstr ""
+
+#: patterns/hero-inverted.php:33
+#: patterns/hero.php:33
+msgid "Order online"
+msgstr ""
+
+#: patterns/hero-inverted.php:42
+#: patterns/hero.php:42
+msgid "Everyday"
+msgstr ""
+
+#: patterns/hero-inverted.php:42
+#: patterns/hero.php:42
+msgid "7am - 6pm"
+msgstr ""
+
+#: patterns/hero-inverted.php:42
+#: patterns/hero.php:42
+msgid "617 000 0000"
+msgstr ""
+
+#: patterns/hero-inverted.php:48
+#: patterns/hero.php:48
+msgid "11 Bower St"
+msgstr ""
+
+#: patterns/hero-inverted.php:48
+#: patterns/hero.php:48
+msgid "Somerville, MA"
+msgstr ""
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "hero"
+msgstr ""
+
+#: patterns/three-images.php
+msgctxt "Pattern title"
+msgid "three-images"
+msgstr ""
+
+#: patterns/wp-custom-template-home-alt.php
+msgctxt "Pattern title"
+msgid "wp-custom-template-home-alt"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
