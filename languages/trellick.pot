@@ -1,0 +1,203 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Trellick 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/trellick\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-05T03:44:56+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: trellick\n"
+
+#. Theme Name of the theme
+msgid "Trellick"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/trellick/"
+msgstr ""
+
+#. Description of the theme
+msgid "Trellick is a raw, brutalist blog theme that strips away the polished veneer of the samey web design to show the untamed essence of the digital realm."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:9
+msgid "Nothing found. Maybe try a search?"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:13
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:15
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr ""
+
+#: patterns/no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Nothing found. Try again with some different keywords."
+msgstr ""
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:9
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:14
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:24
+msgid "Archive"
+msgstr ""
+
+#: patterns/sidebar.php:34
+msgid "Instagram"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Tumblr"
+msgstr ""
+
+#: styles/charcoal.json
+msgctxt "Style variation name"
+msgid "Charcoal"
+msgstr ""
+
+#: styles/charcoal.json
+#: styles/custard.json
+#: styles/sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/charcoal.json
+#: styles/custard.json
+#: styles/sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/charcoal.json
+#: styles/custard.json
+#: styles/sky.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/custard.json
+msgctxt "Style variation name"
+msgid "Custard"
+msgstr ""
+
+#: styles/sky.json
+msgctxt "Style variation name"
+msgid "Sky"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
