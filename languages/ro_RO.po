@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Aldente\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-05T01:22:38+00:00\n"
+"PO-Revision-Date: 2023-07-04 06:19:10+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Foarte mare dublu"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:71
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php:73
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/newsletter.php
+msgctxt "Pattern title"
+msgid "Newsletter"
+msgstr "Buletin de știri"
+
+#: patterns/no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Listă cu articole"
+
+#: patterns/sidebar.php:54
+msgid "Categories"
+msgstr "Categorii"
+
+#: patterns/sidebar.php:64
+msgid "Recent Posts"
+msgstr "Articole recente"
+
+#: patterns/search.php:9
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Căutare..."
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Nu am găsit conținut"
+
+#: patterns/sidebar.php:40
+msgid "Join the fun!\t"
+msgstr "Participă la distracție!\t"
+
+#: patterns/sidebar.php:16
+msgid "Find us on:"
+msgstr "Ne găsești pe:"
+
+#: patterns/newsletter.php:20
+#: patterns/sidebar.php:44
+msgid "Stay updated with our latest recipes and other news by joining our newsletter."
+msgstr "Înregistrează-te la buletinul nostru de știri ca să fii la curent cu ultimele rețete și alte noutăți."
+
+#: patterns/newsletter.php:16
+msgid "Join the fun!"
+msgstr "Participă la distracție!"
+
+#: patterns/footer.php:19
+msgid "Stay up to date with our latest, recipes, videos and other news by joining our newsletter."
+msgstr "Înregistrează-te la buletinul nostru de știri ca să fii la curent cu ultimele rețete, videouri și alte noutăți."
+
+#: patterns/featured-categories.php:44
+msgid "Ice Pops"
+msgstr "Înghețată pe băț"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/404.php:9
+msgid "Oops! That page can’t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
+
+#: patterns/404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: patterns/featured-categories.php:32
+msgid "Lunch"
+msgstr "Prânz"
+
+#: patterns/featured-categories.php:20
+msgid "Main Dishes"
+msgstr "Feluri principale"
+
+#: patterns/featured-categories.php
+msgctxt "Pattern title"
+msgid "Featured Categories"
+msgstr "Categorii reprezentative"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Al Dente is a blog theme perfect for blogs whose posts are categorised, for example food recipe blogs."
+msgstr "Al Dente este o temă de blog perfectă pentru blogurile ale căror articole sunt afișate pe categorii, de exemplu bloguri cu rețete culinare."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/aldente"
+msgstr "https://wordpress.com/theme/aldente"
+
+#. Theme Name of the theme
+msgid "Al Dente"
+msgstr "Al Dente"
