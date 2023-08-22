@@ -1,0 +1,177 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "Domande e risposte con Andrew Holsen, artigiano",
+            "post_content": "<!-- wp:paragraph -->\n<p>Andrew è un orefice artigiano della California. La sua passione per l'artigianato risale alla sua infanzia trascorsa nella camera da letto della nonna. Era solito vestirsi con orecchini grandi e pesanti e fingere di essere adulto.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Qual è il tuo processo creativo?</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Di solito inizio con la moodboard e la concettualizzazione di una nuova collezione. In genere inizia molto prima, quando inizio a scattare fotografie e a disegnare idee stupide per le forme.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Da cosa ti lasci ispirare?</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La Terra è la mia più grande ispirazione e mi influenza. Amo visitare negozi di cristalli, bazar vintage e lasciarmi ispirare dalla bellezza delle pietre grezze.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "qa-with-andrew-holsen-hand-maker",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 74,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Interviste"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://pendantdemo.files.wordpress.com/2022/04/pendant_andrewholsen.png"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Domande e risposte con Lana DeVito, designer di gioielli",
+            "post_content": "<!-- wp:paragraph -->\n<p>Lana DeVito è una designer di gioielli di Boston, MA. La sua passione per l'artigianato risale alla sua infanzia, trascorsi nella camera da letto della nonna. Era solita vestirsi con orecchini grandi e pesanti e fingere di essere adulta.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Qual è il tuo processo creativo?</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Di solito inizio con la moodboard e la concettualizzazione di una nuova collezione. In genere inizia molto prima, quando inizio a scattare fotografie e a disegnare idee stupide per le forme.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Da cosa ti lasci ispirare?</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La Terra è la mia più grande ispirazione e mi influenza. Amo visitare negozi di cristalli, bazar vintage e lasciarmi ispirare dalla bellezza delle pietre grezze.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "qa-with-lana-devito-jewellery-designer",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 59,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Interviste"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://pendantdemo.files.wordpress.com/2022/04/pendant_lanadevito.png"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Articoli",
+            "post_content": "<!-- wp:query {\"queryId\":2,\"query\":{\"perPage\":\"8\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"exclude\",\"inherit\":false},\"tagName\":\"main\",\"displayLayout\":{\"type\":\"flex\",\"columns\":2},\"align\":\"wide\",\"layout\":{\"inherit\":false}} -->\n<main class=\"wp-block-query alignwide\"><!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"1em\",\"bottom\":\"1.5em\"}}},\"layout\":{\"inherit\":false}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:1em;padding-bottom:1.5em;\"><!-- wp:post-template -->\n<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"2em\",\"bottom\":\"2em\"}}}} -->\n<div class=\"wp-block-group\" style=\"padding-top:2em;padding-bottom:2em;\"><!-- wp:post-featured-image {\"isLink\":true,\"width\":\"100%\",\"height\":\"16em\"} /-->\n\n<!-- wp:post-title {\"level\":3,\"isLink\":true} /-->\n\n<!-- wp:post-excerpt /-->\n\n<!-- wp:read-more {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"700\"}},\"fontSize\":\"medium\"} /--></div>\n<!-- /wp:group -->\n<!-- /wp:post-template --></div>\n<!-- /wp:group -->\n\n<!-- wp:separator {\"align\":\"wide\",\"backgroundColor\":\"foreground\",\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator alignwide has-text-color has-foreground-color has-alpha-channel-opacity has-foreground-background-color has-background is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"0\"},\"padding\":{\"top\":\"2.5em\",\"bottom\":\"2.5em\"}}}} -->\n<div class=\"wp-block-group alignwide\" style=\"margin-top:0;padding-top:2.5em;padding-bottom:2.5em;\"><!-- wp:query-pagination {\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n<!-- wp:query-pagination-previous /-->\n\n<!-- wp:query-pagination-numbers /-->\n\n<!-- wp:query-pagination-next /-->\n<!-- /wp:query-pagination --></div>\n<!-- /wp:group --></main>\n<!-- /wp:query -->",
+            "post_name": "articles",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 48,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Informazioni",
+            "post_content": "<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"margin\":{\"top\":\"0px\"},\"padding\":{\"top\":\"40px\",\"bottom\":\"50px\"}}},\"backgroundColor\":\"foreground\",\"textColor\":\"background\",\"layout\":{\"inherit\":true}} -->\n<div class=\"wp-block-group alignfull has-background-color has-foreground-background-color has-text-color has-background\" style=\"margin-top:0;padding-top:40px;padding-bottom:50px;\"><!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"42%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:42%;\"><!-- wp:heading {\"level\":1,\"align\":\"wide\"} -->\n<h1 class=\"alignwide\">Informazioni su</h1>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"https://s0.wp.com/wp-content/themes/pub/pendant/assets/images/person-in-dress-at-shore.jpg\" alt=\"\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Mia Moore, amante di gioielli</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><em>“Più imparo sui gioielli e mi immergo nella loro storia, più li amo. Conoscere il significati degli oggetti in particolari momenti della storia, come si sono tradotti in status, ricchezza o potere. Il gioiello è sempre stato un modo per comunicare e distinguersi e con l'evoluzione della società si è trasformato in un altro modo di esprimersi, come l'abbigliamento. Mi appassiona scoprire come lo usiamo per esprimere chi siamo veramente.”</em></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":\"40px\"} -->\n<div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:group -->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"100px\",\"bottom\":\"100px\"}}}} -->\n<div class=\"wp-block-group\" style=\"padding-top:100px;padding-bottom:100px;\"><!-- wp:heading {\"level\":3,\"style\":{\"typography\":{\"lineHeight\":1.4}}} -->\n<h3 style=\"line-height:1.4;\">Mia ha fondato il blog con un gruppo di persone che condividevano la stessa passione per la gioielleria, la sua storia e l'artigianato.</h3>\n<!-- /wp:heading --></div>\n<!-- /wp:group -->\n\n<!-- wp:media-text {\"align\":\"full\",\"mediaLink\":\"https://s0.wp.com/wp-content/themes/pub/pendant/assets/images/person-with-shadow-on-wall.jpeg\",\"mediaType\":\"image\",\"mediaWidth\":40,\"mediaSizeSlug\":\"full\",\"style\":{\"color\":{\"background\":\"#a19982\"}},\"className\":\"is-vertically-aligned-center\"} -->\n<div class=\"wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center has-background\" style=\"background-color:#a19982;grid-template-columns:40% auto;\"><figure class=\"wp-block-media-text__media\"><img src=\"https://s0.wp.com/wp-content/themes/pub/pendant/assets/images/person-with-shadow-on-wall.jpeg\" alt=\"\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"30px\",\"right\":\"30px\",\"bottom\":\"40px\",\"left\":\"30px\"}}}} -->\n<div class=\"wp-block-group\" style=\"padding-top:30px;padding-right:30px;padding-bottom:40px;padding-left:30px;\"><!-- wp:quote {\"className\":\"is-style-plain\"} -->\n<blockquote class=\"wp-block-quote is-style-plain\"><p>\n\"Siamo molto fortunati a poter scrivere della nostra passione e intervistare coloro di cui ammiriamo il lavoro\".</p><cite>Marie, editor per PNDNT</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:group --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"5vw\",\"bottom\":\"5vw\"}}},\"layout\":{\"inherit\":true}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:5vw;padding-bottom:5vw;\"><!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"top\",\"width\":\"25%\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"7vw\"}}}} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"padding-top:7vw;flex-basis:25%;\"><!-- wp:heading {\"level\":3} -->\n<h3>Il team</h3>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\"} -->\n<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"1.5vw\",\"bottom\":\"3vw\"}}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\" style=\"padding-top:1.5vw;padding-bottom:3vw;\"><!-- wp:image {\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"is-resized is-style-default\"} -->\n<figure class=\"wp-block-image size-full is-resized is-style-default\"><img src=\"https://s0.wp.com/wp-content/themes/pub/pendant/assets/images/smiling-woman-1.jpeg\" alt=\"\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"blockGap\":\"0px\"}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\"><!-- wp:paragraph -->\n<p><strong>Marie</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Editor e orefice</em></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:group --></div>\n<!-- /wp:group -->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"1.5vw\",\"bottom\":\"3vw\"}}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\" style=\"padding-top:1.5vw;padding-bottom:3vw;\"><!-- wp:image {\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"is-resized is-style-default\"} -->\n<figure class=\"wp-block-image size-full is-resized is-style-default\"><img src=\"https://s0.wp.com/wp-content/themes/pub/pendant/assets/images/smiling-woman-3.jpeg\" alt=\"\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"blockGap\":\"0px\"}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\"><!-- wp:paragraph -->\n<p><strong>Sandra</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Scrittrice, editor e designer di gioielli</em></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:group --></div>\n<!-- /wp:group --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\"} -->\n<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"1.5vw\",\"bottom\":\"3vw\"}}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\" style=\"padding-top:1.5vw;padding-bottom:3vw;\"><!-- wp:image {\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"is-resized is-style-default\"} -->\n<figure class=\"wp-block-image size-full is-resized is-style-default\"><img src=\"https://s0.wp.com/wp-content/themes/pub/pendant/assets/images/smiling-woman-2.jpeg\" alt=\"\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"blockGap\":\"0px\"}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\"><!-- wp:paragraph -->\n<p><strong>Tanya</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Editor e pubbliche relazioni</em></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:group --></div>\n<!-- /wp:group -->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"1.5vw\",\"bottom\":\"3vw\"}}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\" style=\"padding-top:1.5vw;padding-bottom:3vw;\"><!-- wp:image {\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"is-resized is-style-default\"} -->\n<figure class=\"wp-block-image size-full is-resized is-style-default\"><img src=\"https://s0.wp.com/wp-content/themes/pub/pendant/assets/images/man-with-backward-cap.jpeg\" alt=\"\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"blockGap\":\"0px\"}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\"><!-- wp:paragraph -->\n<p><strong>Ryan</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Marketing e social media</em></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:group --></div>\n<!-- /wp:group --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div>\n<!-- /wp:group -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 23,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "header-footer-only"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Ispirazioni greche",
+            "post_content": "<!-- wp:paragraph -->\n<p>Prima di affrontare la gioielleria greca di epoca classica, è necessario fare riferimento agli ornamenti primitivi e arcaici che l'hanno preceduta. Il periodo e la fase della cultura greca a cui appartengono gli ornamenti primitivi è ampiamente conosciuto come \"Miceneo\", titolo dovuto alle scoperte fatte a Micene, dove nel 1876 Schliemann portò alla luce il famoso tesoro d'oro ora conservato nel Museo Nazionale di Atene. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Una caratteristica della decorazione di questi oggetti è l'uso di motivi a spirale quasi identici a quelli impiegati sugli ornamenti celtici. Oltre a queste e ad altre manifestazioni primitive di abilità decorative, troviamo rappresentazioni di forme animali naturalistiche, come seppie, stelle marine, farfalle e altre creature. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Questi sono visualizzati in motivi repoussé lavorati in bassorilievo. Tra gli oggetti più notevoli vi sono un certo numero di corone d'oro solitamente a forma di piatti ovali allungati ornati di pregevoli lavorazioni, principalmente rosette e spirali.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>La dea Moda</h3>\n<!-- /wp:heading -->\n\n<!-- wp:group -->\n<div class=\"wp-block-group\"><!-- wp:image {\"align\":\"left\",\"id\":13,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignleft size-large\"><img src=\"https://pendantdemo.files.wordpress.com/2022/04/stocksnap_3ta5332ij4-2.jpeg?w=399\" alt=\"\" class=\"wp-image-13\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>I gioielli da lutto erano solitamente incastonati con perle, granati o più spesso giaietto. Gli ultimi, fino a poco tempo fa, godevano di un favore universale ed erano modellati in ogni sorta di ornamento. Fortunatamente ora vi è solo una piccola domanda. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>L'usanza di indossare ornamenti così cupi e sgradevoli è ormai cessata a tutti gli effetti, sebbene sia proseguita in una certa misura in Francia, dove gli ouvrages en cheveux sotto forma di braccialetti e medaglioni sono ancora indossati come précieux souvenirs de famille. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Dopo la metà del diciannovesimo secolo l'uso di anelli da lutto e altri gioielli commemorativi iniziò a estinguersi.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>La dea Moda, che in tutte le epoche ha mosso guerra alle produzioni dell'oreficeria, ha influenzato più pesantemente questa che qualsiasi altra forma di ornamento personale, circostanza che spiega oggi la sopravvivenza di un numero relativamente piccolo dell'enorme quantità di oggetti di questa descrizione che devono essere stati prodotti in precedenza. </p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:group -->\n\n<!-- wp:group {\"align\":\"full\",\"backgroundColor\":\"tertiary\",\"layout\":{\"inherit\":true}} -->\n<div class=\"wp-block-group alignfull has-tertiary-background-color has-background\"><!-- wp:quote {\"align\":\"center\",\"className\":\"is-style-plain\"} -->\n<blockquote class=\"wp-block-quote has-text-align-center is-style-plain\"><p>\"Di orecchini, invece, è sopravvissuto un numero considerevole di esemplari. I ritratti francesi e inglesi mostrano inizialmente solo una grande perla a forma di pera su ciascun orecchio\".</p><cite>In \"Jewellery\" di H. Clifford Smith</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:group -->\n\n<!-- wp:paragraph -->\n<p>La maggior parte delle famiglie di tanto in tanto ha fatto fondere queste memorie accumulate dei loro predecessori; e coloro che sono stati a lungo nel settore della gioielleria confessano che un gran numero di questi cimeli è stato distrutto. C'è da sperare che la consapevolezza odierna possa portare alla conservazione di ciò che resta di questi pittoreschi ricordi della nostra fragile mortalità.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "greek-inspirations",
+            "post_excerpt": "La dea Moda, che in tutte le epoche ha mosso guerra alle produzioni dell'oreficeria, ha influenzato più pesantemente questa che qualsiasi altra forma di ornamento personale.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Gioielli antichi e vintage",
+                    "Braccialetti",
+                    "Collezioni da museo",
+                    "Pendenti"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://pendantdemo.files.wordpress.com/2022/04/woman-hair-face-skin-hairstyle-ear-1600848-pxhere-1.jpeg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Gioielli senza tempo",
+            "post_content": "<!-- wp:paragraph -->\n<p> Un anello di fidanzamento, un paio di gemelli o una semplice spilla per un vestito erano rari nell'antichità e il loro uso generico per questo scopo risale a tempi relativamente recenti.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "timeless-jewelry-pieces",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 29,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Gioielli antichi e vintage"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://pendantdemo.files.wordpress.com/2022/04/engagement-ring-on-finger.jpeg"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Portata principale",
+            "items": []
+        },
+        "primary": {
+            "name": "Principale",
+            "items": []
+        }
+    },
+    "images": [
+        "https://pendantdemo.files.wordpress.com/2022/04/pendant_lanadevito.png",
+        "https://pendantdemo.files.wordpress.com/2022/04/pendant_andrewholsen.png",
+        "https://pendantdemo.files.wordpress.com/2022/04/ring.png",
+        "https://pendantdemo.files.wordpress.com/2022/04/necklace_1.png",
+        "https://pendantdemo.files.wordpress.com/2022/04/earrings.png",
+        "https://pendantdemo.files.wordpress.com/2022/04/engagement-ring-on-finger.jpeg",
+        "https://pendantdemo.files.wordpress.com/2022/04/stocksnap_3ta5332ij4-2.jpeg",
+        "https://pendantdemo.files.wordpress.com/2022/04/woman-hair-face-skin-hairstyle-ear-1600848-pxhere-1.jpeg"
+    ],
+    "meta": {
+        "blog_id": 204974443,
+        "url": "https://pendantdemo.wordpress.com",
+        "update_date": "28 giugno 2022, ore 22:17",
+        "update_timestamp": 1656454648
+    }
+}
