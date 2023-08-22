@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Archeo\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-21T01:28:18+00:00\n"
+"PO-Revision-Date: 2023-05-20 07:41:39+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/simple-list-of-posts.php
+msgctxt "Pattern title"
+msgid "Simple list of posts"
+msgstr "Listă simplă cu articole"
+
+#: patterns/simple-list-of-posts-with-background.php
+msgctxt "Pattern title"
+msgid "Simple list of posts with title and background"
+msgstr "Listă simplă cu articole, cu titlu și fundal"
+
+#: patterns/layout-with-two-images-and-text.php
+msgctxt "Pattern title"
+msgid "Layout with two images and text"
+msgstr "Aranjament cu două imagini și text"
+
+#: patterns/layered-images-with-headline.php
+msgctxt "Pattern title"
+msgid "Layered images with headline"
+msgstr "Imagini în straturi cu titlu"
+
+#: patterns/image-with-headline-separate-description.php
+msgctxt "Pattern title"
+msgid "Image with headline and separate description"
+msgstr "Imagine cu titlu și descriere separată"
+
+#: patterns/image-with-headline-on-dark-background.php
+msgctxt "Pattern title"
+msgid "Image with headline on dark background"
+msgstr "Imagine cu titlu pe un fundal întunecat"
+
+#: patterns/image-with-headline-description.php
+msgctxt "Pattern title"
+msgid "Image with headline and description"
+msgstr "Imagine cu titlu și descriere"
+
+#: patterns/image-with-description.php
+msgctxt "Pattern title"
+msgid "Image with description"
+msgstr "Imagine cu descriere"
+
+#: patterns/image-with-description-and-right-aligned-headline.php
+msgctxt "Pattern title"
+msgid "Image with description and right-aligned headline"
+msgstr "Imagine cu descriere și cu titlul aliniat la dreapta"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 content"
+msgstr "Conținut 404"
+
+#: patterns/headline-over-dark-image.php
+msgctxt "Pattern title"
+msgid "Headline over dark image"
+msgstr "Titlu peste o imagine întunecată"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/archeo"
+msgstr "https://wordpress.com/theme/archeo"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title)"
+msgstr "Pagină (fără titlu)"
+
+#: functions.php:77
+msgid "Query"
+msgstr "Interogare"
+
+#: functions.php:76
+msgid "Footers"
+msgstr "Subsoluri"
+
+#: functions.php:75
+msgid "Featured"
+msgstr "Reprezentativ"
+
+#: functions.php:74
+msgid "Images"
+msgstr "Fotografii"
+
+#. Description of the theme
+msgid "A theme inspired by Mayan history and culture"
+msgstr "O temă inspirată din istoria și cultura mayașă"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Pagină goală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terțiară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Chivo"
+msgstr "Chivo"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: patterns/simple-list-of-posts-with-background.php:16
+msgid "Selected Writings"
+msgstr "Scrieri selectate"
+
+#: patterns/layout-with-two-images-and-text.php:37
+msgid "On the right: Governor's Palace, detail of the main gate"
+msgstr "În dreapta: palatul guvernatorului, detalii ale porții principale"
+
+#: patterns/layout-with-two-images-and-text.php:33
+msgid "Uxmal is an ancient Maya city located in present-day Mexico. It is considered one of the most important archaeological sites of Mayan culture."
+msgstr "Uxmal este un oraș antic mayaș situat în prezent în Mexic. Este considerat ca unul dintre cele mai importante situri arheologice ale culturii mayașe."
+
+#: patterns/layout-with-two-images-and-text.php:22
+msgid "Photograph by Désiré Charnay, 1862 to 1863"
+msgstr "Fotografie de Désiré Charnay, 1862 - 1863"
+
+#: patterns/layout-with-two-images-and-text.php:18
+msgid "The Pyramid of the <br>Magician at Uxmal"
+msgstr "Piramidei <br>Magicianului, la Uxmal"
+
+#: patterns/layout-with-two-images-and-text.php:10
+msgid "Photo of the Pyramid of the Magician, at Uxmal"
+msgstr "Fotografie a piramidei Magicianului, la Uxmal"
+
+#: patterns/layered-images-with-headline.php:22
+msgid "Palace of <br>the Circus at <br>Chichen-Itza, <br><em>bas-relief</em> of <br>tigers"
+msgstr "Palatul <br>Circului de la <br>Chichen-Itza, <br><em>basorelief</em> cu <br>tigri"
+
+#: patterns/layered-images-with-headline.php:10
+#: patterns/layered-images-with-headline.php:34
+msgid "Photo of Palace of the Circus"
+msgstr "Fotografie cu Palatul Circului"
+
+#: patterns/image-with-headline-separate-description.php:18
+msgid "Also referred to as <br>The Pyramid of the Magician"
+msgstr "Cunoscută și sub numele de <br>Piramida Magicianului"
+
+#: patterns/image-with-headline-separate-description.php:12
+msgid "House of <br>the dwarf <br>in Uxmal"
+msgstr "Casa <br>piticilor <br>în Uxmal"
+
+#: patterns/image-with-headline-separate-description.php:10
+msgid "Photo of House of the dwarf, in Uxmal"
+msgstr "Fotografie a casei piticilor, în Uxmal"
+
+#: patterns/image-with-headline-on-dark-background.php:14
+msgid "Gigantic figure at <br>Izamal; at the <br>bottom of the <br>second pyramid."
+msgstr "Figură gigantică la <br>Izamal; la <br>baza celei de-a <br>doua piramide."
+
+#: patterns/image-with-headline-on-dark-background.php:10
+msgid "Photo of gigantic figure at Izamal"
+msgstr "Fotografie a unei figuri gigantice, la Izamal"
+
+#: patterns/image-with-headline-description.php:14
+msgid "Chahk:<br>Rain<br>deity"
+msgstr "Chahk: zeul <br>ploii<br>"
+
+#: patterns/image-with-headline-description.php:30
+msgid "Chahk: rain deity"
+msgstr "Chahk: zeul ploii"
+
+#: patterns/image-with-description.php:30
+msgid "Photo of ancient temple, at Chichen-Itza"
+msgstr "Fotografie a unui templu antic, la Chichen-Itza"
+
+#: patterns/image-with-description.php:22
+msgid "Ancient Temple, at Chichen-Itza, called the Castle"
+msgstr "Templul antic la Chichen-Itza, este numit Castelul"
+
+#: patterns/image-with-description-and-right-aligned-headline.php:30
+msgid "Uxmal is an ancient Maya city located in present-day Mexico. It is considered one of the most important sites of Mayan culture."
+msgstr "Uxmal este un oraș antic mayaș situat în prezent în Mexic. Este considerat ca unul dintre cele mai importante situri ale culturii mayașe."
+
+#: patterns/image-with-description-and-right-aligned-headline.php:26
+#: patterns/layout-with-two-images-and-text.php:22
+msgid "Photograph by Désiré Charnay, 1862 – 1863"
+msgstr "Fotografie de Désiré Charnay, 1862 - 1863"
+
+#: patterns/image-with-description-and-right-aligned-headline.php:20
+msgid "Photo of the Nunnery Quadrangle, at Uxmal"
+msgstr "Fotografie a curții mănăstirii, la Uxmal"
+
+#: patterns/image-with-description-and-right-aligned-headline.php:13
+msgid "The Nunnery Quadrangle at Uxmal"
+msgstr "Curtea mănăstirii, la Uxmal"
+
+#: patterns/hidden-404.php:21
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/hidden-404.php:14
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Nu am putut găsi această pagină. Poate încerci o căutare?"
+
+#: patterns/hidden-404.php:11
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/headline-over-dark-image.php:11
+msgid "Governor's <br>palace at Uxmal, <br>detail of the <br>main gate"
+msgstr "Palatul <br>guvernatorului din Uxmal, <br>detalii ale <br>porții principale"
+
+#: patterns/headline-over-dark-image.php:10
+msgid "Photo of the Governor's Palace at Uxmal"
+msgstr "Fotografie a palatului guvernatorului din Uxmal"
+
+#: patterns/footer.php:22
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Propulsată cu mândrie de %s"

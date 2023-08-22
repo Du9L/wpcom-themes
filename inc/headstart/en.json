@@ -1,0 +1,251 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Xokbil j'uunoob",
+            "post_content": "<!-- wp:paragraph -->\n<p>T\u2019aane utia\u2019al a kaxtik informaci\u00f3n wa tu\u2019uxt jump\u2019eel, chan yetel<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u2014<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Yaxcab\u00e1 Municipality<br>97927 Yucatan<br>Mexico<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"mailto:contact@example.com\">contact@example.com<\/a><br>(012) 345 67 89<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u2014<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:jetpack\/contact-form {\"subject\":\"[Archeo] Contact\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack\/field-name {\"label\":\"K\u2019aaba\",\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-email {\"required\":true} \/-->\n\n<!-- wp:jetpack\/field-textarea {\"label\":\"Chan tsiib\"} \/-->\n\n<!-- wp:jetpack\/button {\"element\":\"button\",\"text\":\"Kaxto\u2019oni\"} \/--><\/div>\n<!-- \/wp:jetpack\/contact-form -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Ku t'anti'",
+            "post_content": "<!-- wp:paragraph -->\n<p>Archeo leti\u00e9 xa k\u2019alxok ku beta\u2019al yo\u2019olal uchben kaj\u2019obo le ba\u2019ax u k\u00e1atoob\u00f3 letie u natskecho\u2019ob ti le \u00fachben - ma\u2019ako\u2019obo Yanto\u2019on ump\u2019el sitio web tuux Yan u ts\u2019ook Baalo\u2019cb Kaxanta no\u2019ob tumen le Arqueolog\u00edao\u2019, Ump\u2019el meyaj ku t\u00e1n tu yo\u2019olal uchben kajo\u2019ob, ye\u2019tele, ma\u2019 cheen yo\u2019olal ba\u2019alob ku yilaa loob\u00ed, Yan u Yila\u2019al yetel Kajo\u2019ob, Najo\u2019ob Yetel ti tu laakal le Ba\u2019alo\u2019ob ku meyaj ti le uchben Ma\u2019ako\u2019obo\u2019<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"70px\"} -->\n<div style=\"height:70px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https:\/\/s0.wp.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/palais-du-cirque.jpg\",\"dimRatio\":0,\"overlayColor\":\"background\",\"minHeight\":100,\"minHeightUnit\":\"vh\",\"contentPosition\":\"center center\",\"isDark\":false,\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0vw\",\"left\":\"7vw\"},\"margin\":{\"top\":\"0px\"}}}} -->\n<div class=\"wp-block-cover alignfull is-light\" style=\"margin-top:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:7vw;min-height:100vh;\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-background-background-color has-background-dim-0 has-background-dim\"><\/span><img class=\"wp-block-cover__image-background\" alt=\"Photo of Palace of the Circus\" src=\"https:\/\/s0.wp.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/palais-du-cirque.jpg\" data-object-fit=\"cover\" \/><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title\u2026\",\"fontSize\":\"large\"} -->\n<p class=\"has-text-align-center has-large-font-size\"><\/p>\n<!-- \/wp:paragraph --><\/div><\/div>\n<!-- \/wp:cover -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 24,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Xak'al ts'ibo'ob",
+            "post_content": "<!-- wp:media-text {\"align\":\"full\",\"mediaPosition\":\"right\",\"mediaLink\":\"https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/uxmal.jpg\",\"mediaType\":\"image\",\"imageFill\":true,\"focalPoint\":{\"x\":\"0.50\",\"y\":\"0.90\"},\"backgroundColor\":\"foreground\",\"textColor\":\"background\"} -->\n<div class=\"wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill has-background-color has-foreground-background-color has-text-color has-background\"><figure class=\"wp-block-media-text__media\" style=\"background-image:url('https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/uxmal.jpg');background-position:50% 90%;\"><img src=\"https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/uxmal.jpg\" alt=\"Photo of the Pyramid of the Magician, at Uxmal\" \/><\/figure><div class=\"wp-block-media-text__content\"><!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:spacer {\"height\":\"min(10rem, 10vw)\"} -->\n<div style=\"height:min(10rem, 10vw);\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"100\",\"lineHeight\":\"1.2\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"font-style:normal;font-weight:100;line-height:1.2;\">Piramideil le Mago Yan Uxmal<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"align\":\"left\",\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignleft size-full\"><img src=\"https:\/\/archeodemo.wordpress.com\/wp-content\/themes\/pub\/archeo\/assets\/images\/pyramid.jpg\" alt=\"Photograph by D\u00e9sir\u00e9 Charnay, 1862 to 1863\" \/><figcaption><mark style=\"background-color:rgba(0, 0, 0, 0);\" class=\"has-inline-color has-background-color\"><em>U Yochel D\u00e9sir\u00e9 Charnay <\/em><\/mark><br><mark style=\"background-color:rgba(0, 0, 0, 0);\" class=\"has-inline-color has-background-color\"><em>1862 \u2013 1863<\/em><\/mark><\/figcaption><\/figure>\n<!-- \/wp:image --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:spacer {\"height\":\"min(43rem, 43vw)\"} -->\n<div style=\"height:min(43rem, 43vw);\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Uxmal jump\u2019eel uchben kaj yan tu lu\u2019umil M\u00e9xico, ku tukla\u2019le jump\u2019eel ti le noj kajo\u2019ob tu lu\u2019umil Mayaobo<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.5\"}},\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\" style=\"line-height:1.5;\"><em>Te\u2019ej No\u2019oja\u2019 u Pa\u2019alacioil le Gobernadoro\u2019 Maalob ts\u2019iita\u2019anil u Joonajil<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"min(10rem, 10vw)\"} -->\n<div style=\"height:min(10rem, 10vw);\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns --><\/div><\/div>\n<!-- \/wp:media-text -->",
+            "post_name": "research",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 22,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-no-title"
+        },
+        {
+            "post_type": "page",
+            "post_title": "",
+            "post_content": "<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"20px\",\"bottom\":\"20px\",\"right\":\"60px\",\"left\":\"60px\"},\"margin\":{\"top\":\"0px\"},\"blockGap\":\"0px\"}},\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"layout\":{\"inherit\":true}} -->\n<div class=\"wp-block-group alignfull has-foreground-color has-background-background-color has-text-color has-background\" style=\"margin-top:0;padding-top:20px;padding-right:60px;padding-bottom:20px;padding-left:60px;\"><!-- wp:query {\"queryId\":3,\"query\":{\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false,\"perPage\":\"10\"},\"align\":\"wide\"} -->\n<div class=\"wp-block-query alignwide\"><!-- wp:post-template -->\n<!-- wp:group {\"className\":\"simple-list-of-posts\",\"layout\":{\"type\":\"flex\",\"allowOrientation\":false}} -->\n<div class=\"wp-block-group simple-list-of-posts\"><!-- wp:post-title {\"isLink\":true,\"style\":{\"typography\":{\"lineHeight\":\"1.2\",\"fontStyle\":\"normal\",\"fontWeight\":\"100\"},\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|foreground\"}}}},\"fontSize\":\"huge\"} \/-->\n\n<!-- wp:post-author-name {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"100\",\"lineHeight\":\"1.2\"}},\"fontSize\":\"medium\"} \/--><\/div>\n<!-- \/wp:group -->\n<!-- \/wp:post-template -->\n\n<!-- wp:spacer {\"height\":\"40px\"} -->\n<div style=\"height:40px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:query-pagination {\"paginationArrow\":\"chevron\",\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n<!-- wp:query-pagination-previous \/-->\n\n<!-- wp:query-pagination-next \/-->\n<!-- \/wp:query-pagination --><\/div>\n<!-- \/wp:query --><\/div>\n<!-- \/wp:group -->",
+            "post_name": "publications",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Tsikbalilo'ob Maya",
+            "post_content": "<!-- wp:paragraph -->\n<p>My first day at Uxmal was employed in making a rough survey of the land occupied by the ruins.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>One of the most important of these is that known as the Pyramid of the Dwarf (or Pyramid of the Magician). I examined it with particular attention for the purpose of studying the character of a series of small stone vaults or cells placed round its base, which were similar in size and design to those that I had seen on the lower slopes of the Kue near the coast above Campeche. Many of these cells were sufficiently perfect to enable their dimensions and shape to be verified. It seemed evident that they must have been made for sepulchral purposes.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Upon an investigation of the outer parts of the pyramid, it is to be observed that it was not only carefully constructed, but its plan must have been accurately drawn and the relative mathematical measurements calculated with reference to the space that was required for the temple. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The steps leading up to the summit are broad, and must have formed an imposing approach, but in consequence of the angle of the slope they are necessarily steep, and are placed so close together that there is barely sufficient width for the foot to rest. At the base of the pyramid there is an open court, which I observed to be similar in shape to one adjoining the base of an altar built by the Quich\u00e9s at Utatlan, but it was larger in extent. The court leads to the entrance of the Casa de las Monjas.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "mayan-history",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "History"
+                ],
+                "post_tag_name": [
+                    "History",
+                    "mayan culture"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "U ma'alob p'isa'sanil Convento",
+            "post_content": "<!-- wp:paragraph -->\n<p>My first day at Uxmal was employed in making a rough survey of the land occupied by the ruins.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>One of the most important of these is that known as the Pyramid of the Dwarf (or Pyramid of the Magician). I examined it with particular attention for the purpose of studying the character of a series of small stone vaults or cells placed round its base, which were similar in size and design to those that I had seen on the lower slopes of the Kue near the coast above Campeche. Many of these cells were sufficiently perfect to enable their dimensions and shape to be verified. It seemed evident that they must have been made for sepulchral purposes.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Upon an investigation of the outer parts of the pyramid, it is to be observed that it was not only carefully constructed, but its plan must have been accurately drawn and the relative mathematical measurements calculated with reference to the space that was required for the temple. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"blockGap\":\"0px\",\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"}}},\"layout\":{\"inherit\":false}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;\"><!-- wp:quote {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"300\",\"lineHeight\":\"1.3\"}},\"className\":\"is-style-plain\",\"fontSize\":\"large\"} -->\n<blockquote class=\"wp-block-quote is-style-plain has-large-font-size\" style=\"font-style:normal;font-weight:300;line-height:1.3;\"><!-- wp:paragraph -->\n<p>\"The whole of the fa\u00e7ades of the nunnery are elaborately sculptured, and the mechanical abilities of the builders are well brought into notice.\"<\/p>\n<!-- \/wp:paragraph --><\/blockquote>\n<!-- \/wp:quote --><\/div>\n<!-- \/wp:group -->\n\n<!-- wp:paragraph -->\n<p>The steps leading up to the summit are broad, and must have formed an imposing approach, but in consequence of the angle of the slope they are necessarily steep, and are placed so close together that there is barely sufficient width for the foot to rest. At the base of the pyramid there is an open court, which I observed to be similar in shape to one adjoining the base of an altar built by the Quich\u00e9s at Utatlan, but it was larger in extent. The court leads to the entrance of the Casa de las Monjas.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "nunnery-quadrangle",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology"
+                ],
+                "post_tag_name": [
+                    "mayan culture",
+                    "nunnery quadrangle",
+                    "palace",
+                    "uxmal"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/archeodemo.files.wordpress.com\/2022\/11\/archeo_nunnery-2.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Piramidei le Maago'o",
+            "post_content": "<!-- wp:paragraph -->\n<p>My first day at Uxmal was employed in making a rough survey of the land occupied by the ruins.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>One of the most important of these is that known as the Pyramid of the Dwarf (or Pyramid of the Magician). I examined it with particular attention for the purpose of studying the character of a series of small stone vaults or cells placed round its base, which were similar in size and design to those that I had seen on the lower slopes of the Kue near the coast above Campeche. Many of these cells were sufficiently perfect to enable their dimensions and shape to be verified. It seemed evident that they must have been made for sepulchral purposes.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"align\":\"left\",\"id\":327,\"width\":399,\"height\":330,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image alignleft size-large is-resized\"><img src=\"https:\/\/archeodemo.files.wordpress.com\/2022\/11\/archeo_nunnery-2.jpg?w=1024\" alt=\"\" class=\"wp-image-327\" width=\"399\" height=\"330\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:paragraph -->\n<p>Upon an investigation of the outer parts of the pyramid, it is to be observed that it was not only carefully constructed, but its plan must have been accurately drawn and the relative mathematical measurements calculated with reference to the space that was required for the temple. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The steps leading up to the summit are broad, and must have formed an imposing approach, but in consequence of the angle of the slope they are necessarily steep, and are placed so close together that there is barely sufficient width for the foot to rest. At the base of the pyramid there is an open court, which I observed to be similar in shape to one adjoining the base of an altar built by the Quich\u00e9s at Utatlan, but it was larger in extent. The court leads to the entrance of the Casa de las Monjas.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "pyramid-of-the-magician",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology"
+                ],
+                "post_tag_name": [
+                    "magician",
+                    "mayan culture",
+                    "palace",
+                    "pyramids",
+                    "uxmal"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/archeodemo.files.wordpress.com\/2022\/02\/archeo_magician.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "U tu'mben tsik balilo'ob ti le baalo'ob uchbentak",
+            "post_content": "<!-- wp:paragraph -->\n<p>It&nbsp;is considered that the ruins of Uxmal are, in extent and construction, <strong>the most important in Yucatan<\/strong>, and therefore, excepting in certain particulars, those at Palenque, the most remarkable in Central America and Mexico.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The ground occupied by them is in length about six hundred yards. The width is slightly more than five hundred yards. Consequently the area within which Uxmal is contained, may be approximately estimated as being sixty acres. It therefore exceeds by twenty acres the space covered by the mounds of Palenque. The buildings are irregularly placed. The Casa del Gobernador (House of the Governor) with its adjacent pyramids form the principal group towards the south. The Casa de las Monjas (House of the Nuns) is situated towards the north. These are the two great&nbsp;structures upon which the other temples and mounds seem chiefly to depend. There are two smaller edifices called respectively, the Casa de las Palomas (House of the Pigeons) and the Casa de las Tortugas (House of the Turtles). There is also a detached pyramid with a ruined temple upon its summit, which has been given the name of the House of the Old Woman.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"60px\"} -->\n<div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:group {\"align\":\"wide\",\"style\":{\"spacing\":{\"blockGap\":\"0px\",\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"}}},\"layout\":{\"inherit\":false}} -->\n<div class=\"wp-block-group alignwide\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;\"><!-- wp:quote {\"style\":{\"typography\":{\"fontStyle\":\"normal\",\"fontWeight\":\"300\",\"lineHeight\":\"1.3\"}},\"className\":\"is-style-plain\",\"fontSize\":\"large\"} -->\n<blockquote class=\"wp-block-quote is-style-plain has-large-font-size\" style=\"font-style:normal;font-weight:300;line-height:1.3;\"><!-- wp:paragraph -->\n<p>\"Looking at these ruins as a group, they appear to have consisted of quadrangular residences with pyramidal mounds attached to them, raised for the purpose of obtaining lofty sites for the altars of the indigenous communities' gods.\"<\/p>\n<!-- \/wp:paragraph --><\/blockquote>\n<!-- \/wp:quote --><\/div>\n<!-- \/wp:group -->\n\n<!-- wp:spacer {\"height\":\"60px\"} -->\n<div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>One of the most important of these is that known as the Pyramid of the Dwarf. I examined it with particular attention for the purpose of studying the character of a series of small stone vaults or cells placed round its base, which were similar in size and design to those that I had seen on the lower slopes of the Kue near the coast above Campeche. Many of these cells were sufficiently perfect to enable their dimensions and shape to be verified. It seemed evident that they must have been made for sepulchral purposes. If this conclusion is correct it is probable that they were the burial places for the ashes of the chiefs who ruled over this part of Yucatan.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Upon an investigation of the outer parts of the pyramid, it is to be observed that it was not only carefully constructed, but its plan must have been accurately drawn and the relative mathematical measurements calculated with reference to the space that was required for the temple. The magnitude of the base could not be determined, on account of&nbsp;the quantities of fallen stones and other d\u00e9bris. In 1841, Mr. Stephens considered that it was two hundred and thirty-five feet long by one hundred and fifty-five feet wide. The perpendicular height to the platform was estimated to be eighty-eight feet.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "modern-history-of-the-ruins",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology",
+                    "History"
+                ],
+                "post_tag_name": [
+                    "mayan culture",
+                    "palace",
+                    "uxmal"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/archeodemo.files.wordpress.com\/2022\/02\/archeo_history-2.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Xak'al xo ko'ob",
+            "post_content": "<!-- wp:paragraph -->\n<p>My first day at Uxmal was employed in making a rough survey of the land occupied by the ruins.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>One of the most important of these is that known as the Pyramid of the Dwarf (or Pyramid of the Magician). I examined it with particular attention for the purpose of studying the character of a series of small stone vaults or cells placed round its base, which were similar in size and design to those that I had seen on the lower slopes of the Kue near the coast above Campeche. Many of these cells were sufficiently perfect to enable their dimensions and shape to be verified. It seemed evident that they must have been made for sepulchral purposes.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Upon an investigation of the outer parts of the pyramid, it is to be observed that it was not only carefully constructed, but its plan must have been accurately drawn and the relative mathematical measurements calculated with reference to the space that was required for the temple. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The steps leading up to the summit are broad, and must have formed an imposing approach, but in consequence of the angle of the slope they are necessarily steep, and are placed so close together that there is barely sufficient width for the foot to rest. At the base of the pyramid there is an open court, which I observed to be similar in shape to one adjoining the base of an altar built by the Quich\u00e9s at Utatlan, but it was larger in extent. The court leads to the entrance of the Casa de las Monjas.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "additional-research",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 15,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Archeology",
+                    "History"
+                ],
+                "post_tag_name": [
+                    "research"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "wp_navigation",
+            "post_title": "Header navigation",
+            "post_content": "<!-- wp:navigation-link {\"label\":\"Ku t'anti'\",\"type\":\"page\",\"id\":24,\"url\":\"https:\/\/archeodemo.wordpress.com\/about\/\",\"kind\":\"post-type\",\"isTopLevelLink\":true} \/-->\n\n<!-- wp:navigation-link {\"label\":\"Xak'al ts'ibo'ob\",\"type\":\"page\",\"id\":22,\"url\":\"https:\/\/archeodemo.wordpress.com\/research\/\",\"kind\":\"post-type\",\"isTopLevelLink\":true} \/-->\n\n<!-- wp:navigation-link {\"label\":\"Taba'anilo'ob\",\"type\":\"page\",\"id\":20,\"url\":\"https:\/\/archeodemo.wordpress.com\/publications\/\",\"kind\":\"post-type\",\"isTopLevelLink\":true} \/-->\n\n<!-- wp:navigation-link {\"label\":\"Xokbil j'uunoob\",\"type\":\"page\",\"id\":26,\"url\":\"https:\/\/archeodemo.wordpress.com\/contact\/\",\"kind\":\"post-type\",\"isTopLevelLink\":true} \/-->",
+            "post_name": "header-navigation",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 33,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": [],
+    "images": [
+        "https:\/\/archeodemo.files.wordpress.com\/2022\/02\/archeo_history-2.jpg",
+        "https:\/\/archeodemo.files.wordpress.com\/2022\/02\/archeo_magician.jpg",
+        "https:\/\/archeodemo.files.wordpress.com\/2022\/11\/archeo_nunnery-2.jpg"
+    ],
+    "meta": {
+        "blog_id": 202657343,
+        "url": "https:\/\/archeodemo.wordpress.com",
+        "update_date": "November 18, 2022, 10:37 am",
+        "update_timestamp": 1668767831
+    }
+}
