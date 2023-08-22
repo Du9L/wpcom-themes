@@ -1,0 +1,147 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Reverie 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/reverie\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-27T03:16:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: reverie\n"
+
+#. Theme Name of the theme
+msgid "Reverie"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/reverie/"
+msgstr ""
+
+#. Description of the theme
+msgid "Reverie is a blogging theme inspired by the work of Mark Rothko."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "There's nothing here."
+msgstr ""
+
+#: patterns/404.php:16
+msgid "The page you're looking for doesn't seem to exist."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:20
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:22
+msgid "Designed with %1$s"
+msgstr ""
+
+#: styles/fall.json
+msgctxt "Style variation name"
+msgid "Fall"
+msgstr ""
+
+#: styles/fall.json
+#: styles/summer.json
+#: styles/winter.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/fall.json
+#: styles/summer.json
+#: styles/winter.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/fall.json
+#: styles/summer.json
+#: styles/winter.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/fall.json
+#: styles/summer.json
+#: styles/winter.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/fall.json
+#: styles/summer.json
+#: styles/winter.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/summer.json
+msgctxt "Style variation name"
+msgid "Summer"
+msgstr ""
+
+#: styles/winter.json
+msgctxt "Style variation name"
+msgid "Winter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Spring"
+msgstr ""
