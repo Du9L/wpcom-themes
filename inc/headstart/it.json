@@ -1,0 +1,554 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1,
+            "index_display_excerpt_or_full_post": "excerpt",
+            "archive_display_excerpt_or_full_post": "excerpt"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Informazioni",
+            "post_content": "<!-- wp:paragraph --> <p id=\"block-a9f75419-6c61-4156-ae3a-98aac1c9011b\">Spearhead è un podcast sulla tecnologia settimanale rilasciato ogni mercoledì.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p id=\"block-3208ff2a-bf7f-4626-95fe-5a0d4a57bc83\">Unisciti agli ospiti Kjell, Mel e Jeff mentre si immergono nei principali eventi, nelle notizie sulla tecnologia più di tendenza e scoprono quali startup hanno ricevuto fondi di capitale di rischio.</p> <!-- /wp:paragraph -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 233,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Notizie settimanali su tecnologia, investimento ed era digitale",
+            "post_content": "<!-- wp:paragraph --> <p>Spearhead è un podcast sulla tecnologia settimanale rilasciato ogni mercoledì.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Unisciti agli ospiti Kjell, Mel e Jeff mentre si immergono nei principali eventi, nelle notizie sulla tecnologia più di tendenza e scoprono quali startup hanno ricevuto fondi di capitale di rischio.</p> <!-- /wp:paragraph -->",
+            "post_name": "weekly-news-about-tech-investing-and-the-digital-age",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 194,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "sticky": true
+        },
+        {
+            "post_type": "page",
+            "post_title": "Podcast",
+            "post_content": "<!-- wp:navigation {\"orientation\":\"horizontal\"} --> <!-- wp:paragraph --> <p>Podcast disponibile su:</p> <!-- /wp:paragraph --> <!-- wp:navigation-link {\"label\":\"Apple\",\"url\":\"https:\\/\\/www.apple.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Breaker\",\"url\":\"https:\\/\\/www.breaker.audio\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Google\",\"url\":\"https:\\/\\/www.google.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"LinkedIn\",\"url\":\"https:\\/\\/www.linkedin.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Overcast\",\"url\":\"https:\\/\\/overcast.fm\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Spotify\",\"url\":\"https:\\/\\/spotify.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Twitter\",\"url\":\"https:\\/\\/twitter.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"YouTube\",\"url\":\"https:\\/\\/youtube.com\\/\"} /--> <!-- /wp:navigation --> <!-- wp:navigation {\"orientation\":\"horizontal\"} /--> <!-- wp:a8c/blog-posts {\"moreButton\":true,\"showAvatar\":false,\"postsToShow\":10} /--> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:heading {\"align\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Segui il mio blog</h3> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">Ottieni i nuovi contenuti, spediti direttamente nella tua casella di posta.</p> <!-- /wp:paragraph --> <!-- wp:jetpack/subscriptions {\"subscribePlaceholder\":\"Email Address\",\"buttonOnNewLine\":true,\"submitButtonText\":\"Subscribe\",\"buttonBackgroundColor\":\"primary\",\"textColor\":\"background\"} --> <div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline\">[jetpack_subscription_form subscribe_placeholder=\"Email Address\" show_subscribers_total=\"false\" button_on_newline=\"true\" submit_button_text=\"Subscribe\" custom_font_size=\"16\" custom_border_radius=\"0\" custom_border_weight=\"1\" custom_padding=\"15\" custom_spacing=\"10\" submit_button_classes=\"has-text-color has-background-color has-background has-primary-background-color\" email_field_classes=\"\" show_only_email_and_button=\"true\"]</div> <!-- /wp:jetpack/subscriptions -->",
+            "post_name": "podcast",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blog",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contatti",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">Non esitare a raggiungerci tramite le informazioni di contatto riportate di seguito o inviarci un messaggio utilizzando il modulo.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Contattaci</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} --> <div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Corso d'Italia, 5</div><div><span class=\"jetpack-address__city\">Città</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">Italia</div></div> <!-- /wp:jetpack/address --> <!-- wp:jetpack/email {\"email\":\"myemail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:myemail@example.com\">miaemail@esempio.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123) 456-7890</a></div> <!-- /wp:jetpack/phone --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"instagram.com\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--> <!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"facebook.com\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"twitter.com\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"wordpress.com\",\"service\":\"wordpress\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Inviaci un messaggio</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-url /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Contact Us\"} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Home page",
+            "post_content": "<!-- wp:cover {\"url\":\"https:\\/\\/headstartdata.files.wordpress.com\\/2020\\/07\\/qi-bin-w4hbafegiac-unsplash.jpg\",\"id\":26,\"dimRatio\":10,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim-10 has-background-dim\" style=\"background-image:url('https://headstartdata.files.wordpress.com/2020/07/qi-bin-w4hbafegiac-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":8,\"column1DesktopOffset\":2,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":4,\"className\":\"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"align\":\"center\",\"level\":1} --> <h1 class=\"has-text-align-center\">Benvenuto nel tuo nuovo sito.</h1> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\">Benvenuto nel tuo nuovo sito! Puoi modificare questa pagina facendo clic sul link Modifica. Per ulteriori informazioni sulla personalizzazione del sito consulta <a href=\"https://href.li/?http://learn.wordpress.com/\">http://learn.wordpress.com/</a></p> <!-- /wp:paragraph --> <!-- wp:buttons {\"align\":\"center\"} --> <div class=\"wp-block-buttons aligncenter\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"http://learn.wordpress.com\" title=\"learn.wordpress.com\">Maggiori informazioni</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:cover --> <!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":12,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"level\":4} --> <h4>Ultime dal blog</h4> <!-- /wp:heading --> <!-- wp:a8c/blog-posts {\"imageShape\":\"uncropped\",\"showAuthor\":false,\"showAvatar\":false,\"postLayout\":\"grid\",\"typeScale\":3} /--></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group --> <!-- wp:group {\"backgroundColor\":\"foreground-dark\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-foreground-dark-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":3,\"column1DesktopOffset\":2,\"column1TabletSpan\":4,\"column1MobileSpan\":4,\"column2DesktopSpan\":5,\"column2TabletSpan\":4,\"column2MobileSpan\":4,\"column3DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-left has-huge-font-size\">Ottieni i nuovi contenuti, spediti direttamente nella tua casella di posta.</p> <!-- /wp:paragraph --></div> <!-- /wp:jetpack/layout-grid-column --> <!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:jetpack/subscriptions --> <div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div> <!-- /wp:jetpack/subscriptions --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group -->",
+            "post_name": "",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 33,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Startup: aspettative contro realtà",
+            "post_content": "<!-- wp:paragraph --> <p>Seme ciclo nascosto crowdsourcing finanziamento speculazione rilascio distribuzione iPhone sviluppo agile Business to Business. Esperienza utente convalida beta canali proprietà influencer. Imprenditore churn ratio esperienza utente contratto finanziamento MVP.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":199} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/startups.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "startups-expectations-vs-reality",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 59,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "La tecnologia dominerà mai il mondo?",
+            "post_content": "<!-- wp:paragraph --> <p>Primo promotore vantaggio adottanti iniziali freemium angelo investitore acquirente partnership ricerca e sviluppo influenza sottile startup monetizzazione brusio innovatore alfa Business to Business. Convalida piano Business infografica iPhone periodo maturazione.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Imprenditore creativo infografica Business to Business. Prototipo beta curva di apprendimento design web efficiente strategia di crowdfunding prova sociale di mercato di nicchia modello di business tela pivot churn ratio.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Cambiamento di paradigma spedizione diretta iterazione ecosistema catena di approvvigionamento. Spedizione diretta primo promotore canali di vantaggio conversione influenza esperienza utente accordo di non divulgazione stretta di mano metriche. Startup mercato freemium acquirente iPad MVP imprenditore brusio test A/B proprietà serie A finanziamento. Conversione gestione del prodotto aiuto economico b2b proprietà modello di business tela hackathon vantaggio primo promotore.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Aderenza social media crowdsourcing imprenditore effetti rete interfaccia utente grafica successo dirompente partnership brusio monetizzazione fondatori.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>MVP brusio seme ciclo magazzino sviluppo agile coda lunga crowdfunding Business to Business fondatori influencer design web efficiente. Ricerca e sviluppo primo promotore vantaggio Facebook larghezza di banda dirompente viralità. Interfaccia utente grafica di Twitter focus su asset fondatori.<br>Analisi partnership social media interfaccia utente grafica velocità di combustione cliente beta influenza vendita fondatori crowdsourcing.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Rilascio aiuto economico lancio parte viralità Android velocità di combustione branding ecosistema equità cliente coda lunga pivot strategia successo. Focus zeta generation hackathon crowdfunding calca fondatori progetto Business to Consumer adottanti iniziali aiuto economico analisi conversione. Contratto convalida stretta di mano consulente aiuto economico partner rete ipotesi ecosistema.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Piano business strategia serie A finanziamento angelo investitore investimento cliente analisi. Crowdsourcing larghezza di banda imprenditore spedizione diretta adattanti iniziali calca progetto nascosto vendita Android successo. Business to Business mercato di nicchia piano business zeta generation ricerca e sviluppo Business to Consumer coda lunga curva di apprendimento periodo rischio churn ratio nascosto.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":218} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/will-tech-ever-rule-the-world.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "will-tech-ever-rule-the-world",
+            "post_excerpt": "Seme ciclo successo equità piano business proposta di valore creativo prova sociale. Rockstar canali iPhone gamification strategia interazione design. Gestione del prodotto primo promotore vantaggio branding magazzino convalida proprietà. Serie A alfa nascosta.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 57,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "La prossima grande novità nei fondi di capitale di rischio",
+            "post_content": "<!-- wp:paragraph --> <p>Incubatrice design web efficiente esperienza utente successo proprietà investitore. Churn ratio brusio iPad spedizione diretta strategia ramen interfaccia grafica utente rockstar. Alfa branding ramen accordo di non divulgazione rischio partnership angelo investitore cambiamento di paradigma.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":216} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/the-next-big-thing.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "the-next-big-thing-in-vc-funding",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 55,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Intelligenza artificiale spiegata in poche parole, meno di 140 caratteri",
+            "post_content": "<!-- wp:paragraph --> <p>Sviluppo agile interfaccia utente grafica metriche Android iPhone. Social media serie A finanziamento nascosto hackathon investitore creativo incubatrice influenza curva di apprendimento. Ricerca e sviluppo tecnologia aderenza hackathon sottile startup crowdsourcing spedizione diretta.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":214} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/ai-explained.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "ai-explained-in-fewer-than-140-characters",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 53,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Storie più belle di questa settimana sul blockchain",
+            "post_content": "<!-- wp:paragraph --> <p>Risultato più a portata di mano fondatori hackathon focus influencer freemium. Nascosto prototipo di mercato MVP. Tornare a investire prototipi sottile startup focus proposta di valore design web efficiente Business to Business. Partnership crowdfunding calca progetto.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":212} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/blockchain.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "this-weeks-top-stories-about-blockchain",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 51,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Qual è il miglio servizio di chat codificato?",
+            "post_content": "<!-- wp:paragraph --> <p>Cambiamento di paradigma finanziamento infografica spedizione diretta seme denaro finanziamento prova sociale alfa. Prototipo periodo maturazione cliente focus startup metriche. Piano business rischio ramen seme denaro fondatori aderenza esperienza utente infrastruttura distanza sviluppo agile contratto.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":210} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/encrypted-chat.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "whats-the-best-encrypted-chat-service",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 49,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "In che modo stanno tornando i codici QR",
+            "post_content": "<!-- wp:paragraph --> <p>voglia branding analisi partnership iPhone acquirente asset vendite. Gamification privo curva di apprendimento branding iterazione investitore nascosto. Equità mercato influenza seme ciclo piano business ecosistema acceleratore sviluppo agile lancio parte.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":208} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/qr-codes.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "how-qr-codes-are-making-a-comeback",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 47,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "5G, il Dark web e molto altro: Storie più belle di questa settimana",
+            "post_content": "<!-- wp:paragraph --> <p>Influencer dei social media di successo. Pivot contratto accordo di non divulgazione canali calca distribuzione del progetto acquirente. Monetizzazione test A/B tappa intermedia. Zeta generation interazione design Business to Consumer marketing monetizzazione cliente.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":202} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/5g.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "5g-the-dark-web-and-more-this-weeks-top-stories",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Di cosa ha bisogno ogni CEO delle startup per iniziare a sapere come avere successo",
+            "post_content": "<!-- wp:paragraph --> <p>Santo graal Facebook beta crescita pirateria informatica proposta di valore Business to Business startup mercato di massa ecosistema test A/B hackathon iterazione pivot. Seme ciclo hackathon esperienza utente Facebook mercato di nicchia branding agile sviluppo fondi di rilascio di capitale di rischio.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":206} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/what-every-ceo-needs-to-know.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "what-every-startup-ceo-needs-to-know-to-succeed",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 42,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Taglio del cavo ai tempi del COVID-19",
+            "post_content": "<!-- wp:paragraph --> <p>Tappa intermedia brusio crowdsourcing consulente velocità di combustione Business to Business zeta generation cliente test A/B ecosistema. Influenza curva di apprendimento lancio parte efficiente Android ramen beta acceleratore prototipo investitore. Effetti della rete dei client MVP.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":204} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/covid19.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "cord-cutting-in-the-age-of-covid-19",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 40,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "podcasts": {
+            "name": "Podcast",
+            "items": [
+                {
+                    "menu-item-title": "Apple",
+                    "menu-item-db-id": 68,
+                    "menu-item-object-id": "68",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Breaker",
+                    "menu-item-db-id": 69,
+                    "menu-item-object-id": "69",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Google",
+                    "menu-item-db-id": 70,
+                    "menu-item-object-id": "70",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "LinkedIn",
+                    "menu-item-db-id": 71,
+                    "menu-item-object-id": "71",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Overcast",
+                    "menu-item-db-id": 72,
+                    "menu-item-object-id": "72",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Spotify",
+                    "menu-item-db-id": 73,
+                    "menu-item-object-id": "73",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 74,
+                    "menu-item-object-id": "74",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 7,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "YouTube",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "75",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 8,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                }
+            ]
+        },
+        "primary": {
+            "name": "Principale",
+            "items": [
+                {
+                    "menu-item-title": "Home page",
+                    "menu-item-db-id": 19,
+                    "menu-item-object-id": "33",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Informazioni",
+                    "menu-item-db-id": 235,
+                    "menu-item-object-id": "233",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Podcast",
+                    "menu-item-db-id": 20,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Contatti",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sociale",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 25,
+                    "menu-item-object-id": "25",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://instagram.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://pinterest.com"
+                },
+                {
+                    "menu-item-title": "WordPress",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "27",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://wordpress.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://spearheaddemo.files.wordpress.com/2020/10/qi-bin-w4hbafegiac-unsplash.jpg",
+        "https://spearheaddemo.files.wordpress.com/2020/10/rachel-pfuetzner-0fn7fxv1ewa-unsplash.jpg"
+    ],
+    "meta": {
+        "blog_id": 183906040,
+        "url": "https://spearheaddemo.wordpress.com",
+        "update_date": "October 27, 2020, 12:45 pm",
+        "update_timestamp": 1603802740
+    }
+}

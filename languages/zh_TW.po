@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Spearhead\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-23T02:17:07+00:00\n"
+"PO-Revision-Date: 2021-07-22 09:54:03+0000\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:34
+msgid "Disable Dark Mode"
+msgstr "停用深色模式"
+
+#. translators: %s: link to how to support system display modes
+#: inc/wpcom-colors.php:37
+msgid "Unless checked, this theme's default palette will display a dark color palette automatically for users who have dark mode enabled on their devices. <a href='%s' target='_blank'>Learn more about dark mode</a>."
+msgstr "除非勾選此選項，否則對於在裝置上啟用深色模式的使用者，此佈景主題的預設調色盤會自動顯示深色調色盤。 <a href='%s' target='_blank'>深入瞭解深色模式</a>。"
+
+#: template-parts/header/navigation.php:86
+msgid "Cart"
+msgstr "購物車"
+
+#: template-parts/header/navigation.php:76
+msgid "View your shopping list"
+msgstr "檢視購物清單"
+
+#: template-parts/header/navigation.php:74
+msgid "View your shopping cart"
+msgstr "打開購物車"
+
+#: template-parts/header/navigation.php:53
+msgid "Woo Minicart"
+msgstr "Woo 迷你購物車"
+
+#: template-parts/header/navigation.php:47
+#: template-parts/header/navigation.php:87
+msgid "expanded"
+msgstr "展開"
+
+#: template-parts/header/navigation.php:46
+msgid "Menu"
+msgstr "選單"
+
+#: template-parts/header/navigation.php:7
+#: template-parts/header/navigation.php:72
+msgid "collapsed"
+msgstr "收合"
+
+#: template-parts/header/navigation.php:6
+#: template-parts/header/navigation.php:70
+msgid "Close"
+msgstr "關閉"
+
+#: template-parts/header/navigation.php:4
+msgid "Main"
+msgstr "主要網站"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/spearhead"
+msgstr "https://wordpress.com/theme/spearhead"
+
+#. Description of the theme
+msgid "Share your podcast with the world using Spearhead."
+msgstr "透過 Spearhead 來推廣你的 Podcast。"
+
+#: search.php:31
+#: template-parts/content/content-excerpt.php:17
+msgctxt "post"
+msgid "Featured"
+msgstr "精選內容"
+
+#: inc/block-patterns.php:77
+msgid "Podcast links list"
+msgstr "Podcast 連結清單"
+
+#: inc/block-patterns.php:61
+msgid "Podcast available on:"
+msgstr "你可在以下平台收聽節目："
+
+#: inc/block-patterns.php:57
+msgid "Podcast links"
+msgstr "Podcast 連結"
+
+#: inc/block-patterns.php:49
+msgid "Categories"
+msgstr "分類"
+
+#: inc/block-patterns.php:46
+msgid "Latest Posts"
+msgstr "最近文章"
+
+#: inc/block-patterns.php:42
+msgid "Archive page"
+msgstr "封存頁面"
+
+#: inc/block-patterns.php:33
+msgid "Related Posts"
+msgstr "相關文章"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Spearhead"
+msgstr "Spearhead"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:308
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編輯 <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post.
+#: functions.php:233
+msgid "More"
+msgstr "更多"
+
+#: functions.php:91
+msgid "Background"
+msgstr "背景"
+
+#: functions.php:86
+msgid "Foreground"
+msgstr "前景"
+
+#: functions.php:81
+msgid "Primary"
+msgstr "主要"
+
+#: functions.php:69
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:68
+msgid "Huge"
+msgstr "極大"
+
+#: functions.php:62
+#: functions.php:63
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:57
+msgid "L"
+msgstr "大"
+
+#: functions.php:56
+msgid "Large"
+msgstr "大"
+
+#: functions.php:51
+msgid "M"
+msgstr "中"
+
+#: functions.php:50
+msgid "Medium"
+msgstr "中"
+
+#: functions.php:45
+msgid "S"
+msgstr "S"
+
+#: functions.php:44
+msgid "Small"
+msgstr "小"
+
+#: functions.php:39
+msgid "XS"
+msgstr "較小"
+
+#: functions.php:38
+msgid "Tiny"
+msgstr "極小"

@@ -1,0 +1,554 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1,
+            "index_display_excerpt_or_full_post": "excerpt",
+            "archive_display_excerpt_or_full_post": "excerpt"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Om",
+            "post_content": "<!-- wp:paragraph --> <p id=\"block-a9f75419-6c61-4156-ae3a-98aac1c9011b\">Spearhead är en veckovis teknikpodcast som släpps varje onsdag.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p id=\"block-3208ff2a-bf7f-4626-95fe-5a0d4a57bc83\">Följ med värdarna Kjell, Mel och Jeff när de djupdyker i viktiga händelser, de hetaste tekniska nyheterna och tar reda på vilka nystartade företag som har fått VC-finansiering.</p> <!-- /wp:paragraph -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 233,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Veckovisa nyheter om teknik, investeringar och den digitala tidsåldern",
+            "post_content": "<!-- wp:paragraph --> <p>Spearhead är en veckovis teknikpodcast som släpps varje onsdag.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Följ med värdarna Kjell, Mel och Jeff när de djupdyker i viktiga händelser, de hetaste tekniska nyheterna och tar reda på vilka nystartade företag som har fått VC-finansiering.</p> <!-- /wp:paragraph -->",
+            "post_name": "weekly-news-about-tech-investing-and-the-digital-age",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 194,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "sticky": true
+        },
+        {
+            "post_type": "page",
+            "post_title": "Podcast",
+            "post_content": "<!-- wp:navigation {\"orientation\":\"horizontal\"} --> <!-- wp:paragraph --> <p>Podcasten är tillgänglig på:</p> <!-- /wp:paragraph --> <!-- wp:navigation-link {\"label\":\"Apple\",\"url\":\"https:\\/\\/www.apple.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Breaker\",\"url\":\"https:\\/\\/www.breaker.audio\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Google\",\"url\":\"https:\\/\\/www.google.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"LinkedIn\",\"url\":\"https:\\/\\/www.linkedin.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Overcast\",\"url\":\"https:\\/\\/overcast.fm\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Spotify\",\"url\":\"https:\\/\\/spotify.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"Twitter\",\"url\":\"https:\\/\\/twitter.com\\/\"} /--> <!-- wp:navigation-link {\"label\":\"YouTube\",\"url\":\"https:\\/\\/youtube.com\\/\"} /--> <!-- /wp:navigation --> <!-- wp:navigation {\"orientation\":\"horizontal\"} /--> <!-- wp:a8c/blog-posts {\"moreButton\":true,\"showAvatar\":false,\"postsToShow\":10} /--> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:heading {\"align\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Följ min blogg</h3> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">Få nytt innehåll direkt till din inkorg.</p> <!-- /wp:paragraph --> <!-- wp:jetpack/subscriptions {\"subscribePlaceholder\":\"Email Address\",\"buttonOnNewLine\":true,\"submitButtonText\":\"Subscribe\",\"buttonBackgroundColor\":\"primary\",\"textColor\":\"background\"} --> <div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline\">[jetpack_subscription_form subscribe_placeholder=\"Email Address\" show_subscribers_total=\"false\" button_on_newline=\"true\" submit_button_text=\"Prenumerera\" custom_font_size=\"16\" custom_border_radius=\"0\" custom_border_weight=\"1\" custom_padding=\"15\" custom_spacing=\"10\" submit_button_classes=\"has-text-color has-background-color has-background has-primary-background-color\" email_field_classes=\"\" show_only_email_and_button=\"true\"]</div> <!-- /wp:jetpack/subscriptions -->",
+            "post_name": "podcast",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blog",
+            "hs_old_id": 6,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Kontakt",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\">Tveka inte att kontakta oss med uppgifterna nedan, eller skicka ett meddelande med formuläret.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Hör av dig</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} --> <div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">10 Street Road</div><div><span class=\"jetpack-address__city\">Staden</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">USA</div></div> <!-- /wp:jetpack/address --> <!-- wp:jetpack/email {\"email\":\"myemail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:myemail@example.com\">minepost@example.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123) 456-7890</a></div> <!-- /wp:jetpack/phone --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"instagram.com\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--> <!-- wp:social-link {\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"facebook.com\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"twitter.com\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"wordpress.com\",\"service\":\"wordpress\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Skicka oss ett meddelande</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-url /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Contact Us\"} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Hem",
+            "post_content": "<!-- wp:cover {\"url\":\"https:\\/\\/headstartdata.files.wordpress.com\\/2020\\/07\\/qi-bin-w4hbafegiac-unsplash.jpg\",\"id\":26,\"dimRatio\":10,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim-10 has-background-dim\" style=\"background-image:url('https://headstartdata.files.wordpress.com/2020/07/qi-bin-w4hbafegiac-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":8,\"column1DesktopOffset\":2,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":4,\"className\":\"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"align\":\"center\",\"level\":1} --> <h1 class=\"has-text-align-center\">Välkommen till din nya webbplats.</h1> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\">Välkommen till din nya webbplats! Du kan ändra denna sida genom att klicka på länken Redigera. För mer information om hur du anpassar din webbplats, kolla in <a href=\"https://href.li/?http://learn.wordpress.com/\">http://learn.wordpress.com/</a></p> <!-- /wp:paragraph --> <!-- wp:buttons {\"align\":\"center\"} --> <div class=\"wp-block-buttons aligncenter\"><!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"http://learn.wordpress.com\" title=\"learn.wordpress.com\">Lär dig mer</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:cover --> <!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":12,\"column1TabletSpan\":8,\"column1MobileSpan\":4,\"column2DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:heading {\"level\":4} --> <h4>Det senaste från bloggen</h4> <!-- /wp:heading --> <!-- wp:a8c/blog-posts {\"imageShape\":\"uncropped\",\"showAuthor\":false,\"showAvatar\":false,\"postLayout\":\"grid\",\"typeScale\":3} /--></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group --> <!-- wp:group {\"backgroundColor\":\"foreground-dark\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-foreground-dark-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:jetpack/layout-grid {\"column1DesktopSpan\":3,\"column1DesktopOffset\":2,\"column1TabletSpan\":4,\"column1MobileSpan\":4,\"column2DesktopSpan\":5,\"column2TabletSpan\":4,\"column2MobileSpan\":4,\"column3DesktopOffset\":3,\"className\":\"column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"} --> <div class=\"wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2\"><!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-left has-huge-font-size\">Få nytt innehåll direkt till din inkorg.</p> <!-- /wp:paragraph --></div> <!-- /wp:jetpack/layout-grid-column --> <!-- wp:jetpack/layout-grid-column --> <div class=\"wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none\"><!-- wp:jetpack/subscriptions --> <div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Prenumerera\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div> <!-- /wp:jetpack/subscriptions --></div> <!-- /wp:jetpack/layout-grid-column --></div> <!-- /wp:jetpack/layout-grid --></div></div> <!-- /wp:group -->",
+            "post_name": "",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 33,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Nystartade företag: förväntningar kontra verklighet",
+            "post_content": "<!-- wp:paragraph --> <p>Investeringsrunda dold crowdsource-finanisering satsning iPhone distribution version agil utveckling business-to-business. Betavalidering användarupplevelse äganderätt influencer-kanaler Entreprenör kundbortfallshastighet användarupplevelse villkorsblad MVP-finansiering.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":199} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/startups.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "startups-expectations-vs-reality",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 59,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Kommer tekniken någonsin att styra världen?",
+            "post_content": "<!-- wp:paragraph --> <p>Förstahandelsfördel tidiga brukare freemium affärsängel köpare partnerskap forskning och utveckling inflytande lean startup intäktsgenerering intresse innovatör alfa business-to-business. Business-paket validering infografik iPad intjänandeperiod</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Infografik kreativ entreprenör business-to-business. Prototyp beta inlärningskurva responsiv webbdesign crowdfunding-strategi nischmarknad socialt bevis affärsmodell arbetsyta sväng kundbortfallshastighet.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Paradigmskifte direktutskick iteration ekosystem försörjningskedja Direktutskick förstahandelsfördel kanaler konvertering utnyttja användarupplevelse sekretessavtal mätvärden för handskakningar. Startup-marknad freemium iPad köpare MVP entreprenör intresse A/B-testning äganderätt serie A-finansiering. Omvandling produkthantering stöd b2b äganderätt affärsmodell arbetsyta hackathon tillväxthackning förstahandelsfördel.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Dragkraft sociala medier crowdsource entreprenör nätverkseffekter grafiskt användargränssnitt störande framgång partnerskap intresse intäktsgenerering grundare.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>MVP intresse investeringsrunda aktier agil utveckling lång svans crowdfunding business-to-business grundare influencer responsiv webbdesign. Forskning och utveckling förstahandelsfördel facebook bandbredd störande viralitet. Grafiskt användargränssnitt twitter fokus grundare tillgångar.<br>Analytics partnerskap sociala medier grafiskt användargränssnitt brännhastighet klient beta inflytande försäljning grundare distribution crowdsource.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Version stöd lanseringsfest viralitet android brännhastighet varumärkesprofilering ekosystem eget kapital kund lång svans sväng strategi framgång. Fokus gen-z hackathon crowdfunding scrum-projekt grundare business-to-consumer tidiga brukare stöd analytics omvandling. Villkor validering handskakning rådgivare stöd partner nätverk hypoteser ekosystem.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Business-paket strategi serie A-finansiering affärsängel finansiering klient analytics. Crowdsource bandbredd entreprenör direktutskick tidiga brukare scrum-projekt dold försäljning android framgång. Business-to-business nischmarknad business-paket köpare gen-z forskning och utveckling business-to-consumer lång svans inlärningskurva intjänandeperiod satsning kundbortfallshastighet dold.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":218} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/will-tech-ever-rule-the-world.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "will-tech-ever-rule-the-world",
+            "post_excerpt": "Investeringsrunda framgång eget kapital business-paket värdeproposition kreativ socialt bevis. Rockstjärna kanaler iPhone spelifiering strategi samspel design. Produkthantering förstahandelsfördel varumärkesprofilering aktier validering äganderätt. Dold alfa serie A.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 57,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Nästa stora grej inom VC-finansiering",
+            "post_content": "<!-- wp:paragraph --> <p>Inkubator responsiv webbdesign användarupplevelse framgång äganderätt investerare. Kundbortfallshastighet intresse iPad direktutskick strategi ramen grafiskt användargränssnitt rockstjärna. Alfa varumärkesprofilering sekretessavtal satsning partnerskap affärsängel paradigmskifte.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":216} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/the-next-big-thing.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "the-next-big-thing-in-vc-funding",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 55,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "AI förklarat med mindre än 140 tecken",
+            "post_content": "<!-- wp:paragraph --> <p>Agil utveckling grafiskt användargränssnitt android mätvärden iPhone. Sociala medier serie A finansiering dold hackathon kreativ investerare inkubator inflytande inlärningskurva. Forskning och utveckling teknik dragkraft hackathon lean startup crowdsource direktutskick.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":214} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/ai-explained.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "ai-explained-in-fewer-than-140-characters",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 53,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Veckans stora Blockchain-nyheter",
+            "post_content": "<!-- wp:paragraph --> <p>Lågt hängande frukt grundare hackathon fokus influencer freemium. Dold MVP marknad prototyp. Avkastning på investering prototyp lean startup fokus värdeproposition responsiv webbdesign business-to-business. Partnerskap crowdfunding scrum-projekt.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":212} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/07/blockchain.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "this-weeks-top-stories-about-blockchain",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 51,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Vilken är den bästa krypterade chattjänsten?",
+            "post_content": "<!-- wp:paragraph --> <p>Paradigmskifte finansiering infografik direktutskick investeringskapital distribution socialt bevis alfa. Prototyp intjänandeperiod kundfokus startup mätvärden. Business-paket satsning ramen investeringskapital grundare dragkraft användarupplevelse infrastruktur pitch agil utveckling villkorsblad.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":210} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/encrypted-chat.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "whats-the-best-encrypted-chat-service",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 49,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Hur QR-koder gör comeback",
+            "post_content": "<!-- wp:paragraph --> <p>klåda varumärkesprofilering partnerskap iPhone köpare tillgångar försäljning. Spelifiering sväng inlärningskurva varumärkesprofilering iteration dold investerare. Eget kapital inflytande investeringsrunda business-paket ekosystem accelerator agil utveckling lanseringsfest.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":208} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/qr-codes.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "how-qr-codes-are-making-a-comeback",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 47,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "5G, Dark Web med mera: Veckans toppnyheter",
+            "post_content": "<!-- wp:paragraph --> <p>Framgång sociala medier influencer. Sväng avtalsblad sekretessavtal kanaler scrum-projekt utveckling köpare. Intäktsgenerering A/B-testning bootstrapping. Gen-z samspel design business-to-consumer marknadsföring intäktsgenerering klient.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":202} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/5g.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "5g-the-dark-web-and-more-this-weeks-top-stories",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Vad varje VD för ett nystartat företag behöver känna till för att lyckas",
+            "post_content": "<!-- wp:paragraph --> <p>Helig gral facebook beta tillväxthackning värdeproposition business-to-business startup massmarknad ekosystem A/B-testning hackathon iteration sväng. Investeringsrunda hackathon användarupplevelse facebook nischmarknad varumärkesprofilering agil utveckling VC version finansiering.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":206} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/what-every-ceo-needs-to-know.mp3\"></audio></figure> <!-- /wp:audio -->",
+            "post_name": "what-every-startup-ceo-needs-to-know-to-succeed",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 42,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Sladdkapande i en tid med COVID-19",
+            "post_content": "<!-- wp:paragraph --> <p>Bootstrapping intresse crowdsource rådgivare brännhastighet business-to-business gen-z klient A/B-testning ekosystem. Inflytande inlärningskurva lanseringsfest störande android ramen beta accelerator prototyp investerare. MVP-klient nätverkseffekter.</p> <!-- /wp:paragraph --> <!-- wp:audio {\"id\":204} --> <figure class=\"wp-block-audio\"><audio controls src=\"https://spearheaddemo.files.wordpress.com/2020/10/covid19.mp3\"></audio></figure> <!-- /wp:audio --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "cord-cutting-in-the-age-of-covid-19",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 40,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "podcasts": {
+            "name": "Podcasts",
+            "items": [
+                {
+                    "menu-item-title": "Apple",
+                    "menu-item-db-id": 68,
+                    "menu-item-object-id": "68",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Breaker",
+                    "menu-item-db-id": 69,
+                    "menu-item-object-id": "69",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Google",
+                    "menu-item-db-id": 70,
+                    "menu-item-object-id": "70",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "LinkedIn",
+                    "menu-item-db-id": 71,
+                    "menu-item-object-id": "71",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Overcast",
+                    "menu-item-db-id": 72,
+                    "menu-item-object-id": "72",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Spotify",
+                    "menu-item-db-id": 73,
+                    "menu-item-object-id": "73",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 74,
+                    "menu-item-object-id": "74",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 7,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                },
+                {
+                    "menu-item-title": "YouTube",
+                    "menu-item-db-id": 75,
+                    "menu-item-object-id": "75",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 8,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "#"
+                }
+            ]
+        },
+        "primary": {
+            "name": "Primär",
+            "items": [
+                {
+                    "menu-item-title": "Hem",
+                    "menu-item-db-id": 19,
+                    "menu-item-object-id": "33",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Om",
+                    "menu-item-db-id": 235,
+                    "menu-item-object-id": "233",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Podcast",
+                    "menu-item-db-id": 20,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Kontakt",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Socialt",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 25,
+                    "menu-item-object-id": "25",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://instagram.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://pinterest.com"
+                },
+                {
+                    "menu-item-title": "WordPress",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "27",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://wordpress.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://spearheaddemo.files.wordpress.com/2020/10/qi-bin-w4hbafegiac-unsplash.jpg",
+        "https://spearheaddemo.files.wordpress.com/2020/10/rachel-pfuetzner-0fn7fxv1ewa-unsplash.jpg"
+    ],
+    "meta": {
+        "blog_id": 183906040,
+        "url": "https://spearheaddemo.wordpress.com",
+        "update_date": "October 27, 2020, 12:45 pm",
+        "update_timestamp": 1603802740
+    }
+}
