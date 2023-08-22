@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Geologist\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-21T02:31:26+00:00\n"
+"PO-Revision-Date: 2022-07-09 11:36:34+0000\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "매우 크게"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page without title"
+msgstr "제목 없는 페이지"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "헤더와 푸터만"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "빈 템플릿"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "세 번째"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "배경"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "두 번째"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "첫 번째"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "크다"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "중간"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "작게"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Geologist is a streamlined theme for modern bloggers. It consists of a simple single column of posts, paired with a sophisticated color palette and beautiful sans-serif typography."
+msgstr "Geologist는 요즘 블로거를 위해 제작된 간결한 테마입니다. 세련된 색상 배색, 아름다운 산세리프 타이포그래피를 조화시킨 단일 칼럼 디자인이 적용되었습니다."
+
+#: inc/patterns/two-featured-posts.php:9
+msgid "Two featured posts"
+msgstr "특성 글 2개"
+
+#: inc/patterns/quote.php:13
+msgid "Amazonite, Ametrine, Beryl, Dioptase, Howlite, Jade, and Ruby."
+msgstr "아마조나이트, 아메트린, 베릴, 디옵테이즈, 하울라이트, 옥, 루비."
+
+#: inc/patterns/quote.php:9
+msgid "Quote"
+msgstr "인용"
+
+#: inc/patterns/introduction.php:9
+msgid "Introduction"
+msgstr "소개"
+
+#: inc/patterns/image-feature.php:24
+#: inc/patterns/introduction.php:12
+msgid "Geologist is a blog dedicated to everything buried under the earth's surface."
+msgstr "Geologist는 지표면 아래 묻혀 있는 모든 것을 다루는 데 집중하는 블로그입니다."
+
+#: inc/patterns/image-feature.php:9
+msgid "Image feature"
+msgstr "이미지 기능"
+
+#: inc/patterns/header-with-rounded-site-logo.php:9
+msgid "Header with Rounded Site Logo and Title"
+msgstr "둥근 사이트 로고와 제목이 있는 헤더"
+
+#: inc/patterns/email-updates-small.php:11
+msgid "Receive every post in your inbox."
+msgstr "모든 글을 이메일로 받습니다."
+
+#: inc/patterns/email-updates-small.php:9
+msgid "Email Updates (small)"
+msgstr "이메일 업데이트 (소)"
+
+#: inc/patterns/email-updates-large.php:12
+msgid "Our newsletter rocks! Sign up here to receive every post in your inbox."
+msgstr "저희 뉴스레터는 정말 멋집니다! 모든 글을 이메일로 받아보려면 여기에서 등록하세요."
+
+#: inc/patterns/email-updates-large.php:9
+msgid "Email Updates (Large)"
+msgstr "이메일 업데이트 (대)"
+
+#: inc/patterns/authors.php:38
+msgid "Angelo is an independent researcher and hobbyist. His collection of gemstones rivals that of some museums. Angelo is always on the lookout for a new discovery, and carries his toolkit everywhere."
+msgstr "안젤로는 독립적으로 일하는 연구자이자 광물 애호가입니다. 그가 수집한 원석 컬렉션은 몇몇 박물관에 필적하는 수준입니다. 안젤로는 늘 새로운 발견에 목말라하며 어디를 가든 자신의 장비를 휴대합니다. "
+
+#: inc/patterns/authors.php:34
+msgid "Angelo Ortiz"
+msgstr "안젤로 오르티스"
+
+#: inc/patterns/authors.php:22
+msgid "Sarah is a geologist at Anthem State University. Her love for all things underground was sparked in Kindergarten when she unearthed a toy that someone left buried in the sandbox."
+msgstr "세라는 앤섬 주립 대학교의 지질학자입니다. 지하에 있는 모든 사물을 향한 그녀의 애정은 유치원생이던 당시 누군가 모래 상자에 묻어두고 간 장난감을 그녀가 발굴한 순간 시작되었습니다. "
+
+#: inc/patterns/authors.php:18
+#: inc/patterns/quote.php:13
+msgid "Sarah Edwards"
+msgstr "세라 에드워즈"
+
+#: inc/patterns/authors.php:12
+msgid "About the Authors:"
+msgstr "글쓴이 소개"
+
+#: inc/patterns/authors.php:9
+msgid "Authors"
+msgstr "글쓴이"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:15
+#: inc/patterns/image-feature.php:18
+msgid "Geologist"
+msgstr "Geologist"
