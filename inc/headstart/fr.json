@@ -1,0 +1,135 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "À propos",
+            "post_content": "<!-- wp:paragraph -->\n<p> 👋 Remote est un blog rédigé par un responsable des réseaux sociaux basé à São Paulo. Moi qui travaillais dans un bureau immense, me voilà désormais installé à un coin bureau… dans mon petit appartement. C’est formidable, je vous promets ! </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Je ne travaillerais plus jamais dans un bureau, si je peux l’éviter.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Des questions ?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"[Remote] About\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-textarea /-->\n\n<!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Ask me a question\"} /--></div>\n<!-- /wp:jetpack/contact-form -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 21,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Retour sur une année de télétravail",
+            "post_content": "<!-- wp:paragraph -->\n<p>Ce n’est que depuis quelques années que la communauté scientifique s’intéresse à l’apiculture. Autrefois, les apiculteurs suivaient certaines méthodes traditionnelles de récolte du miel alors même qu’ils en ignoraient le pourquoi du comment. Grâce aux observations d’éminents scientifiques sur la vie et les habitudes des abeilles, à leur patience et leur assiduité dans l’étude du travail de ces insectes, nous disposons aujourd’hui de connaissances qui ont permis aux apiculteurs de remplacer les techniques anciennes peu rigoureuses par une méthode cadrée au but précis.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En lisant un ou plusieurs des brillants travaux sur l’abeille et son comportement, l’apiculteur en herbe peut commencer à se demander s’il est capable de travailler avec un insecte aussi formidable et s’il peut espérer devenir un jour un expert de l’art et de la pratique de l’apiculture. Laissez-moi vous dire, ici et maintenant, qu’avec un peu de patience, de persévérance et d’assiduité, la réussite est à la portée de tous, tant que nous faisons preuve d’intelligence dans notre travail. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.23\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"line-height:1.23;\">Je passe plus de temps avec <br>ma famille, je fais plus d’exercice<br> et je dors davantage.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Le débutant, en proie au doute et aux difficultés, se pose de multiples questions ; une situation qui peut faire sourire le spécialiste, car elle lui rappelle ses propres efforts et aspirations de début de carrière. Pourtant, rien ne sert de désespérer. Si les déceptions sont inévitables, celles-ci doivent être perçues comme de simples incitations à redoubler d’efforts, comme des étapes menant à l’objectif ultime, la réussite.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Certains peuvent penser, hâtivement, qu’il n’y a rien de plus à dire ou à découvrir au sujet des abeilles. Pourtant, les scientifiques ignorent encore l’utilité de certains organes de ces insectes, ainsi l’origine des maladies qui les touchent et les solutions qui existent pour lutter contre celles-ci. Outre l’aspect purement commercial de l’apiculture, il existe un vaste champ d’intérêt et de recherche ouvert à l’exploration par l’apiculteur.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "looking-back-on-a-year-of-working-remotely",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Conseils en matière de productivité",
+                    "Emplois du temps"
+                ],
+                "post_tag_name": [
+                    "Trajets"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Je consulte mes e-mails deux fois par jour, ce qui est amplement suffisant",
+            "post_content": "<!-- wp:paragraph -->\n<p>Ce n’est que depuis quelques années que la communauté scientifique s’intéresse à l’apiculture. Autrefois, les apiculteurs suivaient certaines méthodes traditionnelles de récolte du miel alors même qu’ils en ignoraient le pourquoi du comment. Grâce aux observations d’éminents scientifiques sur la vie et les habitudes des abeilles, à leur patience et leur assiduité dans l’étude du travail de ces insectes, nous disposons aujourd’hui de connaissances qui ont permis aux apiculteurs de remplacer les techniques anciennes peu rigoureuses par une méthode cadrée au but précis.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En lisant un ou plusieurs des brillants travaux sur l’abeille et son comportement, l’apiculteur en herbe peut commencer à se demander s’il est capable de travailler avec un insecte aussi formidable et s’il peut espérer devenir un jour un expert de l’art et de la pratique de l’apiculture. Laissez-moi vous dire, ici et maintenant, qu’avec un peu de patience, de persévérance et d’assiduité, la réussite est à la portée de tous, tant que nous faisons preuve d’intelligence dans notre travail. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Le débutant, en proie au doute et aux difficultés, se pose de multiples questions ; une situation qui peut faire sourire le spécialiste, car elle lui rappelle ses propres efforts et aspirations de début de carrière. Pourtant, rien ne sert de désespérer. Si les déceptions sont inévitables, celles-ci doivent être perçues comme de simples incitations à redoubler d’efforts, comme des étapes menant à l’objectif ultime, la réussite.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Certains peuvent penser, hâtivement, qu’il n’y a rien de plus à dire ou à découvrir au sujet des abeilles. Pourtant, les scientifiques ignorent encore l’utilité de certains organes de ces insectes, ainsi l’origine des maladies qui les touchent et les solutions qui existent pour lutter contre celles-ci. Outre l’aspect purement commercial de l’apiculture, il existe un vaste champ d’intérêt et de recherche ouvert à l’exploration par l’apiculteur.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "i-check-email-just-two-times-a-day-and-its-fine",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Collaboration",
+                    "Installation du bureau à domicile"
+                ],
+                "post_tag_name": [
+                    "Visioconférence"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Voici à quoi ressemble ma journée type",
+            "post_content": "<!-- wp:paragraph -->\n<p>Ce n’est que depuis quelques années que la communauté scientifique s’intéresse à l’apiculture. Autrefois, les apiculteurs suivaient certaines méthodes traditionnelles de récolte du miel alors même qu’ils en ignoraient le pourquoi du comment. Grâce aux observations d’éminents scientifiques sur la vie et les habitudes des abeilles, à leur patience et leur assiduité dans l’étude du travail de ces insectes, nous disposons aujourd’hui de connaissances qui ont permis aux apiculteurs de remplacer les techniques anciennes peu rigoureuses par une méthode cadrée au but précis.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En lisant un ou plusieurs des brillants travaux sur l’abeille et son comportement, l’apiculteur en herbe peut commencer à se demander s’il est capable de travailler avec un insecte aussi formidable et s’il peut espérer devenir un jour un expert de l’art et de la pratique de l’apiculture. Laissez-moi vous dire, ici et maintenant, qu’avec un peu de patience, de persévérance et d’assiduité, la réussite est à la portée de tous, tant que nous faisons preuve d’intelligence dans notre travail. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Le débutant, en proie au doute et aux difficultés, se pose de multiples questions ; une situation qui peut faire sourire le spécialiste, car elle lui rappelle ses propres efforts et aspirations de début de carrière. Pourtant, rien ne sert de désespérer. Si les déceptions sont inévitables, celles-ci doivent être perçues comme de simples incitations à redoubler d’efforts, comme des étapes menant à l’objectif ultime, la réussite.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Certains peuvent penser, hâtivement, qu’il n’y a rien de plus à dire ou à découvrir au sujet des abeilles. Pourtant, les scientifiques ignorent encore l’utilité de certains organes de ces insectes, ainsi l’origine des maladies qui les touchent et les solutions qui existent pour lutter contre celles-ci. Outre l’aspect purement commercial de l’apiculture, il existe un vaste champ d’intérêt et de recherche ouvert à l’exploration par l’apiculteur.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "this-is-what-a-typical-day-looks-like-for-me",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Conseils en matière de productivité",
+                    "Emplois du temps"
+                ],
+                "post_tag_name": [
+                    "Bureaux debout"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Plat principal",
+            "items": []
+        },
+        "primary": {
+            "name": "Principal",
+            "items": []
+        }
+    },
+    "images": [
+        "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+    ],
+    "meta": {
+        "blog_id": 202726634,
+        "url": "https://remotedemo.wordpress.com",
+        "update_date": "5 avril 2022, 13 h 16",
+        "update_timestamp": 1649164578
+    }
+}

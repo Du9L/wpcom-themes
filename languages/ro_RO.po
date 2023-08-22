@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Remote\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-21T03:22:07+00:00\n"
+"PO-Revision-Date: 2023-05-20 07:53:35+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: styles/timid-pink.json
+msgctxt "Font family name"
+msgid "Body (Source Sans Pro)"
+msgstr "Body (Source Sans Pro)"
+
+#: styles/timid-pink.json
+msgctxt "Font family name"
+msgid "Headings (Newsreader)"
+msgstr "Titluri (Newsreader)"
+
+#: styles/timid-pink.json
+msgctxt "Style variation name"
+msgid "Timid Pink"
+msgstr "Roz timid"
+
+#: styles/mono-bright.json
+msgctxt "Font family name"
+msgid "Body (IBM Plex Mono)"
+msgstr "Corp (IBM Plex Mono)"
+
+#: styles/mono-bright.json
+msgctxt "Font family name"
+msgid "Headings (IBM Plex Sans)"
+msgstr "Titluri (IBM Plex Sans)"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+msgctxt "Duotone name"
+msgid "Default filter"
+msgstr "Filtru implicit"
+
+#: styles/mono-bright.json
+msgctxt "Style variation name"
+msgid "Mono Bright"
+msgstr "Mono Bright"
+
+#: patterns/tags.php
+msgctxt "Pattern title"
+msgid "Tags"
+msgstr "Etichete"
+
+#: patterns/subscribe.php
+msgctxt "Pattern title"
+msgid "Subscription form"
+msgstr "Formular de abonare"
+
+#: patterns/small-quote.php
+msgctxt "Pattern title"
+msgid "Small quote"
+msgstr "Citat mic"
+
+#: patterns/posts-list.php
+msgctxt "Pattern title"
+msgid "Posts list"
+msgstr "Listă cu articole"
+
+#: patterns/posts-grid.php
+msgctxt "Pattern title"
+msgid "Posts grid"
+msgstr "Grilă cu articole"
+
+#: patterns/large-quote.php
+msgctxt "Pattern title"
+msgid "Large quote"
+msgstr "Citat mare"
+
+#: patterns/image-with-text.php
+msgctxt "Pattern title"
+msgid "Image with text"
+msgstr "imagine cu text"
+
+#: patterns/hidden-search-form.php
+msgctxt "Pattern title"
+msgid "Search form"
+msgstr "Formular de căutare"
+
+#: patterns/hidden-404-content.php
+msgctxt "Pattern title"
+msgid "404 content"
+msgstr "Conținut 404"
+
+#: patterns/hero-text.php
+msgctxt "Pattern title"
+msgid "Hero text"
+msgstr "Text Hero"
+
+#: patterns/categories.php
+msgctxt "Pattern title"
+msgid "Categories"
+msgstr "Categorii"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/remote"
+msgstr "https://wordpress.com/theme/remote"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Body (DM Sans)"
+msgstr "Corp (DM Sans)"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: styles/mono-bright.json
+#: styles/timid-pink.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#. Description of the theme
+msgid "Remote is a dark, minimal block theme ideal for bloggers. Its default styles - a sans-serif font and dark background - contribute for a comfortable, immersive reading experience. It features a set of bold block patterns such as a large posts list and bordered categories and tags."
+msgstr "Remote este o temă cu blocuri, minimală și întunecată, ideală pentru bloggeri. Stilurile ei implicite - un font sans-serif și un fundal întunecat - contribuie la o experiență de lectură confortabilă și captivantă. Are un set de modele de blocuri debordante, cum ar fi o listă mare cu articole și liste nemărginite pentru categorii și etichete."
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "Etichete"
+
+#: patterns/subscribe.php:18
+msgid "Success! An email was just sent to confirm your subscription. Please find the email now and click 'Confirm Follow' to start subscribing."
+msgstr "Succes! A fost trimis un email pentru a-ți confirma abonamentul. Te rog găsește emailul acum și dă clic pe „Confirmă urmărirea” pentru a începe abonarea."
+
+#: patterns/subscribe.php:14
+msgid "Sign up to have each new post delivered to your inbox."
+msgstr "Înregistrează-te ca să primești fiecare articol nou prin email."
+
+#: patterns/subscribe.php:10
+msgid "Follow this blog"
+msgstr "Urmărește acest blog"
+
+#: patterns/small-quote.php:19
+msgid "Now that I’m working from home, I find that I am spending more time with my family, exercising more, and getting more sleep. This has not been at the expense of my productivity at work — if anything, my productivity has improved as well."
+msgstr "Acum lucrez de acasă și petrec mai mult timp cu familia, fac mai mult sport și dorm mai mult timp. Acest lucru nu a fost în detrimentul productivității mele la locul de muncă, din contră productivitatea mea s-a îmbunătățit."
+
+#: patterns/small-quote.php:12
+msgid "Picture of a user"
+msgstr "Fotografia utilizatorului"
+
+#: patterns/large-quote.php:17
+#: patterns/small-quote.php:23
+msgid "— Jane Adams"
+msgstr "- Jane Adams"
+
+#: patterns/large-quote.php:13
+msgid "I’m spending more time with my family, exercising more, and getting more sleep."
+msgstr "Petrec mai mult timp cu familia, fac mai mult exerciții și dorm mai mult."
+
+#: patterns/image-with-text.php:9
+msgid "Picture of a laptop"
+msgstr "Fotografia unui laptop"
+
+#: patterns/hidden-404-content.php:19
+#: patterns/hidden-search-form.php:12
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/hidden-404-content.php:12
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Nu am putut găsi această pagină. Poate încerci o căutare?"
+
+#: patterns/hidden-404-content.php:9
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/hero-text.php:14
+msgid "Hi, I’m Tiffany! After years of long commutes and crowded offices, I’m now a happy advocate for remote work."
+msgstr "Bună, sunt Tiffany! După mai mulți ani de navete lungi și birouri aglomerate, acum sunt un avocat fericit pentru că lucrez de la distanță."
+
+#: patterns/categories.php:9
+msgid "Categories"
+msgstr "Categorii"
+
+#: functions.php:80
+msgid "Query"
+msgstr "Interogare"
+
+#: functions.php:79
+msgid "Text"
+msgstr "Text"
+
+#: functions.php:78
+msgid "Columns"
+msgstr "Coloane"
+
+#: functions.php:77
+msgid "Featured"
+msgstr "Reprezentativ"
