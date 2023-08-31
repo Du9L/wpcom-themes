@@ -1,0 +1,226 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Luce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/luce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-19T02:44:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: luce\n"
+
+#. Theme Name of the theme
+msgid "Luce"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/luce"
+msgstr ""
+
+#. Description of the theme
+msgid "Simple resume and blog theme with bright personality."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: patterns/404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/404.php:22
+msgid "Search"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:14
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:16
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "Front Page"
+msgstr ""
+
+#: patterns/front-page.php:12
+msgid "I'm a freelance copywriter and content strategist turning ideas into compelling stories that captivate and convert."
+msgstr ""
+
+#: patterns/front-page.php:18
+msgid "I have always had a passion for writing and love the challenge of creating compelling content that engages readers. With over five years of experience in the industry, I have worked with a variety of clients ranging from small businesses to large corporations. <br><br>My specialties include website copy, email marketing campaigns, and social media content. I am dedicated to delivering high-quality work that meets my clients' needs and helps them achieve their goals. When I'm not writing, you can find me hiking in the mountains or curled up with a good book."
+msgstr ""
+
+#: patterns/front-page.php:24
+msgid "Clients"
+msgstr ""
+
+#: patterns/front-page.php:29
+msgid "AdventureQuest Travel"
+msgstr ""
+
+#: patterns/front-page.php:33
+msgid "FitFusion Fitness Studio"
+msgstr ""
+
+#: patterns/front-page.php:37
+msgid "TechWhiz Gadgets"
+msgstr ""
+
+#: patterns/front-page.php:41
+msgid "Sunny Side Café"
+msgstr ""
+
+#: patterns/front-page.php:45
+msgid "PetPal Haven"
+msgstr ""
+
+#: patterns/front-page.php:52
+msgid "Services"
+msgstr ""
+
+#: patterns/front-page.php:57
+msgid "Content Creation"
+msgstr ""
+
+#: patterns/front-page.php:61
+msgid "Social Media Management"
+msgstr ""
+
+#: patterns/front-page.php:65
+msgid "Content Strategy"
+msgstr ""
+
+#: patterns/front-page.php:69
+msgid "Social Media Audits"
+msgstr ""
+
+#: patterns/front-page.php:73
+msgid "Email Marketing"
+msgstr ""
+
+#: patterns/front-page.php:82
+msgid "Contact"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
