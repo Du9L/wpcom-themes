@@ -1,0 +1,119 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "main"
+            },
+            "custom_css_post_id": -1,
+            "custom_logo": "https://arbutusdemo.files.wordpress.com/2021/11/cropped-benjamin-combs-hiadjnxzxl8-unsplash.jpg"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "Dayung perahumu",
+            "post_content": "<!-- wp:paragraph --> <p>Di malam hari, sekumpulan awan di langit bergerak menutupi seluruh teluk yang tenang dengan kegelapan yang tak tertembus, membuat suara hujan yang mulai dan berhenti turun tidak merata terdengar jelas—mendekat, menjauh. Memang, malam berawan seperti ini tidaklah asing bagi para pelaut di pantai barat benua yang luas itu. Langit, daratan, dan lautan menghilang dari dunia ketika Mentari—seperti kata pepatah—telah terlelap dengan selimut awan hitamnya. </p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Beberapa bintang mulai muncul mengiringi sinar mentari yang mulai meredup di cakrawala menuju hitam kelam. Di samudra yang luas, kapal terus mengapung dengan pijakan Anda di geladak dan layar terbentang di atas kepala yang tak terlihat. Mata Tuhan pun—ucap mereka dengan nada suram—tidak dapat melihat apa yang tangan kita lakukan; dan Anda bebas meminta pertolongan setan paling jahat jika memang kelicikannya bisa melawan gelap malam yang membutakan.</p> <!-- /wp:paragraph -->",
+            "post_name": "row-your-boat",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-o453m2liufs-unsplash-2.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Berlayar melawan arus dengan tenang",
+            "post_content": "<!-- wp:paragraph --> <p>Fajar menyingsing dibalik dinding batu Cordillera yang menjulang dan tak rapih. Pemandangan malam tampak seperti puncak gunung dengan lereng-lereng curam di atas pepohonan yang menjulang tinggi dari tepi garis cakrawala. Di antara pemandangan itu, Higuerota mulai nampak dengan anggun di antara laut dan langit biru.  Terlihat setumpuk batu besar dengan titik-titik hitam kecil dengan kubah salju yang mulus.</p> <!-- /wp:paragraph -->",
+            "post_name": "gently-down-the-stream",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-hfziod0f_i8-unsplash-1.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Beranda",
+            "post_content": "<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><!-- wp:query {\"queryId\":1,\"query\":{\"perPage\":\"5\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false},\"layout\":{\"inherit\":false}} -->\n<div class=\"wp-block-query\"><!-- wp:post-template -->\n<!-- wp:post-featured-image /-->\n\n<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"30px\",\"bottom\":\"60px\"}}}} -->\n<div class=\"wp-block-group\" style=\"padding-top:30px;padding-bottom:60px;\"><!-- wp:post-title {\"isLink\":true,\"style\":{\"typography\":{\"fontSize\":\"48px\",\"fontStyle\":\"normal\",\"fontWeight\":\"600\",\"lineHeight\":\"1.2\"}}} /-->\n\n<!-- wp:post-date {\"style\":{\"typography\":{\"lineHeight\":\"1.5\"}}} /--></div>\n<!-- /wp:group -->\n<!-- /wp:post-template -->\n\n<!-- wp:query-pagination {\"className\":\"aligncenter\"} -->\n<!-- wp:query-pagination-previous /-->\n\n<!-- wp:query-pagination-next /-->\n<!-- /wp:query-pagination --></div>\n<!-- /wp:query --></div>\n<!-- /wp:group -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "page_template": "header-footer-only"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Utama",
+            "items": [
+                {
+                    "menu-item-title": "Beranda",
+                    "menu-item-db-id": 5,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-o453m2liufs-unsplash-2.jpg",
+        "https://arbutusdemo.files.wordpress.com/2021/11/luca-bravo-hfziod0f_i8-unsplash-1.jpg"
+    ],
+    "meta": {
+        "blog_id": 199677188,
+        "url": "https://arbutusdemo.wordpress.com",
+        "update_date": "November 17, 2021, 12:18 am",
+        "update_timestamp": 1637108311
+    }
+}
