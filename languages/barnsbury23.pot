@@ -1,0 +1,389 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Barnsbury23 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/barnsbury23\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-05T01:33:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: barnsbury23\n"
+
+#. Theme Name of the theme
+msgid "Barnsbury23"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/tree/trunk/barnsbury23"
+msgstr ""
+
+#. Description of the theme
+msgid "The recently updated Barnsbury is an earthy, friendly theme made with farming and agriculture businesses in mind — but versatile enough for a personal site, too."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:17
+msgid "Oops..."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "This page could not be found. Maybe try a new search?"
+msgstr ""
+
+#: patterns/404.php:32
+msgid "Search"
+msgstr ""
+
+#: patterns/404.php:32
+msgid "Search..."
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer-credits.php
+msgctxt "Pattern title"
+msgid "Footer credits"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer-credits.php:14
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer-credits.php:16
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr ""
+
+#: patterns/front-page.php:24
+#: patterns/home-alt.php:49
+#: patterns/home.php:24
+msgid "What We Do"
+msgstr ""
+
+#: patterns/front-page.php:50
+#: patterns/home-alt.php:24
+#: patterns/home.php:50
+msgid "Why You'll Love Us"
+msgstr ""
+
+#: patterns/front-page.php:56
+#: patterns/home-alt.php:108
+#: patterns/home.php:56
+msgid "Organic farming is a form of food production that emphasizes the use of natural methods to maintain soil fertility, control pests, and produce high-quality crops without the use of synthetic pesticides and fertilizers."
+msgstr ""
+
+#: patterns/front-page.php:60
+#: patterns/home-alt.php:112
+#: patterns/home.php:60
+msgid "It's a practice based on biodiversity, ecological balance, and sustainability. It is environmentally sustainable, promotes soil health and biodiversity, reduces the negative impacts of agriculture on the environment, and produces safe, and healthy food. With the growing demand for organic food, there has never been a better time to choose organic."
+msgstr ""
+
+#: patterns/front-page.php:87
+#: patterns/home.php:87
+#: patterns/numbers-clean.php:19
+#: patterns/numbers-green.php:19
+msgid "Our organic farm in numbers"
+msgstr ""
+
+#: patterns/front-page.php:98
+#: patterns/home.php:98
+#: patterns/numbers-clean.php:30
+#: patterns/numbers-green.php:30
+msgid "100%"
+msgstr ""
+
+#: patterns/front-page.php:104
+#: patterns/home.php:104
+#: patterns/numbers-clean.php:36
+#: patterns/numbers-green.php:36
+msgid "satisfied customers"
+msgstr ""
+
+#: patterns/front-page.php:118
+#: patterns/home.php:118
+#: patterns/numbers-clean.php:50
+#: patterns/numbers-green.php:50
+msgid "households per month"
+msgstr ""
+
+#: patterns/front-page.php:132
+#: patterns/home.php:132
+#: patterns/numbers-clean.php:64
+#: patterns/numbers-green.php:64
+msgid "awards won"
+msgstr ""
+
+#: patterns/front-page.php:146
+#: patterns/home.php:146
+#: patterns/numbers-clean.php:78
+#: patterns/numbers-green.php:78
+msgid "experts working"
+msgstr ""
+
+#: patterns/front-page.php:160
+#: patterns/hero-green.php:44
+#: patterns/home-clean.php:45
+#: patterns/home.php:160
+#: patterns/numbers-clean.php:92
+#: patterns/numbers-green.php:92
+msgid "Write title…"
+msgstr ""
+
+#: patterns/front-page.php:182
+#: patterns/home-alt.php:142
+#: patterns/home.php:182
+msgid "Our Favourite Recipes"
+msgstr ""
+
+#: patterns/front-page.php:191
+#: patterns/home-alt.php:151
+#: patterns/home.php:191
+msgid "More recipes"
+msgstr ""
+
+#: patterns/hero-green.php
+msgctxt "Pattern title"
+msgid "hero-green"
+msgstr ""
+
+#: patterns/hero-green.php:19
+#: patterns/home-clean.php:20
+msgid "Locally Farmed Organic Vegetable Delivery"
+msgstr ""
+
+#: patterns/hero-green.php:23
+#: patterns/home-clean.php:24
+msgid "20 years of growing organic vegetables and delivering vegetable boxes from our 12-acre farm in Sussex."
+msgstr ""
+
+#: patterns/hero-green.php:33
+#: patterns/home-clean.php:34
+msgid "Get in touch"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home-alt.php
+msgctxt "Pattern title"
+msgid "home-alt"
+msgstr ""
+
+#: patterns/home-alt.php:55
+#: patterns/home-alt.php:65
+#: patterns/home-alt.php:75
+#: patterns/home-alt.php:85
+#: patterns/home-alt.php:95
+msgid "+"
+msgstr ""
+
+#: patterns/home-alt.php:59
+msgid "Delicious"
+msgstr ""
+
+#: patterns/home-alt.php:69
+msgid "Ethical"
+msgstr ""
+
+#: patterns/home-alt.php:79
+msgid "Free delivery"
+msgstr ""
+
+#: patterns/home-alt.php:89
+msgid "Seasonal"
+msgstr ""
+
+#: patterns/home-alt.php:99
+msgid "Sustainable"
+msgstr ""
+
+#: patterns/home-clean.php
+msgctxt "Pattern title"
+msgid "home-clean"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/numbers-clean.php
+msgctxt "Pattern title"
+msgid "numbers-clean"
+msgstr ""
+
+#: patterns/numbers-green.php
+msgctxt "Pattern title"
+msgid "numbers-green"
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr ""
+
+#: patterns/schedule-a-visit.php
+msgctxt "Pattern title"
+msgid "Schedule a Visit"
+msgstr ""
+
+#: patterns/schedule-a-visit.php:15
+msgid "Schedule a Visit"
+msgstr ""
+
+#: patterns/schedule-a-visit.php:24
+msgid "Our practices are designed to minimize pollution and conserve natural resources, such as water and energy. Be our guest and schedule a family visit to our adorable workplace."
+msgstr ""
+
+#: patterns/schedule-a-visit.php:29
+msgid "Contact us"
+msgstr ""
+
+#: patterns/testimonials-alt.php
+msgctxt "Pattern title"
+msgid "testimonials-alt"
+msgstr ""
+
+#: patterns/testimonials-alt.php:41
+#: patterns/testimonials.php:46
+msgid "“We are very happy with the box and we value that we can have the standard box or choose our own.”"
+msgstr ""
+
+#: patterns/testimonials-alt.php:55
+#: patterns/testimonials.php:50
+msgid "Joseph"
+msgstr ""
+
+#: patterns/testimonials-alt.php:64
+msgid "I'm really appreciating the quality and presentation. The flavor of the veg is outstanding."
+msgstr ""
+
+#: patterns/testimonials-alt.php:65
+#: patterns/testimonials.php:130
+msgid "Michele"
+msgstr ""
+
+#: patterns/testimonials-alt.php:70
+msgid "Their service is brilliant! I really hope some of them now use your service."
+msgstr ""
+
+#: patterns/testimonials-alt.php:71
+#: patterns/testimonials.php:90
+msgid "Fiona"
+msgstr ""
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:41
+msgid "Love the flexibility"
+msgstr ""
+
+#: patterns/testimonials.php:81
+msgid "Excellent Service"
+msgstr ""
+
+#: patterns/testimonials.php:86
+msgid "“Their service is brilliant!"
+msgstr ""
+
+#: patterns/testimonials.php:86
+msgid "I really hope some of them are now using your service.”"
+msgstr ""
+
+#: patterns/testimonials.php:121
+msgid "Fantastic Quality"
+msgstr ""
+
+#: patterns/testimonials.php:126
+msgid "“I'm really appreciating the quality and presentation. The flavor of the veg is outstanding.”"
+msgstr ""
+
+#: styles/Serif-Headings.json
+msgctxt "Style variation name"
+msgid "Serif Headings"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
