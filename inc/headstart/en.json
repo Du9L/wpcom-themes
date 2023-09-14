@@ -1,0 +1,74 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Archive",
+            "post_content": "<!-- wp:search {\"label\":\"Search\",\"showLabel\":false,\"placeholder\":\"Search archive...\",\"width\":100,\"widthUnit\":\"%\",\"buttonText\":\"Search\",\"buttonPosition\":\"button-inside\",\"buttonUseIcon\":true,\"style\":{\"border\":{\"radius\":\"190px\",\"width\":\"1px\"}},\"borderColor\":\"primary\",\"backgroundColor\":\"primary\",\"textColor\":\"secondary\"} \/-->\n\n<!-- wp:spacer {\"height\":\"70px\"} -->\n<div style=\"height:70px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:query {\"queryId\":7,\"query\":{\"perPage\":3,\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false}} -->\n<div class=\"wp-block-query\"><!-- wp:post-template -->\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"width\":\"33.33%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:post-featured-image {\"height\":\"200px\"} \/--><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"width\":\"66.66%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:post-title {\"isLink\":true,\"fontSize\":\"large\"} \/-->\n\n<!-- wp:post-excerpt {\"showMoreOnNewLine\":false,\"style\":{\"typography\":{\"fontSize\":\"18px\"}}} \/-->\n\n<!-- wp:group {\"layout\":{\"type\":\"flex\",\"allowOrientation\":false}} -->\n<div class=\"wp-block-group\"><!-- wp:post-author-name {\"fontSize\":\"x-small\"} \/-->\n\n<!-- wp:post-date {\"format\":\"F j, Y\",\"fontSize\":\"x-small\"} \/--><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->\n\n<!-- wp:separator {\"opacity\":\"css\",\"style\":{\"color\":{\"background\":\"#e5e5e5\"}},\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator has-text-color has-css-opacity has-background is-style-wide\" style=\"background-color:#e5e5e5;color:#e5e5e5;\" \/>\n<!-- \/wp:separator -->\n<!-- \/wp:post-template --><\/div>\n<!-- \/wp:query -->",
+            "post_name": "archive",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Impresiones y Paisajes",
+            "post_content": "<!-- wp:paragraph -->\n<p>A green and yellow parrot, which hung in a cage outside the door, kept repeating over and over:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201c<em>Allez vous-en! Allez vous-en! Sapristi!<\/em>&nbsp;That\u2019s all right!\u201d<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>He could speak a little Spanish, and also a language which nobody understood, unless it was the mocking-bird that hung on the other side of the door, whistling his fluty notes out upon the breeze with maddening persistence.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mr. Pontellier, unable to read his newspaper with any degree of comfort, arose with an expression and an exclamation of disgust.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>He walked down the gallery and across the narrow \u201cbridges\u201d which connected the Lebrun cottages one with the other. He had been seated before the door of the main house. The parrot and the mocking-bird were the property of Madame Lebrun, and they had the right to make all the noise they wished. Mr. Pontellier had the privilege of quitting their society when they ceased to be entertaining.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>He stopped before the door of his own cottage, which was the fourth one from the main building and next to the last. Seating himself in a wicker rocker which was there, he once more applied himself to the task of reading the newspaper. The day was Sunday; the paper was a day old. The Sunday papers had not yet reached Grand Isle. He was already acquainted with the market reports, and he glanced restlessly over the editorials and bits of news which he had not had time to read before quitting New Orleans the day before.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mr. Pontellier wore eye-glasses. He was a man of forty, of medium height and rather slender build; he stooped a little. His hair was brown and straight, parted on one side. His beard was neatly and closely trimmed.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Once in a while he withdrew his glance from the newspaper and looked about him. There was more noise than ever over at the house. The main building was called \u201cthe house,\u201d to distinguish it from the cottages. The chattering and whistling birds were still at it. Two young girls, the Farival twins, were playing a duet from \u201cZampa\u201d upon the piano. Madame Lebrun was bustling in and out, giving orders in a high key to a yard-boy whenever she got inside the house, and directions in an equally high voice to a dining-room servant whenever she got outside. She was a fresh, pretty woman, clad always in white with elbow sleeves. Her starched skirts crinkled as she came and went. Farther down, before one of the cottages, a lady in black was walking demurely up and down, telling her beads. A good many persons of the&nbsp;<em>pension<\/em>&nbsp;had gone over to the&nbsp;<em>Ch\u00eani\u00e8re Caminada<\/em>&nbsp;in Beaudelet\u2019s lugger to hear mass. Some young people were out under the water-oaks playing croquet. Mr. Pontellier\u2019s two children were there\u2014sturdy little fellows of four and five. A quadroon nurse followed them about with a faraway, meditative air.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mr. Pontellier finally lit a cigar and began to smoke, letting the paper drag idly from his hand. He fixed his gaze upon a white sunshade that was advancing at snail\u2019s pace from the beach. He could see it plainly between the gaunt trunks of the water-oaks and across the stretch of yellow camomile. The gulf looked far away, melting hazily into the blue of the horizon. The sunshade continued to approach slowly. Beneath its pink-lined shelter were his wife, Mrs. Pontellier, and young Robert Lebrun. When they reached the cottage, the two seated themselves with some appearance of fatigue upon the upper step of the porch, facing each other, each leaning against a supporting post.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201cWhat folly! to bathe at such an hour in such heat!\u201d exclaimed Mr. Pontellier. He himself had taken a plunge at daylight. That was why the morning seemed long to him.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201cYou are burnt beyond recognition,\u201d he added, looking at his wife as one looks at a valuable piece of personal property which has suffered some damage. She held up her hands, strong, shapely hands, and surveyed them critically, drawing up her fawn sleeves above the wrists. Looking at them reminded her of her rings, which she had given to her husband before leaving for the beach. She silently reached out to him, and he, understanding, took the rings from his vest pocket and dropped them into her open palm. She slipped them upon her fingers; then clasping her knees, she looked across at Robert and began to laugh. The rings sparkled upon her fingers. He sent back an answering smile.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201cWhat is it?\u201d asked Pontellier, looking lazily and amused from one to the other. It was some utter nonsense; some adventure out there in the water, and they both tried to relate it at once. It did not seem half so amusing when told. They realized this, and so did Mr. Pontellier. He yawned and stretched himself. Then he got up, saying he had half a mind to go over to Klein\u2019s hotel and play a game of billiards.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201cCome go along, Lebrun,\u201d he proposed to Robert. But Robert admitted quite frankly that he preferred to stay where he was and talk to Mrs. Pontellier.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201cWell, send him about his business when he bores you, Edna,\u201d instructed her husband as he prepared to leave.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201cHere, take the umbrella,\u201d she exclaimed, holding it out to him. He accepted the sunshade, and lifting it over his head descended the steps and walked away.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>\u201cComing back to dinner?\u201d his wife called after him. He halted a moment and shrugged his shoulders. He felt in his vest pocket; there was a ten-dollar bill there. He did not know; perhaps he would return for the early dinner and perhaps he would not. It all depended upon the company which he found over at Klein\u2019s and the size of \u201cthe game.\u201d He did not say this, but she understood it, and laughed, nodding good-by to him.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Both children wanted to follow their father when they saw him starting out. He kissed them and promised to bring them back bonbons and peanuts.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "third-times-the-charm",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 15,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/lettredemo.files.wordpress.com\/2023\/01\/impresiones_y_paisajes-1.jpeg"
+        }
+    ],
+    "images": [
+        "https:\/\/lettredemo.files.wordpress.com\/2023\/01\/impresiones_y_paisajes-1.jpeg"
+    ],
+    "meta": {
+        "blog_id": 209254463,
+        "url": "https:\/\/lettredemo.wordpress.com",
+        "update_date": "December 21, 2022, 12:58 pm",
+        "update_timestamp": 1671627526
+    }
+}
