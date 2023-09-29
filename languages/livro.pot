@@ -1,0 +1,271 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Livro 1.0.22\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/livro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-23T02:46:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: livro\n"
+
+#. Theme Name of the theme
+msgid "Livro"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/livro"
+msgstr ""
+
+#. Description of the theme
+msgid "Livro is a simple theme designed to evoke the calm feeling you get when you settle in with a classic book."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: functions.php:80
+msgid "Pages"
+msgstr ""
+
+#: functions.php:81
+msgid "Footers"
+msgstr ""
+
+#: functions.php:82
+msgid "Headers"
+msgstr ""
+
+#: inc/gutenberg-dependency-check.php:7
+msgid "The installed theme requires <a href=\"https://wordpress.org/plugins/gutenberg/\">Gutenberg</a> version %s or higher."
+msgstr ""
+
+#: patterns/footer-centered.php
+msgctxt "Pattern title"
+msgid "Centered footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer-centered.php:16
+#: patterns/footer-default.php:16
+#: patterns/footer-nav-left.php:17
+#: patterns/footer-nav-right.php:15
+#: patterns/footer-right.php:16
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: patterns/footer-centered.php:17
+#: patterns/footer-default.php:17
+#: patterns/footer-nav-left.php:18
+#: patterns/footer-nav-right.php:16
+#: patterns/footer-right.php:17
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#: patterns/footer-nav-left.php
+msgctxt "Pattern title"
+msgid "Footer with left navigation"
+msgstr ""
+
+#: patterns/footer-nav-right.php
+msgctxt "Pattern title"
+msgid "Footer with right navigation"
+msgstr ""
+
+#: patterns/footer-right.php
+msgctxt "Pattern title"
+msgid "Right-aligned footer"
+msgstr ""
+
+#: patterns/header-centered.php
+msgctxt "Pattern title"
+msgid "Centered header"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Default header"
+msgstr ""
+
+#: patterns/header-left-right-logo-title.php
+msgctxt "Pattern title"
+msgid "Header with site logo and title on left and button on right"
+msgstr ""
+
+#: patterns/header-left-right-logo.php
+msgctxt "Pattern title"
+msgid "Header with site logo on left and button on right"
+msgstr ""
+
+#: patterns/header-left-right-text.php
+msgctxt "Pattern title"
+msgid "Header with site title on left and navigation on right"
+msgstr ""
+
+#: patterns/header-left-right.php
+msgctxt "Pattern title"
+msgid "Header with site title on left and button on right"
+msgstr ""
+
+#: patterns/header-right.php
+msgctxt "Pattern title"
+msgid "Right-aligned header"
+msgstr ""
+
+#: patterns/header-title-tagline-social.php
+msgctxt "Pattern title"
+msgid "Header with site title, tagline, and social link"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 content"
+msgstr ""
+
+#: patterns/hidden-404.php:10
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "About page"
+msgstr ""
+
+#: patterns/page-about.php:11
+msgid "About"
+msgstr ""
+
+#: patterns/page-about.php:17
+msgid "Felicia Gonalez"
+msgstr ""
+
+#: patterns/page-about.php:21
+#: patterns/page-about.php:95
+msgid "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn."
+msgstr ""
+
+#: patterns/page-about.php:27
+msgid "Ebony James"
+msgstr ""
+
+#: patterns/page-about.php:31
+#: patterns/page-about.php:71
+msgid "In the centre of the room, clamped to an upright easel, stood the full-length portrait of a young man of extraordinary personal beauty, and in front of it, some little distance away, was sitting the artist himself, Basil Hallward."
+msgstr ""
+
+#: patterns/page-about.php:51
+msgid "Vintage photograph of a woman writing a letter."
+msgstr ""
+
+#: patterns/page-about.php:67
+msgid "Matthew Porter"
+msgstr ""
+
+#: patterns/page-about.php:91
+msgid "Vic Desmond"
+msgstr ""
+
+#: patterns/page-contact.php
+msgctxt "Pattern title"
+msgid "Contact page"
+msgstr ""
+
+#: patterns/page-contact.php:11
+msgid "Contact"
+msgstr ""
+
+#: patterns/page-contact.php:17
+msgid "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden."
+msgstr ""
+
+#: patterns/page-contact.php:22
+msgid "Get in Touch"
+msgstr ""
+
+#: patterns/page-contact.php:33
+msgid "A vintage photograph of an elegant living room."
+msgstr ""
+
+#: patterns/page-contact.php:39
+msgid "Follow us:"
+msgstr ""
+
+#: styles/cream.json
+msgctxt "Style variation name"
+msgid "Cream"
+msgstr ""
+
+#: styles/cream.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/cream.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/cream.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/white.json
+msgctxt "Style variation name"
+msgid "White"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Newsreader"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
