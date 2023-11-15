@@ -1,0 +1,31 @@
+/*
+Theme Name: Ritratto - WordPress.com
+Theme URI: https://wordpress.com/themes/ritratto/
+Description: Besides an appreciable headshot, the theme offers large titles, descriptions, and links right away. There is also a grid of posts, and no Post Feature Images are used anytime.
+Version: 1.0.0
+Author: the WordPress team
+Author URI: https://wordpress.org/themes/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ritratto
+*/
+
+/*
+ * Control the hover stylings of outline block style.
+ * Unnecessary once block styles are configurable via theme.json
+ * https://github.com/WordPress/gutenberg/issues/42794
+ */
+.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--base);
+	border-color: var(--wp--preset--color--secondary);
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: .0625em !important;
+	text-underline-offset: .15em;
+}
