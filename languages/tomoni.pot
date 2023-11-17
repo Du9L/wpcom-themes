@@ -1,0 +1,377 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tomoni 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tomoni\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-30T04:04:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: tomoni\n"
+
+#. Theme Name of the theme
+msgid "Tomoni"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/tomoni/"
+msgstr ""
+
+#. Description of the theme
+msgid "Tomoni is a theme that displays a use case of multilingual content with Japanese."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:9
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: patterns/404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/description.php
+msgctxt "Pattern title"
+msgid "Description"
+msgstr ""
+
+#: patterns/description.php:12
+msgid "On the 17th of July, 2023, prepare to be enthralled as a renowned classical orchestra brings electro-music classics to life at The Phoenix, a legendary music venue in east London. This unprecedented live music event will feature a perfect fusion of classical orchestral mastery and electronic music innovation, filling the historic venue with a unique and mesmerising soundscape. As the summer heat reaches its zenith, the audience will be treated to a spellbinding auditory experience, with the orchestra reinterpreting iconic electro-music tracks through the lens of classical instrumentation. The masterful fusion of synthesisers, drum machines, and electronic effects will be expertly blended with the lush sounds of strings, brass, and woodwinds, resulting in a groundbreaking symphonic performance. The grandiose architecture of the venue will serve as the perfect backdrop for the enchanting harmonies and electrifying rhythms that will resonate throughout the evening. This is a must-attend for classical and electronic music fans, offering a once-in-a-lifetime opportunity to witness the innovative fusion of these two genres. Don&rsquo;t miss out on this extraordinary experience on the 17th of July, 2023."
+msgstr ""
+
+#: patterns/description.php:16
+msgctxt "Sample Japanese content. No need to translate."
+msgid "2023年7月17日、東ロンドンの伝説的な会場「フェニックス」で、名高いクラシックオーケストラがエレクトロ・ミュージック・クラシックスを息を呑むようなパフォーマンスで甦らせる。この前代未聞のライブイベントでは、クラシックオーケストラとエレクトロ・ミュージックの革新が完璧に融合し、歴史のあるフェニックスにしか無い魅惑的な音響風景を作り出します。夏の暑さが最高潮に達する中、オーケストラがクラシカルな楽器を通しエレクトロ・ミュージック・トラックを再解釈する事により魅惑的な聴覚体験をお届けします。シンセサイザーとドラムマシンがライブコレクティブとの巧みな融合が、豊かな弦楽器、金管楽器、木管楽器の音色と見事に調和し、画期的な交響曲のパフォーマンスが生まれます。会場の壮大な建築は、夜通し響き渡る魅惑的なハーモニーとエレクトロリズムに最適な背景となります。これはクラシックとエレクトロ・ミュージックのファンにとって、二つのジャンルが革新的に融合する機会を一度だけの体験で見逃せないイベントです。2023年7月17日のこの特別な体験をお見逃しなく。"
+msgstr ""
+
+#: patterns/featured-list.php
+msgctxt "Pattern title"
+msgid "Featured List"
+msgstr ""
+
+#: patterns/featured-list.php:12
+msgid "Featuring"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "James Smith"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Isabel Pérez"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Julien Moreau"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Oliver Williams"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Alejandro García"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Emily Johnson "
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "田中 雪"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Benjamin Taylor"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Miguel Rodríguez"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "渡辺 春樹"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Maria Fernández"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "サンダイアル"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Charlotte Davies"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "鈴木 圭介"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "José Martínez"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "山本 愛子"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Olivia Brown"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Carmen González"
+msgstr ""
+
+#: patterns/featured-list.php:16
+msgctxt "Artist name. No need to translate."
+msgid "Camille Dubois"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "Instagram"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "Facebook"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "TikTok"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:19
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:21
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:29
+msgid "The Phoenix"
+msgstr ""
+
+#: patterns/header.php:33
+msgid "142 Pemberton Lane, London, SE14 9QR"
+msgstr ""
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr ""
+
+#: patterns/no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:9
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr ""
+
+#: styles/charcoal.json
+msgctxt "Style variation name"
+msgid "Charcoal"
+msgstr ""
+
+#: styles/charcoal.json
+#: styles/lips.json
+#: styles/molten.json
+#: styles/monstera.json
+#: styles/statice.json
+#: styles/tatami.json
+#: styles/whitesmoke.json
+msgctxt "Duotone name"
+msgid "Default filter"
+msgstr ""
+
+#: styles/charcoal.json
+#: styles/lips.json
+#: styles/molten.json
+#: styles/monstera.json
+#: styles/statice.json
+#: styles/tatami.json
+#: styles/whitesmoke.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/charcoal.json
+#: styles/lips.json
+#: styles/molten.json
+#: styles/monstera.json
+#: styles/statice.json
+#: styles/tatami.json
+#: styles/whitesmoke.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/charcoal.json
+#: styles/lips.json
+#: styles/molten.json
+#: styles/monstera.json
+#: styles/statice.json
+#: styles/tatami.json
+#: styles/whitesmoke.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/lips.json
+msgctxt "Style variation name"
+msgid "Lips"
+msgstr ""
+
+#: styles/molten.json
+msgctxt "Style variation name"
+msgid "Molten"
+msgstr ""
+
+#: styles/monstera.json
+msgctxt "Style variation name"
+msgid "Monstera"
+msgstr ""
+
+#: styles/statice.json
+msgctxt "Style variation name"
+msgid "Statice"
+msgstr ""
+
+#: styles/tatami.json
+msgctxt "Style variation name"
+msgid "Tatami"
+msgstr ""
+
+#: styles/whitesmoke.json
+msgctxt "Style variation name"
+msgid "Whitesmoke"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Default-filter"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
