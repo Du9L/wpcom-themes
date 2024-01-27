@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-21T01:46:21+00:00\n"
+"PO-Revision-Date: 2021-07-20 19:07:57+0000\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:131
+msgid "White"
+msgstr "לבן"
+
+#: functions.php:126
+msgid "Light Gray"
+msgstr "אפור בהיר"
+
+#: functions.php:121
+msgid "Dark Gray"
+msgstr "אפור כהה"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:268
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "פריט אחד"
+msgstr[1] "%d פריטים"
+
+#: inc/woocommerce.php:266
+msgid "View your shopping cart"
+msgstr "צפה בעגלת הקניות"
+
+#: inc/customizer.php:41
+msgid "Display estimated reading time on posts"
+msgstr "להציג זמן קריאה משוער בפוסטים"
+
+#. Description of the theme
+msgid "Independent Publisher 2 is a clean and polished theme with a light color scheme, bold typography, and full-width images."
+msgstr "Independent Publisher 2 היא ערכת עיצוב נקיה ומהוקצעת עם צבעים בהירים, טיפוגרפיה נועזת ותמונות ברוחב מלא. "
+
+#: single.php:17
+msgid "<span class=\"meta-nav screen-reader-text\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav screen-reader-text\">לפוסט הקודם</span> %title"
+
+#: single.php:17
+msgid "<span class=\"meta-nav screen-reader-text\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav screen-reader-text\">לפוסט הבא</span> %title"
+
+#: template-parts/content-page.php:21
+#: template-parts/content-single.php:23
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr ":עמודים"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "מה שחיפשת לא נמצא. אולי חיפוש יכול לעזור."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לחיפוש. יש לנסות שנית עם מילות מפתח חלופיות."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכנים לפרסם את הפוסט הראשון? <a href=\"%1$s\">התחילו כאן</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "דבר לא נמצא"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "כל הפוסטים מאת %s&rlm;"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "פורסם על ידי %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור %s"
+
+#: inc/template-tags.php:150
+#: template-parts/content-search.php:28
+#: template-parts/content.php:18
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "המשך קריאת הפוסט %s <span class=\"meta-nav\">\t</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:34
+msgid "Edit %s"
+msgstr "לערוך %s"
+
+#: inc/template-tags.php:79
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: inc/template-tags.php:79
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: inc/template-tags.php:79
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: template-parts/content-single.php:29
+msgid "Tagged"
+msgstr "מתויג"
+
+#: inc/template-tags.php:94
+msgctxt "time to read"
+msgid "%s Minute"
+msgid_plural "%s Minutes"
+msgstr[0] "דקה אחת"
+msgstr[1] "%s דקות"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:39
+#: inc/template-tags.php:130
+msgid "Featured"
+msgstr "מובחר"
+
+#: inc/customizer.php:29
+msgid "Header Gravatar"
+msgstr "גראוואטר בהדר"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "אפשרויות"
+
+#: header.php:54
+msgid "Menu"
+msgstr "תפריט"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: functions.php:213
+msgid "Footer 3"
+msgstr "תחתית העמוד 3"
+
+#: functions.php:202
+msgid "Footer 2"
+msgstr "תחתית העמוד 2"
+
+#: functions.php:191
+msgid "Footer 1"
+msgstr "תחתית העמוד 1"
+
+#: functions.php:180
+msgid "Sidebar"
+msgstr "סרגל צדדי"
+
+#: functions.php:52
+msgid "Header"
+msgstr "תמונת כותרת"
+
+#: footer.php:41
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s."
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: footer.php:39
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+#: comments.php:42
+#: comments.php:64
+msgid "Newer Comments"
+msgstr "תגובות חדשות"
+
+#: comments.php:41
+#: comments.php:63
+msgid "Older Comments"
+msgstr "תגובות ישנות"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "ניווט תגובות"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "תגובה אחת בנושא &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s תגובות בנושא &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "כדאי לחפש בארכיון החודשי. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "קטגוריות בולטות"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "נראה שלא נמצא דבר בכתובת זו. כדאי לנסות אחד מהקישורים כאן למטה, או נסו באמצעות חיפוש"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת לא נמצא."

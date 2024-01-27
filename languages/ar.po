@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-23T02:41:02+00:00\n"
+"PO-Revision-Date: 2022-10-22 11:07:43+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:137
+msgid "White"
+msgstr "أبيض"
+
+#: functions.php:127
+msgid "Dark Gray"
+msgstr "رمادي داكن"
+
+#: functions.php:132
+msgid "Light Gray"
+msgstr "رمادي فاتح"
+
+#: inc/woocommerce.php:266
+msgid "View your shopping cart"
+msgstr "عرض سلة التسوق الخاصة بك"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:268
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d عنصر"
+msgstr[1] "عنصر واحد"
+msgstr[2] "عنصران"
+msgstr[3] "%d عناصر"
+msgstr[4] "%d عنصرا"
+msgstr[5] "%d عناصر"
+
+#. Description of the theme
+msgid "Independent Publisher 2 is a clean and polished theme with a light color scheme, bold typography, and full-width images."
+msgstr "يعد Independent Publisher 2 قالبا نظيفا وأنيقا ذو نظام ألوان فاتح وكتابة عريضة وصور كاملة العرض."
+
+#: template-parts/content-page.php:21
+#: template-parts/content-single.php:23
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكن إيجاد ما تبحث عنه. قد تفيدك خاصية البحث."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسفين, ولكن لا يوجد شئ مطابق لكلمات البحث التي ادخلتها, حاول بكلمات اخرى مرة ثانية."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "نُشر بواسطة %s"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "مشاهدة كل المقالات بواسطة %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/template-tags.php:150
+#: template-parts/content-search.php:28
+#: template-parts/content.php:18
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "متابعة قراءة %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:34
+msgid "Edit %s"
+msgstr "تحرير %s"
+
+#: inc/template-tags.php:79
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: inc/template-tags.php:79
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: template-parts/content-single.php:29
+msgid "Tagged"
+msgstr "مصنف"
+
+#: inc/template-tags.php:79
+msgid "Leave a comment"
+msgstr "أضف تعليق"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgid ", "
+msgstr "،"
+
+#: inc/template-tags.php:39
+#: inc/template-tags.php:130
+msgid "Featured"
+msgstr "المميز"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "خيارات القالب"
+
+#: header.php:54
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: functions.php:219
+msgid "Footer 3"
+msgstr "تذييل"
+
+#: functions.php:208
+msgid "Footer 2"
+msgstr "تذييل 2"
+
+#: functions.php:186
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: functions.php:197
+msgid "Footer 1"
+msgstr "تذييل 1"
+
+#: functions.php:52
+msgid "Header"
+msgstr "ترويسة"
+
+#: footer.php:41
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "الموقع يستخدم %s بكل فخر"
+
+#: footer.php:39
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:41
+#: comments.php:63
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "تصفّح التعليقات"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا توجد أراء حول &ldquo;%2$s&rdquo;"
+msgstr[1] "رأي واحد حول &ldquo;%2$s&rdquo;"
+msgstr[2] "رأيان حول &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "أكثر التصنيفات استخداماً"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول أن تبحث في الأرشيف الشهري. %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لايمكن العثور على تلك الصفحة."

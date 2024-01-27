@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-19T02:57:22+00:00\n"
+"PO-Revision-Date: 2022-03-18 10:54:33+0000\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:137
+msgid "White"
+msgstr "白"
+
+#: functions.php:132
+msgid "Light Gray"
+msgstr "淺灰色"
+
+#: functions.php:127
+msgid "Dark Gray"
+msgstr "深灰"
+
+#: inc/woocommerce.php:266
+msgid "View your shopping cart"
+msgstr "查看您的購物車"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:268
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 個品項"
+
+#. Description of the theme
+msgid "Independent Publisher 2 is a clean and polished theme with a light color scheme, bold typography, and full-width images."
+msgstr "Independent Publisher 2的設計乾淨簡練，有明亮的色調、顯目的字體，以及全版寬的圖片。"
+
+#: template-parts/content-page.php:21
+#: template-parts/content-single.php:23
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "頁面："
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "沒有找到任何項目"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "觀看 %s 的所有文章"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "發表者：%s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "關於「%s」的搜尋結果"
+
+#: inc/template-tags.php:150
+#: template-parts/content-search.php:28
+#: template-parts/content.php:18
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "繼續閱讀 %s <span class=\"meta-nav\">&rarr;</span> "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:34
+msgid "Edit %s"
+msgstr "編輯 %s"
+
+#: inc/template-tags.php:79
+msgid "% Comments"
+msgstr "% 則評論"
+
+#: inc/template-tags.php:79
+msgid "1 Comment"
+msgstr "1 則評論"
+
+#: inc/template-tags.php:79
+msgid "Leave a comment"
+msgstr "發表評論"
+
+#: template-parts/content-single.php:29
+msgid "Tagged"
+msgstr "已加上的標籤"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:39
+#: inc/template-tags.php:130
+msgid "Featured"
+msgstr "推薦"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "佈景主題選項"
+
+#: header.php:54
+msgid "Menu"
+msgstr "選單"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "跳至主內容區"
+
+#: functions.php:219
+msgid "Footer 3"
+msgstr "頁尾3"
+
+#: functions.php:208
+msgid "Footer 2"
+msgstr "頁尾2"
+
+#: functions.php:186
+msgid "Sidebar"
+msgstr "側邊欄"
+
+#: functions.php:197
+msgid "Footer 1"
+msgstr "頁尾1"
+
+#: functions.php:52
+msgid "Header"
+msgstr "頁首"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "評論已被關閉。"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Newer Comments"
+msgstr "較新的評論"
+
+#: comments.php:41
+#: comments.php:63
+msgid "Older Comments"
+msgstr "較舊的評論"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "評論分頁導航"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "對「%2$s」的%1$s則回應"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "這個位置似乎沒有任何項目。要嘗試以下其中一個連結或進行搜尋嗎？"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "嘗試搜尋每月封彙整。%1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "最常使用分類"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"

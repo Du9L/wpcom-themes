@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-05T01:37:58+00:00\n"
+"PO-Revision-Date: 2021-07-04 13:11:01+0000\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:121
+msgid "Dark Gray"
+msgstr "Темно-серый"
+
+#: functions.php:131
+msgid "White"
+msgstr "Белый"
+
+#: functions.php:126
+msgid "Light Gray"
+msgstr "Светло-серая"
+
+#: inc/woocommerce.php:266
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:268
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#. Description of the theme
+msgid "Independent Publisher 2 is a clean and polished theme with a light color scheme, bold typography, and full-width images."
+msgstr "Independent Publisher 2 — это аккуратная и проработанная тема в светлой цветовой гамме, отличающаяся выразительными шрифтами и полноширинными секциями изображений."
+
+#: template-parts/content-page.php:21
+#: template-parts/content-single.php:23
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Опубликовано %s"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Смотреть все записи автора %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/template-tags.php:150
+#: template-parts/content-search.php:28
+#: template-parts/content.php:18
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение %s <span class=\"meta-nav\">\t</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:34
+msgid "Edit %s"
+msgstr "Редактировать «%s»"
+
+#: inc/template-tags.php:79
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/template-tags.php:79
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: template-parts/content-single.php:29
+msgid "Tagged"
+msgstr "Отмечено"
+
+#: inc/template-tags.php:79
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:39
+#: inc/template-tags.php:130
+msgid "Featured"
+msgstr "Избранное"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: header.php:54
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:213
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:202
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:180
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:191
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:52
+msgid "Header"
+msgstr "Заголовок"
+
+#: footer.php:41
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s, автор: %2$s."
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:39
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Комментарии запрещены."
+
+#: comments.php:41
+#: comments.php:63
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: Один комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По этому адресу ничего не найдено. Воспользуйтесь одной из следующих ссылок или поиском."
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Самые используемые рубрики"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."

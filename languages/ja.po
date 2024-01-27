@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-01T02:17:51+00:00\n"
+"PO-Revision-Date: 2022-03-31 15:44:32+0000\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:127
+msgid "Dark Gray"
+msgstr "ダークグレー"
+
+#: functions.php:132
+msgid "Light Gray"
+msgstr "ライトグレー"
+
+#: functions.php:137
+msgid "White"
+msgstr "白"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:268
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d個の商品"
+
+#: inc/woocommerce.php:266
+msgid "View your shopping cart"
+msgstr "ショッピングカートを表示"
+
+#: inc/customizer.php:41
+msgid "Display estimated reading time on posts"
+msgstr "記事読了までの所要時間を表示する"
+
+#: template-parts/content-page.php:21
+#: template-parts/content-single.php:23
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "投稿者: %s"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "%s の投稿をすべて表示"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/template-tags.php:150
+#: template-parts/content-search.php:28
+#: template-parts/content.php:18
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:34
+msgid "Edit %s"
+msgstr "%s 編集"
+
+#: inc/template-tags.php:79
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:79
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: template-parts/content-single.php:29
+msgid "Tagged"
+msgstr "タグ:"
+
+#: inc/template-tags.php:79
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgid ", "
+msgstr "・"
+
+#: inc/template-tags.php:39
+#: inc/template-tags.php:130
+msgid "Featured"
+msgstr "おすすめ"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: header.php:54
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:219
+msgid "Footer 3"
+msgstr "フッター 3"
+
+#: functions.php:208
+msgid "Footer 2"
+msgstr "フッター 2"
+
+#: functions.php:186
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:197
+msgid "Footer 1"
+msgstr "フッター 1"
+
+#: functions.php:52
+msgid "Header"
+msgstr "ヘッダー"
+
+#: footer.php:41
+msgid "Theme: %1$s by %2$s."
+msgstr "テーマ: %1$s by %2$s."
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:39
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Newer Comments"
+msgstr "最新のコメント"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:41
+#: comments.php:63
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件のフィードバック"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください: %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "﻿ページが見つかりません。"
