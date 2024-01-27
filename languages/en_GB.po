@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Penscratch-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-26T01:32:58+00:00\n"
+"PO-Revision-Date: 2018-12-20 00:46:32+0000\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:104
+msgid "White"
+msgstr "White"
+
+#: functions.php:99
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:94
+msgid "Medium Gray"
+msgstr "Medium Gray"
+
+#: functions.php:89
+msgid "Dark Gray"
+msgstr "Dark Grey"
+
+#: inc/template-tags.php:33
+msgid "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+
+#: inc/wpcom-colors.php:70
+msgid "Red"
+msgstr "Red"
+
+#: inc/wpcom-colors.php:65
+msgid "Teal"
+msgstr "Teal"
+
+#: inc/wpcom-colors.php:60
+msgid "Purple"
+msgstr "Purple"
+
+#: functions.php:84
+#: inc/wpcom-colors.php:55
+msgid "Dark Green"
+msgstr "Dark Green"
+
+#: inc/wpcom-colors.php:50
+msgid "Dark Blue"
+msgstr "Dark Blue"
+
+#: inc/wpcom-colors.php:45
+msgid "Blue & Red"
+msgstr "Blue & Red"
+
+#: inc/wpcom-colors.php:24
+msgid "Links"
+msgstr "Links"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/penscratch-2/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Full Width, No Sidebar"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/penscratch-2/style.css
+msgid "A clean, responsive writing theme with support for custom logos, featured images, fancy pull quotes, and more."
+msgstr "A clean, responsive writing theme with support for custom logos, featured images, fancy pull quotes, and more."
+
+#: single.php:17
+msgid "Next &rsaquo;"
+msgstr "Next &rsaquo;"
+
+#: single.php:17
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Previous"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:21
+msgid "Featured"
+msgstr "Featured"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:39
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto Slab, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:220
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:167
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:159
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:151
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:143
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:47
+msgid "Header"
+msgstr "Header"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content.php:21
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content.php:21
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content.php:21
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: content-single.php:51
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post.
+#: content-single.php:33
+#: content.php:43
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: content-page.php:31
+#: content-single.php:21
+#: content.php:27
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: content-page.php:22
+#: content-single.php:38
+#: content.php:48
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-author.php:34
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: content-author.php:28
+msgid "Published by %s"
+msgstr "Published by %s"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:40
+#: comments.php:58
+msgid "Newer Comments &rsaquo;"
+msgstr "Newer Comments &rsaquo;"
+
+#: comments.php:39
+#: comments.php:57
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; Older Comments"
+
+#: comments.php:38
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
