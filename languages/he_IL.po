@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Altofocus\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-19T01:05:51+00:00\n"
+"PO-Revision-Date: 2021-07-18 13:44:10+0000\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:116
+msgid "Dark Gray"
+msgstr "אפור כהה"
+
+#: functions.php:131
+msgid "White"
+msgstr "לבן"
+
+#: functions.php:126
+msgid "Light Gray"
+msgstr "אפור בהיר"
+
+#: functions.php:121
+msgid "Medium Gray"
+msgstr "אפור ביניים"
+
+#: functions.php:111
+msgid "Orange"
+msgstr "כתום"
+
+#: components/footer/site-info.php:3
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#: functions.php:164
+msgid "Footer"
+msgstr "פוטר"
+
+#. Description of the theme
+msgid "AltoFocus is a theme for photographers, artists, and other creative types in search of a simple and easy way to display their work."
+msgstr "ערכת העיצוב AltoFocus היא ערכה לצלמים, אמניות, ואנשי יצירה אחרים שמחפשים דרך פשוטה וקלה להצגת העבודה והפעילות."
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור %s"
+
+#: inc/wpcom-colors.php:203
+msgid "Hover Color"
+msgstr "צבע ריחוף"
+
+#: inc/wpcom-colors.php:445
+msgid "Black on White"
+msgstr "שחור על לבן"
+
+#: inc/wpcom-colors.php:145
+msgid "Link Color"
+msgstr "צבע קישורים"
+
+#: inc/wpcom-colors.php:155
+#: inc/wpcom-colors.php:165
+msgid "Category Color 1"
+msgstr "צבע קטגוריה 1"
+
+#: inc/wpcom-colors.php:68
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "נכתב על ידי %s"
+
+#: inc/template-tags.php:76
+msgid "Tags %1$s"
+msgstr "תגיות %1$s"
+
+#: inc/template-tags.php:69
+msgid "Categories %1$s"
+msgstr "קטגוריות %1$s"
+
+#: functions.php:330
+#: single.php:21
+msgid "Previous"
+msgstr "קודם"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: functions.php:320
+msgid "collapse child menu"
+msgstr "הסתר תפריט"
+
+#: functions.php:329
+#: single.php:22
+msgid "Next"
+msgstr "לשלב הבא"
+
+#. translators: If there are characters in your language that are not supported
+#. by Libre Baskerville, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:189
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Karla SC, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:231
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:319
+msgid "expand child menu"
+msgstr "הצג תפריט"
+
+#: functions.php:53
+msgid "Top"
+msgstr "למעלה"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "מה שחיפשת לא נמצא. אולי חיפוש יכול לעזור."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכנים לפרסם את הפוסט הראשון? <a href=\"%1$s\">התחילו כאן</a>."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לחיפוש. יש לנסות שנית עם מילות מפתח חלופיות."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "דבר לא נמצא"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:19
+#: components/post/content.php:43
+#: inc/template-tags.php:47
+msgid "Edit %s"
+msgstr "לערוך את %s"
+
+#: components/page/content-page.php:32
+#: components/post/content-single.php:99
+msgid "Pages:"
+msgstr ":עמודים"
+
+#: components/navigation/navigation-top.php:14
+msgid "Menu"
+msgstr "תפריט"
+
+#: components/footer/site-info.php:5
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s."
+
+#: components/footer/site-info.php:3
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: comments.php:51
+msgid "Newer Comments"
+msgstr "תגובות חדשות"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+#: comments.php:50
+msgid "Older Comments"
+msgstr "תגובות ישנות"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "תגובה אחת"
+msgstr[1] "%1$s תגובות"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "ניווט תגובות"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "נראה שלא נמצא דבר בכתובת זו. כדאי לנסות אחד מהקישורים כאן למטה, או נסו באמצעות חיפוש"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת לא נמצא."
