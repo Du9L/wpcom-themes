@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Apostrophe-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-16T01:17:24+00:00\n"
+"PO-Revision-Date: 2021-08-25 19:32:43+0000\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:79
+msgid "Dark Blue"
+msgstr "Blu Scuro"
+
+#: functions.php:74
+msgid "Blue"
+msgstr "Blu"
+
+#: functions.php:69
+msgid "White"
+msgstr "Bianco"
+
+#: functions.php:64
+msgid "Light Gray"
+msgstr "Grigio chiaro"
+
+#: functions.php:59
+msgid "Medium Gray"
+msgstr "Grigio Medio"
+
+#: functions.php:54
+msgid "Dark Gray"
+msgstr "Grigio scuro"
+
+#: functions.php:49
+msgid "Black"
+msgstr "Nero"
+
+#. Template Name of the theme
+msgid "Full-Width Page"
+msgstr "Pagina a larghezza piena"
+
+#. Description of the theme
+msgid "A clean, no-nonsense magazine theme"
+msgstr "Un tema per magazine semplice e chiaro"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Risultati ricerca per: %s"
+
+#: inc/template-tags.php:37
+msgid "Featured"
+msgstr "In evidenza"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Salta al contenuto"
+
+#: header.php:29
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:292
+msgid "collapse child menu"
+msgstr "chiudi i menù child"
+
+#: functions.php:291
+msgid "expand child menu"
+msgstr "apri i menù child"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:236
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:230
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:209
+msgid "Footer Sidebar"
+msgstr "Barra laterale a piè di pagina"
+
+#: functions.php:198
+msgid "Tertiary"
+msgstr "Terziario"
+
+#: functions.php:187
+msgid "Secondary"
+msgstr "Secondario"
+
+#: functions.php:176
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:107
+msgid "Header Menu"
+msgstr "Menu testata"
+
+#: footer.php:26
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s di %2$s"
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Orgogliosamente fornito da %s"
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:16
+#: content-single.php:15
+msgid "Edit"
+msgstr "Modifica"
+
+#: content-page.php:25
+#: content-single.php:24
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Non riusciamo a trovare quello che cerchi. Forse eseguire una ricerca potrebbe essere di aiuto."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Spiacente, nulla corrisponde ai termini della tua ricerca. Riprova con parole chiave diverse."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sei pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Comincia da qui</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:35
+#: comments.php:51
+msgid "Newer Comments &raquo;"
+msgstr "Commenti seguenti &raquo;"
+
+#: comments.php:34
+#: comments.php:50
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Commenti precedenti"
+
+#: comments.php:33
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%s comments"
+msgstr[0] "Un commento"
+msgstr[1] "%s commenti"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provare a consultare gli archivi mensili. %1$s"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "Categorie più utilizzate"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sembra che non ci sia nulla a questo indirizzo. Perché non provi con uno dei link in basso o una ricerca?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
