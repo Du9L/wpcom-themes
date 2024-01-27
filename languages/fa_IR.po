@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Shoreditch\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-07T04:07:27+00:00\n"
+"PO-Revision-Date: 2024-01-06 16:42:16+0000\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:113
+msgid "Dark Gray"
+msgstr "خاکستری تیره"
+
+#: functions.php:128
+msgid "White"
+msgstr "سفید"
+
+#: functions.php:123
+msgid "Light Gray"
+msgstr "خاکستری روشن"
+
+#: functions.php:118
+msgid "Medium Gray"
+msgstr "خاکستری میانه"
+
+#: functions.php:108
+msgid "Blue"
+msgstr "آبی"
+
+#: eventbrite/eventbrite-index.php:50
+#: eventbrite/eventbrite-single.php:40
+msgid "Edit"
+msgstr "ویرایش"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:93
+msgid "Continue reading %s"
+msgstr "ادامه خواندن %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "منتشرشده به‌دست %s"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the theme
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the theme
+msgid "Full Width Page Template"
+msgstr "قالب صفحهٔ تمام‌پهنا"
+
+#. Description of the theme
+msgid "Shoreditch is a functional and responsive theme perfect for your business’s online presence. Although its main purpose is business, Shoreditch looks great as a personal blog theme too."
+msgstr "Shoreditch یک پوسته شرکتی و واکنش‌گراست که برای حضور آنلاین کسب و کار شما مناسب است. اگرچه هدف اصلی آن کسب و کار است، اما Shoreditch به عنوان یک پوسته وبلاگ شخصی هم عالی به نظر می‌رسد."
+
+#: template-parts/content-page.php:31
+#: template-parts/content-panel-page.php:33
+#: template-parts/content.php:43
+msgid "Page"
+msgstr "برگه"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:34
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن %s ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
+
+#: template-parts/content-page.php:27
+#: template-parts/content-panel-page.php:29
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>. "
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "دیدن همهٔ نوشته‌ها بر پایهٔ %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "نوشتۀ پسین:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "قبلی"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "تصویر پیشین:"
+
+#: attachment.php:29
+msgid "Published in"
+msgstr "منتشرشده در"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "جستجو &hellip;"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "جستجو"
+
+#: single.php:36
+msgid "Next"
+msgstr "پسین"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:67
+#: template-parts/content-attachment.php:38
+#: template-parts/content-page.php:41
+#: template-parts/content-panel-page.php:43
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: searchform.php:11
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "جست‌وجو برای:"
+
+#: inc/template-tags.php:60
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:60
+msgid "1 Comment"
+msgstr "1 دیدگاه"
+
+#: inc/template-tags.php:46
+msgid "Featured Post"
+msgstr "نوشتهٔ ویژه"
+
+#: inc/template-tags.php:60
+msgid "Leave a comment"
+msgstr "دیدگاهی بنویسید"
+
+#: inc/customizer.php:44
+#: inc/customizer.php:60
+msgid "1 Column"
+msgstr "۱ ستون"
+
+#: inc/jetpack.php:128
+msgid "Testimonials"
+msgstr "گواهی‌نامه‌ها"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:17
+#: inc/template-tags.php:52
+msgid ", "
+msgstr "، "
+
+#: header.php:43
+msgid "Primary Menu"
+msgstr "فهرست اصلی"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "گزینه‌های پوسته"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#: header.php:41
+msgid "Menu"
+msgstr "فهرست"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:213
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:218
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:267
+msgid "Back to top"
+msgstr "بازگشت به بالا"
+
+#: functions.php:275
+msgid "expand child menu"
+msgstr "بازکردن زیرفهرست"
+
+#: functions.php:276
+msgid "collapse child menu"
+msgstr "بستن زیرفهرست"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:208
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:60
+msgid "Primary"
+msgstr "اصلی"
+
+#: functions.php:158
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "با افتخار نیرو گرفته از %s"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب %1$s از %2$s."
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:55
+msgid "Older Comments"
+msgstr "دیدگاه‌های کهنه‌تر"
+
+#: comments.php:56
+msgid "Newer Comments"
+msgstr "دیدگاه‌های تازه‌تر"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "امکان ثبت دیدگاه وجود ندارد."
+
+#: archive-jetpack-testimonial.php:47
+msgid "Older testimonials"
+msgstr "گواهی‌نامه‌های قدیمی‌تر"
+
+#: archive-jetpack-testimonial.php:48
+msgid "Newer testimonials"
+msgstr "گواهی‌نامه‌های جدیدتر"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای «%2$s»"
+
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "هدایت دیدگاه"
+
+#: archive-jetpack-testimonial.php:49
+msgid "Testimonials navigation"
+msgstr "ناوبری گواهی‌نامه‌ها"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "دسته‌های بیشتر استفاده شده"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "بایگانی ماهانه را ببینید. %1$s"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد که چیزی این جا نیست. می‌خواهید از لینک‌های زیر یا جستجو استفاده کنید؟"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! این صفحه پیدا نمی‌شود."
