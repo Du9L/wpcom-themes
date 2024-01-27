@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Ixion\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-17T01:25:29+00:00\n"
+"PO-Revision-Date: 2019-03-14 23:24:18+0000\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:67
+msgid "Yellow"
+msgstr "Жълто"
+
+#: functions.php:62
+msgid "White"
+msgstr "Бяла"
+
+#: functions.php:57
+msgid "Light Gray"
+msgstr "Светлосив"
+
+#: functions.php:52
+msgid "Medium Gray"
+msgstr "Нормално сиво"
+
+#: functions.php:47
+msgid "Dark Gray"
+msgstr "Тъмносив"
+
+#: functions.php:42
+msgid "Black"
+msgstr "Черна"
+
+#: inc/customizer.php:64
+#: inc/customizer.php:84
+msgid "Dark"
+msgstr "Тъмно"
+
+#: inc/customizer.php:63
+#: inc/customizer.php:83
+msgid "Medium"
+msgstr "Среден"
+
+#: inc/customizer.php:62
+#: inc/customizer.php:82
+msgid "Light"
+msgstr "Светла"
+
+#: inc/customizer.php:61
+#: inc/customizer.php:81
+msgid "None"
+msgstr "Няма"
+
+#: inc/wpcom-colors.php:97
+msgid "Links & Buttons"
+msgstr "Връзки и бутони"
+
+#: inc/wpcom-colors.php:40
+msgid "Headings"
+msgstr "Заглавия"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Търсене &hellip;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53
+msgid "Tagged"
+msgstr "Маркиран"
+
+#: components/features/recent-posts/recent-posts.php:22
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/ixion/templates/full-width-page.php
+msgid "No Sidebar"
+msgstr "Без странична лента"
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "Търсене"
+
+#: searchform.php:11
+#: searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Търсене за:"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: inc/template-tags.php:58
+msgid "% Comments"
+msgstr "% Коментари"
+
+#: inc/template-tags.php:58
+msgid "1 Comment"
+msgstr "има 1 коментар"
+
+#: inc/template-tags.php:58
+msgid "Leave a comment"
+msgstr "Вашият коментар"
+
+#: inc/template-tags.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:33
+#: inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr "Допълнителни настройки"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#. translators: %s: Name of current post
+#: functions.php:326
+msgid "Continue reading %s"
+msgstr "Нататък %s"
+
+#: functions.php:219
+msgid "Footer 4"
+msgstr "Футър 4"
+
+#: functions.php:209
+msgid "Footer 3"
+msgstr "Футър 3"
+
+#: functions.php:199
+msgid "Footer 2"
+msgstr "Футър 2"
+
+#: functions.php:189
+msgid "Footer 1"
+msgstr "Футър 1"
+
+#: functions.php:179
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#: functions.php:100
+msgid "Header"
+msgstr "Заглавна картинка"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Има още <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Няма резултати, отговарящи на вашето търсене. Опитайте отново с други ключови думи. "
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Време е за първата ви публикация. <a href=\"%1$s\">Започнете от тук</a>."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Всички публикации от %s"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "Публикувано от %s "
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:28
+#: components/post/content-meta.php:6
+msgid "Edit %s"
+msgstr "Редактиране %s"
+
+#: components/page/content-page.php:18
+#: components/post/content.php:43
+msgid "Pages:"
+msgstr "Страници:"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Меню"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/features/testimonials/content-testimonials.php:24
+msgid "Edit"
+msgstr "Редактиране"
+
+#: components/features/recent-posts/recent-posts.php:22
+msgid "More Posts"
+msgstr "Още публикации"
+
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "Последни публикации"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Коментарите са затворени."
+
+#: comments.php:44
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "По-нови коментари"
+
+#: comments.php:43
+#: comments.php:64
+msgid "Older Comments"
+msgstr "По-стари коментари"
+
+#: comments.php:40
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Един коментар към &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментара към &ldquo;%2$s&rdquo;"
+
+#: archive-jetpack-testimonial.php:21
+msgid "Testimonials"
+msgstr "Препоръки"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Тук няма нищо. Опитайте с търсене?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страницата не е открита."

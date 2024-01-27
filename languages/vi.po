@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Ixion\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:56:23+00:00\n"
+"PO-Revision-Date: 2020-01-06 06:35:45+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:69
+msgid "Yellow"
+msgstr "Vàng"
+
+#: functions.php:44
+msgid "Black"
+msgstr "Đen"
+
+#: functions.php:64
+msgid "White"
+msgstr "Trắng"
+
+#: functions.php:59
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:49
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: functions.php:54
+msgid "Medium Gray"
+msgstr "Xám vừa"
+
+#: inc/customizer.php:63
+#: inc/customizer.php:83
+msgid "Medium"
+msgstr "Trung bình"
+
+#: inc/customizer.php:64
+#: inc/customizer.php:84
+msgid "Dark"
+msgstr "Màu tối"
+
+#: inc/customizer.php:62
+#: inc/customizer.php:82
+msgid "Light"
+msgstr "Màu nhẹ"
+
+#: inc/customizer.php:61
+#: inc/customizer.php:81
+msgid "None"
+msgstr "Trống"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Tìm kiếm &hellip;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53
+msgid "Tagged"
+msgstr "Thẻ"
+
+#: components/features/recent-posts/recent-posts.php:22
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: searchform.php:11
+#: searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/template-tags.php:58
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: inc/template-tags.php:58
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: inc/template-tags.php:58
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:33
+#: inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr "Tùy chỉnh cho giao diện"
+
+#. translators: %s: Name of current post
+#: functions.php:353
+msgid "Continue reading %s"
+msgstr "Đọc tiếp %s"
+
+#: functions.php:244
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions.php:232
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:220
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:208
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:103
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:196
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Xem các bài viết của %s"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:28
+#: components/post/content-meta.php:6
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "Đăng bởi %s"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menu"
+
+#: components/page/content-page.php:18
+#: components/post/content.php:43
+msgid "Pages:"
+msgstr "Trang:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "Bài viết mới"
+
+#: components/features/testimonials/content-testimonials.php:24
+msgid "Edit"
+msgstr "Sửa"
+
+#: components/features/recent-posts/recent-posts.php:22
+msgid "More Posts"
+msgstr "Thêm bài viết"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: comments.php:44
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:43
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: comments.php:40
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: archive-jetpack-testimonial.php:21
+msgid "Testimonials"
+msgstr "Nhận xét của khách hàng "
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
