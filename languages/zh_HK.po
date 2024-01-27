@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-13T02:03:05+00:00\n"
+"PO-Revision-Date: 2022-10-12 10:28:12+0000\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:86
+msgid "White"
+msgstr "白"
+
+#: functions.php:91
+msgid "Blue"
+msgstr "藍"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "淺灰色"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "深灰"
+
+#: functions.php:76
+msgid "Medium Gray"
+msgstr "灰色"
+
+#: functions.php:66
+msgid "Black"
+msgstr "黑"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s 有 &ldquo; %1$s 則評論 &rdquo;"
+
+#: inc/woocommerce.php:270
+msgid "View your shopping cart"
+msgstr "查看您的購物車"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:272
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 個品項"
+
+#: functions.php:339
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "繼續閱讀 <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid "Tagged"
+msgstr "已加上的標籤"
+
+#. Description of the theme
+msgid "With bold featured images and bright, cheerful colors, Dara is ready to get to work for your business."
+msgstr "「Dara」佈景主題擁有顯眼的特色圖片以及活潑明亮的色彩，讓你的企業大放精采。"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "上一篇文章"
+
+#: single.php:20
+msgid "Next post"
+msgstr "下一篇文章"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "關於「%s」的搜尋結果"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "%個回應"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "1個意見"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "發表評論"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "佈景主題選項"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳至主內容區"
+
+#: functions.php:269
+msgid "Footer 2"
+msgstr "頁尾2"
+
+#: functions.php:279
+msgid "Footer 3"
+msgstr "頁尾3"
+
+#: functions.php:249
+msgid "Sidebar"
+msgstr "側邊欄"
+
+#: functions.php:259
+msgid "Footer 1"
+msgstr "頁尾1"
+
+#: functions.php:106
+msgid "Header"
+msgstr "頁首"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "繼續閱讀 %s <span class=\"meta-nav\">&rarr;</span> "
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "觀看 %s 的所有文章"
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "沒有找到任何項目"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: components/testimonials/content-testimonial.php:25
+#: inc/template-tags.php:38
+msgid "Edit %s"
+msgstr "編輯 %s"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "發表者：%s"
+
+#: components/page/content-page.php:21
+#: components/post/content.php:54
+msgid "Pages:"
+msgstr "頁次："
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "選單"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://zh-hk.wordpress.org/"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "評論已被關閉。"
+
+#: comments.php:57
+#: comments.php:77
+msgid "Newer Comments"
+msgstr "較新的評論"
+
+#: comments.php:56
+#: comments.php:76
+msgid "Older Comments"
+msgstr "較舊的評論"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "「%s」 有 1 則評論"
+
+#: comments.php:53
+#: comments.php:73
+msgid "Comment navigation"
+msgstr "評論分頁導航"
+
+#: archive-jetpack-testimonial.php:28
+msgid "Testimonials"
+msgstr "證言"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "在這裡找不到符合條件的項目，請使用搜尋功能進行查詢。"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"
