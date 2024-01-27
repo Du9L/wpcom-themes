@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Intergalactic-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-03T01:22:26+00:00\n"
+"PO-Revision-Date: 2018-12-23 00:36:02+0000\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:92
+msgid "Dark Green"
+msgstr "Σκούρο Πράσινο"
+
+#: functions.php:77
+msgid "White"
+msgstr "Λευκό"
+
+#: functions.php:72
+msgid "Light Gray"
+msgstr "Ανοιχτό Γκρι"
+
+#: functions.php:67
+msgid "Dark Gray"
+msgstr "Σκούρο Γκρι"
+
+#: functions.php:62
+msgid "Black"
+msgstr "Μαύρο"
+
+#: content.php:14
+msgid "Featured"
+msgstr "Προβεβλημένα"
+
+#: single.php:27
+msgid "Next"
+msgstr "Επόμενη"
+
+#: single.php:27
+msgid "Previous"
+msgstr "Προηγούμενες"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για : %s"
+
+#: inc/wpcom-colors.php:108
+msgid "Blue"
+msgstr "Μπλε"
+
+#: inc/wpcom-colors.php:101
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: inc/wpcom-colors.php:94
+msgid "Orange"
+msgstr "Πορτοκαλί"
+
+#: inc/wpcom-colors.php:87
+msgid "Yellow"
+msgstr "Κίτρινο"
+
+#: inc/wpcom-colors.php:80
+msgid "Green"
+msgstr "Πράσινο"
+
+#: functions.php:82
+#: inc/wpcom-colors.php:74
+msgid "Purple"
+msgstr "Μωβ"
+
+#: inc/wpcom-colors.php:27
+msgid "Headings"
+msgstr "Επικεφαλίδες"
+
+#: inc/wpcom-colors.php:20
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "από %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Δημοσιεύθηκε την %s"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Μετάβαση σε περιεχόμενο"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:226
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: functions.php:173
+msgid "Footer 3"
+msgstr "Υποσέλιδο 3"
+
+#: functions.php:165
+msgid "Footer 2"
+msgstr "Υποσέλιδο 2"
+
+#: functions.php:157
+msgid "Footer 1"
+msgstr "Υποσέλιδο 1"
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: footer.php:40
+msgid "Theme: %1$s by %2$s."
+msgstr "Θέμα: %1$s από %2$s."
+
+#: footer.php:38
+msgid "Proudly powered by %s"
+msgstr "Με την υποστήριξη του %s"
+
+#: footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:48
+msgid "Tags:"
+msgstr "Ετικέτες:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:45
+#: content-single.php:48
+msgid ", "
+msgstr ","
+
+#: content-page.php:41
+#: content-single.php:55
+#: content.php:25
+msgid "Edit"
+msgstr "Αλλαγή"
+
+#: content-page.php:35
+#: content-single.php:36
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Κανένα αποτέλεσμα"
+
+#: content-author.php:34
+msgid "View all posts by %s"
+msgstr "Δείτε όλα τα άρθρα του/της %s"
+
+#: content-author.php:28
+msgid "Published by %s"
+msgstr "Δημοσιεύθηκε από %s"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι απενεργοποιημένα."
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια \t"
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "← Παλαιότερα σχόλια"
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μια σκέψη σχετικά μέ το &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις σχετικά με το &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Φαίνεται ότι δεν βρέθηκε τίποτα σε αυτή την τοποθεσία. Μήπως να δοκιμάζατε μια αναζήτηση;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."
