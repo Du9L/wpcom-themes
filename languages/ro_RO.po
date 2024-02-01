@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blogorama\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-23T01:45:30+00:00\n"
+"PO-Revision-Date: 2023-11-22 13:23:52+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: styles/PeachyOcean.json
+msgctxt "Style variation name"
+msgid "PeachyOcean"
+msgstr "PeachyOcean"
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr "Despre"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr "arhivă"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/footer-pages.php
+msgctxt "Pattern title"
+msgid "footer-pages"
+msgstr "pagini subsol"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr "subsol"
+
+#: patterns/header-pages.php
+msgctxt "Pattern title"
+msgid "header-pages"
+msgstr "pagini antet"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "arrow"
+msgstr "săgeată"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr "index"
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "page"
+msgstr "pagină"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr "căutare"
+
+#. Description of the theme
+msgid "A beautifully designed blog theme displaying large typography and customizable color palettes. With a clean and modern design, Blogorama offers a unique and engaging way to showcase your blog content."
+msgstr "O temă pentru bloguri proiectată frumos, cu tipografice mari și palete de culori personalizabile. Cu un design curat și modern, Blogorama îți oferă un mod unic și atractiv de a-ți prezenta conținutul blogului."
+
+#: patterns/footer-pages.php:23
+msgid "⏬"
+msgstr "⏬"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:42
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php:44
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/index.php:77
+msgid "😣"
+msgstr "😣"
+
+#: patterns/index.php:84
+msgid "Sorry, no results found."
+msgstr "Regret, nu am găsit niciun rezultat."
+
+#: patterns/search.php:24
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/archive.php:83
+#: patterns/index.php:97
+#: patterns/search.php:91
+msgid "Next"
+msgstr "Următoare"
+
+#: patterns/archive.php:48
+#: patterns/index.php:40
+#: patterns/search.php:56
+msgid "·"
+msgstr "·"
+
+#: patterns/archive.php:79
+#: patterns/index.php:93
+#: patterns/search.php:87
+msgid "Previous"
+msgstr "Anterioară"
+
+#: patterns/about.php:10
+msgid "A beautifully designed WordPress blog theme displaying large typography and customizable color palettes. With its clean and modern design, Blogorama offers a unique and engaging way to showcase your blog content."
+msgstr "O temă WordPress pentru bloguri proiectată frumos, cu tipografice mari și palete de culori personalizabile. Cu un design curat și modern, Blogorama îți oferă un mod unic și atractiv de a-ți prezenta conținutul blogului."
+
+#: patterns/404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: patterns/404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagina nu poate fi găsită."

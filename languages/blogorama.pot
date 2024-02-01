@@ -1,0 +1,233 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogorama 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blogorama\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-21T01:45:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: blogorama\n"
+
+#. Theme Name of the theme
+msgid "Blogorama"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/wordpress/blogorama/"
+msgstr ""
+
+#. Description of the theme
+msgid "A beautifully designed blog theme displaying large typography and customizable color palettes. With a clean and modern design, Blogorama offers a unique and engaging way to showcase your blog content."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wordpress.org/themes/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: patterns/404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr ""
+
+#: patterns/about.php:10
+msgid "A beautifully designed WordPress blog theme displaying large typography and customizable color palettes. With its clean and modern design, Blogorama offers a unique and engaging way to showcase your blog content."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr ""
+
+#: patterns/archive.php:48
+#: patterns/index.php:40
+#: patterns/search.php:56
+msgid "·"
+msgstr ""
+
+#: patterns/archive.php:79
+#: patterns/index.php:93
+#: patterns/search.php:87
+msgid "Previous"
+msgstr ""
+
+#: patterns/archive.php:83
+#: patterns/index.php:97
+#: patterns/search.php:91
+msgid "Next"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer-pages.php
+msgctxt "Pattern title"
+msgid "footer-pages"
+msgstr ""
+
+#: patterns/footer-pages.php:23
+msgid "⏬"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:42
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/header-pages.php
+msgctxt "Pattern title"
+msgid "header-pages"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "arrow"
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#: patterns/index.php:77
+msgid "😣"
+msgstr ""
+
+#: patterns/index.php:84
+msgid "Sorry, no results found."
+msgstr ""
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "page"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr ""
+
+#: patterns/search.php:24
+msgid "Search"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Cookie and cream"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Purple and lavender"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Maroon and vanilla"
+msgstr ""
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/CoralDream.json
+#: styles/PeachyOcean.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: styles/CoralDream.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: styles/PeachyOcean.json
+msgctxt "Style variation name"
+msgid "PeachyOcean"
+msgstr ""
