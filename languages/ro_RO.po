@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Eventual\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-13T02:22:05+00:00\n"
+"PO-Revision-Date: 2023-11-12 09:01:49+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr "prima pagină"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr "index"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: patterns/404.php:43
+#: patterns/footer-light.php:22
+#: patterns/footer.php:17
+#: patterns/home.php:53
+#: patterns/index.php:62
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/hidden-no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. Description of the theme
+msgid "As its name states Eventual is a theme designed for events and ceremonies. It is simple, and direct allowing users to display the essence of their subject with a large artwork on the Homepage."
+msgstr "Așa cum sugerează și numele, Eventual este o temă proiectată pentru evenimente și ceremonii. Este simplă și directă, permițând utilizatorilor să afișeze pe prima pagină esența subiectelor cu o lucrare de artă mare."
+
+#. Translators: WordPress link.
+#: patterns/404.php:41
+#: patterns/footer-light.php:20
+#: patterns/footer.php:15
+#: patterns/home.php:51
+#: patterns/index.php:60
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
