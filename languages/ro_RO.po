@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Freddie\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-05T02:13:52+00:00\n"
+"PO-Revision-Date: 2023-07-04 06:06:15+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Foarte mare dublu"
+
+#: patterns/footer.php:18
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: styles/snow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: styles/snow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: styles/snow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: patterns/search.php:25
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Căutare..."
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Nu am găsit conținut"
+
+#: styles/snow.json
+msgctxt "Style variation name"
+msgid "Snow"
+msgstr "Zăpadă"
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Post"
+msgstr "Articol"
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "A page"
+msgstr "O pagină"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "An index page"
+msgstr "O pagină index"
+
+#: patterns/header.php:14
+msgid "It&rsquo;s a beautiful day.<br>The sun is shining.<br>I feel good.<br>And no one&rsquo;s gonna stop me now."
+msgstr "Este o zi frumoasă.<br> Soarele strălucește.<br> Mă simt bine.<br> Și nimeni nu mă va opri acum."
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Antet implicit"
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "A front page"
+msgstr "O pagină din față"
+
+#: patterns/front-page-alt.php
+msgctxt "Pattern title"
+msgid "Front page (alt)"
+msgstr "Pagina din față (alt)"
+
+#: patterns/404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:16
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "An archive page"
+msgstr "O pagină de arhivă"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagina nu poate fi găsită."
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Freddie is a theme using a full-screen background image to captivate the viewer with a brief, immersive moment."
+msgstr "Freddie este o temă care folosește o imagine de fundal pe tot ecranul pentru a încânta privitorii cu un moment succint și captivant."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/freddie"
+msgstr "https://wordpress.com/theme/freddie"
+
+#. Theme Name of the theme
+msgid "Freddie"
+msgstr "Freddie"
