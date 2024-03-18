@@ -1,0 +1,238 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Foam 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/foam\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-15T02:27:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: foam\n"
+
+#. Theme Name of the theme
+msgid "Foam"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/tree/trunk/foam"
+msgstr ""
+
+#. Description of the theme
+msgid "Foam is a simple theme that supports full-site editing. It comes with a set of minimal templates and design settings that can be manipulated through Global Styles. Use it to build something beautiful."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: patterns/404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/faqs.php
+msgctxt "Pattern title"
+msgid "FAQs"
+msgstr ""
+
+#: patterns/faqs.php:10
+msgid "How can I participate in the FOAM_ Conference?"
+msgstr ""
+
+#: patterns/faqs.php:11
+msgid "To participate in FOAM_, you can register through the official conference website. Once registered, you will receive access to the virtual conference platform, where you can attend keynote speeches, panel discussions, workshops, and networking sessions."
+msgstr ""
+
+#: patterns/faqs.php:16
+msgid "What technology do I need to attend the FOAM_ Conference?"
+msgstr ""
+
+#: patterns/faqs.php:17
+msgid "To attend the conference, you will need a computer or mobile device with a stable internet connection. The conference will be accessible through a web-based platform, so no additional software installation is required. Make sure your device has a modern web browser to ensure optimal viewing and interaction."
+msgstr ""
+
+#: patterns/faqs.php:22
+msgid "Will sessions be available for on-demand viewing after the conference?"
+msgstr ""
+
+#: patterns/faqs.php:23
+msgid "Yes, FOAM_ aims to provide a valuable experience for all participants. Most sessions, including keynote speeches and panel discussions, will be recorded and made available for on-demand viewing after the conference. This allows attendees to revisit sessions they missed or explore additional content at their convenience."
+msgstr ""
+
+#: patterns/faqs.php:28
+msgid "How can I network and connect with other participants during the FOAM_ Conference?"
+msgstr ""
+
+#: patterns/faqs.php:29
+msgid "FOAM_ offers various networking opportunities within the virtual conference platform. You can engage in virtual meetups, one-on-one networking sessions, and themed discussion forums to connect with fellow attendees, speakers, and industry experts. These features enable meaningful interactions and collaboration, replicating the networking experience of an in-person conference."
+msgstr ""
+
+#: patterns/faqs.php:34
+msgid "Will there be a virtual exhibition or showcase?"
+msgstr ""
+
+#: patterns/faqs.php:35
+msgid "Yes, FOAM_ will feature a virtual exhibition area where attendees can explore booths and showcases by innovative startups, established companies, and industry organizations. This interactive space allows participants to engage in live demos, interact with exhibitors, and discover the latest digital technologies and services."
+msgstr ""
+
+#: patterns/faqs.php:40
+msgid "Can I receive a certificate of attendance or participation for the FOAM_ Conference?"
+msgstr ""
+
+#: patterns/faqs.php:41
+msgid "Yes, FOAM_ provides certificates of attendance or participation for conference attendees. These certificates can be obtained through the conference website after the event by completing a simple request form. Certificates can serve as evidence of professional development and can be beneficial for career growth or educational purposes."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:23
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/speakers.php
+msgctxt "Pattern title"
+msgid "speakers"
+msgstr ""
+
+#: patterns/speakers.php:16
+msgid "Mark Stu"
+msgstr ""
+
+#: patterns/speakers.php:20
+msgid "An influential voice in cybersecurity, Mark Stu will address the evolving challenges of online security and the need for inclusive strategies to safeguard digital infrastructure, protecting individuals and organizations from cyber threats."
+msgstr ""
+
+#: patterns/speakers.php:32
+msgid "Rita Verma"
+msgstr ""
+
+#: patterns/speakers.php:36
+msgid "A leading expert in digital marketing and consumer behavior, Verma will explore the power of inclusive marketing strategies and how businesses can effectively engage diverse audiences in the digital era."
+msgstr ""
+
+#: patterns/speakers.php:48
+msgid "Kendall Ramirez"
+msgstr ""
+
+#: patterns/speakers.php:52
+msgid "A respected expert in human-computer interaction, Kendall Ramirez will explore the principles of inclusive design, emphasizing the need to create digital experiences that are accessible and user-friendly for individuals of all abilities."
+msgstr ""
+
+#: patterns/speakers.php:62
+msgid "Dr. Isabelle Khan"
+msgstr ""
+
+#: patterns/speakers.php:66
+msgid "A trailblazer in the field of virtual reality, Dr. Khan will delve into the ways VR can be harnessed for educational purposes, focusing on inclusivity in VR experiences and the democratization of knowledge."
+msgstr ""
+
+#: patterns/speakers.php:78
+msgid "Alex Wong"
+msgstr ""
+
+#: patterns/speakers.php:82
+msgid "A prominent figure in the world of venture capital, Alex Wong will shed light on the importance of diversity and inclusion in investment decisions, promoting equity and providing opportunities for underrepresented founders."
+msgstr ""
+
+#: patterns/speakers.php:94
+msgid "Robert Nguyen"
+msgstr ""
+
+#: patterns/speakers.php:98
+msgid "A pioneer in the field of augmented reality, Robert Nguyen will showcase the potential of AR technologies in creating inclusive and immersive digital experiences, revolutionizing industries such as education, healthcare, and entertainment."
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
