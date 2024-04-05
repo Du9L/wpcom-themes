@@ -1,0 +1,173 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Issue 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/issue\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-04T03:16:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: issue\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Issue"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://github.com/wordpress/issue/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Issue is a magazine theme focused on sizable typography and imagery to grow your blog posts, reviews, artwork, and news."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: patterns/404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer-pages.php
+msgctxt "Pattern title"
+msgid "footer-pages"
+msgstr ""
+
+#: patterns/footer-pages.php:19
+#: patterns/footer.php:19
+msgid "Issue is a magazine-style theme design that displays blog posts, reviews, artwork and news."
+msgstr ""
+
+#: patterns/footer-pages.php:23
+#: patterns/footer.php:23
+msgid "⏬"
+msgstr ""
+
+#: patterns/footer-pages.php:27
+#: patterns/footer.php:27
+msgid "It comes with different styles to spark your creativity in making it just as you'd like to."
+msgstr ""
+
+#: patterns/footer-pages.php:36
+#: patterns/footer.php:36
+msgid "Designed with "
+msgstr ""
+
+#: patterns/footer-pages.php:38
+#: patterns/footer.php:38
+msgid "WordPress"
+msgstr ""
+
+#: patterns/footer-pages.php:65
+#: patterns/footer.php:65
+msgid "MagBlog is a magazine theme focused on sizable type and imagery to expand your content. Make it yours ⏬"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#: patterns/header-pages.php
+msgctxt "Pattern title"
+msgid "header-pages"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: styles/antique.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
