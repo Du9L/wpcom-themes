@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Strand\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-12T04:23:09+00:00\n"
+"PO-Revision-Date: 2024-01-11 13:33:29+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/hidden-no-results-content.php:11
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: patterns/footer-widgets.php:23
+msgid "About"
+msgstr "Om"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Grön"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Blå"
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Bakgrund"
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Förgrund"
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Dolt innehåll utan resultat"
+
+#: patterns/footer.php:20
+msgid "Designed with %1$s"
+msgstr "Designad med %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:18
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Standardsidfot"
+
+#: patterns/footer-widgets.php:15
+msgid "Navigation"
+msgstr "Navigering"
+
+#: patterns/footer-widgets.php
+msgctxt "Pattern title"
+msgid "Footer Widget Area"
+msgstr "Sidfotens widgetområde"
+
+#: patterns/404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova en sökning?"
+
+#: patterns/404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "En 404-sida"
+
+#. Author URI of the theme
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme Name of the theme
+msgid "Strand"
+msgstr "Strand"
