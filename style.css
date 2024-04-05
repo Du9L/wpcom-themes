@@ -1,0 +1,31 @@
+/*
+Theme Name: Poesis
+Theme URI: https://wordpress.com/themes/poesis/
+Description: Poesis pays homage to the literary figures represented in the painting “Six Tuscan Poets” by the Italian Renaissance painter, architect, and art historian Giorgio Vasari and is ideal for poetry or short stories. The theme\'s main feature is its split layout, with a full height column containing a sticky header and footer and scrollable content on the other column.
+Version: 1.0.4
+Author: Automattic
+Author URI: https://automattic.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: poesis
+*/
+
+/*
+ * Control the hover stylings of outline block style.
+ * Unnecessary once block styles are configurable via theme.json
+ * https://github.com/WordPress/gutenberg/issues/42794
+ */
+.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--background);
+	border-color: var(--wp--preset--color--secondary);
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: .0625em !important;
+	text-underline-offset: .15em;
+}
