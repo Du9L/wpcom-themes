@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Screenplay\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-28T03:25:41+00:00\n"
+"PO-Revision-Date: 2023-07-27 13:54:55+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#: patterns/hidden-no-results-content.php:11
+msgid "Sorry, but nothing matched your search terms."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare."
+
+#: patterns/hidden-no-results-content.php:15
+msgid "Please try again with some different keywords."
+msgstr "Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: patterns/hidden-hero-text.php:47
+msgid "Produced by:"
+msgstr "Produs de:"
+
+#: patterns/hidden-hero-text.php:37
+msgid "Directed by:"
+msgstr "Regizat de:"
+
+#: patterns/hidden-hero-text.php:27
+msgid "Script by:"
+msgstr "Scenariu de:"
+
+#: patterns/hidden-header-rating-banner.php
+msgctxt "Pattern title"
+msgid "Header rating banner"
+msgstr "Banner de evaluare în antet"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:21
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php:23
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/hidden-header-banner.php:16
+msgid "Share"
+msgstr "Partajează"
+
+#: patterns/hidden-header-banner.php
+msgctxt "Pattern title"
+msgid "Header banner"
+msgstr "Banner în antet"
+
+#: patterns/footer.php:34
+msgid "This is a sample to spark your creativity. Enjoy."
+msgstr "Acesta este un exemplu care să-ți stimuleze creativitatea. Bucură-te."
+
+#: patterns/404.php:22
+msgid "That page can’t be found."
+msgstr "Acea pagină nu poate fi găsită."
+
+#: patterns/404.php:18
+msgid "Oooooops!"
+msgstr "Hopa!"
+
+#. Theme Name of the theme
+msgid "Screenplay"
+msgstr "Scenariu"
+
+#. Description of the theme
+msgid "Screenplay is a simple blog theme that suits perfectly writers or the general public that would like to have their sites formatted as movie scripts."
+msgstr "Screenplay este o temă simplă pentru bloguri, perfectă pentru scriitori și toate persoanele care doresc ca site-urile lor să fie formatate ca niște scenarii de film."
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/tree/trunk/screenplay"
+msgstr "https://github.com/Automattic/themes/tree/trunk/screenplay"

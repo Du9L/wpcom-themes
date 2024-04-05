@@ -1,0 +1,205 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Screenplay 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/screenplay\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-04T04:31:22+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: screenplay\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Screenplay"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://github.com/Automattic/themes/tree/trunk/screenplay"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Screenplay is a simple blog theme that suits perfectly writers or the general public that would like to have their sites formatted as movie scripts."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:18
+msgid "Oooooops!"
+msgstr ""
+
+#: patterns/404.php:22
+msgid "That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:21
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/footer.php:34
+msgid "This is a sample to spark your creativity. Enjoy."
+msgstr ""
+
+#: patterns/hidden-header-banner.php
+msgctxt "Pattern title"
+msgid "Header banner"
+msgstr ""
+
+#: patterns/hidden-header-banner.php:12
+msgid "CROWDFUNDING AVAILABLE — Join now!"
+msgstr ""
+
+#: patterns/hidden-header-banner.php:16
+msgid "Share"
+msgstr ""
+
+#: patterns/hidden-header-rating-banner.php
+msgctxt "Pattern title"
+msgid "Header rating banner"
+msgstr ""
+
+#: patterns/hidden-header-rating-banner.php:12
+msgid "Active Crowdfunding — Join now!"
+msgstr ""
+
+#: patterns/hidden-hero-text.php
+msgctxt "Pattern title"
+msgid "Home page hero text"
+msgstr ""
+
+#: patterns/hidden-hero-text.php:16
+msgid "After completing a hit in Russia, Goncharov travels to Naples to lay low, but his past catches up with him when a former associate appears with a job. Meanwhile, his wife Katya is having an affair, and his former ally Andrey returns, stirring up old feelings. As Goncharov navigates the deadly world of Neapolitan mafia, he must also confront his personal demons and settle his loyalties."
+msgstr ""
+
+#: patterns/hidden-hero-text.php:27
+msgid "Script by:"
+msgstr ""
+
+#: patterns/hidden-hero-text.php:31
+msgid "A celebrated artificial intelligence chatbot platform launched in late 2022."
+msgstr ""
+
+#: patterns/hidden-hero-text.php:37
+msgid "Directed by:"
+msgstr ""
+
+#: patterns/hidden-hero-text.php:47
+msgid "Produced by:"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:11
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:15
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/arctic.json
+#: styles/rouge.json
+#: styles/sour-yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
