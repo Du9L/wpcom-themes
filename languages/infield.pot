@@ -1,0 +1,256 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Infield 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/infield\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-04T03:13:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: infield\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Infield"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/infield"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A passionate sports fan blog celebrating your favorite game."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/byline-date.php
+msgctxt "Pattern title"
+msgid "Byline and Date Post Meta"
+msgstr ""
+
+#: patterns/byline-date.php:17
+msgctxt "Preposition: Refers to the post publish date"
+msgid "on"
+msgstr ""
+
+#: patterns/footer-alt.php
+msgctxt "Pattern title"
+msgid "Footer Alternative"
+msgstr ""
+
+#: patterns/footer-alt.php:21
+msgid "About"
+msgstr ""
+
+#: patterns/footer-alt.php:25
+msgid "A passionate baseball fan blog celebrating America's favorite pastime."
+msgstr ""
+
+#: patterns/footer-alt.php:31
+msgid "Topics"
+msgstr ""
+
+#: patterns/footer-alt.php:39
+msgid "Follow Us"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer-alt.php:57
+#: patterns/footer.php:23
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer-alt.php:59
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home-featured.php
+msgctxt "Pattern title"
+msgid "Home Page - Featured Post"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:18
+msgid "Recent posts"
+msgstr ""
+
+#: patterns/sidebar.php:34
+msgid "Quote of the week"
+msgstr ""
+
+#: patterns/sidebar.php:39
+msgid "\"People ask me what I do in the winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.\""
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "~ Rogers Hornsby"
+msgstr ""
+
+#: styles/grand-slam.json
+#: styles/home-run.json
+#: styles/slugger-gold.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent 1"
+msgstr ""
+
+#: styles/grand-slam.json
+#: styles/home-run.json
+#: styles/slugger-gold.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent 2"
+msgstr ""
+
+#: styles/grand-slam.json
+#: styles/home-run.json
+#: styles/slugger-gold.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/grand-slam.json
+#: styles/home-run.json
+#: styles/slugger-gold.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/grand-slam.json
+#: styles/home-run.json
+#: styles/slugger-gold.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent 3"
+msgstr ""
+
+#: styles/grand-slam.json
+#: styles/home-run.json
+#: styles/slugger-gold.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent 4"
+msgstr ""
+
+#: styles/grand-slam.json
+msgctxt "Style variation name"
+msgid "Grand Slam"
+msgstr ""
+
+#: styles/home-run.json
+msgctxt "Style variation name"
+msgid "Home Run"
+msgstr ""
+
+#: styles/slugger-gold.json
+msgctxt "Style variation name"
+msgid "Slugger Gold"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr ""
