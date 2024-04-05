@@ -1,0 +1,26 @@
+/*
+Theme Name: Sten
+Theme URI: https://wordpress.com/themes/sten/
+Description: Sten is a simple blogging theme with a functional design. It is ideal for taking notes, writing short or long text, and includes a post sidebar and comment section.
+Version: 1.0.3
+Author: Automattic
+Author URI: https://automattic.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sten
+*/
+
+.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--background);
+	border-color: var(--wp--preset--color--secondary);
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: .0625em !important;
+	text-underline-offset: .15em;
+}
