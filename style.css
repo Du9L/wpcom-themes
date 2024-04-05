@@ -1,0 +1,31 @@
+/*
+Theme Name: Pieria
+Theme URI: https://wordpress.com/themes/pieria/
+Description: Pieria is a theme focused on typography — essentially following a low-level styling approach. Its headings, paragraphs, links, and navigation have the same appearance, with everything sitting quietly into simple columns that split navigation, blog posts, and a content block. A soft design to make your content sparkle.
+Version: 1.0.3
+Author: Automattic
+Author URI: https://automattic.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: pieria
+*/
+
+/*
+ * Control the hover stylings of outline block style.
+ * Unnecessary once block styles are configurable via theme.json
+ * https://github.com/WordPress/gutenberg/issues/42794
+ */
+.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--background);
+	border-color: var(--wp--preset--color--secondary);
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: .0625em !important;
+	text-underline-offset: .15em;
+}
