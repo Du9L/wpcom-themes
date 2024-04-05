@@ -1,0 +1,314 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Archeo 1.0.21\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/archeo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-04T01:43:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: archeo\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Archeo"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/archeo"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A theme inspired by Mayan history and culture"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: functions.php:74
+msgid "Images"
+msgstr ""
+
+#: functions.php:75
+msgid "Featured"
+msgstr ""
+
+#: functions.php:76
+msgid "Footers"
+msgstr ""
+
+#: functions.php:77
+msgid "Query"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:21
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: patterns/footer.php:22
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/headline-over-dark-image.php
+msgctxt "Pattern title"
+msgid "Headline over dark image"
+msgstr ""
+
+#: patterns/headline-over-dark-image.php:10
+msgid "Photo of the Governor's Palace at Uxmal"
+msgstr ""
+
+#: patterns/headline-over-dark-image.php:11
+msgid "Governor's <br>palace at Uxmal, <br>detail of the <br>main gate"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 content"
+msgstr ""
+
+#: patterns/hidden-404.php:11
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:14
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:21
+msgid "Search"
+msgstr ""
+
+#: patterns/image-with-description-and-right-aligned-headline.php
+msgctxt "Pattern title"
+msgid "Image with description and right-aligned headline"
+msgstr ""
+
+#: patterns/image-with-description-and-right-aligned-headline.php:13
+msgid "The Nunnery Quadrangle at Uxmal"
+msgstr ""
+
+#: patterns/image-with-description-and-right-aligned-headline.php:20
+msgid "Photo of the Nunnery Quadrangle, at Uxmal"
+msgstr ""
+
+#: patterns/image-with-description-and-right-aligned-headline.php:26
+#: patterns/layout-with-two-images-and-text.php:22
+msgid "Photograph by Désiré Charnay, 1862 – 1863"
+msgstr ""
+
+#: patterns/image-with-description-and-right-aligned-headline.php:30
+msgid "Uxmal is an ancient Maya city located in present-day Mexico. It is considered one of the most important sites of Mayan culture."
+msgstr ""
+
+#: patterns/image-with-description.php
+msgctxt "Pattern title"
+msgid "Image with description"
+msgstr ""
+
+#: patterns/image-with-description.php:22
+msgid "Ancient Temple, at Chichen-Itza, called the Castle"
+msgstr ""
+
+#: patterns/image-with-description.php:26
+msgid "From \"American Cities and Ruins: Mitla, Palenqué, Izamal, Chichen-Itza, Uxmal, Atlas\" housed at the New York Public Library."
+msgstr ""
+
+#: patterns/image-with-description.php:30
+msgid "Photo of ancient temple, at Chichen-Itza"
+msgstr ""
+
+#: patterns/image-with-headline-description.php
+msgctxt "Pattern title"
+msgid "Image with headline and description"
+msgstr ""
+
+#: patterns/image-with-headline-description.php:14
+msgid "Chahk:<br>Rain<br>deity"
+msgstr ""
+
+#: patterns/image-with-headline-description.php:21
+msgid "Chaahk is shown here clutching his axe, ready to strike rain and thunder from the clouds. This sculpture was likely created in the Puuc hills of Yucatan and Campeche."
+msgstr ""
+
+#: patterns/image-with-headline-description.php:30
+msgid "Chahk: rain deity"
+msgstr ""
+
+#: patterns/image-with-headline-on-dark-background.php
+msgctxt "Pattern title"
+msgid "Image with headline on dark background"
+msgstr ""
+
+#: patterns/image-with-headline-on-dark-background.php:10
+msgid "Photo of gigantic figure at Izamal"
+msgstr ""
+
+#: patterns/image-with-headline-on-dark-background.php:14
+msgid "Gigantic figure at <br>Izamal; at the <br>bottom of the <br>second pyramid."
+msgstr ""
+
+#: patterns/image-with-headline-separate-description.php
+msgctxt "Pattern title"
+msgid "Image with headline and separate description"
+msgstr ""
+
+#: patterns/image-with-headline-separate-description.php:10
+msgid "Photo of House of the dwarf, in Uxmal"
+msgstr ""
+
+#: patterns/image-with-headline-separate-description.php:12
+msgid "House of <br>the dwarf <br>in Uxmal"
+msgstr ""
+
+#: patterns/image-with-headline-separate-description.php:18
+msgid "Also referred to as <br>The Pyramid of the Magician"
+msgstr ""
+
+#: patterns/image-with-headline-separate-description.php:22
+msgid "The pyramid is the tallest structure in Uxmal. Construction on the pyramid began around the 6th century AD. It was added and iterated on for the next 400 years."
+msgstr ""
+
+#: patterns/layered-images-with-headline.php
+msgctxt "Pattern title"
+msgid "Layered images with headline"
+msgstr ""
+
+#: patterns/layered-images-with-headline.php:10
+#: patterns/layered-images-with-headline.php:34
+msgid "Photo of Palace of the Circus"
+msgstr ""
+
+#: patterns/layered-images-with-headline.php:22
+msgid "Palace of <br>the Circus at <br>Chichen-Itza, <br><em>bas-relief</em> of <br>tigers"
+msgstr ""
+
+#: patterns/layout-with-two-images-and-text.php
+msgctxt "Pattern title"
+msgid "Layout with two images and text"
+msgstr ""
+
+#: patterns/layout-with-two-images-and-text.php:10
+msgid "Photo of the Pyramid of the Magician, at Uxmal"
+msgstr ""
+
+#: patterns/layout-with-two-images-and-text.php:18
+msgid "The Pyramid of the <br>Magician at Uxmal"
+msgstr ""
+
+#: patterns/layout-with-two-images-and-text.php:22
+msgid "Photograph by Désiré Charnay, 1862 to 1863"
+msgstr ""
+
+#: patterns/layout-with-two-images-and-text.php:33
+msgid "Uxmal is an ancient Maya city located in present-day Mexico. It is considered one of the most important archaeological sites of Mayan culture."
+msgstr ""
+
+#: patterns/layout-with-two-images-and-text.php:37
+msgid "On the right: Governor's Palace, detail of the main gate"
+msgstr ""
+
+#: patterns/simple-list-of-posts-with-background.php
+msgctxt "Pattern title"
+msgid "Simple list of posts with title and background"
+msgstr ""
+
+#: patterns/simple-list-of-posts-with-background.php:16
+msgid "Selected Writings"
+msgstr ""
+
+#: patterns/simple-list-of-posts.php
+msgctxt "Pattern title"
+msgid "Simple list of posts"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Chivo"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
