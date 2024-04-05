@@ -1,0 +1,31 @@
+/*
+Theme Name: Didone
+Theme URI: https://wordpress.com/themes/didone/
+Description: Didone draws inspiration from a genre of serif typeface that originated in the 18th century and became the standard style for general-purpose printing. It is bold, straightforward and timeless, designed to bring attention to the content and ideal to those looking to showcase written content elegantly.
+Version: 1.0.3
+Author: Automattic
+Author URI: https://automattic.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: didone
+*/
+
+/*
+ * Control the hover stylings of outline block style.
+ * Unnecessary once block styles are configurable via theme.json
+ * https://github.com/WordPress/gutenberg/issues/42794
+ */
+.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--base);
+	border-color: var(--wp--preset--color--secondary);
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: .0625em !important;
+	text-underline-offset: .15em;
+}
