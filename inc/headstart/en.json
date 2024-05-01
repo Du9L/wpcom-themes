@@ -1,0 +1,182 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_content_post_details_categories": "",
+            "default_comment_status": "closed"
+        },
+        "theme_mods": {
+            "0": false,
+            "custom_css_post_id": -1,
+            "nav_menu_locations": {
+                "menu-1": "primary"
+            },
+            "background_color": "ffffff",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "",
+                    "link": "#ca2017"
+                },
+                "cached": false
+            },
+            "radcliffe_2_contact_info_header": false,
+            "radcliffe_2_contact_info_footer": true,
+            "radcliffe_2_contact_info_hours": "Mon - Sat: 9am - 6pm",
+            "radcliffe_2_hero_area_display": true,
+            "radcliffe_2_hero_area_content": "Take advantage of the early bird pricing now!",
+            "radcliffe_2_hero_area_background": "https:\/\/radcliffe2demo.files.wordpress.com\/2018\/05\/yoga-crescent-lunge_4460x4460.jpg",
+            "radcliffe_2_contact_info_address": "10 Street Road, City, 12345",
+            "header_image": "remove-header",
+            "radcliffe_2_hero_area_button_url": "\/contact\/",
+            "radcliffe_2_hero_area_title": "Weekend yoga workshop",
+            "radcliffe_2_hero_area_button_text": "Sign up!",
+            "radcliffe_2_contact_info_phone": "1 (555) 555-1234",
+            "radcliffe_2_contact_info_email": "email@yourgroovydomain.com ",
+            "active_style_pack": "default",
+            "custom_logo": "",
+            "logo_size": 20,
+            "radcliffe_2_hero_overlay_opacity": 40
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "content": [
+        {
+            "post_title": "Welcome!",
+            "post_content": "<p>You're ready to add your own words and images to this page! Open the editor by clicking the <strong>Edit<\/strong> button, and make this page your own. (And for a general WordPress.com get-started guide, head to <a href=\"https:\/\/learn.wordpress.com\">learn.wordpress.com<\/a>.)<\/p>",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "page_template": "default",
+            "hs_old_id": 100
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "This is the page where users will find your site's blog",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "The Journey Begins",
+            "post_content": "Thanks for joining me! <blockquote>Good company in a journey makes the way seem shorter. — Izaak Walton<\/blockquote><img class=\"wp-image-7 size-full\" src=\"https://twentysixteendemo.files.wordpress.com/2015/11/post.png\" alt=\"post\" width=\"1000\" height=\"563\" \/>",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 102
+        },
+        {
+            "post_type": "post",
+            "post_title": "There's always blue sky",
+            "post_content": "<blockquote>No matter how cloudy the sky becomes, there is always blue sky on the other side \u2013 in the same way that no matter how busy the mind appears, there is always an underlying sense of stillness if we can just stop for long enough for it to appear.\r\n<cite>Andy Puddicombe<\/cite>\r\n<\/blockquote>\r\n<img class=\"alignnone size-large wp-image-755\" src=\"https:\/\/radcliffe2demo.files.wordpress.com\/2011\/09\/headstand-inversion-woman_4460x4460.jpg?w=740\" alt=\"\" width=\"740\" height=\"493\" \/>",
+            "post_name": "theres-always-blue-sky",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 104,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Mindfulness"
+                ],
+                "post_tag_name": [
+                    "inspiration",
+                    "meditation"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/radcliffe2demo.files.wordpress.com\/2011\/09\/in-flight-over-mountains_4460x4460.jpg",
+            "sticky": false
+        },
+        {
+            "post_title": "Contact",
+            "post_content": "This is a contact page with some basic contact information and a contact form. [contact-form][contact-field label=\"Name\" type=\"name\" required=\"1\"\/][contact-field label=\"Email\" type=\"email\" required=\"1\"\/][contact-field label=\"Website\" type=\"url\"\/][contact-field label=\"Comment\" type=\"textarea\" required=\"1\"\/][\/contact-form]",
+            "post_excerpt": "This is just a short excerpt for the contact&nbsp;page.",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 103
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                "menu-item-title": "Home",
+                "menu-item-db-id": 100,
+                "menu-item-object-id": "100",
+                "menu-item-object": "page",
+                "menu-item-type": "custom",
+                "menu-item-status": "publish",
+                "menu-item-position": 1,
+                "menu-item-parent-id": "",
+                "menu-item-description": "",
+                "menu-item-url": "/"
+                },
+                {
+                "menu-item-title": "Blog",
+                "hs-menu-item-custom": "blog",
+                "menu-item-db-id": 101,
+                "menu-item-object-id": "101",
+                "menu-item-object": "page",
+                "menu-item-type": "post_type",
+                "menu-item-status": "publish",
+                "menu-item-position": 2,
+                "menu-item-parent-id": "",
+                "menu-item-description": ""
+                },
+                {
+                "menu-item-title": "Contact",
+                "hs-menu-item-custom": "contact",
+                "menu-item-db-id": 103,
+                "menu-item-object-id": "103",
+                "menu-item-object": "page",
+                "menu-item-type": "post_type",
+                "menu-item-status": "publish",
+                "menu-item-position": 3,
+                "menu-item-parent-id": "",
+                "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+    	"https:\/\/headstartdata.files.wordpress.com\/2017\/08\/open.jpg",
+    	"https:\/\/headstartdata.files.wordpress.com\/2017\/09\/bolivia-2209804_1920.jpg",
+    	"https:\/\/headstartdata.files.wordpress.com\/2017\/09\/lotus-flower-logo.png",
+    	"https:\/\/headstartdata.files.wordpress.com\/2017\/08\/building-and-cloud.jpg",
+    	"https:\/\/headstartdata.files.wordpress.com\/2017\/09\/pattern-stardust.png",
+    	"https:\/\/headstartdata.files.wordpress.com\/2017\/09\/pattern-wood1.png",
+    	"https:\/\/headstartdata.files.wordpress.com\/2017\/09\/pattern-knit-feathers1.png"
+	]
+}
