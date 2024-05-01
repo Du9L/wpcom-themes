@@ -1,0 +1,288 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "posts_per_page": "5",
+            "stylesheet": "pub\/dara",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "primary"
+            },
+            "jetpack_testimonials": {
+                "page-content": "<p>Some kind words from our customers:<\/p>\n",
+                "featured-image": 892
+            },
+            "dara_featured_page_one_front_page": 108,
+            "dara_featured_page_two_front_page": 109,
+            "dara_featured_page_three_front_page": 162,
+            "header_textcolor": "444340",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#444340",
+                    "txt": "#444340",
+                    "link": "#15b6b8",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                },
+                "cached": false
+            },
+            "custom_logo": "https://headstartdata.files.wordpress.com/2017/02/logo3.png"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-7",
+            "id_base": "text",
+            "settings": {
+                "title": "About us",
+                "text": "<img class=\"aligncenter size-full wp-image-903\" src=\"https:\/\/darademo.files.wordpress.com\/2018\/05\/logo4.png\" alt=\"\" width=\"200\" height=\"111\" \/>\r\n\r\nDara is an award-winning florist in San Diego, CA providing flowers for weddings and events.\r\n\r\nWe offer flower delivery all over San Diego and California.",
+                "filter": true,
+                "syntaxhighlighter_encoded": true,
+                "visual": true
+            },
+            "sidebar": "sidebar-2",
+            "position": 0
+        },
+        {
+            "id": "widget_contact_info-3",
+            "id_base": "widget_contact_info",
+            "settings": {
+                "title": "Visit us",
+                "address": "3999 Mission Boulevard,\r\nSan Diego CA 92109",
+                "phone": "1-202-555-1212",
+                "hours": "",
+                "apikey": "",
+                "lat": 32.7897691,
+                "lon": -117.2526891,
+                "showmap": 1
+            },
+            "sidebar": "sidebar-3",
+            "position": 0
+        },
+        {
+            "id": "text-11",
+            "id_base": "text",
+            "settings": {
+                "title": "Opening hours",
+                "text": "<p class=\"big\">Monday - Closed\r\nTuesday - 9am - 5pm\r\nWednesday - 9am - 5pm\r\nThursday - 9am - 7pm\r\nFriday - 9am - 5pm\r\nSaturday - 9am - 12pm\r\nSunday - Closed<\/p>\r\n<em>Times may vary during busy periods such as Valentine's Day and Mother's Day.<\/em>",
+                "filter": true,
+                "visual": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "sidebar-4",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "The Journey Begins",
+            "post_content": "Thanks for joining me! <blockquote>Good company in a journey makes the way seem shorter. — Izaak Walton<\/blockquote><img class=\"wp-image-7 size-full\" src=\"https://twentysixteendemo.files.wordpress.com/2015/11/post.png\" alt=\"post\" width=\"1000\" height=\"563\" \/>",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2011\/08\/anniversary-beautiful-blooming-931164.jpg",
+            "tags_input": [
+                "featured"
+            ],
+            "hs_old_id": 102
+        },
+        {
+            "post_type": "page",
+            "post_title": "Welcome!",
+            "post_content": "We are San Diego's favourite bespoke florist.\r\n\r\nWe are passionate about people, love, weddings, and all things floral.",
+            "post_name": "home",
+            "post_excerpt": "This is the home page's excerpt",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 107,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2016\/12\/umh-d3wwjhm-bagus-ghufron.jpg"
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 104
+        },
+        {
+            "post_type": "page",
+            "post_title": "About",
+            "post_content": "First opened in 2004 by best friends Joan and Lucy, Dara is an award-winning florist in San Diego, CA providing flowers for weddings and events.\r\n\r\nDara is proud to provide quality flowers and plants for our clients.\r\n\r\nOur expert staff is here to help all clients choose the best flowers and plants for all occasions and purposes.\r\n\r\n<a href=\"https:\/\/darademo.wordpress.com\/contact\/\">Contact us<\/a> to me learn more!\r\n\r\n<img class=\"alignnone size-full wp-image-950\" src=\"https:\/\/darademo.files.wordpress.com\/2018\/05\/arrangement-bloom-blossom-395132.jpg\" alt=\"\" width=\"825\" height=\"509\" \/>",
+            "post_name": "about",
+            "post_excerpt": "Award-winning florist based in San Diego, CA.\r\n",
+            "menu_order": 1,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 108,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2018\/05\/beautiful-bloom-blooming-9311502.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contact",
+            "post_content": "For all enquiries please call us:\u00a01-202-555-1212\r\n\r\nAlternatively, you can send us a message using the form below.\r\n\r\n[contact-form][contact-field label=\"Name\" type=\"name\" required=\"1\"\/][contact-field label=\"Email\" type=\"email\" required=\"1\"\/][contact-field label=\"Phone\" type=\"text\"\/][contact-field label=\"Message\" type=\"textarea\" required=\"1\"\/][\/contact-form]",
+            "post_name": "contact",
+            "post_excerpt": "Do you have an enquiry? Get in touch!",
+            "menu_order": 2,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 109,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "templates\/full-width-page.php",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2018\/05\/beautiful-blooming-blossom-931154.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Everything about spring flowers",
+            "post_content": "Whether you\u2019re looking for an arrangement of Easter flowers, or you\u2019re after the perfect bridal bouquet for your Spring wedding, we\u2019ll tell you everything you need to know about Spring flowers, and which ones you should get!\r\n\r\nHere are some popular flowers to give at Easter:\r\n<ul>\r\n \t<li>Lilies<\/li>\r\n \t<li>Roses<\/li>\r\n \t<li>Daffodils<\/li>\r\n \t<li>Hyacinths<\/li>\r\n \t<li>Tulips<\/li>\r\n \t<li>Daisies<\/li>\r\n<\/ul>\r\nAt Dara, we particularly\u00a0like\u00a0Tulips.",
+            "post_name": "everything-about-spring-flowers",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 201,
+            "hs_post_parent": 0,
+            "tags_input": [
+                "featured"
+            ],
+            "hs_taxonomies": {
+                "category_name": [
+                    "News"
+                ],
+                "post_tag_name": [
+                    "roses",
+                    "succulents"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2014\/08\/artificial-flowers-bouquet-decoration-931161.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "The perfect Christmas flowers",
+            "post_content": "Christmas is only 13 days away and the Christmas spirit is well underway.\r\n\r\nWe have selected our top 4 Christmas bouquets for you this season. Gift a special someone to the utmost of luxury or complete your Christmas decorations with a bouquet from our Christmas flowers range.\r\n\r\n<h3>White Opulence<\/h3>\r\n\r\nSimple and full of the freshest stems, our White Opulence bouquet oozes understated elegance. A delectable selection of blooms in crisp white tones, we're sure your loved one will adore this simple yet elegant bouquet.\r\n\r\n<h3>Simply Red<\/h3>\r\n\r\nRed Roses are a classic romantic gesture that expresses more than words can say. These gorgeous deep blooms are offset beautifully by the white Baby's Breath (Gypsophila).\r\n\r\n<h3>Classic Pastel<\/h3>\r\n\r\nThe soft, pastel shades of the roses and lisianthus produce a majestic bouquet. The elegance of the Classic Pastel arrangement makes it the perfect gift for a special someone in your life.\r\n\r\n<h3>Elegant Gradient<\/h3>\r\n\r\nA gorgeous white to red bouquet made with carnations and roses. Elegant Gradient is a classy, elegant arrangement that has a real wow factor.",
+            "post_name": "travel-photography-tips",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 51,
+            "hs_post_parent": 0,
+            "tags_input": [
+                "featured"
+            ],
+            "hs_taxonomies": {
+                "category_name": [
+                    "News"
+                ],
+                "post_tag_name": [
+                    "christmas",
+                    "featured"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2011\/07\/beautiful-blooming-bouquet-931159.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Workshops",
+            "post_content": "We are delighted to announce our forthcoming workshops (please see below). Our courses provide a great chance to get together with friends and refine some floral skills.\r\n\r\nClasses are limited to 10 seats so tickets will go quickly, please <a href=\"https:\/\/darademo.wordpress.com\/contact\/\">let us know<\/a> if you\u2019d like to come.\r\n\r\nAll classes will be held in our studio above the shop and you will be taught by Joan or Lucy or sometimes both!\r\n<h2>Upcoming workshops<\/h2>\r\n<h3>Make a Flower Crown - $35.00<\/h3>\r\n<strong><em>May 27, 2017 \/ July 8, 2017<\/em><\/strong>\r\n\r\nThis course is perfect for future brides, for a hen party or for anyone craving for those Summer festivals! You will love showing off your new flower crown, and even better you made it yourself!\r\n\r\n<hr \/>\r\n\r\n<h3>DIY Wedding Flowers - $75.00<\/h3>\r\n<strong><em>June 10, 2017 \/ June 24, 2017<\/em><\/strong>\r\n\r\nWith this course, we will be putting your own wedding arrangements together - perfect for the couple looking to save some money and make things really personal!\r\n\r\n<img class=\"alignnone size-full wp-image-885\" src=\"https:\/\/darademo.files.wordpress.com\/2018\/05\/beautiful-blooming-bouquet-931171.jpg\" alt=\"\" width=\"825\" height=\"619\" \/>",
+            "post_name": "workshops",
+            "post_excerpt": "The best flower arranging classes in California.",
+            "menu_order": 4,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 162,
+            "hs_post_parent": 151,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2018\/05\/beautiful-blooming-bouquet-931171.jpg"
+        },
+        {
+            "post_type": "jetpack-testimonial",
+            "post_title": "Caroline",
+            "post_content": "Amazing flowers! My husband sent me a bouquet of flowers for our wedding anniversary from Dara and they were absolutely gorgeous and looked great when they arrived.",
+            "post_name": "caroline",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 134,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2016\/12\/beautiful-brunette-cute-774909.jpg"
+        },
+        {
+            "post_type": "jetpack-testimonial",
+            "post_title": "Takashi",
+            "post_content": "A huge thank you for doing such a great job on our wedding flowers \u2013 they looked absolutely beautiful! I will be recommending you to all my friends!",
+            "post_name": "takashi",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 135,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/darademo.files.wordpress.com\/2016\/12\/achievement-adult-asian-9374811.jpg"
+        }
+    ]
+}
