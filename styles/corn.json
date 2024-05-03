@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Corn",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#ddd864",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#9e2f70",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#ac536f",
+					"name": "Primary",
+					"slug": "primary"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/cover": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--corn)"
+				}
+			},
+			"core/post-featured-image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--corn)"
+				}
+			},
+			"core/image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--corn)"
+				}
+			}
+		}
+	}
+}
