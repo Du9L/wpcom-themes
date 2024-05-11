@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-18T03:48:29+00:00\n"
+"PO-Revision-Date: 2023-09-06 15:10:17+0000\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Negro"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primario"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#. Description of the theme
+#: style.css
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "Un tema para los escritores que quieren publicar un boletín informativo con Jetpack."
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "Información sobre Manuel"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "Entrada relacionada"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "Recibe nuestras últimas entradas en tu bandeja de entrada."
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "Suscríbete a nuestro boletín para recibir las últimas historias en tu bandeja de entrada."
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "Una fotografía de un sobre."
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "Lee todas las entradas"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "Una fotografía de un sobre antiguo."
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "Suscríbete para leer más entradas como esta"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "Recibe los últimos artículos en tu bandeja de entrada."
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "No te los pierdas."
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "Introduce tu correo electrónico y pulsa el botón Suscribirse para recibir nuestras últimas historias en tu bandeja de entrada."
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "No te pierdas ninguna actualización"
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "Inicia sesión para ver las actualizaciones"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "Un boletín sobre %s"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr " ¿Has intentado hacer una búsqueda?"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "No se ha podido encontrar esta página."
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "¡Hola! Soy el autor de este boletín. Soy profesor de literatura en la Universidad de la Cultura, en Brasil."
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "Una foto de perfil genérica."
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "Soy una escritora e ilustradora enamorada de los clásicos. De manera habitual, me puedes encontrar en una cafetería con la nariz metida en un libro."

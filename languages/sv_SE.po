@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-18T03:48:34+00:00\n"
+"PO-Revision-Date: 2024-03-06 03:00:06+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/hidden-no-results-content.php:11
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Dolt innehåll utan resultat"
+
+#: styles/vivid-red.json
+msgctxt "Style variation name"
+msgid "Vivid red"
+msgstr "Intensiv röd"
+
+#: styles/vivid-purple.json
+msgctxt "Style variation name"
+msgid "Vivid purple"
+msgstr "Intensiv lila"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Svart"
+
+#: patterns/tags.php
+msgctxt "Pattern title"
+msgid "Tag buttons"
+msgstr "Etikettknappar"
+
+#: patterns/query-sidebar.php
+msgctxt "Pattern title"
+msgid "List of posts with sidebar"
+msgstr "Lista över inlägg med sidopanel"
+
+#: patterns/query-posts.php
+msgctxt "Pattern title"
+msgid "List of posts"
+msgstr "Lista över inlägg"
+
+#: patterns/hidden-subscription-form.php
+msgctxt "Pattern title"
+msgid "Subscription form"
+msgstr "Prenumerationsformulär"
+
+#: patterns/hidden-footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Sidfot"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 content"
+msgstr "404-innehåll"
+
+#: patterns/categories.php
+msgctxt "Pattern title"
+msgid "Category buttons"
+msgstr "Kategoriknappar"
+
+#: patterns/about-single.php
+msgctxt "Pattern title"
+msgid "About the author"
+msgstr "Om författaren"
+
+#: patterns/about-multiple.php
+msgctxt "Pattern title"
+msgid "About the authors"
+msgstr "Om författarna"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Newsreader"
+msgstr "Newsreader"
+
+#: patterns/newsletter-media-text.php:10
+msgid "Illustration of flowers in a vase."
+msgstr "Illustration av blommor i en vas."
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "E-postadress"
+
+#. Theme URI of the theme
+#: style.css
+msgid "http://wordpress.com/theme/lettre/"
+msgstr "http://wordpress.com/theme/lettre/"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Sidfot"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Förgrund"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#. Description of the theme
+#: style.css
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "Ett tema för skribenter som vill publicera ett nyhetsbrev med Jetpack."
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "Etiketter"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "Om Manuel"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "Relaterat inlägg"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "Få våra senaste inlägg i din inkorg."
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "Prenumerera på vårt nyhetsbrev för att få de senaste berättelserna i din inkorg."
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "Ett fotografi föreställande ett kuvert."
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "Läs alla inlägg"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "Ett fotografi föreställande vintagekuvert."
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "Prenumerera för fler inlägg som detta"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "Få de senaste artiklarna i din inkorg."
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "Du vill inte missa det."
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "Ange din e-postadress och tryck på prenumerera-knappen för att få våra senaste berättelser i din inkorg."
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "Missa inte en uppdatering"
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "Registrera dig för uppdateringar"
+
+#: patterns/hidden-footer.php:23
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "Ett %s-nyhetsbrev"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "Sök"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr " Kanske prova en sökning?"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "Denna sida kunde inte hittas."
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "Kategorier"
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "Jag är författare och illustratör och älskar klassiker. Du hittar mig vanligtvis på ett kafé, med näsan i en bok."
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "Hej! Det är jag som är författare till det här nyhetsbrevet. Jag är professor i litteratur vid University of Culture i Brasilien."
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "En generisk profilbild."

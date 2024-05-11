@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-18T03:48:15+00:00\n"
+"PO-Revision-Date: 2023-02-12 14:10:37+0000\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "구독"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "푸터"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "3차"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "전경"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "헤더"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "1차"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "2차"
+
+#. Description of the theme
+#: style.css
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "젯팩을 사용하여 뉴스레터를 발생하고자 하는 작성자를 위한 테마"
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "태그"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "Manuel 소개"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "관련 글"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "받은 편지함에서 최신 글을 받으세요."
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "뉴스레터를 구독하여 받은 편지함에서 최신 스토리를 받으세요."
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "봉투 사진."
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "모든 글 읽기"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "빈티지 봉투 사진."
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "이와 비슷한 더 많은 글 구독 신청"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "받은 편지함에서 최신 글을 받으세요."
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "놓치고 싶지 않을 것입니다."
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "이메일을 입력하고 구독 버튼을 눌러 받은 편지함에서 최신 스토리를 받으세요."
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "업데이트를 놓치지 마세요."
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "업데이트 신청"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "%s 뉴스레터"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "검색"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr " 검색을 해보시겠습니까?"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "이 페이지를 찾을 수 없습니다."
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "카테고리"
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "저는 클래식을 사랑하는 글쓴이 겸 삽화가입니다. 평소에 커피숍에서 책에 코를 파묻고 있습니다."
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "안녕하세요! 저는 이 뉴스레터의 글쓴이입니다. 저는 브라질 문화대학교의 문학 교수입니다."
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "일반적인 프로필 사진."

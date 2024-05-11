@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-18T03:47:37+00:00\n"
+"PO-Revision-Date: 2024-03-06 03:00:06+0000\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/hidden-no-results-content.php:11
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar er kwam niks overeen met je zoektermen. Probeer het opnieuw met aan nieuwe zoekopdracht."
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Verborgen geen resultaat inhoud"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "Abonneren"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Voorgrond"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiair"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundair"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primair"
+
+#. Description of the theme
+#: style.css
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "Een thema voor schrijvers die een nieuwsbrief willen publiceren met Jetpack."
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "Tags"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "Over Manuel"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "Gerelateerd bericht"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "Ontvang onze nieuwste berichten in je inbox."
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "Schrijf je in voor onze nieuwsbrief en ontvang de nieuwste verhalen in je inbox."
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "Een foto van een envelop."
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "Alle berichten lezen"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "Een foto van vintage enveloppen."
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "Schrijf je in voor meer berichten zoals deze"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "Ontvang de nieuwste artikelen in je inbox."
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "Deze wil je niet missen."
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "Voer je e-mailadres in en klik op de knop abonneren om onze nieuwste verhalen te ontvangen in je inbox."
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "Mis geen update"
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "Inschrijven voor updates"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "Een %s-nieuwsbrief"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "Zoeken"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr " Misschien kun je een zoekopdracht proberen?"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "Deze pagina kon niet worden gevonden."
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "Categorieën"
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "Ik ben een auteur en illustrator met een liefde voor klassiekers. Ik ben regelmatig lezend in een koffietent te vinden."
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "Hallo! Ik heb deze nieuwsbrief geschreven. Ik ben hoogleraar literatuur aan de University of Culture, in Brazilië."
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "Een algemene profielafbeelding."

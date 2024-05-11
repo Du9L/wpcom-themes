@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-18T03:47:28+00:00\n"
+"PO-Revision-Date: 2023-01-05 02:43:32+0000\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "订阅"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "页脚"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "第三级"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "前景"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "页首"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "主要"
+
+#: styles/black.json
+#: styles/vivid-purple.json
+#: styles/vivid-red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "第二级"
+
+#. Description of the theme
+#: style.css
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "适合使用 Jetpack 发布电子报的作者"
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "标签"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "关于 Manuel"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "相关文章"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "在您的收件箱中获取我们的最新文章。"
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "订阅我们的新闻稿，利用您的收件箱获取最新故事。"
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "信封的照片。"
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "阅读所有文章"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "复古信封的照片。"
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "订阅更多此类文章"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "通过收件箱获取最新文章。"
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "不要错过。"
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "输入您的电子邮件并点击订阅按钮，通过您的收件箱接收我们的最新故事。"
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "不要错过更新"
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "注册以获取更新"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "%s 新闻稿"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "查询"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr " 尝试搜索一下？"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "找不到此页面。"
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "分类"
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "我是一名作家和插画师，喜爱各种经典作品。 您通常会在咖啡店看到我，正埋头阅读一本书。"
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "Jennifer Rosa"
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "您好！ 我是这篇新闻稿的作者。 我是巴西文化大学的文学教授。"
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "Manuel de Carlo"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "通用个人资料图片。"

@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Lettre\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-18T03:47:18+00:00\n"
+"PO-Revision-Date: 2023-02-10 16:52:31+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-media-text.php:24
+#: patterns/newsletter-video.php:15
+msgid "Subscribe"
+msgstr "اشترك"
+
+#: patterns/newsletter-bold.php:17
+#: patterns/newsletter-video.php:15
+msgid "Email Address"
+msgstr "البريد الالكتروني"
+
+#. Description of the theme
+#: style.css
+msgid "A theme for writers that want to publish a newsletter using Jetpack."
+msgstr "قالب للكُتاب الذين يرغبون في نشر رسالة إخبارية باستخدام Jetpack."
+
+#: patterns/tags.php:10
+msgid "Tags"
+msgstr "الوسوم"
+
+#: patterns/query-sidebar.php:40
+msgid "About Manuel"
+msgstr "نبذة عن الدليل"
+
+#: patterns/query-related-post.php:10
+msgid "Related post"
+msgstr "تدوينة ذات صلة"
+
+#: patterns/newsletter-video.php:12
+msgid "Get our latest posts in your inbox."
+msgstr "احصل على أحدث تدويناتنا في علبة الوارد لديك."
+
+#: patterns/newsletter-media-text.php:16
+msgid "Subscribe to our newsletter to get the latest stories in your inbox."
+msgstr "اشترك في خدمة الرسائل الإخبارية لدينا للحصول على أحدث القصص في علبة الوارد لديك."
+
+#: patterns/newsletter-intro-light-background.php:10
+msgid "A photograph of an envelope."
+msgstr "صورة فوتوغرافية لمغلف"
+
+#: patterns/newsletter-intro-dark-background.php:26
+#: patterns/newsletter-intro-light-background.php:26
+#: patterns/newsletter-intro.php:26
+msgid "Read all posts"
+msgstr "قراءة جميع التدوينات"
+
+#: patterns/newsletter-intro-dark-background.php:10
+msgid "A photograph of vintage envelopes."
+msgstr "صورة فوتوغرافية لمغلفات قديمة."
+
+#: patterns/newsletter-in-post.php:17
+msgid "Subscribe for more posts like this"
+msgstr "الاشتراك للحصول على مزيد من التدوينات كهذه"
+
+#: patterns/newsletter-fixed-cover.php:16
+msgid "Get the latest articles in your inbox."
+msgstr "احصل على أحدث المقالات في علبة الوارد لديك."
+
+#: patterns/newsletter-fixed-cover.php:12
+msgid "You don’t wanna miss it."
+msgstr "لا تريد تفويت هذا الأمر."
+
+#: patterns/newsletter-columns.php:19
+msgid "Enter your email and hit the subscribe button to receive our latest stories in your inbox."
+msgstr "أدخِل بريدك الإلكتروني، واضغط على زر \"اشتراك\" لتلقي أحدث القصص لدينا في علبة الوارد لديك."
+
+#: patterns/newsletter-columns.php:13
+msgid "Don’t miss an update"
+msgstr "عدم تفويت تحديث"
+
+#: patterns/newsletter-bold.php:13
+msgid "Sign up for updates"
+msgstr "التسجيل للحصول على تحديثات"
+
+#: patterns/hidden-footer.php:22
+msgid "A %s newsletter"
+msgstr "الرسالة الإخبارية لـ %s"
+
+#: patterns/hidden-footer.php:23
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/hidden-404.php:15
+msgid "Search"
+msgstr "بحث"
+
+#: patterns/hidden-404.php:13
+msgid " Maybe try a search?"
+msgstr " هل ربما تريد تجربة البحث؟"
+
+#: patterns/hidden-404.php:11
+msgid "This page could not be found."
+msgstr "تعذر العثور على هذه الصفحة."
+
+#: patterns/categories.php:10
+#: patterns/query-sidebar.php:52
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: patterns/about-multiple.php:44
+msgid "I’m an author and illustrator with a love for clasics. You’ll usually find me at a coffee shop, with my nose in a book."
+msgstr "أنا كاتب ومصور أحمل شغفًا تجاه الأشياء التقليدية. ستجدني عادةً في مقهى واضعًا أنفي في كتاب."
+
+#: patterns/about-multiple.php:40
+msgid "Jennifer Rosa"
+msgstr "جينيفر روزا"
+
+#: patterns/about-multiple.php:24
+#: patterns/about-single.php:22
+#: patterns/query-sidebar.php:44
+msgid "Hello! I’m the author of this newsletter. I’m a professor of literature at the University of Culture, in Brazil."
+msgstr "مرحبًا! أنا كاتبة هذه الرسالة الإخبارية. أنا متخصصة في مجال الأدب في جامعة الثقافة في البرازيل."
+
+#: patterns/about-multiple.php:20
+#: patterns/about-single.php:18
+msgid "Manuel de Carlo"
+msgstr "مانويل دي كارلو"
+
+#: patterns/about-multiple.php:14
+#: patterns/about-multiple.php:34
+#: patterns/about-single.php:12
+msgid "A generic profile picture."
+msgstr "صورة الملف الشخصي العامة."
