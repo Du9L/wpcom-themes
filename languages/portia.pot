@@ -1,0 +1,440 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Portia 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/portia\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-05T04:00:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: portia\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Portia"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/portia"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Portia is a simple business theme for a legal service."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "742 Evergreen Terrace, Suite 200, Chicago, IL 60642, USA"
+msgstr ""
+
+#: patterns/footer.php:47
+#: patterns/header.php:39
+msgid "Direct Line %1$s"
+msgstr ""
+
+#: patterns/footer.php:52
+#: patterns/header.php:53
+msgid "Available 24/7"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "For expert legal guidance and strategic solutions tailored to your needs, trust our firm. With a focus on family law, estate planning, property disputes, and litigation, we ensure clarity and confidence at every step. Contact us for a consultation and experience peace of mind with a trusted ally by your side."
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:112
+msgid "Terms & Conditions"
+msgstr ""
+
+#: patterns/footer.php:119
+msgid "https://wordpress.org"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:122
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/footer.php:148
+msgid "The people’s will, constitutionally expressed, is the ultimate law for all."
+msgstr ""
+
+#: patterns/footer.php:149
+msgid "Abraham Lincoln"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr ""
+
+#: patterns/header.php:24
+msgid "742 Evergreen Terrace, Suite 200,Chicago, IL 60642, USA"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:12
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/hidden-404.php:16
+msgid "The page you are looking for does not exist, or it has been moved. Please try searching using the form below."
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/hidden-search-field.php
+msgctxt "Pattern title"
+msgid "Search Field"
+msgstr ""
+
+#: patterns/hidden-search-field.php:11
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/posts-post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr ""
+
+#: patterns/text-case-studies.php
+msgctxt "Pattern title"
+msgid "Case Studies"
+msgstr ""
+
+#: patterns/text-case-studies.php:19
+msgid "Case Studies"
+msgstr ""
+
+#: patterns/text-case-studies.php:23
+msgid "Victory highlights featuring major wins & success stories"
+msgstr ""
+
+#: patterns/text-case-studies.php:37
+#: patterns/text-portfolio.php:55
+#: patterns/text-services.php:51
+msgid "Family Law"
+msgstr ""
+
+#: patterns/text-case-studies.php:41
+msgid "The 2024 Custody Battle Turnaround Victory"
+msgstr ""
+
+#: patterns/text-case-studies.php:49
+msgid "<strong><em>Background</em></strong>: In a heated custody battle during 2020, our client sought primary custody of their two children amidst a challenging dispute, involving complex legal and emotional dilemmas."
+msgstr ""
+
+#: patterns/text-case-studies.php:53
+msgid "<strong><em>Challenge</em></strong>: Overcoming unfounded accusations and demonstrating the best interest of the children amidst a contentious divorce."
+msgstr ""
+
+#: patterns/text-case-studies.php:57
+msgid "<strong><em>Outcome</em></strong>: Successfully secured primary custody for our client in late 2020, along with a favorable co-parenting agreement, ensuring the children&rsquo;s well-being and stability."
+msgstr ""
+
+#: patterns/text-case-studies.php:73
+msgid "Wills, Trusts, and Probate"
+msgstr ""
+
+#: patterns/text-case-studies.php:77
+msgid "The 2023 Inheritance Dispute Resolution Triumph"
+msgstr ""
+
+#: patterns/text-case-studies.php:85
+msgid "<strong><em>Background</em></strong>: A contentious estate case in 2018 involving multiple beneficiaries and a contested will, threatening the fabric of a family."
+msgstr ""
+
+#: patterns/text-case-studies.php:89
+msgid "<strong><em>Challenge</em></strong>: Clarifying the decedent&rsquo;s intentions while navigating through intricate family dynamics and legal challenges."
+msgstr ""
+
+#: patterns/text-case-studies.php:93
+msgid "<strong><em>Outcome</em></strong>: Amicably resolved the dispute, dividing a multimillion-dollar estate in a manner that honored the decedent&rsquo;s wishes and preserved familial bonds."
+msgstr ""
+
+#: patterns/text-case-studies.php:109
+#: patterns/text-services.php:87
+msgid "Property Law"
+msgstr ""
+
+#: patterns/text-case-studies.php:113
+msgid "The 2022 Landmark Property Recovery Case"
+msgstr ""
+
+#: patterns/text-case-studies.php:121
+msgid "<strong><em>Background</em></strong>: A significant legal battle over wrongful possession of commercial property emerged in 2021, with our client facing substantial financial losses."
+msgstr ""
+
+#: patterns/text-case-studies.php:125
+msgid "<strong><em>Challenge</em></strong>: Asserting rightful ownership while dealing with complex contractual and zoning disputes."
+msgstr ""
+
+#: patterns/text-case-studies.php:129
+msgid "<strong><em>Outcome</em></strong>: Successfully reclaimed the property worth millions and secured additional damages for our client in early 2022, establishing a significant precedent in property law."
+msgstr ""
+
+#: patterns/text-people.php
+msgctxt "Pattern title"
+msgid "People"
+msgstr ""
+
+#: patterns/text-people.php:19
+msgid "People"
+msgstr ""
+
+#: patterns/text-people.php:23
+msgid "Unparalleled expertise at your service"
+msgstr ""
+
+#: patterns/text-people.php:39
+msgid "Eleanor Davis"
+msgstr ""
+
+#: patterns/text-people.php:43
+msgid "With over 20 years of experience in family law, Eleanor Davis excels in navigating divorce, custody, and mediation with compassion and precision. Her commitment to amicable resolutions and the well-being of families has earned her a reputation as a trusted advisor and advocate in family disputes."
+msgstr ""
+
+#: patterns/text-people.php:59
+msgid "Marcus Bennett"
+msgstr ""
+
+#: patterns/text-people.php:63
+msgid "Specializing in property law and real estate disputes, Marcus Bennett offers 10 years of expertise in securing clients&rsquo; rights and interests. Known for strategic legal analysis and innovative solutions, Marcus&rsquo;s approach ensures practical advice and landmark victories in property litigation, making him a key asset to our team."
+msgstr ""
+
+#: patterns/text-people.php:79
+msgid "Charlotte Reed"
+msgstr ""
+
+#: patterns/text-people.php:83
+msgid "Charlotte Reed is an accomplished wills, trusts, and probate expert, offering 20 years of experience in estate planning and dispute resolution. Her meticulous strategies protect clients&rsquo; legacies, ensuring assets are managed and transferred as intended. Charlotte combines legal expertise with sensitivity, making her an invaluable guide through estate planning processes."
+msgstr ""
+
+#: patterns/text-portfolio.php
+msgctxt "Pattern title"
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/text-portfolio.php:21
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/text-portfolio.php:25
+msgid "Legal scholarship and our intellectual legacy"
+msgstr ""
+
+#: patterns/text-portfolio.php:37
+msgid "Our firm&rsquo;s engagement in legal scholarship demonstrates our dedication to advancing the law and supporting the legal community. Our research papers, focusing on critical issues and trends, not only highlight our expertise but also contribute to the ongoing development of legal practices. This scholarly work underpins our intellectual legacy and our commitment to positively impact legal understanding and innovation."
+msgstr ""
+
+#: patterns/text-portfolio.php:59
+msgid "Adapting Family Law to Modern Challenges: A Path Forward (May 2022)"
+msgstr ""
+
+#: patterns/text-portfolio.php:65
+msgid "This paper provides an in-depth analysis of how family law has evolved to address contemporary issues such as same-sex marriage, surrogacy, and digital privacy. It outlines significant legislative changes and court decisions that have shaped family law practice. By examining these trends, the paper offers insights into future legal challenges and proposes strategies for legal practitioners to better serve their clients in this dynamic area of law."
+msgstr ""
+
+#: patterns/text-portfolio.php:69
+#: patterns/text-portfolio.php:97
+msgid "Read more &rarr;"
+msgstr ""
+
+#: patterns/text-portfolio.php:83
+msgid "Wills, Trusts, & Probate"
+msgstr ""
+
+#: patterns/text-portfolio.php:87
+msgid "The Future of Estate Planning: Integrating Digital Assets into Wills and Trusts (August 2021)"
+msgstr ""
+
+#: patterns/text-portfolio.php:93
+msgid "Addressing the critical intersection of digital innovation and estate planning, this paper explores the incorporation of digital assets into wills and trusts. It reviews existing legal frameworks, identifies gaps, and proposes forward-thinking solutions to ensure comprehensive estate management, emphasizing the importance of adapting to the digital age."
+msgstr ""
+
+#: patterns/text-services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/text-services.php:19
+msgid "Services"
+msgstr ""
+
+#: patterns/text-services.php:23
+msgid "Empower your decisions with trusted legal expertise"
+msgstr ""
+
+#: patterns/text-services.php:35
+msgid "At our firm, empowering your legal decisions with trusted expertise is our top priority. Our seasoned team offers personalized guidance and strategic solutions across various legal challenges, ensuring you navigate with confidence and clarity. Whether dealing with family issues, estate planning, property disputes, or litigation, we’re committed to your success and peace of mind. Trust us to be your ally, transforming legal complexities into clear, manageable paths forward."
+msgstr ""
+
+#: patterns/text-services.php:55
+msgid "Navigate the complexities of family dynamics with compassionate support and expert guidance. Whether it&rsquo;s divorce, custody battles, or adoption processes, we&rsquo;re here to empower your decisions and safeguard your loved ones&rsquo; futures."
+msgstr ""
+
+#: patterns/text-services.php:67
+msgid "Wills, Trust & Probate"
+msgstr ""
+
+#: patterns/text-services.php:71
+msgid "Secure your legacy and ensure your wishes are honored with comprehensive estate planning services. From drafting wills to establishing trusts and navigating the probate process, our expertise provides peace of mind for you and your heirs."
+msgstr ""
+
+#: patterns/text-services.php:91
+msgid "Protect your property rights and investments with our seasoned legal counsel. Whether you&rsquo;re buying, selling, leasing, or facing disputes, we empower your real estate decisions with tailored advice and robust representation."
+msgstr ""
+
+#: patterns/text-services.php:103
+msgid "Disputes & Claims"
+msgstr ""
+
+#: patterns/text-services.php:107
+msgid "Resolve legal disputes with confidence and strategic acumen. Our experienced attorneys specialize in civil litigation, from personal injury claims to contract disputes, offering the support you need to achieve favorable outcomes."
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 4"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 5"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 6"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
