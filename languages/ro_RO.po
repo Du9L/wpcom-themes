@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Upsidedown\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-30T05:53:19+00:00\n"
+"PO-Revision-Date: 2024-04-30 05:53:11+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Default"
+msgstr "Implicit"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr "antet"
+
+#: styles/maroon.json
+#: styles/nautilus.json
+#: styles/noir.json
+#: styles/periwinkle.json
+#: styles/svensk.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: styles/maroon.json
+#: styles/nautilus.json
+#: styles/noir.json
+#: styles/periwinkle.json
+#: styles/svensk.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: styles/maroon.json
+#: styles/nautilus.json
+#: styles/noir.json
+#: styles/periwinkle.json
+#: styles/svensk.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Single"
+msgstr "Singular"
+
+#: styles/noir.json
+msgctxt "Style variation name"
+msgid "Noir"
+msgstr "Negru"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/upsidedown/"
+msgstr "https://wordpress.com/theme/upsidedown/"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: styles/maroon.json
+#: styles/nautilus.json
+#: styles/noir.json
+#: styles/periwinkle.json
+#: styles/svensk.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/maroon.json
+#: styles/nautilus.json
+#: styles/noir.json
+#: styles/periwinkle.json
+#: styles/svensk.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#. Description of the theme
+#: style.css
+msgid "Upsidedown is a blog theme designed in the WordPress Site Editor. With its neat visuals, it introduces a direct experience on post reading: noticeable post titles listed on a text-only page, with an original swap of header and footer blocks."
+msgstr "Upsidedown este o temă de blogging proiectată pentru Editorul site-uri WordPress. Cu imaginile sale îngrijite, introduce o experiență directă în citirea articolelor: titluri notabile pentru articole afișate pe o pagină numai cu text, cu un schimb original pentru blocurile antet și subsol."
+
+#. Translators: WordPress link.
+#: patterns/footer.php:57
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/single.php:40
+msgid "by"
+msgstr "de"
+
+#: patterns/single.php:70
+msgid "Tags"
+msgstr "Etichete"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Upsidedown"
+msgstr "Upsidedown"
+
+#: patterns/footer.php:32
+msgid "Email the author"
+msgstr "Trimite un email autorului"
+
+#: patterns/footer.php:32
+msgid "and share this blog theme with your colleagues. Enjoy!"
+msgstr "și partajează această temă de blog cu colegii. Bucură-te de ea!"
+
+#: patterns/footer.php:59
+msgid "© Designed with %1$s"
+msgstr "© Proiectat cu %1$s"
+
+#: patterns/single.php:34
+msgid "Written in"
+msgstr "Scrisă in"
+
+#: patterns/404.php:33
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/404.php:20
+msgid "Nothing here,"
+msgstr "Nu este nimic aici,"
+
+#: patterns/404.php:20
+msgid "sorry."
+msgstr "regret."
+
+#: patterns/404.php:30
+msgid "This page or post could not be found. Maybe a search would help?"
+msgstr "Nu am găsit această pagină sau acest articol. Poate încerci o căutare ca să te ajute?"
