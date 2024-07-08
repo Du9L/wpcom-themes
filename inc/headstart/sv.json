@@ -1,0 +1,395 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "main",
+                "menu-2": "main",
+                "social": "social"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Nyheter",
+            "post_content": "<!-- wp:a8c/posts-list {\"postsPerPage\":2} /-->\n\n<!-- wp:spacer -->\n<div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg\",\"id\":27,\"dimRatio\":70,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-background-dim\" style=\"background-image:url('https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Låt oss resa tillsammans.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://exforddemo.wordpress.com/contact/\">Kontakta oss</a></div>\n<!-- /wp:button --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 130,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Om",
+            "post_content": "<!-- wp:paragraph -->\n<p>Exford är inte din genomsnittliga resebyrå. I över tio år har vi skapat skräddarsydda semestrar. Vi har tusentals nöjda kunder över hela världen.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":36} -->\n<div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Skräddarsydd</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Varje semester vi skapar är unik och skräddarsydd just för dig. Berätta för oss vart du vill åka så tar vi hand om resten.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Kvalitet</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Vi handplockar hotell och aktiviteter som vi samarbetar med regelbundet.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Filosofi</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Vår filosofi är enkel: reslust. Det återspeglas i vårt urval av utsökta boutiquehotell.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Våra partners</h2>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":109,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/logo-1.png?w=150\" alt=\"\" class=\"wp-image-109\"  /></figure></div>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":110} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/logo-2.png\" alt=\"\" class=\"wp-image-110\"  /></figure></div>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":111} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/logo-3.png\" alt=\"\" class=\"wp-image-111\"  /></figure></div>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":112} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/logo-4.png\" alt=\"\" class=\"wp-image-112\"  /></figure></div>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":113} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/logo-5.png\" alt=\"\" class=\"wp-image-113\"  /></figure></div>\n<!-- /wp:image --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:cover {\"url\":\"https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg\",\"id\":27,\"dimRatio\":70,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-background-dim\" style=\"background-image:url('https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Låt oss resa tillsammans.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://exforddemo.wordpress.com/contact/\">Kontakta oss</a></div>\n<!-- /wp:button --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 105,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Kontakta oss",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Vi tar och snackar &amp;#128075; Tveka inte att ta kontakt med uppgifterna nedan eller skicka ett meddelande med formuläret.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":36} -->\n<div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Kontakta oss</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Gatuvägen 10</div><div><span class=\"jetpack-address__city\">Stad</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">10100</span></div><div class=\"jetpack-address__country\">Sverige</div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">adress@exempel.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Skicka oss ett meddelande</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-textarea {\"required\":true} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:cover {\"url\":\"https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg\",\"id\":27,\"dimRatio\":70,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-background-dim\" style=\"background-image:url('https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"align\":\"center\",\"level\":6} -->\n<h6 class=\"has-text-align-center\">Exklusivt erbjudande</h6>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Få 20 procent i rabatt på din första resa</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">Vem gillar inte rabatter? Boka din första resa med oss idag och få ett exklusivt erbjudande.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://exforddemo.wordpress.com/services/\">Utforska våra erbjudanden</a></div>\n<!-- /wp:button --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 94,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Team",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Vi är ett litet team med duktiga proffs med ett brett utbud av talanger och erfarenheter. Vi brinner för det vi gör och gör det med inlevelse. Vi ser fram emot att hitta din drömsemester.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":36} -->\n<div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:media-text {\"mediaId\":80,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/edward-cisneros-_h6wpor9mjs-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-80\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Joan Smith</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\"><em>Produktchef</em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">Med över 15 års erfarenhet av resebranschen har Joan rest världen runt mer än en gång.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:media-text {\"mediaPosition\":\"right\",\"mediaId\":79,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/elizeu-dias-2egnqazbamk-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-79\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Jake Miller</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\"><em>Resespecialist</em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">Jake brinner för att resa, vandra och upptäcka nya platser.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:media-text {\"mediaId\":86,\"mediaType\":\"image\",\"isStackedOnMobile\":true} -->\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/charles-postiaux-j9vlgggytc0-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-86\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Amy Park</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\"><em>Erfaren resespecialist</em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">Amy har besökt 120 av våra utvalda hotell på 24 olika destinationer och hennes kunskap och expertis är ovärderlig.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:cover {\"url\":\"https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg\",\"id\":27,\"dimRatio\":70,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-background-dim\" style=\"background-image:url('https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Låt oss resa tillsammans.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://exforddemo.wordpress.com/contact/\">Kontakta oss</a></div>\n<!-- /wp:button --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "team",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 76,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Tjänster",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Vi erbjuder en rad olika tjänster som hjälper dig att få den perfekta semestern. Är du osäker på vad du behöver, eller vad det kostar? Vi kan förklara vilka tjänster som passar dig och berätta mer om våra avgifter. Ta kontakt nedan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":36} -->\n<div style=\"height:36px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} -->\n<div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":71,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/colin-watts-m1obxvswvhy-unsplash.jpg\" alt=\"\" class=\"wp-image-71\"  /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Inspiration</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Är du inte säker på vart du vill åka på din nästa semester? Vårt team kan hjälpa dig med detta.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":72,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/lauren-kay-a3v4fxudlhu-unsplash.jpg\" alt=\"\" class=\"wp-image-72\"  /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Privat transport</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Alla våra resor inkluderar privat transport. Oroa dig inte för att hamna längst bak i bussen.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":73,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/paolo-nicolello-2goxkj594nm-unsplash.jpg\" alt=\"\" class=\"wp-image-73\"  /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Fantastiska hotell</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Vi erbjuder endast boutique- och lyxhotell. Alla hotell är handplockade och utförligt testade.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:cover {\"url\":\"https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg\",\"id\":27,\"dimRatio\":70,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-background-dim\" style=\"background-image:url('https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Låt oss resa tillsammans.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://exforddemo.wordpress.com/contact/\">Kontakta oss</a></div>\n<!-- /wp:button --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "services",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 66,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Blogg",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 8,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Hem",
+            "post_content": "<!-- wp:cover {\"url\":\"https://exforddemo.files.wordpress.com/2019/08/tom-winckels-i7olrdm9yiw-unsplash.jpg\",\"id\":165,\"dimRatio\":30,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-30 has-background-dim\" style=\"background-image:url('https://exforddemo.files.wordpress.com/2019/08/tom-winckels-i7olrdm9yiw-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"align\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\">Din resa börjar</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">Med Exford börjar din resa här. Se till att utforska alla våra erbjudanden och välj den perfekta destinationen för din nästa semester.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground-dark\",\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-dark-color has-background has-background-background-color\" href=\"https://exforddemo.wordpress.com/services/\">Utforska våra erbjudanden</a></div>\n<!-- /wp:button --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":67} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:67%;\"><!-- wp:image {\"id\":163,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/cris-tagupa-9zxhur5acwm-unsplash.jpg\" alt=\"\" class=\"wp-image-163\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"width\":33} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:33%;\"><!-- wp:heading -->\n<h2>Utforska världen</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Fantastiska resor och roliga äventyr väntar på dig. Unna dig själv och se våra erbjudanden.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://exforddemo.wordpress.com/services/\">Utforska våra erbjudanden</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:media-text {\"align\":\"full\",\"backgroundColor\":\"foreground\",\"mediaPosition\":\"right\",\"mediaId\":56,\"mediaType\":\"image\",\"isStackedOnMobile\":true,\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-media-text alignfull has-media-on-the-right has-foreground-background-color is-stacked-on-mobile is-vertically-aligned-center\"><figure class=\"wp-block-media-text__media\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/rajiv-perera-b1jeqijwyqi-unsplash.jpg?w=750\" alt=\"\" class=\"wp-image-56\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading -->\n<h2>Upptäck obegränsad skönhet</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Möt olika människor, kulturer, traditioner och landskap. Välj din nästa destination med oss, vi tar hand om resten.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":33} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:33%;\"><!-- wp:heading -->\n<h2>Kommande resor och destinationer</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Från exotiska platser till skidorter, listan är <em>nästan</em> oändlig och vi har ett erbjudande för dig.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://exforddemo.wordpress.com/services/\">Utforska våra erbjudanden</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"width\":67} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:67%;\"><!-- wp:gallery {\"ids\":[18,61,16,21],\"columns\":2} -->\n<ul class=\"wp-block-gallery columns-2 is-cropped\"><li class=\"blocks-gallery-item\"><figure><img src=\"https://exforddemo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg?w=750\" alt=\"\" data-id=\"18\" data-link=\"https://exforddemo.wordpress.com/home/ancient-architectural-design-architecture-2166553/\" class=\"wp-image-18\"  /></figure></li><li class=\"blocks-gallery-item\"><figure><img src=\"https://exforddemo.files.wordpress.com/2019/08/pietro-de-grandi-t7k4aepoggk-unsplash.jpg?w=750\" alt=\"\" data-id=\"61\" data-link=\"https://exforddemo.wordpress.com/home/pietro-de-grandi-t7k4aepoggk-unsplash/\" class=\"wp-image-61\"  /></figure></li><li class=\"blocks-gallery-item\"><figure><img src=\"https://exforddemo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg?w=750\" alt=\"\" data-id=\"16\" data-link=\"https://exforddemo.wordpress.com/home/bali-coconut-trees-palm-trees-2100805/\" class=\"wp-image-16\"  /></figure></li><li class=\"blocks-gallery-item\"><figure><img src=\"https://exforddemo.files.wordpress.com/2019/08/cold-dawn-daylight-376370.jpg?w=750\" alt=\"\" data-id=\"21\" data-link=\"https://exforddemo.wordpress.com/home/cold-dawn-daylight-376370/\" class=\"wp-image-21\"  /></figure></li></ul>\n<!-- /wp:gallery --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:media-text {\"align\":\"full\",\"backgroundColor\":\"foreground\",\"mediaId\":53,\"mediaType\":\"image\",\"isStackedOnMobile\":true,\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-media-text alignfull has-foreground-background-color is-stacked-on-mobile is-vertically-aligned-center\"><figure class=\"wp-block-media-text__media\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/action-adventure-alps-238622.jpg?w=750\" alt=\"\" class=\"wp-image-53\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading -->\n<h2>Vad folk säger</h2>\n<!-- /wp:heading -->\n\n<!-- wp:quote {\"className\":\"is-style-large\"} -->\n<blockquote class=\"wp-block-quote is-style-large\"><p>Vi bokade vår smekmånad med Exford och den var helt fantastisk. De tog hand om allt, till och med vår packlista!</p><cite>William och Megan James</cite></blockquote>\n<!-- /wp:quote --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:group {\"backgroundColor\":\"background\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Specialerbjudanden&nbsp;och&nbsp;sista minuten-erbjudanden</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">Boka en unik resa till ett fantastiskt pris! Välj ett sista minuten-erbjudande och börja packa för en minnesvärd semester.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":52,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/adults-arabian-arabic-2239422-1.jpg?w=750\" alt=\"\" class=\"wp-image-52\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Qatar-äventyr</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Erbjudanden på hotell där&nbsp;ökenutflykter&nbsp;ingår.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://exforddemo.wordpress.com/contact/\">Från 900 USD</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":49,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/ancient-architecture-building-1010657.jpg\" alt=\"\" class=\"wp-image-49\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Upptäck Grekland</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Besök Santorini och lär dig om dess arkitektur och historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://exforddemo.wordpress.com/contact/\">Från 650 USD</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":51,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/background-beach-blue-sky-1007657-1.jpg?w=750\" alt=\"\" class=\"wp-image-51\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Utforska Thailand</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center;\" class=\"has-small-font-size\">Skäm bort dig själv på stranden och koppla av med en massage.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://exforddemo.wordpress.com/contact/\">Från 1 200 USD</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":68} -->\n<div style=\"height:68px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:cover {\"url\":\"https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg\",\"id\":27,\"dimRatio\":70,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-70 has-background-dim\" style=\"background-image:url('https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading {\"align\":\"center\",\"level\":6} -->\n<h6 class=\"has-text-align-center\">Exklusivt erbjudande</h6>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Få 20 procent i rabatt på din första resa</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">Vem gillar inte rabatter? Boka din första resa med oss idag och få ett exklusivt erbjudande.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://exforddemo.wordpress.com/services/\">Utforska våra erbjudanden</a></div>\n<!-- /wp:button --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 5,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Månadens hotell: Ubud",
+            "post_content": "<!-- wp:paragraph -->\n<p>Detta hotell i Bali, Indonesien är helt magnifikt. Det ligger mitt i regnskogen, så du kan bli ett med naturen.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Se till att boka en spa-dag eller en yogasession.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"ids\":[146,147,148,149,150]} -->\n<div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"146\" data-link=\"https://exforddemo.wordpress.com/taylor-simpson-cz_5y1gnvdq-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-cz_5y1gnvdq-unsplash.jpg\" data-width=\"3000\" src=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-cz_5y1gnvdq-unsplash.jpg\"  /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"147\" data-link=\"https://exforddemo.wordpress.com/taylor-simpson-h9z5jaa9liq-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-h9z5jaa9liq-unsplash.jpg\" data-width=\"2000\" src=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-h9z5jaa9liq-unsplash.jpg\"  /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"148\" data-link=\"https://exforddemo.wordpress.com/taylor-simpson-lv4itm28ffe-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-lv4itm28ffe-unsplash.jpg\" data-width=\"2000\" src=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-lv4itm28ffe-unsplash.jpg\"  /></figure></div></div><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"149\" data-link=\"https://exforddemo.wordpress.com/taylor-simpson-opgrlzqaogo-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-opgrlzqaogo-unsplash.jpg\" data-width=\"2000\" src=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-opgrlzqaogo-unsplash.jpg\"  /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"150\" data-link=\"https://exforddemo.wordpress.com/taylor-simpson-twcc6bflo3k-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-twcc6bflo3k-unsplash.jpg\" data-width=\"3000\" src=\"https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-twcc6bflo3k-unsplash.jpg\"  /></figure></div></div></div></div>\n<!-- /wp:jetpack/tiled-gallery -->",
+            "post_name": "hotel-of-the-month-ubud",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 144,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Hotels"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Vandra i Peru",
+            "post_content": "<!-- wp:paragraph -->\n<p>Peru är ett drömresmål vad gäller vandring, perfekt om du vill ha en aktiv semester.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Du kommer att uppleva dramatiska landskap som bara kan utforskas till fots.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":141,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://exforddemo.files.wordpress.com/2019/08/willian-justen-de-vasconcellos-4hmet7vytaq-unsplash.jpg\" alt=\"\" class=\"wp-image-141\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "hiking-in-peru",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Adventure"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "De bästa aktiviteterna i Sri Lanka",
+            "post_content": "<!-- wp:paragraph -->\n<p>Sri Lanka har ett skiftande landskap som sträcker sig över flera regioner, här finns något för alla. Listan över aktiviteter kan vara ganska uttömmande, så vi har valt ut de fem bästa. Glöm inte att kontakta oss om upplevelsen lockar!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list {\"ordered\":true} -->\n<ol><li>Vandra uppför Little Adam’s Peak</li><li>Bestig Sigiriyaklippan</li><li>Ta tåget mellan Kandy och Ella</li><li>Safari i Kaudulla nationalpark</li><li>Surfa vid Hikkaduwa Beach</li></ol>\n<!-- /wp:list -->\n\n<!-- wp:gallery {\"ids\":[125,126,127],\"align\":\"wide\"} -->\n<ul class=\"wp-block-gallery alignwide columns-3 is-cropped\"><li class=\"blocks-gallery-item\"><figure><img src=\"https://exforddemo.files.wordpress.com/2019/08/egle-sidaraviciute-mnmyibnn9ow-unsplash.jpg\" alt=\"\" data-id=\"125\" data-link=\"https://exforddemo.wordpress.com/egle-sidaraviciute-mnmyibnn9ow-unsplash/\" class=\"wp-image-125\"  /></figure></li><li class=\"blocks-gallery-item\"><figure><img src=\"https://exforddemo.files.wordpress.com/2019/08/egle-sidaraviciute-pv-2hrmojru-unsplash.jpg\" alt=\"\" data-id=\"126\" data-link=\"https://exforddemo.wordpress.com/egle-sidaraviciute-pv-2hrmojru-unsplash/\" class=\"wp-image-126\"  /></figure></li><li class=\"blocks-gallery-item\"><figure><img src=\"https://exforddemo.files.wordpress.com/2019/08/egle-sidaraviciute-uebzldrhhxq-unsplash.jpg\" alt=\"\" data-id=\"127\" data-link=\"https://exforddemo.wordpress.com/egle-sidaraviciute-uebzldrhhxq-unsplash/\" class=\"wp-image-127\"  /></figure></li></ul>\n<!-- /wp:gallery -->",
+            "post_name": "best-activities-to-do-in-sri-lanka",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 123,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Adventure"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Månadens hotell: Santorini",
+            "post_content": "<!-- wp:paragraph -->\n<p>Med över 1 500 hotell i Santorini, Grekland, kan det vara svårt att hitta det perfekta boendet. Med det sagt, så har vi faktiskt lyckats hitta det. Utsikten över Medelhavet är helt enkelt underbar.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"ids\":[156,157,158,159,160]} -->\n<div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"156\" data-link=\"https://exforddemo.wordpress.com/hello-lightbulb-etgptuelgfu-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-etgptuelgfu-unsplash.jpg\" data-width=\"3000\" src=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-etgptuelgfu-unsplash.jpg\"  /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"157\" data-link=\"https://exforddemo.wordpress.com/hello-lightbulb-fljcznt2blm-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-fljcznt2blm-unsplash.jpg\" data-width=\"3000\" src=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-fljcznt2blm-unsplash.jpg\"  /></figure><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"158\" data-link=\"https://exforddemo.wordpress.com/hello-lightbulb-r7dcbucsqhu-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-r7dcbucsqhu-unsplash.jpg\" data-width=\"3000\" src=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-r7dcbucsqhu-unsplash.jpg\"  /></figure></div></div><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"159\" data-link=\"https://exforddemo.wordpress.com/hello-lightbulb-yb6wfhbkx40-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-yb6wfhbkx40-unsplash.jpg\" data-width=\"3000\" src=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-yb6wfhbkx40-unsplash.jpg\"  /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"160\" data-link=\"https://exforddemo.wordpress.com/hello-lightbulb-yc8qqp50bda-unsplash/\" data-url=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-yc8qqp50bda-unsplash.jpg\" data-width=\"3000\" src=\"https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-yc8qqp50bda-unsplash.jpg\"  /></figure></div></div></div></div>\n<!-- /wp:jetpack/tiled-gallery -->",
+            "post_name": "hotel-of-the-month-santorini",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 155,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Hotels"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Huvudrätt",
+            "items": [
+                {
+                    "menu-item-title": "Hem",
+                    "menu-item-db-id": 32,
+                    "menu-item-object-id": "5",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Tjänster",
+                    "menu-item-db-id": 83,
+                    "menu-item-object-id": "66",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Om",
+                    "menu-item-db-id": 120,
+                    "menu-item-object-id": "105",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Team",
+                    "menu-item-db-id": 82,
+                    "menu-item-object-id": "76",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Nyheter",
+                    "menu-item-db-id": 134,
+                    "menu-item-object-id": "130",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Kontakta oss",
+                    "menu-item-db-id": 103,
+                    "menu-item-object-id": "94",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sociala medier",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 35,
+                    "menu-item-object-id": "35",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 36,
+                    "menu-item-object-id": "36",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "37",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Snapchat",
+                    "menu-item-db-id": 38,
+                    "menu-item-object-id": "38",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://snapchat.com"
+                },
+                {
+                    "menu-item-title": "Tumblr",
+                    "menu-item-db-id": 39,
+                    "menu-item-object-id": "39",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://tumblr.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://exforddemo.files.wordpress.com/2019/08/cropped-logo-1.png",
+        "https://exforddemo.files.wordpress.com/2019/08/cropped-logo.png",
+        "https://exforddemo.files.wordpress.com/2019/08/tom-winckels-i7olrdm9yiw-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/cris-tagupa-9zxhur5acwm-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-yc8qqp50bda-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-yb6wfhbkx40-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-r7dcbucsqhu-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-fljcznt2blm-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/hello-lightbulb-etgptuelgfu-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-twcc6bflo3k-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-opgrlzqaogo-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-lv4itm28ffe-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-h9z5jaa9liq-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/taylor-simpson-cz_5y1gnvdq-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/willian-justen-de-vasconcellos-4hmet7vytaq-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/egle-sidaraviciute-uebzldrhhxq-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/egle-sidaraviciute-pv-2hrmojru-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/egle-sidaraviciute-mnmyibnn9ow-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/logo-5.png",
+        "https://exforddemo.files.wordpress.com/2019/08/logo-4.png",
+        "https://exforddemo.files.wordpress.com/2019/08/logo-3.png",
+        "https://exforddemo.files.wordpress.com/2019/08/logo-2.png",
+        "https://exforddemo.files.wordpress.com/2019/08/logo-1.png",
+        "https://exforddemo.files.wordpress.com/2019/08/charles-postiaux-j9vlgggytc0-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/edward-cisneros-_h6wpor9mjs-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/elizeu-dias-2egnqazbamk-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/paolo-nicolello-2goxkj594nm-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/lauren-kay-a3v4fxudlhu-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/colin-watts-m1obxvswvhy-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/pietro-de-grandi-t7k4aepoggk-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/rajiv-perera-b1jeqijwyqi-unsplash.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/action-adventure-alps-238622.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/adults-arabian-arabic-2239422-1.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/background-beach-blue-sky-1007657-1.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/ancient-architecture-building-1010657.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/beautiful-female-girl-1002530.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/animal-baby-baby-monkey-1007717.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/cold-dawn-daylight-376370.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/beach-boat-free-wallpaper-1006367.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/daylight-landscape-mountain-321524.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg",
+        "https://exforddemo.files.wordpress.com/2019/08/clouds-daylight-environment-2082949.jpg"
+    ]
+}
