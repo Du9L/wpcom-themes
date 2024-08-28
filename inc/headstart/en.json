@@ -1,0 +1,257 @@
+{
+	"settings": {
+		"options": {
+			"show_on_front": "page",
+			"stylesheet": "pub\/karuna"
+		},
+		"theme_mods": {
+			"0": false,
+			"header_image": "https:\/\/karunademo.files.wordpress.com\/2016\/06\/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+			"header_image_data": {
+				"attachment_id": 126,
+				"url": "https:\/\/karunademo.files.wordpress.com\/2016\/06\/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+				"thumbnail_url": "https:\/\/karunademo.files.wordpress.com\/2016\/06\/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+				"height": 799,
+				"width": 2000
+			},
+			"nav_menu_locations": {
+				"menu-1": "menu-1"
+			},
+			"custom_logo": "https://headstartdata.files.wordpress.com/2017/02/yogalogo3.png",
+			"header_textcolor": "333333",
+			"jetpack_testimonials": {
+				"page-title": "Testimonials",
+				"page-content": "<p>Hear what our customers have to say!<\/p>\n",
+				"featured-image": 221
+			},
+			"colors_manager": {
+				"colors": {
+					"bg": "#ffffff",
+					"txt": "#6636cc",
+					"link": "#85cc36",
+					"fg1": "#333333",
+					"fg2": "#ffffff"
+				},
+				"cached": false
+			}
+		},
+		"headstart": {
+			"mapped_id_options": [],
+			"mapped_id_theme_mods": []
+		}
+	},
+	"widgets": [
+		{
+			"id": "search-2",
+			"id_base": "search",
+			"settings": {
+				"title": "Search"
+			},
+			"sidebar": "sidebar-1",
+			"position": 0
+		},
+		{
+			"id": "widget_contact_info-3",
+			"id_base": "widget_contact_info",
+			"settings": {
+				"title": "Find Us",
+				"address": "3999 Mission Boulevard,\r\nSan Diego CA 92109",
+				"phone": "1-555-555-YOGA",
+				"hours": "M-Th: 7am - 4pm\r\nFri-Sat: 9am - 8pm",
+				"lat": 32.7897691,
+				"lon": -117.2526891,
+				"showmap": 1
+			},
+			"sidebar": "sidebar-2",
+			"position": 0
+		},
+		{
+			"id": "text-5",
+			"id_base": "text",
+			"settings": {
+				"title": "About Karuna",
+				"text": "Karuna is a theme designed with health and wellness in mind.",
+				"filter": false,
+				"syntaxhighlighter_encoded": true
+			},
+			"sidebar": "sidebar-3",
+			"position": 0
+		},
+		{
+			"id": "archives-6",
+			"id_base": "archives",
+			"settings": {
+				"title": "Archives",
+				"count": 0,
+				"dropdown": 0
+			},
+			"sidebar": "sidebar-6",
+			"position": 0
+		},
+		{
+			"id": "search-2",
+			"id_base": "search",
+			"settings": {
+				"title": "Search"
+			},
+			"sidebar": "sidebar-7",
+			"position": 0
+		}
+	],
+	"content": [
+		{
+			"post_title": "Contact",
+			"post_content": "[contact-form][contact-field label=\"Name\" type=\"name\" required=\"1\"\/][contact-field label=\"Email\" type=\"email\" required=\"1\"\/][contact-field label=\"Comment\" type=\"textarea\" required=\"1\"\/][\/contact-form]",
+			"post_status": "publish",
+			"menu_order": 3,
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"post_type": "page",
+			"hs_custom_meta": "_hs_contact_page",
+			"hs_sharing": 0,
+			"hs_like_status": 0,
+			"attachment_url": "https:\/\/headstartdata.files.wordpress.com\/2016\/06\/person-smartphone-office-table.jpeg",
+			"hs_old_id": 101
+		},
+		{
+			"post_title": "The Journey Begins",
+			"post_content": "Thanks for joining me! <blockquote>Good company in a journey makes the way seem shorter. — Izaak Walton<\/blockquote><img class=\"wp-image-7 size-full\" src=\"https://twentysixteendemo.files.wordpress.com/2015/11/post.png\" alt=\"post\" width=\"1000\" height=\"563\" \/>",
+			"post_status": "publish",
+			"comment_status": "open",
+			"ping_status": "open",
+			"post_type": "post",
+			"hs_custom_meta": "_hs_first_post",
+			"hs_sharing": 0,
+			"hs_like_status": 0,
+			"hs_old_id": 102
+		},
+		{
+			"post_title": "Home",
+			"post_content": "Welcome to my site!",
+			"post_status": "publish",
+			"menu_order": 1,
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"post_type": "page",
+			"hs_custom_meta": "_hs_front_page",
+			"hs_sharing": 0,
+			"hs_like_status": 0,
+			"page_template": "default",
+			"hs_old_id": 103
+		},
+		{
+			"post_title": "Blog",
+			"post_content": "",
+			"post_status": "publish",
+			"menu_order": 4,
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"post_type": "page",
+			"hs_custom_meta": "_hs_blog_page",
+			"hs_sharing": 0,
+			"hs_like_status": 0,
+			"hs_old_id": 104
+		},
+		{
+			"post_type": "jetpack-testimonial",
+			"post_title": "Megan",
+			"post_content": "I adore Karuna Yoga! The morning classes are a\u00a0refreshing start to my hectic work day, and Jade is an amazing instructor. I'd recommend this studio for yoga enthusiasts of all types and levels of experience.",
+			"post_name": "megan",
+			"post_excerpt": "",
+			"menu_order": 0,
+			"post_status": "publish",
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"_starter_page_template": "",
+			"hs_old_id": 196,
+			"hs_post_parent": 0,
+			"hs_taxonomies": [],
+			"hs_custom_meta": "_hs_extra",
+			"attachment_url": "https:\/\/karunademo.files.wordpress.com\/2016\/04\/testimonial-1.jpg"
+		},
+		{
+			"post_type": "jetpack-testimonial",
+			"post_title": "John",
+			"post_content": "My husband\u00a0and I enjoyed the\u00a0Yoga for Couples class; it deepened our spiritual bond, and now we have a regular yoga practice at home. I highly recommend giving Karuna Yoga a try, you won't be disappointed!",
+			"post_name": "john",
+			"post_excerpt": "",
+			"menu_order": 0,
+			"post_status": "publish",
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"_starter_page_template": "",
+			"hs_old_id": 194,
+			"hs_post_parent": 0,
+			"hs_taxonomies": [],
+			"hs_custom_meta": "_hs_extra",
+			"attachment_url": "https:\/\/karunademo.files.wordpress.com\/2016\/04\/testimonial-2.jpg"
+		},
+		{
+			"post_type": "post",
+			"post_title": "Yoga Photography Available On-Site",
+			"post_content": "Karuna is lucky enough to have our very own studio photographer. She's done a marvelous job of documenting our lessons and practice. You can find her photos at the studio and even purchase custom portraits to commemorate your own practice at Karuna Yoga!\r\n\r\nSome\u00a0of our favorites from the past year:\r\n\r\n[gallery type=\"rectangular\" ids=\"124,125,119,118,120,111\"]",
+			"post_name": "yoga-photography",
+			"post_excerpt": "",
+			"menu_order": 0,
+			"post_status": "publish",
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"_starter_page_template": "",
+			"hs_old_id": 361,
+			"hs_post_parent": 0,
+			"hs_taxonomies": {
+				"category_name": [
+					"Photos"
+				],
+				"post_tag_name": [
+					"project"
+				]
+			},
+			"hs_custom_meta": "_hs_extra"
+		},
+		{
+			"post_type": "post",
+			"post_title": "Sunrise Yoga on the Beach",
+			"post_content": "We're happy to announce our latest early morning class at Pond's Beach. Taught by certified instructor Marshall Lund, this class will guide you through the basic principles of relaxation and restful practice in a tranquil waterfront\u00a0setting. Light breakfast snacks and mats provided.\r\n\r\n[wpvideo RZSgWtde]",
+			"post_name": "sunrise-yoga-on-the-beach",
+			"post_excerpt": "",
+			"menu_order": 0,
+			"post_status": "publish",
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"_starter_page_template": "",
+			"hs_old_id": 358,
+			"hs_post_parent": 0,
+			"hs_taxonomies": {
+				"category_name": [
+					"Videos"
+				],
+				"post_tag_name": []
+			},
+			"hs_custom_meta": "_hs_extra",
+			"attachment_url": "https:\/\/karunademo.files.wordpress.com\/2016\/06\/photo-1463704131914-97e5aaa0e339-e1465419362227.jpeg"
+		},
+		{
+			"post_type": "post",
+			"post_title": "The Safest Stretch",
+			"post_content": "On crossing the imaginary line drawn from Punta Mala to Azuera the ships from Europe bound to Sulaco lose at once the strong breezes of the ocean. They become the prey of capricious airs that play with them for thirty hours at a stretch sometimes. Before them the head of the calm gulf is filled on most days of the year by a great body of motionless and opaque clouds. On the rare clear mornings another shadow is cast upon the sweep of the gulf.<!--nextpage-->\r\n\r\nThe dawn breaks high behind the towering and serrated wall of the Cordillera, a clear-cut vision of dark peaks rearing their steep slopes on a lofty pedestal of forest rising from the very edge of the shore. Amongst them the white head of Higuerota rises majestically upon the blue. Bare clusters of enormous rocks sprinkle with tiny black dots the smooth dome of snow.<!--nextpage-->\r\n\r\nThen, as the midday sun withdraws from the gulf the shadow of the mountains, the clouds begin to roll out of the lower valleys. They swathe in sombre tatters the naked crags of precipices above the wooded slopes, hide the peaks, smoke in stormy trails across the snows of Higuerota. The Cordillera is gone from you as if it had dissolved itself into great piles of grey and black vapours that travel out slowly to seaward and vanish into thin air all along the front before the blazing heat of the day. The wasting edge of the cloud-bank always strives for, but seldom wins, the middle of the gulf. The sun\u2014as the sailors say\u2014is eating it up. Unless perchance a sombre thunder-head breaks away from the main body to career all over the gulf till it escapes into the offing beyond Azuera, where it bursts suddenly into flame and crashes like a sinster pirate-ship of the air, hove-to above the horizon, engaging the sea.",
+			"post_name": "the-safest-stretch",
+			"post_excerpt": "",
+			"menu_order": 0,
+			"post_status": "publish",
+			"comment_status": "closed",
+			"ping_status": "closed",
+			"_starter_page_template": "",
+			"hs_old_id": 360,
+			"hs_post_parent": 0,
+			"hs_taxonomies": {
+				"category_name": [
+					"Writing"
+				],
+				"post_tag_name": []
+			},
+			"hs_custom_meta": "_hs_extra",
+			"attachment_url": "https:\/\/karunademo.files.wordpress.com\/2016\/06\/1b0cc699.jpeg"
+		}
+	]
+}
