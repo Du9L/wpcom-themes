@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Pique\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-14T04:58:25+00:00\n"
+"PO-Revision-Date: 2024-06-13 12:34:35+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:142
+msgid "White"
+msgstr "أبيض"
+
+#: functions.php:137
+msgid "Medium Gray"
+msgstr "رمادي متوسط"
+
+#: functions.php:132
+msgid "Dark Gray"
+msgstr "رمادي داكن"
+
+#: functions.php:112
+msgid "Dark Blue"
+msgstr "أزرق داكن"
+
+#: inc/woocommerce.php:278
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d عنصر"
+msgstr[1] "عنصر واحد"
+msgstr[2] "عنصران"
+msgstr[3] "%d عناصر"
+msgstr[4] "%d عنصرا"
+msgstr[5] "%d عناصر"
+
+#: inc/woocommerce.php:275
+msgid "View your shopping cart"
+msgstr "عرض سلة التسوق الخاصة بك"
+
+#: functions.php:199
+#: functions.php:211
+#: functions.php:223
+msgid "Add widgets here to appear in your footer"
+msgstr "أضف مربعات جانبية هنا لتظهر في تذييل موقعك"
+
+#: functions.php:187
+msgid "Add widgets here to appear in your sidebar"
+msgstr "أضف مربعات جانبية هنا لتظهر في الشريط الجانبي لموقعك"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/themes/pique/"
+msgstr "http://wordpress.com/themes/pique"
+
+#: inc/customizer.php:58
+#: inc/customizer.php:109
+#: inc/customizer.php:160
+#: inc/customizer.php:211
+#: inc/customizer.php:262
+#: inc/customizer.php:313
+#: inc/customizer.php:364
+#: inc/customizer.php:415
+msgid "Panel Content"
+msgstr "محتوى اللوحة"
+
+#: inc/customizer.php:49
+#: inc/customizer.php:100
+#: inc/customizer.php:151
+#: inc/customizer.php:202
+#: inc/customizer.php:253
+#: inc/customizer.php:304
+#: inc/customizer.php:355
+#: inc/customizer.php:406
+msgid "Add a background image to your panel by setting a featured image in the page editor. If you don&rsquo;t select a page, this panel will not be displayed."
+msgstr "أضف صورة خلفية إلى لوحتك بضبط صورة مميزة في محررالصفحة.  لن يتم عرض هذه اللوحة إذا لم تختر صفحة."
+
+#: inc/customizer.php:39
+msgid "Add an anchor menu to the front page."
+msgstr "أضف قائمة ارساء إلى الصفحة الأمامية."
+
+#: inc/customizer.php:30
+msgid "This replaces your custom menu&mdash;on the front page only&mdash;with an automatically-generated menu that links to each of your panels."
+msgstr "هذا الخيار يستبدل القائمة المعدّلة — على الصفحة الرئيسية فقط — بقائمة تنشؤ آلياً بها روابط لكل لوحة لديك."
+
+#: inc/customizer.php:28
+msgid "Menu Settings"
+msgstr "إعدادات القائمة"
+
+#: inc/extras.php:229
+msgid "Read more %s"
+msgstr "اقرأ المزيد %s"
+
+#: inc/customizer.php:90
+#: inc/customizer.php:141
+#: inc/customizer.php:192
+#: inc/customizer.php:243
+#: inc/customizer.php:294
+#: inc/customizer.php:345
+#: inc/customizer.php:396
+#: inc/customizer.php:447
+msgid "100%"
+msgstr "100%"
+
+#: inc/customizer.php:89
+#: inc/customizer.php:140
+#: inc/customizer.php:191
+#: inc/customizer.php:242
+#: inc/customizer.php:293
+#: inc/customizer.php:344
+#: inc/customizer.php:395
+#: inc/customizer.php:446
+msgid "75%"
+msgstr "75%"
+
+#: inc/customizer.php:88
+#: inc/customizer.php:139
+#: inc/customizer.php:190
+#: inc/customizer.php:241
+#: inc/customizer.php:292
+#: inc/customizer.php:343
+#: inc/customizer.php:394
+#: inc/customizer.php:445
+msgid "50%"
+msgstr "50%"
+
+#: inc/customizer.php:87
+#: inc/customizer.php:138
+#: inc/customizer.php:189
+#: inc/customizer.php:240
+#: inc/customizer.php:291
+#: inc/customizer.php:342
+#: inc/customizer.php:393
+#: inc/customizer.php:444
+msgid "25%"
+msgstr "25%"
+
+#: inc/customizer.php:82
+#: inc/customizer.php:133
+#: inc/customizer.php:184
+#: inc/customizer.php:235
+#: inc/customizer.php:286
+#: inc/customizer.php:337
+#: inc/customizer.php:388
+#: inc/customizer.php:439
+msgid "Featured Image Opacity"
+msgstr "شفافية الصورة المميزة"
+
+#: inc/customizer.php:70
+#: inc/customizer.php:121
+#: inc/customizer.php:172
+#: inc/customizer.php:223
+#: inc/customizer.php:274
+#: inc/customizer.php:325
+#: inc/customizer.php:376
+#: inc/customizer.php:427
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/customizer.php:23
+msgid "Configure your theme settings"
+msgstr "أضبط إعدادات القالب لديك"
+
+#. Template Name of the theme
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#. Template Name of the theme
+msgid "Grid Page"
+msgstr "صفحة الشبكة"
+
+#. Template Name of the theme
+msgid "Full-width Page"
+msgstr "صفحة كاملة العرض"
+
+#. Description of the theme
+#: style.css
+msgid "A one-page scrolling theme for small businesses."
+msgstr "قالب ذو صفحة واحدة بشريط تمرير للأعمال الصغيرة."
+
+#: single.php:19
+msgid "Next"
+msgstr "التالي"
+
+#: single.php:18
+msgid "Previous"
+msgstr "السابق"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:87
+msgid "Edit %1$s %2$s"
+msgstr "تحرير %1$s %2$s"
+
+#: inc/template-tags.php:82
+msgid "Post"
+msgstr "تدوينة"
+
+#: inc/template-tags.php:80
+msgid "Page"
+msgstr "الصفحة"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "أضف تعليقاً "
+
+#: inc/template-tags.php:57
+msgid "Tagged %1$s"
+msgstr "الكلمات الدلالية: %1$s"
+
+#: inc/template-tags.php:51
+msgid "Posted in %1$s"
+msgstr "نشرت في %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:49
+#: inc/template-tags.php:55
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "by %s"
+msgstr "كتبها %s"
+
+#: inc/customizer.php:403
+msgid "Panel 8"
+msgstr "اللوحة 8"
+
+#: inc/customizer.php:352
+msgid "Panel 7"
+msgstr "اللوحة 7"
+
+#: inc/customizer.php:301
+msgid "Panel 6"
+msgstr "اللوحة 6"
+
+#: inc/customizer.php:250
+msgid "Panel 5"
+msgstr "اللوحة 5"
+
+#: inc/customizer.php:199
+msgid "Panel 4"
+msgstr "اللوحة 4"
+
+#: inc/customizer.php:148
+msgid "Panel 3"
+msgstr "اللوحة 3"
+
+#: inc/customizer.php:97
+msgid "Panel 2"
+msgstr "اللوحة 2"
+
+#: inc/customizer.php:46
+msgid "Panel 1"
+msgstr "اللوحة 1"
+
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr "خيارات الواجهة"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:221
+msgid "Third Footer Widget Area"
+msgstr "منطقة ودجت التذييل الثالثة"
+
+#: functions.php:209
+msgid "Second Footer Widget Area"
+msgstr "منطقة ودجت التذييل الثانية"
+
+#: functions.php:197
+msgid "First Footer Widget Area"
+msgstr "منطقة ودجت التذييل الأولى"
+
+#: functions.php:185
+msgid "Sidebar"
+msgstr "القائمة الجانبية"
+
+#: functions.php:51
+msgid "Secondary Menu"
+msgstr "القائمة الثانوية"
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:27
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "مدعوم بفخر من %s"
+
+#: footer.php:25
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: components/content-page.php:13
+#: components/content-testimonial.php:22
+#: inc/template-tags.php:36
+msgid "Edit"
+msgstr "تحرير"
+
+#: components/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يظهر انه لا يمكننا الوصول لما تبحث عنه. يمكن ان يساعدك البحث."
+
+#: components/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسفين, ولكن لا يوجد شئ مطابق لكلمات البحث التي ادخلتها, حاول بكلمات اخرى مرة ثانية."
+
+#: components/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: components/content-none.php:14
+msgid "Nothing Found"
+msgstr "لا يوجد شيء"
+
+#: components/content-front.php:101
+#: components/content-page.php:22
+#: components/content-single.php:22
+#: components/content.php:46
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: components/content-front.php:34
+#: components/content-hero.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "متابعة قراءة %s <span class=\"meta-nav\">&larr;</span>"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:43
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "تصفح التعليق"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا رأي على &ldquo;%2$s&rdquo;"
+msgstr[1] "رأي واحد على &ldquo;%2$s&rdquo;"
+msgstr[2] "رأيان على &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s آراء على &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s رأي على &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s رأي على &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول مراجعة ارشيفتنا الشهرية. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "التصنيفات الاكثر استخداماً"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "يظهر انه لا يوجد شئ هنا. يمكنك محاولة البحث بالروابط بالاسفل او بإستخدام أداة البحث؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوبس! الصفحة غير موجودة."
