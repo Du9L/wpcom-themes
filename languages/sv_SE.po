@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Message\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-14T04:14:33+00:00\n"
+"PO-Revision-Date: 2024-09-13 04:13:31+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr "XXL"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Systemtypsnitt"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr "arkiv"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr "sidfot"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr "sidhuvud"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Dolt innehåll utan resultat"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr "hem"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr "index"
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "page"
+msgstr "sida"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr "sök"
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "single"
+msgstr "singel"
+
+#: styles/avocado.json
+#: styles/lightmode.json
+#: styles/sunflower.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bas"
+
+#: styles/avocado.json
+#: styles/lightmode.json
+#: styles/sunflower.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: styles/avocado.json
+#: styles/lightmode.json
+#: styles/sunflower.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: styles/avocado.json
+#: styles/lightmode.json
+#: styles/sunflower.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: styles/avocado.json
+#: styles/lightmode.json
+#: styles/sunflower.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: styles/avocado.json
+msgctxt "Style variation name"
+msgid "Avocado"
+msgstr "Avokado"
+
+#: styles/lightmode.json
+msgctxt "Style variation name"
+msgid "Light Mode"
+msgstr "Ljust läge"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Default"
+msgstr "Standard"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Avocado"
+msgstr "Avokado"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr "XXS"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr "XS"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Liten"
+
+#: patterns/404.php:23
+msgid "Oops! That page can’t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
+
+#: patterns/404.php:27
+msgid "It looks like nothing was found at this location. Try a search."
+msgstr "Det verkar som om inget hittades på denna plats. Försök med en sökning."
+
+#: patterns/archive.php:45
+#: patterns/home.php:36
+#: patterns/index.php:45
+#: patterns/search.php:57
+msgid "—"
+msgstr "—"
+
+#: patterns/footer.php:21
+msgid "Designed with WordPress"
+msgstr "Designad med WordPress"
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
