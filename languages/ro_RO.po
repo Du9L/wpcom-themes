@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Hall\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-19T02:45:36+00:00\n"
+"PO-Revision-Date: 2024-01-18 14:37:22+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Condensed"
+msgstr "Roboto Condensed"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr "Prima pagină"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#. Description of the theme
+msgid "Hall is a blog theme that presents posts in different Query Loops through the use of tags. The perfect pick for museums or galleries."
+msgstr "Hall este o temă pentru bloguri care prezintă articolele în diferite bucle de interogare prin utilizarea etichetelor. Este alegerea perfectă pentru muzee sau galerii."
+
+#: patterns/home.php:73
+msgid "Opening times"
+msgstr "Program de funcționare"
+
+#: patterns/home.php:95
+msgid "Check"
+msgstr "verifică"
+
+#: patterns/home.php:95
+msgid "here"
+msgstr "aici"
+
+#: patterns/home.php:126
+msgid "View All"
+msgstr "Vezi tot"
+
+#: patterns/home.php:122
+msgid "Collection"
+msgstr "Colecție"
+
+#: patterns/home.php:77
+msgid "Monday: Closed."
+msgstr "Luni: închis."
+
+#: patterns/home.php:77
+msgid "Wed/Fri: 11.00 a 20.00."
+msgstr "Miercuri/Vineri: de la 11:00 la 20:00."
+
+#: patterns/home.php:66
+msgid "info@xxx.ar"
+msgstr "info@xxx.ar"
+
+#: patterns/home.php:66
+msgid "+00 (000) 0000-0000"
+msgstr "+00 (000) 0000-0000"
+
+#: patterns/home.php:77
+msgid "Sat/Sun: 10.00 a 20.00"
+msgstr "Sâmbătă/Duminică: de la 10:00 la 20:00"
+
+#: patterns/home.php:101
+msgid "Audioguide"
+msgstr "Ghid audio"
+
+#: patterns/home.php:95
+msgid "the registration dates and the proposed routes for each educational level."
+msgstr "datele de înregistrare și rutele propuse pentru fiecare nivel educațional."
+
+#: patterns/home.php:91
+msgid "Group Visits"
+msgstr "Vizite pentru grupuri"
+
+#: patterns/home.php:85
+msgid "Admission is free of charge."
+msgstr "Intrarea este gratuită."
+
+#: patterns/home.php:81
+msgid "The Museum is closed to the public on May 1, June 27, December 24, 25 and 31, 2023, and January 1, 2024."
+msgstr "Muzeul este închis pentru public pe 1 mai, 27 iunie, 24, 25 și 31 decembrie 2023 și pe 1 ianuarie 2024."
+
+#: patterns/home.php:105
+msgid "An approach to the Museum's collection through thirteen audio tracks referring to great sculptural works made by pre-Hispanic, European and Argentine cultures."
+msgstr "O abordare a colecției muzeului prin treisprezece înregistrări audio care se referă la mari opere sculpturale realizate în culturile pre-hispanice, europene și argentiniene."
+
+#: patterns/404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr "Se pare că n-a fost găsit nimic la această locație."
+
+#: patterns/404.php:23
+msgid "Maybe try a search?"
+msgstr "Poate încerci o căutare?"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:23
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: patterns/home.php:29
+msgid "History"
+msgstr "Istoric"
+
+#: patterns/home.php:66
+msgid "Buenos Aires, Argentina"
+msgstr "Buenos Aires, Argentina"
+
+#: patterns/home.php:66
+msgid "Calle de los Artistas 123"
+msgstr "Calle de los Artistas 123"
+
+#: patterns/home.php:62
+msgid "Visiting the Museum"
+msgstr "Vizitarea muzeului"
+
+#: patterns/404.php:19
+msgid "Oops! That page can’t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."

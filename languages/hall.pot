@@ -1,0 +1,246 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hall 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hall\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-04T03:01:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: hall\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hall"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/hall"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Hall is a blog theme that presents posts in different Query Loops through the use of tags. The perfect pick for museums or galleries."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: patterns/404.php:23
+msgid "Maybe try a search?"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:23
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/home.php:29
+msgid "History"
+msgstr ""
+
+#: patterns/home.php:33
+msgid "Founded in the heart of Buenos Aires in 1896, the International Art Museum has, from its inception, housed a rich diversity of works spanning different periods and artistic movements globally. It emerged with the mission not only to safeguard the richness of international art but also to foster the flourishing of Argentine art within a context of cultural renewal."
+msgstr ""
+
+#: patterns/home.php:37
+msgid "In its first decade, during the commemoration of the Centennial of the May Revolution, the museum already exhibited masterpieces by renowned artists such as Francisco de Goya, Joaquín Sorolla y Bastida, Edgar Degas, and Pierre-Auguste Renoir."
+msgstr ""
+
+#: patterns/home.php:41
+msgid "A new era dawned in 1911 with the opening of the Argentine Pavilion, a monumental structure from the 1889 Paris Universal Exhibition, situated in Plaza San Martín. This marked the incorporation of notable new acquisitions, such as Édouard Manet's \"The surprised nymph\" and Claude Monet's \"Banks of the Seine.\""
+msgstr ""
+
+#: patterns/home.php:45
+msgid "In 1933, the museum found its current home in the remodeled Recoleta Pump House, a work of art in itself designed by architect Alejandro Bustillo. This relocation saw the addition of valuable pieces, including \"Woman by the sea\" by Paul Gauguin, \"Le Moulin de la Galette\" by Vincent van Gogh, and \"Christ in the Garden of Olives\" by El Greco."
+msgstr ""
+
+#: patterns/home.php:49
+msgid "Over the last decades of the 20th century, the museum opened its doors to the great exponents of modern art on an international level. Thus, works by geniuses such as Pablo Picasso, Amedeo Modigliani, Marc Chagall, Vassily Kandinsky, Paul Klee, Lucio Fontana, Jackson Pollock, Mark Rothko, and Henry Moore were added to its collection."
+msgstr ""
+
+#: patterns/home.php:62
+msgid "Visiting the Museum"
+msgstr ""
+
+#: patterns/home.php:66
+msgid "Calle de los Artistas 123"
+msgstr ""
+
+#: patterns/home.php:66
+msgid "Buenos Aires, Argentina"
+msgstr ""
+
+#: patterns/home.php:66
+msgid "+00 (000) 0000-0000"
+msgstr ""
+
+#: patterns/home.php:66
+msgid "info@xxx.ar"
+msgstr ""
+
+#: patterns/home.php:73
+msgid "Opening times"
+msgstr ""
+
+#: patterns/home.php:77
+msgid "Wed/Fri: 11.00 a 20.00."
+msgstr ""
+
+#: patterns/home.php:77
+msgid "Sat/Sun: 10.00 a 20.00"
+msgstr ""
+
+#: patterns/home.php:77
+msgid "Monday: Closed."
+msgstr ""
+
+#: patterns/home.php:81
+msgid "The Museum is closed to the public on May 1, June 27, December 24, 25 and 31, 2023, and January 1, 2024."
+msgstr ""
+
+#: patterns/home.php:85
+msgid "Admission is free of charge."
+msgstr ""
+
+#: patterns/home.php:91
+msgid "Group Visits"
+msgstr ""
+
+#: patterns/home.php:95
+msgid "Check"
+msgstr ""
+
+#: patterns/home.php:95
+msgid "here"
+msgstr ""
+
+#: patterns/home.php:95
+msgid "the registration dates and the proposed routes for each educational level."
+msgstr ""
+
+#: patterns/home.php:101
+msgid "Audioguide"
+msgstr ""
+
+#: patterns/home.php:105
+msgid "An approach to the Museum's collection through thirteen audio tracks referring to great sculptural works made by pre-Hispanic, European and Argentine cultures."
+msgstr ""
+
+#: patterns/home.php:122
+msgid "Collection"
+msgstr ""
+
+#: patterns/home.php:126
+msgid "View All"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Condensed"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
