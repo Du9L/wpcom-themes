@@ -1,0 +1,31 @@
+/*
+Theme Name: Adonay
+Theme URI: https://wordpress.com/themes/adonay/
+Description: Adonay is crafted for single page websites that want to leave a stunning and memorable first impression. Nonetheless, the theme provides post and page templates for those looking to customize and broaden their website's functionality. Adonay comes with 3 distinctive style variations and an array of 12 vibrant color options.
+Version: 1.0.0
+Author: Automattic
+Author URI: https://automattic.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: adonay
+*/
+
+/*
+ * Control the hover stylings of outline block style.
+ * Unnecessary once block styles are configurable via theme.json
+ * https://github.com/WordPress/gutenberg/issues/42794
+ */
+.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--base);
+	border-color: var(--wp--preset--color--secondary);
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: .0625em !important;
+	text-underline-offset: .15em;
+}
