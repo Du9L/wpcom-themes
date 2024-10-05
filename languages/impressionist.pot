@@ -1,0 +1,223 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Impressionist 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/impressionist\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-01T03:45:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: impressionist\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Impressionist"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Impressionist is a block theme about the impressionist art movement."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/404.php:23
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/biography.php
+msgctxt "Pattern title"
+msgid "Biography"
+msgstr ""
+
+#: patterns/biography.php:17
+msgid "<strong>Oscar-Claude Monet</strong> was a French painter and founder of impressionist painting who is seen as a key precursor to modernism, especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism’s philosophy of expressing one’s perceptions before nature, especially as applied to plein air (outdoor) landscape painting. The term \"Impressionism\" is derived from the title of his painting Impression, soleil levant, exhibited in the 1874 (\"exhibition of rejects\") initiated by Monet and his associates as an alternative to the Salon."
+msgstr ""
+
+#: patterns/biography.php:21
+msgid "Monet was raised in Le Havre, Normandy, and became interested in the outdoors and drawing from an early age. Although his mother, Louise-Justine Aubrée Monet, supported his ambitions to be a painter, his father, Claude-Adolphe, disapproved and wanted him to pursue a career in business. He was very close to his mother, but she died in January 1857 when he was sixteen years old, and he was sent to live with his childless, widowed but wealthy aunt, Marie-Jeanne Lecadre. He went on to study at the Académie Suisse, and under the academic history painter Charles Gleyre, where he was a classmate of Auguste Renoir. His early works include landscapes, seascapes, and portraits, but attracted little attention. A key early influence was Eugène Boudin who introduced him to the concept of plein air painting. From 1883, Monet lived in Giverny, also in northern France, where he purchased a house and property and began a vast landscaping project, including a water-lily pond."
+msgstr ""
+
+#: patterns/biography.php:25
+msgid "His ambition to document the French countryside led to a method of painting the same scene many times so as to capture the changing of light and passing of the seasons. Among the best known examples are his series of haystacks (1890–91), paintings of the Rouen Cathedral (1894) and the paintings of water lilies in his garden in Giverny that occupied him continuously for the last 20 years of his life."
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "Designed with <a href=\"https://wordpress.org\" rel=\"nofollow\">WordPress</a>"
+msgstr ""
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#: patterns/index.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr ""
+
+#: patterns/post-meta.php:14
+msgid "By"
+msgstr ""
+
+#: patterns/text-slashes.php
+msgctxt "Pattern title"
+msgid "Text separated by slashes"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Claude Monet"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Édouard Manet"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Berthe Morisot"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Alfred Sisley"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Paul Cézanne"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Camille Pissarro"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Edgar Degas"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Olga Boznanska"
+msgstr ""
+
+#: patterns/text-slashes.php:13
+msgid "Pierre Auguste Renoir"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
