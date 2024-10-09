@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "مدونة",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "نبذة عن",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist هي مدونة مخصصة لكل شيء مدفون تحت سطح الأرض.</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>نبذة عن المؤلفين:</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">سارة إدواردز</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>سارة هي عالمة جيولوجية في جامعة ولاية أنثيم. وُلد حبها بجميع الأشياء الموجودة تحت الأرض في رياض الأطفال عندما اكتشفت لعبة قام شخص ما بتركها مدفونة في صندوق رملي.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>أنجيلو أورتيز</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>أنجيلو هو باحث مستقل وهاوي. تنافس تشكيلة الأحجار الكريمة الخاصة به تلك الموجودة في بعض المتاحف. يبحث أنجيلو دائمًا عن اكتشاف جديد، ويحمل معداته في كل مكان.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "الأحجار الكريمة",
+            "post_content": "<!-- wp:paragraph --> <p>أخيرًا توصلت المرأة الوجيهة إلى قرار \"سوف أقصد المرتفعات الخضراء بعد تناول الشاي وسأعرف من ماريلا إلى أين ذهب ولماذا\". إنه على وجه العموم لا يذهب إلى البلدة في هذا الوقت من السنة ولا <em>يزور</em> أحدًا أبدًا؛ وإذا كان قد نفذ منه بذر اللفت، فإنه لن يتكلف عناء التأنق وقيادة العربة لجلب ما يريد؛ كما أنه لم يقود العربة بسرعة توحي بأنه بصدد الذهاب إلى طبيب. ومع ذلك، لابد أنه قد حدث أمرًا طارئًا الليلة الماضية لإجباره على الانطلاق. إنني في حيرة كاملة، هذه هي الحقيقة، ولن أعرف دقيقة واحدة من راحة البال أو الضمير حتى أعرف ما الذي أخذ ماثيو كوثبيرت خارج أفونليا اليوم.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>وفقًا لما قررته، انطلقت السيدة ريتشيل إلى المرتفعات الخضراء بعد تناولها الشاي؛ لم يكن عليها الذهاب بعيدًا؛ حيث يبعد المنزل الكبير الذي يظلله البستان العريشي الذي يسكن فيه عائلة كوثبيرت بمقدار ما يقارب ربع ميل من الطريق من غور ليند. لكن لا ريب أن الدرب الطويل المؤدي إليه جعله أكثر بُعدًا. كان والد ماثيو كوثبيرت الذي ورث عنه ابنه حيائه وصمته، قد رغب عندما أسس منزله في الابتعاد قدر المستطاع عن الناس من دون أن ينعزل في الغابة. وهكذا تم تشييد المرتفعات الخضراء على حدود أرضه، وما زالت قائمة إلى يومنا هذا، لا تكاد تراها العين من الطريق الرئيسي الذي تستقر عليه جميع منازل أفونليا الأنيسة الأخرى. لم تكن السيدة ريتشيل تعتبر الحياة في مكان كذلك <em>حياة</em> على الإطلاق.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>كانت تقول لنفسها \"هو مكان <em>للسكن فقط</em>، إنه لكذلك حقًا\" وهي تتبع ممر عشبي مُحاط بشجيرات البرية. \"ولا عجب في أن يكون ماثيو وماريلا غريبي الأطوار قليلاً، نتيجة عيشهما هنا وحدهما. فرفقة الأشجار ليست بتلك الرفقة الممتعة، ولو كانت كذلك فلا شك أن لديهما ما يكفي منها. أما أنا فإني أفضل صحبة الناس. لكن لا ريب أنهما يبدوان راضيين عن حياتهما، رغم اعتقادي أنهما قد اعتادا على هذا الوضع ليس إلا. فالمرء كما يقول الآيرلنديون قادر على الاعتياد على أي شيء حتى على حبل المشنقة.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>بهذه الأفكار تجاوزت السيدة ريتشيل الدرب المخدَّد إلى فناء دار المرتفعات الخضراء الخلفي. كان يتميز الفناء بالخضرة والنظافة والترتيب، تصطف على أحد جانبيه أشجار الصفصاف المهيبة، وتصطف على جانبه الآخر أشخار الحور المتشامخة. ما كان يمكن لمح عود شارد أو حجر فيه، وإلا رآته السيدة ريتشيل. والتي تظن بينها وبين نفسها أن ماريلا كوثبيرت تواظب على كنس ذلك الفناء كلما كنست بيتها. يمكن للمرء تناول وجبة طعامة من على الأرض مباشرةً، من دون ان يتلوث ذلك الطعام بأدنى ذرة غبار يمكن أن يُضرب بها المثل.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>مثال توضيحي للأحجار الكريمة بواسطة إميل هوكدانز. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "أخيرًا توصلت المرأة الوجيهة إلى قرار \"سوف أقصد المرتفعات الخضراء بعد تناول الشاي وسأعرف من ماريلا إلى أين ذهب ولماذا\". إنه على وجه العموم لا يذهب إلى البلدة في هذا الوقت من السنة ولا يزور أحدًا أبدًا؛ وإذا كان قد نفذ منه بذر اللفت، فإنه لن يتكلف عناء التأنق وقيادة العربة لجلب ما يريد؛ كما أنه لم يقود العربة بسرعة توحي بأنه بصدد الذهاب إلى طبيب. ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "الحفريات",
+            "post_content": "<!-- wp:paragraph --> <p>كانت تجلس السيدة ريتشيل في عصر يوم من أوائل أيام شهر يونيو أمام نافذتها. وقد انسابت أشعة الشمس عبر النافذة دافئة وساطعة، وتألق بستان الغور الذي يشرف عليه المنزل محتفلاً بعرس براعمه ذات البياض المورد، والتي همهمت فوقها أفواج من النحل. في تلك الأثناء كان توماس ليند الرجل المتواضع الذي يدعوه أهالي أفونليا زوج ريتشيل ليند، يبذر بذور موسم االفت الأخير في حقل التل خلف الحظيرة؛ وكان من المفترض أن يقوم ماثيو كوثبيرت كذلك ببذر بذوره في حقل الجدول الأحمر الكبير بعيدًا عن المرتفعات الخضراء. كانت السيدة ريتشيل تعرف هذا لأنها في الأمسية السابقة سمعته في مخزن ويليام بلير في بلدة كارمودي وهو يختبر بيتر موريسون عن عزمه على بذر بذور اللفت بعد ظهر اليوم التالي. لقد سأله بيتر بالطبع، لأن ماثيو كوثبيرت لم يؤثر عنه تطوعه بالبوح بأي معلومة عن أي شيء طوال حياته.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>مع ذلك ها هي ترى ماثيو كوثبيرت، في الساعة الثالثة والنصف من عصر يوم حافل بالعمل، يقود عربته برباط جأشه مجتازًا الغور نحو التل، والأهم من ذلك أنه كان رتدي ياقة بيضاء وأحسن ثوب من ثيابه، ما يدل بوضوح على مغادرته أفونليا، بل إن العربة والفرس الأشقر يبرهنان على أن وجهته تبعد بمسافة معقولة. والآن إلى أين يذهب ماثيو يا ترى؟ ولماذا هو ذاهب إلى هناك؟</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>لو كان يتعلق الأمر بأي رجل في أفونليا، لتمكنت السيدة ريتشيل من وضع الأمور في نصابها بمنتهى البراعة، ولربما تمكنت من التوصل إلى تكهن يليق بالسؤالين معًا. لكن ماثيو كان نادرًا ما يغادر المنزل، ما يعني أن ما استدعاه لذلك لايد وأن يكون حدثًا طارئًا وخارجًا عن الحسبان. فقد كان ماثيو من أكثر الرجال خجلاً وكان ينفر من الاضطرار إلى الذهاب حيث يوجد الغرباء، بل وحتى إلى أي مكان يضطر فيه إلى الكلام. ولم تكن رؤيته متأنقًا بالياقة البيضاء وقائدًا العربة من المشاهد التي تحدث في أغلب الأحيان. وما كان بإمكان السيدة ريتشيل مهما بحثت أن تعثر على جواب ما، وهكذا أفسد عليها ما رأته، متعة ذلك العصر.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>مثال توضيحي للحفريات بواسطة إميل هوكدانز. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "كانت تجلس السيدة ريتشيل في عصر يوم من أوائل أيام شهر يونيو أمام نافذتها. وقد انسابت أشعة الشمس عبر النافذة دافئة وساطعة، وتألق بستان الغور الذي يشرف عليه المنزل محتفلاً بعرس براعمه ذات البياض المورد، والتي همهمت فوقها أفواج من النحل.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "وما إلى ذلك",
+            "post_content": "<!-- wp:paragraph --> <p>كانت السيدة ريتشيل ليند تسكن حيث ينحدر طريق قرية أفونليا الرئيسي نحو الغور الصغير، المحفوف بالأعشاب الحرجية والعرائش، ويقطعه جدول ينبع من الغابة التي يقع فيها منزل عائلة كوثيرت القديم. جدول اشتهر أنه في باكورة جريانه جدولاً غنيًا متدفقًا في تلك الغابات التي تحتفظ بأسرار المستنقعات والشلالات. لكن مع الوقت الذي وصل فيه إلى غور ليند تحول إلى غدير صغير ساكن ومطواع. إذ حتى الجدول لا يستطيع المرور من أمام بيت السيدة ريتشيل ليند من دون أن يأخذ لياقته واحتشامه بعين الاعتبار. ولعل ساعة جريانه هناك شعر بأن السيدة ريتشيل كانت تداوم على الجلوس قرب نافذتها مسلطة عينها على كل ما يمر أمامها، بدءًا من الأطفال والجداول إلى ما يتجاوزهم، وأنها عند ملاحظتها حدثًا غريبًا أو شيئًا في غير موضعه فلن تعرف طعمًا للراحة إلى بعد أن تتحرى عن أسباب ومسببات ما يجري.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>لا شك أن هناك وفرة من الناس في أفونليا وخارجها، ممن يستطيعون عن طريق إهمالهم لشؤونهم الخاصة، مراقبة شؤون جيرانهم عن كثب. لكن السيدة ريتشيل ليند كانت واحدة من تلك المخلوقات القادرة التي تستطيع تدبُّر شؤونها الخاصة وشؤون بقية القوم في وقت واحد. وكانت تشرف على حلقة الخياطة، وتساعد على إدارة مدرسة الأحد، كما كانت تُعتبر الركيزة الأقوى لجمعية معونة الكنيسة والإرسالات التبشيرية الأجنبية. ومع ذلك، كثيرًا ما وجدت السيدة ريتشيل متسعًا من الوقت لتجلس ساعات أمام نافذة مطبخها تقوم بخياطة أغطية اللحفة القطنية؛ والتي حاكت منها ستة عشر غطاءً، كما كانت ربات بيوت أفونليا تردد بأصوات يشوبها الهلع، بينما تسلط في الوقت نفسه عينًا ثاقبة على الطريق الرئيسي الذي يشق الغور صعودًا نحو الهضبة الحمراء بعد الغور. ونظرًا إلى أن أفونليا كانت تقع في شبه جزيرة بسيطة مثلثة تشرف على خليج سانت لورانس ويحيط الماء جانبين من جوانبها، فإنه كان إلزامًا على أي شخص يغادرها أو يأتي إليها أن يسلك طريق تلك الهضبة متبوعًا بعيني السيدة ريتشيل التى ترى كل شيء.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>مثال توضيحي للأحجار الكريمة بواسطة إميل هوكدانز. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "كانت السيدة ريتشيل ليند تسكن حيث ينحدر طريق قرية أفونليا الرئيسي نحو الغور الصغير، المحفوف بالأعشاب الحرجية والعرائش، ويقطعه جدول ينبع من الغابة التي يقع فيها منزل عائلة كوثيرت القديم.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "الاتصال",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">1 شارع الحمراء<br> وسط بيروت، بيروت، 10100، لبنان</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">contact@example.com</a><br>(012) 345 67 89</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "أساسي",
+            "items": [
+                {
+                    "menu-item-title": "مدونة",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "نبذة عن",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "الاتصال",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}
