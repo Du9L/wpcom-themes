@@ -1,0 +1,87 @@
+{
+	"$schema": "https://json.schemastore.org/theme-v1.json",
+	"version": 1,
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#384143",
+                    "name": "Primary"
+                },
+                {
+                    "slug": "secondary",
+                    "color": "#967e7e",
+                    "name": "Secondary"
+                },
+                {
+                    "slug": "foreground",
+                    "color": "#384143",
+                    "name": "Foreground"
+                },
+                {
+                    "slug": "background",
+                    "color": "#ffffff",
+                    "name": "Background"
+                },
+                {
+                    "slug": "tertiary",
+                    "color": "#fbf7f7",
+                    "name": "Tertiary"
+                }
+            ]
+        },
+        "custom": {
+            "separator": {
+                "margin": "var(--wp--custom--gap--vertical) auto"
+            },
+            "excludedParentStyleVariations": [
+                "Ruby Wine",
+                "Charcoal"
+            ]
+        },
+        "typography": {
+            "customFontSize": true,
+            "customLineHeight": true,
+            "fontSizes": [
+                {
+                    "name": "Small",
+                    "size": "1rem",
+                    "slug": "small"
+                },
+                {
+                    "name": "Medium",
+                    "size": "1.5rem",
+                    "slug": "medium"
+                },
+                {
+                    "name": "Large",
+                    "size": "1.75rem",
+                    "slug": "large"
+                },
+                {
+                    "name": "Extra Large",
+                    "size": "2rem",
+                    "slug": "x-large"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "blocks": {
+            "core/heading": {
+                "typography": {
+			        "fontFamily": "var:preset|font-family|libre-baskerville"
+                }
+            },
+            "core/post-title": {
+                "typography": {
+			        "fontFamily": "var:preset|font-family|libre-baskerville"
+                }
+            }
+        },
+        "typography": {
+			"fontFamily": "var:preset|font-family|dm-sans"
+        }
+    }
+}
