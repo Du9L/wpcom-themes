@@ -1,0 +1,271 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Adonay 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/adonay\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-02T01:49:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: adonay\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Adonay"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Adonay is crafted for single page websites that want to leave a stunning and memorable first impression. Nonetheless, the theme provides post and page templates for those looking to customize and broaden their website's functionality. Adonay comes with 3 distinctive style variations and an array of 12 vibrant color options."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: functions.php:79
+msgctxt "Block pattern category"
+msgid "Pages"
+msgstr ""
+
+#: functions.php:80
+msgid "A collection of full page layouts."
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: patterns/404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:23
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/homepage-with-a-small-rounded-image.php
+msgctxt "Pattern title"
+msgid "Homepage with a small, rounded image"
+msgstr ""
+
+#: patterns/homepage-with-full-height-image.php
+msgctxt "Pattern title"
+msgid "Homepage with a full height image"
+msgstr ""
+
+#: styles/accent-blue.json
+#: styles/black.json
+#: styles/funky-serif-cream.json
+#: styles/funky-serif-indigo_1.json
+#: styles/funky-serif-pink.json
+#: styles/funky-serif-purple.json
+#: styles/funky-slab-brown.json
+#: styles/funky-slab-desert.json
+#: styles/funky-slab-linen.json
+#: styles/funky-slab-olive.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/accent-blue.json
+#: styles/black.json
+#: styles/funky-serif-cream.json
+#: styles/funky-serif-indigo_1.json
+#: styles/funky-serif-pink.json
+#: styles/funky-serif-purple.json
+#: styles/funky-slab-brown.json
+#: styles/funky-slab-desert.json
+#: styles/funky-slab-linen.json
+#: styles/funky-slab-olive.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/accent-blue.json
+#: styles/black.json
+#: styles/funky-serif-cream.json
+#: styles/funky-serif-indigo_1.json
+#: styles/funky-serif-pink.json
+#: styles/funky-serif-purple.json
+#: styles/funky-slab-brown.json
+#: styles/funky-slab-desert.json
+#: styles/funky-slab-linen.json
+#: styles/funky-slab-olive.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/accent-blue.json
+#: styles/black.json
+#: styles/funky-serif-cream.json
+#: styles/funky-serif-indigo_1.json
+#: styles/funky-serif-pink.json
+#: styles/funky-serif-purple.json
+#: styles/funky-slab-brown.json
+#: styles/funky-slab-desert.json
+#: styles/funky-slab-linen.json
+#: styles/funky-slab-olive.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/accent-blue.json
+#: styles/black.json
+#: styles/funky-serif-cream.json
+#: styles/funky-serif-indigo_1.json
+#: styles/funky-serif-pink.json
+#: styles/funky-serif-purple.json
+#: styles/funky-slab-brown.json
+#: styles/funky-slab-desert.json
+#: styles/funky-slab-linen.json
+#: styles/funky-slab-olive.json
+#: styles/white.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/accent-blue.json
+msgctxt "Style variation name"
+msgid "Accent Blue"
+msgstr ""
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr ""
+
+#: styles/funky-serif-cream.json
+msgctxt "Style variation name"
+msgid "Funky Serif Cream"
+msgstr ""
+
+#: styles/funky-serif-indigo_1.json
+msgctxt "Style variation name"
+msgid "Funky Serif Indigo"
+msgstr ""
+
+#: styles/funky-serif-pink.json
+msgctxt "Style variation name"
+msgid "Funky Serif Pink"
+msgstr ""
+
+#: styles/funky-serif-purple.json
+msgctxt "Style variation name"
+msgid "Funky Serif Purple"
+msgstr ""
+
+#: styles/funky-slab-brown.json
+msgctxt "Style variation name"
+msgid "Funky Slab Brown"
+msgstr ""
+
+#: styles/funky-slab-desert.json
+msgctxt "Style variation name"
+msgid "Funky Slab Desert"
+msgstr ""
+
+#: styles/funky-slab-linen.json
+msgctxt "Style variation name"
+msgid "Funky Slab Linen"
+msgstr ""
+
+#: styles/funky-slab-olive.json
+msgctxt "Style variation name"
+msgid "Funky Slab Olive"
+msgstr ""
+
+#: styles/white.json
+msgctxt "Style variation name"
+msgid "White"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Green"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Purple"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
