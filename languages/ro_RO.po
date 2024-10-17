@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Message\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-21T04:15:33+00:00\n"
+"PO-Revision-Date: 2024-09-20 12:33:05+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "default gradient"
+msgstr "gradient implicit"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr "Foarte, foarte mare (2X)"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr "arhivă"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr "subsol"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr "antet"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr "prima pagină"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr "index"
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "page"
+msgstr "pagină"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr "căutare"
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "single"
+msgstr "singular"
+
+#: styles/cyber-yellow.json
+#: styles/lightmode.json
+#: styles/sour-apple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: styles/cyber-yellow.json
+#: styles/lightmode.json
+#: styles/sour-apple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: styles/cyber-yellow.json
+#: styles/lightmode.json
+#: styles/sour-apple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/cyber-yellow.json
+#: styles/lightmode.json
+#: styles/sour-apple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: styles/cyber-yellow.json
+#: styles/lightmode.json
+#: styles/sour-apple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: styles/lightmode.json
+msgctxt "Style variation name"
+msgid "Light Mode"
+msgstr "Mod luminos"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Default"
+msgstr "Implicit"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Avocado"
+msgstr "Avocado"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr "Foarte, foarte mic (2X)"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Mic"
+
+#. Description of the theme
+#: style.css
+msgid "Message is a theme that brings the mobile messaging experience to your WordPress site."
+msgstr "Message este o temă care aduce experiența unei mesagerii mobile pe site-ul tău WordPress."
+
+#: patterns/404.php:23
+msgid "Oops! That page can’t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
+
+#: patterns/404.php:27
+msgid "It looks like nothing was found at this location. Try a search."
+msgstr "Se pare că nu a fost găsit nimic în acest loc. Încercă o căutare."
+
+#: patterns/archive.php:45
+#: patterns/home.php:36
+#: patterns/index.php:45
+#: patterns/search.php:57
+msgid "—"
+msgstr "-"
+
+#: patterns/footer.php:21
+msgid "Designed with WordPress"
+msgstr "Proiectat cu WordPress"
+
+#: patterns/header.php:36
+msgid "Howdy, I'm Leo, a polymath driven by curiosity and a fervent desire to unravel the wonders of the world."
+msgstr "Bună, sunt Leo, un erudit condus de curiozitate și de dorința ferventă de a descoperi minunile lumii."
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
