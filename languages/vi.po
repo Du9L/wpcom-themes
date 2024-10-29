@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-12T02:53:46+00:00\n"
+"PO-Revision-Date: 2024-09-12 01:42:53+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:87
+msgid "White"
+msgstr "Trắng"
+
+#: functions.php:92
+msgid "Blue"
+msgstr "Màu xanh da trời"
+
+#: functions.php:82
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:72
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: functions.php:77
+msgid "Medium Gray"
+msgstr "Xám vừa"
+
+#: functions.php:67
+msgid "Black"
+msgstr "Đen"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: inc/woocommerce.php:271
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:273
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d mục"
+
+#: functions.php:341
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Đọc tiếp <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid "Tagged"
+msgstr "Thẻ"
+
+#. Description of the theme
+#: style.css
+msgid "With bold featured images and bright, cheerful colors, Dara is ready to get to work for your business."
+msgstr "Với hình ảnh nổi bật đậm nét và màu sắc tươi sáng, vui tươi, Dara đã sẵn sàng để bắt đầu làm việc cho doanh nghiệp của bạn."
+
+#: single.php:21
+msgid "Previous post"
+msgstr "Bài trước"
+
+#: single.php:21
+msgid "Next post"
+msgstr "Bài sau"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/template-tags.php:63
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: inc/template-tags.php:63
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:63
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:30
+msgid "Randomize Front Page Testimonials"
+msgstr "Ngẫu nhiên hoá các nhận xét của khách hàng trên trang chủ"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Tùy chỉnh cho giao diện"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#: functions.php:281
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:271
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:251
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:261
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:107
+msgid "Header"
+msgstr "Header"
+
+#: components/post/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: components/post/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: components/post/content-author.php:35
+msgid "View all posts by %s"
+msgstr "Xem các bài viết của %s"
+
+#: components/post/content-none.php:15
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:32
+#: components/testimonials/content-testimonial.php:26
+#: inc/template-tags.php:39
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: components/post/content-author.php:29
+msgid "Published by %s"
+msgstr "Đăng bởi %s"
+
+#: components/page/content-page.php:22
+#: components/post/content.php:55
+msgid "Pages:"
+msgstr "Trang:"
+
+#: components/navigation/navigation-top.php:3
+msgid "Menu"
+msgstr "Menu"
+
+#: components/footer/site-info.php:5
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: components/footer/site-info.php:3
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:3
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: comments.php:58
+#: comments.php:78
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:57
+#: comments.php:77
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: comments.php:54
+#: comments.php:74
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#. translators: %s: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Một bình luận về &ldquo;%s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: archive-jetpack-testimonial.php:29
+msgid "Testimonials"
+msgstr "Nhận xét của khách hàng "
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
