@@ -1,0 +1,215 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Loïc 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/loic\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-09T04:19:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: loic\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Loïc"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/loic"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A simple blogging theme ideal for writers."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:14
+msgid "The page you're looking for could not be found."
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Return to homepage"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#: patterns/footer.php:15
+msgid "About Me"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "I’m Loïc Azar, a French creative and product manager living in London. I’m passionate about creativity, technology, and productivity, and I write about these topics on my personal website."
+msgstr ""
+
+#: patterns/footer.php:31
+msgid "Say Hello"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "<a href=\"/\">Email</a>"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "<a href=\"/\">Instagram</a>"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "<a href=\"/\">Twitter</a>"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:60
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr ""
+
+#: patterns/search.php:50
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: styles/blueberry-milk.json
+#: styles/cloudy-brunswick.json
+#: styles/jungle.json
+#: styles/mauve-grey.json
+#: styles/nuit.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/blueberry-milk.json
+#: styles/cloudy-brunswick.json
+#: styles/jungle.json
+#: styles/mauve-grey.json
+#: styles/nuit.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blueberry-milk.json
+#: styles/cloudy-brunswick.json
+#: styles/jungle.json
+#: styles/mauve-grey.json
+#: styles/nuit.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/blueberry-milk.json
+#: styles/cloudy-brunswick.json
+#: styles/jungle.json
+#: styles/mauve-grey.json
+#: styles/nuit.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blueberry-milk.json
+#: styles/cloudy-brunswick.json
+#: styles/jungle.json
+#: styles/mauve-grey.json
+#: styles/nuit.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/blueberry-milk.json
+msgctxt "Style variation name"
+msgid "Blueberry Milk"
+msgstr ""
+
+#: styles/cloudy-brunswick.json
+msgctxt "Style variation name"
+msgid "Cloudy Brunswick"
+msgstr ""
+
+#: styles/jungle.json
+msgctxt "Style variation name"
+msgid "Jungle"
+msgstr ""
+
+#: styles/mauve-grey.json
+msgctxt "Style variation name"
+msgid "Mauve Grey"
+msgstr ""
+
+#: styles/nuit.json
+msgctxt "Style variation name"
+msgid "Nuit"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
