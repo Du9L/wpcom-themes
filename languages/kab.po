@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twentynineteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T05:55:57+00:00\n"
+"PO-Revision-Date: 2024-03-13 14:38:22+0000\n"
+"Language: kab_DZ\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:145
+#: inc/block-patterns.php:152
+msgid "Team"
+msgstr "Tarbaɛt"
+
+#: inc/block-patterns.php:80
+msgid "Contact Us"
+msgstr "Nermes-aɣ-d"
+
+#: inc/block-patterns.php:92
+#: inc/block-patterns.php:98
+msgid "Services"
+msgstr "Imeẓluyen"
+
+#: inc/block-patterns.php:103
+#: inc/block-patterns.php:108
+#: inc/block-patterns.php:113
+#: inc/block-patterns.php:120
+#: inc/block-patterns.php:125
+#: inc/block-patterns.php:130
+#: inc/block-patterns.php:155
+#: inc/block-patterns.php:163
+msgid "Gradient"
+msgstr "Gradient"
+
+#: inc/block-patterns.php:109
+msgid "Mobile"
+msgstr "Aziraz"
+
+#: inc/block-patterns.php:58
+#: inc/block-patterns.php:64
+msgid "Get In Touch"
+msgstr "Nermes-aɣ-d"
+
+#: inc/block-patterns.php:121
+msgid "Marketing"
+msgstr "Talzuzit"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Awal ɣef"
+
+#: inc/block-patterns.php:46
+msgid "Learn More"
+msgstr "Issin ugar"
+
+#: functions.php:159
+msgid "Dark Blue"
+msgstr "Amidadi iḥemqen"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://wordpress.org/themes/twentynineteen/"
+
+#: functions.php:154
+msgid "Blue"
+msgstr "Anili"
+
+#: classes/class-twentynineteen-walker-comment.php:97
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Awennit-inek yettraǧu asektem. Wagi d tamuɣli, awennit-inek ad d-yeban ticki yettwaqbel."
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "tarbaɛt n WordPress"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Yeffeɣ-d deg</span><span class=\"post-title\">%s</span>"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Asentel-nneɣ amezwer n 2019 yella-d i uskan tazmert n umaẓrag n yiḥder. Llan deg-s iɣunab udmawanen i yiḥedran akk imezwer, yettwafeṣṣel daɣen akken ayen ara twaliḍ deg umaẓrag yettakk acbi ɣer wayen tettwaliḍ ɣef usmel-inek web. Twenty Nineteen yettwafeṣṣel akken ara yemmezg akked tegrumma wessiεen n yismal web, ama i useddu n ublug n tugniwin, ama i usenkar n tkebbanit tamaynut neɣ i usefrek n wudus wer tadrimt. Yesεa tallunt tamellalt wessiεen d yizwal atraren sans-serif yeddukklen akked tfekka n uḍris aklasik serif, yettwafeṣṣel akken ad d-yezg akked teɣzi n yal agdil."
+
+#: inc/wpcom.php:44
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Rcem taxxamt akken ad teffreḍ azwel n usebter, ma yella asebter-inek agejdan d asebter udmis."
+
+#: inc/wpcom.php:43
+msgid "Hide Homepage Title"
+msgstr "Ffer azwel n usebter agejdan"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Ulac iwenniten"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Umuɣ n ufella"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:244
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Ḍfer taɣuri n<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d awennit"
+msgstr[1] "%d iwenniten"
+
+#: template-parts/post/author-bio.php:27
+msgid "View more posts"
+msgstr "Wali aṭas n tsuffaɣ"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:18
+msgid "Published by %s"
+msgstr "Isuffeɣ-it-id %s"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Yettban-d amzum akken ayen tettnadiḍ ulac-it. Eɛreḍ s unadi."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Surfaɣ, ulac acu i yenmeɣran aked yirmawen n unadi-inek. Ttxil-k eɛreḍ s wawalen-nniḍen."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Ulac acu d-nufa"
+
+#. translators: Hidden accessibility text.
+#: single.php:44
+msgid "Previous post:"
+msgstr "Tasuffeɣt yezrin:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Ummid"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Imagraden iqburen"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Amagrad uḍfir"
+
+#: single.php:42
+msgid "Previous Post"
+msgstr "Amagrad uzwir"
+
+#. translators: Hidden accessibility text.
+#: single.php:40
+msgid "Next post:"
+msgstr "Tasuffeɣt i -iteddun:"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Igmaḍ n unadi i:"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:105
+msgid "Tags:"
+msgstr "Tibzimin:"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Imagraden imaynuten"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:93
+msgid "Posted in"
+msgstr "Yeffeɣ-d deg"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:121
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:34
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Ẓreg <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:144
+msgid "Back"
+msgstr "Tuɣalin"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:200
+msgid ", "
+msgstr ", "
+
+#: inc/template-functions.php:137
+msgid "More"
+msgstr "Ugar"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Aɣbar"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:47
+msgid "Posted by"
+msgstr "Isuffeɣ-it-id"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:64
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Eǧǧ awennit<span class=\"screen-reader-text\"> ɣef %s</span>"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s Iɣbaren"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Iɣbaren n wanaw n tsuffeɣt:"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Iɣbaren n ass:"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Ini agejdan"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Amezwer"
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Udmawan"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Iɣbaren n wayyur:"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Iɣbaren n useggas:"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Iɣbaren n umeskar:"
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Iɣbaren n tebzimt:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Iɣbaren n taggayt:"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:43
+#: inc/back-compat.php:60
+#: inc/back-compat.php:83
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen yesra xerṣum lqem 4.7 n WordPress. Aql-ak tesnekreḍ lqem %s. Ttxil-k/m leqqem syen ales tikkelt-nniḍen."
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Err imsizdeg i tugniwin yettwafernen s usemres n yini agejdan"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Err ini udmawan i tqeffilin, i yiseɣwan, i tugniwin yettwafernen, rtg."
+
+#: image.php:89
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Yeffeɣ-d deg</span><br><span class=\"post-title\">%title</span>"
+
+#. translators: Hidden accessibility text.
+#: image.php:57
+msgid "Page"
+msgstr "Asebtar"
+
+#. translators: Hidden accessibility text.
+#: image.php:72
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Teɣzi taččurant"
+
+#: image.php:52
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Isebtar :"
+
+#. translators: Hidden accessibility text.
+#: header.php:28
+msgid "Skip to content"
+msgstr "Ngez ɣer ugbur agejdan"
+
+#: functions.php:213
+#: template-parts/footer/footer-widgets.php:13
+msgid "Footer"
+msgstr "Aḍar n usebtar"
+
+#: functions.php:215
+msgid "Add widgets here to appear in your footer."
+msgstr "Rnu iwiǧiten dagi ara d-ibanen deg uḍar n usebter-inek."
+
+#: functions.php:130
+msgid "Large"
+msgstr "Tahrawant"
+
+#: functions.php:174
+msgid "White"
+msgstr "Amlal"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "Amagnu"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "Meqqer aṭas"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:164
+msgid "Dark Gray"
+msgstr "Azunɣid iḥemqen"
+
+#: functions.php:169
+msgid "Light Gray"
+msgstr "Azunɣid imceεlel"
+
+#: functions.php:61
+#: template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "Umuɣ n izdayen n iẓeḍwan imettiyen"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Agejdan"
+
+#: functions.php:118
+msgid "Small"
+msgstr "Amecṭuḥ"
+
+#: footer.php:37
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Umuɣ n uḍar n usebter"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "S zzux i d-yettusumer sɣur %s."
+
+#: comments.php:124
+msgid "Comments are closed."
+msgstr "Iwenniten medlen."
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tiririt ɣef &ldquo;%2$s&rdq"
+msgstr[1] "%1$s tiririyin ɣef &ldquo;%2$s&rdq"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Yiwet n tririt ɣef &ldquo;%s&rdquo;"
+
+#: comments.php:35
+#: comments.php:114
+msgid "Leave a comment"
+msgstr "Eǧǧ-d awennit"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Kki deg udiwenni"
+
+#: classes/class-twentynineteen-walker-comment.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Awennit-inek ittraǧu asniles."
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s ɣef %2$s"
+
+#: classes/class-twentynineteen-walker-comment.php:88
+msgid "Edit"
+msgstr "Ẓreg"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Atan am wakken ulac acu yellan di tansa-agi. Ad tɛreḍeḍ s unadi ?"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">ini:</span>"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ihuh&nbsp;! Asebtar-agi ulac-it."

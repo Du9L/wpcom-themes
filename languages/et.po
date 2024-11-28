@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twentynineteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T05:55:26+00:00\n"
+"PO-Revision-Date: 2023-07-24 12:49:22+0000\n"
+"Language: et_EE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:109
+msgid "Mobile"
+msgstr "Mobiilltelefon"
+
+#: inc/block-patterns.php:121
+msgid "Marketing"
+msgstr "Turundus"
+
+#: inc/block-patterns.php:103
+#: inc/block-patterns.php:108
+#: inc/block-patterns.php:113
+#: inc/block-patterns.php:120
+#: inc/block-patterns.php:125
+#: inc/block-patterns.php:130
+#: inc/block-patterns.php:155
+#: inc/block-patterns.php:163
+msgid "Gradient"
+msgstr "Gradient"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Minust"
+
+#: inc/block-patterns.php:46
+msgid "Learn More"
+msgstr "Loe veel"
+
+#: functions.php:159
+msgid "Dark Blue"
+msgstr "Tumesinine"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://et.wordpress.org/themes/twentynineteen/"
+
+#: functions.php:154
+msgid "Blue"
+msgstr "Sinine"
+
+#: classes/class-twentynineteen-walker-comment.php:97
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Kommentaar ootab läbivaatamist. See on eelvaade, kommentaar avaldatakse peale heakskiitmist."
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPressi meeskond"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen "
+
+#: inc/wpcom.php:43
+msgid "Hide Homepage Title"
+msgstr "Peida avalehe  pealkiri"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:18
+msgid "Published by %s"
+msgstr "Avaldanud: %s"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Kommentaare pole"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d kommentaar"
+msgstr[1] "%d kommentaari"
+
+#: template-parts/post/author-bio.php:27
+msgid "View more posts"
+msgstr "Vaata veel postitusi"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Ülamenüü"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:244
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Loe edasi<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Otsingule ei leitud vasteid. Proovi uuesti mõne teise otsingusõnaga."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tundub, et me ei leia, mida otsite. Võibolla otsingumootor aitab."
+
+#. translators: Hidden accessibility text.
+#: single.php:44
+msgid "Previous post:"
+msgstr "Eelmine postitus:"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Midagi ei leitud"
+
+#. translators: %s: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Valmis esimese postituse avaldamiseks? <a href=\"%1$s\">Alusta siit</a>."
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Esiletõstetud"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Vanemad postitused"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Järgmine postitus"
+
+#. translators: Hidden accessibility text.
+#: single.php:40
+msgid "Next post:"
+msgstr "Järgmine postitus:"
+
+#: single.php:42
+msgid "Previous Post"
+msgstr "Eelmine postitus"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Otsitulemused:"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:105
+msgid "Tags:"
+msgstr "Sildid:"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Uuemad postitused"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:93
+msgid "Posted in"
+msgstr "Postitatud rubriiki"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:121
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:34
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Muuda <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Arhiiv:"
+
+#: inc/template-functions.php:137
+msgid "More"
+msgstr "(veel...)"
+
+#: inc/template-functions.php:144
+msgid "Back"
+msgstr "Tagasi"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:47
+msgid "Posted by"
+msgstr "Kirjutas"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:200
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:64
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Kommenteeri postitust <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s arhiiv:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Postitusetüübi arhiiv: "
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Päeva arhiiv: "
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Põhivärv"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Kuu arhiiv: "
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Aasta arhiiv: "
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Autori arhiiv: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Sildi arhiiv: "
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Rubriigi arhiiv: "
+
+#: image.php:89
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Avaldatud</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Vaikimisi"
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Kohandatud"
+
+#. translators: Hidden accessibility text.
+#: image.php:57
+msgid "Page"
+msgstr "leht"
+
+#. translators: Hidden accessibility text.
+#: image.php:72
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Täissuurus"
+
+#: functions.php:213
+#: template-parts/footer/footer-widgets.php:13
+msgid "Footer"
+msgstr "Jalus"
+
+#. translators: Hidden accessibility text.
+#: header.php:28
+msgid "Skip to content"
+msgstr "Edasi sisu juurde"
+
+#: image.php:52
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Lehed:"
+
+#: functions.php:215
+msgid "Add widgets here to appear in your footer."
+msgstr "Lisa jaluses kasutatavad moodulid siia."
+
+#: functions.php:124
+msgid "Normal"
+msgstr "Tavalised"
+
+#: functions.php:130
+msgid "Large"
+msgstr "Suur"
+
+#: functions.php:174
+msgid "White"
+msgstr "Valge"
+
+#: functions.php:164
+msgid "Dark Gray"
+msgstr "Tumehall"
+
+#: functions.php:169
+msgid "Light Gray"
+msgstr "Helehall"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "Hiigelsuur"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "Kasutame %si"
+
+#: functions.php:61
+#: template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "Sotsiaalmeediaviidete menüü"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Peamine"
+
+#: functions.php:118
+msgid "Small"
+msgstr "Väike"
+
+#: footer.php:37
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Jaluse menüü"
+
+#: comments.php:124
+msgid "Comments are closed."
+msgstr "Kommenteerimine on suletud."
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s vastus postitusele &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s vastust postitusele &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Üks vastus postitusele &ldquo;%s&rdquo;"
+
+#: comments.php:35
+#: comments.php:114
+msgid "Leave a comment"
+msgstr "Lisa kommentaar"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Ühine vestlusega"
+
+#: classes/class-twentynineteen-walker-comment.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Sinu kommentaar ootab modereerimist."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Siit ei leitud midagi. Äkki proovid otsingut?"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: classes/class-twentynineteen-walker-comment.php:88
+msgid "Edit"
+msgstr "Muuda"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">ütleb:</span>"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Lehte ei leitud."

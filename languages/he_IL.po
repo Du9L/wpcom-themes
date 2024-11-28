@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twentynineteen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:52:35+00:00\n"
+"PO-Revision-Date: 2020-04-04 02:35:23+0000\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:158
+msgid "Dark Blue"
+msgstr "כחול כהה"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+msgstr "התגובה ממתינה לאישור. זוהי תצוגה מקדימה, התגובה תהיה גלויה לאחר אישורה."
+
+#: functions.php:153
+msgid "Blue"
+msgstr "כחול"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "the WordPress team"
+msgstr "צוות וורדפרס"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "המשך קריאה<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "תפריט עליון"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "פורסם על ידי %s"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "אין תגובות"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "תגובה %d"
+msgstr[1] "%d תגובות"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "הצג פוסטים נוספים"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לחיפוש. יש לנסות שנית עם מילות מפתח חלופיות."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "מה שחיפשת לא נמצא. אולי חיפוש יכול לעזור."
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "רשומה קודמת:"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "דבר לא נמצא"
+
+#. translators: 1: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכנים לפרסם את הפוסט הראשון? <a href=\"%1$s\">התחילו כאן</a>."
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "מומלצים"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "לפוסטים קודמים"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "הפוסט הבא"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "רשומה הבאה:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "הפוסט הקודם"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "תוצאות חיפוש עבור:"
+
+#. translators: 1: SVG icon. 2: Posted in label, only visible to screen
+#. readers. 3: List of categories.
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "פורסם ב"
+
+#. translators: 1: SVG icon. 2: Posted in label, only visible to screen
+#. readers. 3: List of tags.
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "תגים: "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:120
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "עריכה <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "לפוסטים הבאים"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "ארכיון יומי:"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "ארכיון"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "עוד"
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "חזרה"
+
+#. translators: 1: SVG icon. 2: Post author, only visible to screen readers. 3:
+#. Author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "פורסם ע\"י"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "השאירו תגובה<span class=\"screen-reader-text\"> עבור %s</span>"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "ארכיון %s:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "ארכיון פוסטים לפי סוגים:"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "צבע ראשי"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "מותאם"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "ארכיון חודשי:"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "ארכיון שנתי:"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "ארכיון לפי מחברים:"
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "ארכיון תגיות:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "ארכיון קטגוריות:"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "הגדרת פילטר של הצבע הראשי לתמונות המרכזיות של דפים ופוסטים"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "הגדרת צבע מותאם אישית לרכיבי האתר: כפתורים, קישורים, תמונות מרכזיות, ועוד."
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:40
+#: inc/back-compat.php:55
+#: inc/back-compat.php:76
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "התבנית Twenty Nineteen עובדת על WordPress בגרסה 4.7 ומעלה. האתר שלך פועל בגרסה %s. עליך לשדרג את הגרסה ואז לנסות שוב."
+
+#: image.php:56
+msgid "Page"
+msgstr "עמוד"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "מסך מלא"
+
+#: functions.php:195
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+#: functions.php:197
+msgid "Add widgets here to appear in your footer."
+msgstr "יש להוסיף וידג'טים שיוצגו בפוטר."
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: image.php:52
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "רגיל"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:129
+msgid "Large"
+msgstr "גדול"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "ענק"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "אפור כהה"
+
+#: functions.php:168
+msgid "Light Gray"
+msgstr "אפור בהיר"
+
+#: functions.php:173
+msgid "White"
+msgstr "לבן"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "פועל על %s."
+
+#: footer.php:37
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "תפריט כותרת תחתית"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "ראשי"
+
+#: functions.php:61
+#: template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "תפריט קישורים חברתיים"
+
+#: functions.php:117
+msgid "Small"
+msgstr "קטן"
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+#. #-#-#-#-#  twentynineteen.pot (Twenty Nineteen 1.5-wpcom)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25
+#: wp-content/themes/pub/twentynineteen/style.css
+msgid "https://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#: comments.php:92
+#: comments.php:95
+#: comments.php:96
+msgid "Comments"
+msgstr "תגובות"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "קודם"
+
+#: comments.php:96
+msgid "Next"
+msgstr "לשלב הבא"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "הצטרפות לשיחה"
+
+#: comments.php:35
+#: comments.php:105
+#: comments.php:107
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: classes/class-twentynineteen-walker-comment.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה כי אין כאן כלום. אולי כדאי לנסות את אפשרות החיפוש."
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:79
+msgid "%1$s at %2$s"
+msgstr "%1$s ב- %2$s"
+
+#: classes/class-twentynineteen-walker-comment.php:87
+msgid "Edit"
+msgstr "ערוך"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">אומר:</span>"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת לא נמצא."
