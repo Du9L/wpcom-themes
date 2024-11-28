@@ -1,0 +1,510 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "unset",
+                "font_headings": "unset"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary",
+                "footer": "social"
+            },
+            "custom_css_post_id": -1,
+            "sidebars_widgets": {
+                "time": 1609953483,
+                "data": {
+                    "wp_inactive_widgets": [],
+                    "sidebar-1": []
+                }
+            },
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-3",
+            "id_base": "search",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "recent-posts-3",
+            "id_base": "recent-posts",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "archives-3",
+            "id_base": "archives",
+            "settings": [],
+            "sidebar": "sidebar-1",
+            "position": 2
+        }
+    ],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "ベルトの娘、ジュリー・マネ",
+            "post_content": "<!-- wp:media-text {\"mediaId\":20,\"mediaLink\":\"https:\\/\\/2021.wordpress.net\\/playing-in-the-sand\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"is-stacked-on-mobile is-style-twentytwentyone-border\"} --> <div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-style-twentytwentyone-border\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/db04d-playing-in-the-sand.jpg?w=778&amp;h=1024\" alt=\"\" class=\"wp-image-20 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"textAlign\":\"center\"} --> <h2 class=\"has-text-align-center\">砂遊び</h2> <!-- /wp:heading --> <!-- wp:separator {\"className\":\"is-style-dots\"} --> <hr class=\"wp-block-separator is-style-dots\" /> <!-- /wp:separator --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">ベルト・モリゾ<br>(フランス人、1841～1895年)</p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:paragraph --> <p>ベルトは生涯を通じて、娘のジュリー・マネを描いた絵画を数多く制作しました。1895年に亡くなるまで、娘ジュリーの人生のさまざまな時期を描いています。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ジュリーの絵には、子供の頃の遊ぶ姿、肖像画、さらにはバイオリンを弾いている姿を描いたものなどがあります。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ジュリー自身は画家、モデル、日記作家、美術コレクターとして活躍しました。</p> <!-- /wp:paragraph -->",
+            "post_name": "berthes-daughter-julie-manet",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 244,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Art"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "ブロックパターン",
+            "post_content": "<!-- wp:heading --> <h2>大きなテキスト</h2> <!-- /wp:heading --> <!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} --> <h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">WordPress のポートフォリオ用の新しいデフォルトテーマ</h2> <!-- /wp:heading --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>リンクエリア</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} --> <div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"huge\"} --> <p class=\"has-huge-font-size\">つながろう。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":75} --> <div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"#\">Twitter</a> / <a href=\"#\">Instagram</a> / <a href=\"#\">Dribbble</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"#\">example@example.com</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:cover --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>メディアとテキスト記事タイトル</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:media-text {\"mediaId\":20,\"mediaLink\":\"https:\\/\\/2021.wordpress.net\\/playing-in-the-sand\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"className\":\"is-stacked-on-mobile is-style-twentytwentyone-border\"} --> <div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-style-twentytwentyone-border\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/db04d-playing-in-the-sand.jpg?w=778&amp;h=1024\" alt=\"\" class=\"wp-image-20 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">砂遊び</h2> <!-- /wp:heading --> <!-- wp:separator {\"className\":\"is-style-dots\"} --> <hr class=\"wp-block-separator is-style-dots\" /> <!-- /wp:separator --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">ベルト・モリゾ<br>(フランス人、1841～1895年)</p> <!-- /wp:paragraph --></div></div> <!-- /wp:media-text --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>画像出典: <a href=\"https://www.wikiart.org/en/berthe-morisot/playing-in-the-sand\">https://www.wikiart.org/en/berthe-morisot/playing-in-the-sand</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>重なった画像</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/roses-tremieres/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></a></figure> <!-- /wp:image --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/in-the-bois-de-boulogne-2/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full\"} --> <figure class=\"wp-block-image size-large alignfull size-full\"><a href=\"https://2021.wordpress.net/young-woman-in-mauve/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>画像出典: <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884\">https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884</a>、<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve\">https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve</a>、<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne\">https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>2枚の画像のショーケース</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:media-text {\"mediaId\":98,\"mediaLink\":\"https:\\/\\/2021.wordpress.net\\/about\\/daffodils\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"verticalAlignment\":\"center\",\"className\":\"is-stacked-on-mobile\"} --> <div class=\"wp-block-media-text alignwide is-vertically-aligned-center is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/522e1-daffodils.jpg?w=826&amp;h=1024\" alt=\"\" class=\"wp-image-98 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:image {\"align\":\"center\",\"id\":67,\"width\":418,\"height\":512,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-large is-style-twentytwentyone-image-frame\"} --> <div class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/ef4ec-self-portrait-1885.jpg?w=836&amp;h=1024\" alt=\"\" class=\"wp-image-67\" width=\"418\" height=\"512\" /></figure></div> <!-- /wp:image --></div></div> <!-- /wp:media-text --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>画像出典: <a href=\"https://www.wikiart.org/en/berthe-morisot/daffodils\">https://www.wikiart.org/en/berthe-morisot/daffodils</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/self-portrait-1885\">https://www.wikiart.org/en/berthe-morisot/self-portrait-1885</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>重なった画像とテキスト</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide is-style-twentytwentyone-columns-overlap\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":69,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-full\"} --> <figure class=\"wp-block-image size-large size-full\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=1024&amp;h=811\" alt=\"\" class=\"wp-image-69\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"bottom\"} --> <div class=\"wp-block-column is-vertically-aligned-bottom\"><!-- wp:group {\"className\":\"is-style-twentytwentyone-border\",\"backgroundColor\":\"green\"} --> <div class=\"wp-block-group is-style-twentytwentyone-border has-green-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">1800年代後半にベルト・モリゾが描いた美しい庭園</p> <!-- /wp:paragraph --></div></div> <!-- /wp:group --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"id\":29,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-full\"} --> <figure class=\"wp-block-image size-large size-full\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/da0e5-villa-with-orange-trees-nice.jpg?w=811&amp;h=1024\" alt=\"\" class=\"wp-image-29\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><em><sub>画像出典: <a href=\"https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884\">https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice\">https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice</a></sub></em></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>ポートフォリオリスト</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator alignwide is-style-wide\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a>立葵</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":36,\"width\":62,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=248&amp;h=300\" alt=\"\" class=\"wp-image-36\" width=\"62\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a>オレンジのなかのヴィラ、ニース</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":29,\"width\":60,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/da0e5-villa-with-orange-trees-nice.jpg?w=238&amp;h=300\" alt=\"\" class=\"wp-image-29\" width=\"60\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a>ブローニュの森で</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":14,\"width\":75,\"height\":62,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=300&amp;h=247\" alt=\"\" class=\"wp-image-14\" width=\"75\" height=\"62\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\">ブージヴァルの庭</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":69,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=300&amp;h=238\" alt=\"\" class=\"wp-image-69\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\">モーブで若い女性</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":75,\"width\":61,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=243&amp;h=300\" alt=\"\" class=\"wp-image-75\" width=\"61\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\">表示設定</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":97,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg?w=300&amp;h=240\" alt=\"\" class=\"wp-image-97\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator alignwide is-style-wide\" /> <!-- /wp:separator --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\"><sub><em>画像出典: <a href=\"https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884\">https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice\">https://www.wikiart.org/en/berthe-morisot/villa-with-orange-trees-nice</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne\">https://www.wikiart.org/en/berthe-morisot/in-the-bois-de-boulogne</a>、<em><a href=\"https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884\">https://www.wikiart.org/en/berthe-morisot/the-garden-at-bougival-1884</a></em>、<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve\">https://www.wikiart.org/en/berthe-morisot/young-woman-in-mauve</a>、<a href=\"https://www.wikiart.org/en/berthe-morisot/reading\">https://www.wikiart.org/en/berthe-morisot/reading</a></em>。</sub></p> <!-- /wp:paragraph --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading --> <h2>連絡先情報</h2> <!-- /wp:heading --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"mailto:#\">example@example.com<br></a>123-456-7890</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"center\"} --> <p class=\"has-text-align-center\">123 Main Street<br>Cambridge, MA, 02139</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:social-links {\"align\":\"right\",\"className\":\"is-style-twentytwentyone-social-icons-color\"} --> <ul class=\"wp-block-social-links alignright is-style-twentytwentyone-social-icons-color\"><!-- wp:social-link {\"url\":\"https:\\/\\/wordpress.org\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"https:\\/\\/www.facebook.com\\/WordPress\\/\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"https:\\/\\/twitter.com\\/WordPress\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--> <!-- wp:social-link {\"url\":\"https:\\/\\/www.youtube.com\\/wordpress\",\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "block-patterns",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 229,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "スターターコンテンツ",
+            "post_content": "<!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} --> <h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">ブロックを使ってサイトを作成する</h2> <!-- /wp:heading --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/roses-tremieres/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></a></figure> <!-- /wp:image --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image alignfull size-large is-style-twentytwentyone-image-frame\"><a href=\"https://2021.wordpress.net/in-the-bois-de-boulogne-2/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full is-style-twentytwentyone-border\"} --> <figure class=\"wp-block-image size-large alignfull size-full is-style-twentytwentyone-border\"><a href=\"https://2021.wordpress.net/young-woman-in-mauve/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"top\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-top\"><!-- wp:column {\"verticalAlignment\":\"top\"} --> <div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} --> <h3>ブロックパターンを追加する</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>ブロックパターンを追加するには、エディターの上部にあるツールバーの「ブロックを追加」ボタンを選択します。このボタンは正方形で囲まれた + 記号になります。検索バーの下には「ブロック」や「パターン」などのタブが表示されます。「パターン」を選択します。パターンを参照し、コンテンツに追加するものを選択します。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"top\"} --> <div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} --> <h3>画像にフレームを付ける</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Twenty Twenty-One には、画像などのブロックに使用できる枠線やフレームなど、いくつかのブロックスタイルが用意されています。ブロックスタイルを試すには、エディターに新しい画像ブロックを追加し、エディターのサイドバーで「スタイル」パネルを開き、「フレーム」ブロックスタイルを選択します。あなたの画像が芸術作品のようになります !</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"top\"} --> <div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} --> <h3>カラムを重ねる</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Twenty Twenty-One には、カラムブロックを重ねるブロックスタイルも用意されています。これを使用すると、このページのギャラリーのようなスタックレイアウトを作成できます。エディターにカラムブロックを追加し、エディターのサイドバーの「スタイル」パネルで、「Overlap」ブロックスタイルを選択します。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} --> <div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"huge\"} --> <p class=\"has-huge-font-size\">お困りですか ?</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":75} --> <div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"https://wordpress.org/support/article/twenty-twenty-one/\">テーマに関するドキュメントを読む</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"https://wordpress.org/support/theme/twentytwentyone/\">サポートフォーラムをチェックする</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:cover -->",
+            "post_name": "starter-content",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 207,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "ベルト・モリゾ、女性印象派画家",
+            "post_content": "<!-- wp:paragraph --> <p><strong>ジャネル・モンゴメリー</strong>: モリゾは、「印象派」と呼ばれる画家たちの中でも特に尊敬されていた画家ですが、彼女の作品は現在でも研究されることはほとんどなく、展示されることもありません。今回の展覧会では、どのような作品が選ばれ、どのような方法で展示されているのでしょうか ? また、モリゾだけでなく、印象派画家についてどのようなことを伝えてくれるのでしょうか ?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><strong>ニコール・マイヤース博士</strong>: モリゾはフランス印象派の創立メンバーの一人であったことは本当に驚くべきことです。1874年にこの反逆の芸術家集団に参加した唯一の女性でした。当時彼女はよく知られ、賞賛を受けていました。20世紀に入ってからは、フランス印象派について語る上で、彼女の役割は重要視されなくなり、時には排除されてきました。そのため、私たちのプロジェクトの目的は、まさにモリゾを再評価することです。多くの作品が個人のコレクションになっているため、彼女の作品を見る機会を作りたいと考えました。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><a href=\"https://youtu.be/o1ObIy92J4o\">このインタビューの詳細は、YouTube でご覧ください</a>。</p> <!-- /wp:paragraph -->",
+            "post_name": "about-the-berthe-morisot-woman-impressionist-exhibition",
+            "post_excerpt": "ジャネル・モンゴメリーとダラス美術館学芸員のニコール・マイヤーズ博士による「ベルト・モリゾ、女性印象派画家」展についてのインタビュー。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 198,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "印象派の発明",
+            "post_content": "<!-- wp:embed {\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=mupxAAjAiWM\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} --> <figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">https://www.youtube.com/watch?v=mupxAAjAiWM </div></figure> <!-- /wp:embed -->",
+            "post_name": "inventing-impressionism",
+            "post_excerpt": "美術史家のジャッキー・クラインが ArtFundUK のこちらの動画で、この才能ある女性印象派画家の物語を紹介します。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 193,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "「芸術におけるフェミニズム」ベルト・モリゾ",
+            "post_content": "<!-- wp:embed {\"url\":\"https:\\/\\/open.spotify.com\\/episode\\/6h60lXLH8W31EUPU9kXKb4?si=mjqEKEEoQ6KFgv8bSSVgWA#:56\",\"type\":\"rich\",\"providerNameSlug\":\"spotify\",\"responsive\":true,\"className\":\"wp-embed-aspect-21-9 wp-has-aspect-ratio\"} --> <figure class=\"wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">https://open.spotify.com/episode/6h60lXLH8W31EUPU9kXKb4?si=mjqEKEEoQ6KFgv8bSSVgWA#:56 </div></figure> <!-- /wp:embed -->",
+            "post_name": "le-feminisme-en-art-berthe-morisot",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 187,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "印象派運動におけるモリゾの重要性",
+            "post_content": "<!-- wp:paragraph --> <p><a href=\"https://www.newyorker.com/magazine/2018/10/29/berthe-morisot-woman-impressionist-emerges-from-the-margins\">余白から浮かび上がる「女性印象派画家」ベルト・モリゾ</a>。</p> <!-- /wp:paragraph --> <!-- wp:quote --> <blockquote class=\"wp-block-quote\"><p>モリゾはおそらくこれまでにも、また今後も他に類を見ない画家、女性らしさを備えた視覚による詩人であり、女性というものに対する理解力には、同胞の男性画家たちが持つ女性への興味をすべて合わせた以上のものがあります。</p><cite>ピーター・シュエルダール</cite></blockquote> <!-- /wp:quote -->",
+            "post_name": "morisots-importance-in-the-impressionist-movement",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 183,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "ベルト・モリゾの子供時代と教育",
+            "post_content": "<!-- wp:paragraph --> <p>モリゾはフランスのブルージュの裕福なブルジョワ家庭に生まれました。彼女の父、エドメ・ティブルス・モリゾはシェール県の県知事を務めていました。また、彼はエコール・デ・ボザールで建築を学んでいました。母親のマリー＝ジョゼフィーヌ＝コルネリー・トーマスは、アンシャン・レジームで最も多作なロココ調画家の一人であるジャン＝オノレ・フラゴナールの又姪でした。モリゾにはイヴとエドマという2人の姉と、ティブルスという弟がいました。モリゾがまだ幼い1852年に、一家はパリに移り住みました。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ブルジョワ家庭の娘たちが美術教育を受けるのは当然のこととされていたため、ベルトと姉妹のイヴとエドマは、ジェフロイ＝アルフォンス・ショカルヌとジョセフ・ギシャールという家庭教師による教育を受けました。モリゾと姉たちは当初、父親の誕生日用の絵を描くためにレッスンを受け始めました。1857年、ムーラン通りで少女向けの学校を経営していたギシャールが、ベルトとエドマをルーヴル美術館に招き、1858年から2人はそこで絵画の模写を学びました。モリゾ家の人たちは、付き添いなしで美術館で絵を描くことを禁じられていただけでなく、正式なトレーニングも完全に禁止されていました。ギシャールは2人にガヴァルニの作品も紹介しました。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>美術学生だったベルトとエドマは、1869年にエドマが海軍将校のアドルフ・ポンティヨンと結婚してシェルブールに移り住み、絵を描く時間が取れなくなるまで一緒に絵を描いていました。姉妹の間で交わされた手紙からは、2人の親しみのこもった関係性がはっきりとわかり、遠く離れていることと、エドマが絵を描かなくなったことを惜しむベルトの気持ちが強く伝わってきます。エドマはベルトが絵を描き続けることを心から応援しており、家族同士もいつも仲良くしていました。エドマは次のように書いています。 </p> <!-- /wp:paragraph --> <!-- wp:quote --> <blockquote class=\"wp-block-quote\"><p>「...親愛なるベルト、空想の中で私はよくあなたと一緒にいます。あなたのアトリエで、たった15分でもいいから、長年共に過ごしてきたあの空気に浸りたいと思っています...」</p></blockquote> <!-- /wp:quote --> <!-- wp:paragraph --> <p>1866年に税務調査官テオドール・ゴビラードと結婚した妹のイヴは、エドガー・ドガによってテオドール・ゴビラード夫人として描かれています。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ルーブル美術館の模写画家であったときに、モリゾはマネやモネなどの芸術家と出会い、親交を深めていきました。1861年には、バルビゾン派の代表的な風景画家であり、人物画も得意としたジャン＝バティスト＝カミーユ・コローを紹介されました。コローの影響を受けた彼女は、屋外制作による絵に取り組むようになりました。1863年まで、同じくバルビゾンの画家であるアシール・ウディノに師事しました。1863～64年の冬、エメ・ミレに師事して彫刻を学びましたが、彼女の彫刻は現存していません。</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"fontSize\":\"small\"} --> <p class=\"has-small-font-size\">Wikipedia 投稿者 (2020年7月29日)。<a href=\"https://en.wikipedia.org/w/index.php?title=Berthe_Morisot&amp;oldid=970124363\">ベルト・モリゾ</a>。<em>Wikipedia、無料百科事典</em>。掲載2020年10月13日21:32。</p> <!-- /wp:paragraph -->",
+            "post_name": "berthe-morisots-early-life-and-education",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 174,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Update"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "表示設定",
+            "post_content": "<!-- wp:image {\"id\":97,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg?w=1024&amp;h=818\" alt=\"\" class=\"wp-image-97\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>日付</strong>: 1888年</li><li><strong>スタイル</strong>: 印象派</li><li><strong>ジャンル</strong>: 風俗画</li><li><strong>素材</strong>: 油彩、キャンバス</li></ul> <!-- /wp:list -->",
+            "post_name": "reading-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 160,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "ブージヴァルの庭",
+            "post_content": "<!-- wp:image {\"id\":69,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=1024&amp;h=811\" alt=\"\" class=\"wp-image-69\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>日付</strong>: 1884年</li><li><strong>スタイル</strong>: 印象派</li><li><strong>ジャンル</strong>: 風景</li><li><strong>素材</strong>: 油彩、キャンバス</li><li><strong>場所</strong>: フランス、パリ、マルモッタン・マネ美術館</li><li><strong>寸法</strong>: 92 x 73 cm</li></ul> <!-- /wp:list -->",
+            "post_name": "the-garden-at-bougival",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 158,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "モーブで若い女性",
+            "post_content": "<!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>日付</strong>: 1880年</li><li><strong>スタイル</strong>: 印象派</li><li><strong>ジャンル</strong>: 肖像画</li><li><strong>素材</strong>: 油彩、キャンバス</li><li><strong>場所</strong>: 個人所蔵</li></ul> <!-- /wp:list -->",
+            "post_name": "young-woman-in-mauve",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 159,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "ベランダに座っている赤い髪の少女",
+            "post_content": "<!-- wp:image {\"id\":96,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg\" alt=\"\" class=\"wp-image-96\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>日付</strong>: 1884年</li><li><strong>スタイル</strong>: 印象派</li><li><strong>ジャンル</strong>: 風俗画</li><li><strong>素材</strong>: 油彩、キャンバス</li><li><strong>場所</strong>: 個人所蔵</li></ul> <!-- /wp:list -->",
+            "post_name": "red-haired-girl-sitting-on-a-veranda",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 151,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "オレンジのなかのヴィラ、ニース",
+            "post_content": "<!-- wp:image {\"id\":29,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/da0e5-villa-with-orange-trees-nice.jpg?w=811&amp;h=1024\" alt=\"\" class=\"wp-image-29\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>日付</strong>: 1882年</li><li><strong>スタイル</strong>: 印象派</li><li><strong>ジャンル</strong>: 風景</li><li><strong>素材</strong>: 油彩、キャンバス</li><li><strong>場所</strong>: 個人所蔵</li></ul> <!-- /wp:list -->",
+            "post_name": "villa-with-orange-trees-nice-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "立葵",
+            "post_content": "<!-- wp:image {\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"is-style-twentytwentyone-image-frame\"} --> <figure class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></figure> <!-- /wp:image --> <!-- wp:list --> <ul><li><strong>日付</strong>: 1884年</li><li><strong>スタイル</strong>: 印象派</li><li><strong>ジャンル</strong>: 風景</li><li><strong>素材</strong>: 油彩、キャンバス</li><li><strong>場所</strong>: フランス、パリ、マルモッタン・マネ美術館</li><li><strong>寸法</strong>: 54 x 65 cm</li></ul> <!-- /wp:list -->",
+            "post_name": "roses-tremieres",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 134,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "このサイトについて",
+            "post_content": "<!-- wp:media-text {\"mediaId\":70,\"mediaLink\":\"https:\\/\\/twentytwentyonedemo.wordpress.com\\/about\\/the-old-track-to-auvers-1863\\/\",\"mediaType\":\"image\",\"isStackedOnMobile\":false,\"verticalAlignment\":\"center\",\"className\":\"is-stacked-on-mobile\"} --> <div class=\"wp-block-media-text alignwide is-vertically-aligned-center is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/fd5fc-the-old-track-to-auvers-1863.jpg?w=676\" alt=\"\" class=\"wp-image-70 size-full\" /></figure><div class=\"wp-block-media-text__content\"><!-- wp:image {\"align\":\"center\",\"id\":67,\"width\":418,\"height\":512,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"size-large is-style-twentytwentyone-image-frame\"} --> <div class=\"wp-block-image size-large is-style-twentytwentyone-image-frame\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/ef4ec-self-portrait-1885.jpg?w=836&amp;h=1024\" alt=\"\" class=\"wp-image-67\" width=\"418\" height=\"512\" /></figure></div> <!-- /wp:image --></div></div> <!-- /wp:media-text --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"85%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:85%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">ベルト＝マリ＝ポリーン・モリゾは、19世紀の画家であり、印象派と呼ばれたパリの画家たちのサークルに所属していました。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":\"40%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:40%;\"><!-- wp:paragraph {\"fontSize\":\"large\",\"style\":{\"typography\":{\"lineHeight\":\"1.6\"}}} --> <p class=\"has-large-font-size\" style=\"line-height:1.6;\">モリゾは日常的な体験を絵にしました。彼女の作品の大半は、家族、子供、婦人、花などの家庭的な場面を描いたもので、19世紀後半の女性の生活を描いています。モリゾは公的な場所や社会を描くのではなく、プライベートで親密なシーンを好みました。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"width\":\"60%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:60%;\"><!-- wp:paragraph --> <p>同じ印象派のメアリー・カサットと同様に、娘のジュリーや姉のエドマなど、家族や友人をモデルにした家庭生活や肖像画に力を入れていました。日常生活を速記的に描く彼女の表現からは、儚い時間の流れを止めておきたいという強い願望が伝わってきます。彼女は、花を描くことで女性らしさをメタファーで表現しました。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>1860年代以前のモリゾはバルビゾン派に沿った主題を描いていましたが、その後、同時代の女性らしさを写し取るようになりました。子供部屋の家具の流行を描いた「ゆりかご」(1872年) などの絵画には、彼女の絵を見る女性たちは気付いたであろう、ファッションや広告に対する彼女の感性が反映されています。風景、庭のしつらえ、ボートを漕ぐシーン、退屈さや倦怠感をテーマにした作品も制作しています。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>画家人生の後半では、モリゾはヌードのようなより野心的なテーマにも取り組みました。晩年の作品で、彼女はしばしば自分の過去について言及しており、幼い頃や青春時代の記憶、亡き仲間たちのことを思い出していました。</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"fontSize\":\"extra-small\"} --> <p class=\"has-extra-small-font-size\">Wikipedia 投稿者 (2020年7月29日)。<a href=\"https://en.wikipedia.org/w/index.php?title=Berthe_Morisot&amp;oldid=970124363\">ベルト・モリゾ</a>。<em>Wikipedia、無料百科事典</em>。掲載2020年10月13日20:55。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 43,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "仕事",
+            "post_content": "<!-- wp:columns {\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"width\":\"66.66%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"><!-- wp:image {\"id\":96,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg\" alt=\"\" class=\"wp-image-96\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"width\":\"33.33%\"} --> <div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:group {\"className\":\"is-style-twentytwentyone-border\",\"backgroundColor\":\"green\"} --> <div class=\"wp-block-group is-style-twentytwentyone-border has-green-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <p class=\"has-extra-large-font-size\" style=\"line-height:1.4;\">ベランダに座っている赤い髪の少女</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>制作1884年</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:buttons --> <div class=\"wp-block-buttons\"><!-- wp:button {\"className\":\"is-style-fill\"} --> <div class=\"wp-block-button is-style-fill\"><a class=\"wp-block-button__link\" href=\"https://2021.wordpress.net/red-haired-girl-sitting-on-a-veranda/\">詳細情報</a></div> <!-- /wp:button --></div> <!-- /wp:buttons --></div></div> <!-- /wp:group --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":50} --> <div style=\"height:50px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide is-style-twentytwentyone-separator-thick\"} --> <hr class=\"wp-block-separator alignwide is-style-wide is-style-twentytwentyone-separator-thick\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\"></a><a href=\"https://twentytwentyonedemo.wordpress.com/roses-tremieres/\">立葵</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":36,\"width\":62,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=248&amp;h=300\" alt=\"\" class=\"wp-image-36\" width=\"62\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"https://2021.wordpress.net/the-garden-at-bougival/\">ブージヴァルの</a><a href=\"https://twentytwentyonedemo.wordpress.com/the-garden-at-bougival/\">庭</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":69,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg?w=300&amp;h=238\" alt=\"\" class=\"wp-image-69\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"https://twentytwentyonedemo.wordpress.com/young-woman-in-mauve/\">モーブで若い女性</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":75,\"width\":61,\"height\":75,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=243&amp;h=300\" alt=\"\" class=\"wp-image-75\" width=\"61\" height=\"75\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator alignwide is-style-default\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"80%\"} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%;\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"https://twentytwentyonedemo.wordpress.com/reading/\">表示設定</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"id\":97,\"width\":75,\"height\":60,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\",\"className\":\"size-large\"} --> <div class=\"wp-block-image size-large\"><figure class=\"alignright size-medium is-resized\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg?w=300&amp;h=240\" alt=\"\" class=\"wp-image-97\" width=\"75\" height=\"60\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"align\":\"wide\",\"className\":\"is-style-wide is-style-twentytwentyone-separator-thick\"} --> <hr class=\"wp-block-separator alignwide is-style-wide is-style-twentytwentyone-separator-thick\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"small\"} --> <p class=\"has-small-font-size\">ベルト・モリゾのその他の作品は <a href=\"https://www.wikiart.org/en/berthe-morisot\">WikiArt</a> でご覧いただけます。</p> <!-- /wp:paragraph -->",
+            "post_name": "work",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 44,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "ブログ",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "お問い合わせ",
+            "post_content": "<!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} --> <div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"fontSize\":\"huge\"} --> <p class=\"has-huge-font-size\">つながろう。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":75} --> <div style=\"height:75px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Contact Us\"} /--> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --> <!-- /wp:jetpack/contact-form --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p><a href=\"https://twitter.com/wordpress\">Twitter</a> / <a href=\"#\">Facebook</a> / <a href=\"#\">YouTube</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"left\"} --> <p class=\"has-text-align-left\"></p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":20} --> <div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:cover -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 46,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "ホーム",
+            "post_content": "<!-- wp:heading {\"align\":\"wide\",\"className\":\"has-text-align-wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} --> <h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1;\">1800年代のフランス人画家、ベルト・モリゾの作品</h2> <!-- /wp:heading --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"id\":36,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/roses-tremieres/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg?w=846&amp;h=1024\" alt=\"\" class=\"wp-image-36\" /></a></figure> <!-- /wp:image --> <!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"full\",\"id\":14,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} --> <figure class=\"wp-block-image alignfull size-large\"><a href=\"https://2021.wordpress.net/in-the-bois-de-boulogne-2/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/54257-in-the-bois-de-boulogne.jpg?w=1024&amp;h=842\" alt=\"\" class=\"wp-image-14\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer --> <div style=\"height:100px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"id\":75,\"sizeSlug\":\"large\",\"linkDestination\":\"none\",\"className\":\"alignfull size-full\"} --> <figure class=\"wp-block-image size-large alignfull size-full\"><a href=\"https://2021.wordpress.net/young-woman-in-mauve/\"><img src=\"https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg?w=828&amp;h=1024\" alt=\"\" class=\"wp-image-75\" /></a></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "home-2",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 254,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "メイン",
+            "items": [
+                {
+                    "menu-item-title": "ホーム",
+                    "menu-item-db-id": 355,
+                    "menu-item-object-id": "254",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "このサイトについて",
+                    "menu-item-db-id": 255,
+                    "menu-item-object-id": "43",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "仕事",
+                    "menu-item-db-id": 256,
+                    "menu-item-object-id": "44",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "ブログ",
+                    "menu-item-db-id": 257,
+                    "menu-item-object-id": "45",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "お問い合わせ",
+                    "menu-item-db-id": 258,
+                    "menu-item-object-id": "46",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "ソーシャル",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 5,
+                    "menu-item-object-id": "5",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 6,
+                    "menu-item-object-id": "6",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 7,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/7d4ab-reading.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/415f4-red-haired-girl-sitting-on-a-veranda-1884.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/f5c8e-young-woman-in-mauve.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/fd5fc-the-old-track-to-auvers-1863.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/bb63d-the-garden-at-bougival-1884.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/ef4ec-self-portrait-1885.jpg",
+        "https://twentytwentyonedemo.files.wordpress.com/2021/01/62d26-roses-tremieres-hollyhocks-1884.jpg"
+    ],
+    "meta": {
+        "blog_id": 187736619,
+        "url": "https://twentytwentyonedemo.wordpress.com",
+        "update_date": "January 8, 2021, 10:09 am",
+        "update_timestamp": 1610100551
+    }
+}
