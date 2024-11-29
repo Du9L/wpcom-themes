@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Twentyseventeen\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-03T06:37:03+00:00\n"
+"PO-Revision-Date: 2024-09-30 11:52:36+0000\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/block-patterns.php:184
+msgid "Contact Us"
+msgstr "Skontaktuj się z nami"
+
+#: inc/block-patterns.php:193
+msgid "Contact us"
+msgstr "Skontaktuj się z nami"
+
+#: inc/block-patterns.php:148
+msgid "Services"
+msgstr "Usługi"
+
+#: inc/block-patterns.php:117
+msgid "Design"
+msgstr "Wygląd"
+
+#: template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr "Stopka"
+
+#: template-parts/post/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: template-parts/page/content-front-page.php:48
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:90
+#: template-parts/post/content-gallery.php:77
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-video.php:89
+#: template-parts/post/content.php:64
+msgid "Pages:"
+msgstr "Strony:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: Hidden accessibility text.
+#: template-parts/header/site-branding.php:37
+#: template-parts/navigation/navigation-top.php:34
+msgid "Scroll down to content"
+msgstr "Przewiń w dół do treści"
+
+#. translators: %s: WordPress
+#: template-parts/footer/site-info.php:21
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez %s"
+
+#. translators: Hidden accessibility text.
+#: single.php:36
+msgid "Next Post"
+msgstr "Następny wpis"
+
+#. Author URI of the theme
+#: template-parts/footer/site-info.php:18
+msgid "https://wordpress.org/"
+msgstr "https://pl.wordpress.org/"
+
+#. translators: Hidden accessibility text.
+#: searchform.php:28
+msgctxt "submit button"
+msgid "Search"
+msgstr "Szukaj"
+
+#. translators: Hidden accessibility text.
+#: single.php:34
+msgid "Previous Post"
+msgstr "Poprzedni wpis"
+
+#: searchform.php:24
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Szukaj &hellip;"
+
+#: search.php:62
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przykro nam, ale nie znaleziono niczego na podstawie wpisanych terminów. Spróbuj ponownie używając innych słów kluczowych."
+
+#. translators: Hidden accessibility text.
+#: searchform.php:20
+msgctxt "label"
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#: search.php:26
+#: template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#. translators: Search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla zapytania &#8222;%s&#8221;"
+
+#: index.php:27
+msgid "Posts"
+msgstr "Wpisy"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:124
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Edytuj<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:94
+msgid "Tags"
+msgstr "Tagi"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:86
+msgid "Categories"
+msgstr "Kategorie"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:666
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post date.
+#: inc/template-tags.php:52
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Opublikowano w</span> %s"
+
+#. translators: %s: Post author.
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "Autor: %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Proszę określić nazwę pliku ikony SVG"
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Proszę określić domyślne parametry w formie tablicy"
+
+#. translators: %d: The front page section number.
+#: inc/customizer.php:142
+msgid "Front Page Section %d Content"
+msgstr "Treść %d sekcji strony głównej"
+
+#: inc/customizer.php:112
+#: inc/customizer.php:171
+msgid "Two Column"
+msgstr "Dwukolumnowy"
+
+#: inc/customizer.php:111
+#: inc/customizer.php:170
+msgid "One Column"
+msgstr "Jedna kolumna"
+
+#: inc/customizer.php:106
+msgid "Page Layout"
+msgstr "Układ strony"
+
+#: inc/customizer.php:109
+msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
+msgstr "Jeśli wybrany jest układ dwukolumnowy, tytuł strony znajduje się w jednej kolumnie a zawartość w innej. "
+
+#: inc/customizer.php:89
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: inc/customizer.php:63
+msgid "Dark"
+msgstr "Ciemny"
+
+#: inc/customizer.php:64
+msgid "Custom"
+msgstr "Własny"
+
+#: inc/customizer.php:60
+msgid "Color Scheme"
+msgstr "Schemat kolorów"
+
+#: inc/customizer.php:62
+msgid "Light"
+msgstr "Jasny"
+
+#: inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr "Domyślny obrazek nagłówka"
+
+#. translators: Hidden accessibility text.
+#: inc/custom-header.php:130
+msgid "Pause background video"
+msgstr "Pauzuj film w tle"
+
+#. translators: Hidden accessibility text.
+#: inc/custom-header.php:128
+msgid "Play background video"
+msgstr "Odtwarzaj film w tle"
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:43
+#: inc/back-compat.php:60
+#: inc/back-compat.php:83
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Motyw Twenty Forteen wymaga przynajmniej wersji 4.7 WordPressa.  Dzaiałasz na wersji %s. Proszę zaktualizować i spróbować ponownie. "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:402
+#: template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+#: template-parts/post/content-audio.php:83
+#: template-parts/post/content-gallery.php:70
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:82
+#: template-parts/post/content.php:57
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Czytaj dalej<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: Hidden accessibility text.
+#: header.php:31
+msgid "Skip to content"
+msgstr "Przeskocz do treści"
+
+#: functions.php:494
+msgid "Expand child menu"
+msgstr "Rozwiń menu podrzędne"
+
+#: functions.php:495
+msgid "Collapse child menu"
+msgstr "Zwiń menu podrzędne"
+
+#: functions.php:360
+msgid "Footer 1"
+msgstr "Stopka 1"
+
+#: functions.php:372
+msgid "Footer 2"
+msgstr "Stopka 2"
+
+#: functions.php:362
+#: functions.php:374
+msgid "Add widgets here to appear in your footer."
+msgstr "Dodaj widgety, które pojawią się w stopce"
+
+#: functions.php:350
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Dodaj widgety, które pojawią się na panelu bocznym we wpisach blogu i stronach archiwalnych. "
+
+#: functions.php:348
+#: sidebar.php:18
+msgid "Blog Sidebar"
+msgstr "Panel boczny blogu"
+
+#. translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:308
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "wł. "
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr "Menu linków społecznościowych stopki"
+
+#: functions.php:69
+#: functions.php:217
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "Menu górne"
+
+#: functions.php:70
+#: functions.php:228
+msgid "Social Links Menu"
+msgstr "Menu odnośników serwisów społecznościowych"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#. translators: Hidden accessibility text.
+#: comments.php:74
+#: single.php:36
+msgid "Next"
+msgstr "Następne"
+
+#. translators: Hidden accessibility text.
+#: comments.php:72
+#: single.php:34
+msgid "Previous"
+msgstr "Poprzednie"
+
+#: comments.php:62
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Jedna odpowiedź na &ldquo;%s&rdquo;"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s odpowiedź na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s odpowiedzi na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s odpowiedzi na &ldquo;%2$s&rdquo;"
+
+#. translators: Hidden accessibility text.
+#: archive.php:52
+#: index.php:56
+#: search.php:53
+msgid "Next page"
+msgstr "Następna strona"
+
+#. translators: Hidden accessibility text.
+#: archive.php:54
+#: index.php:58
+#: search.php:55
+msgid "Page"
+msgstr "Strona"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Wygląda na to, że niczego tu nie ma. Może spróbuj wyszukiwania?"
+
+#. translators: Hidden accessibility text.
+#: archive.php:50
+#: index.php:54
+#: search.php:51
+msgid "Previous page"
+msgstr "Poprzednia strona"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ojej! Nie można znaleźć tej strony."
