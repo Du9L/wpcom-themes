@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Overlaid\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-12T03:03:24+00:00\n"
+"PO-Revision-Date: 2023-08-11 13:41:58+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: patterns/page-home-alt.php
+msgctxt "Pattern title"
+msgid "Alternative Home Page"
+msgstr "Alternativă pentru prima pagină"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home Page"
+msgstr "Prima pagină"
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#: patterns/footer.php:17
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:15
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/404.php:29
+msgid "SEARCH"
+msgstr "CAUTĂ"
+
+#: patterns/404.php:23
+msgid "Maybe try a search?"
+msgstr "Poate încerci o căutare?"
+
+#: patterns/404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr "Se pare că n-a fost găsit nimic la această locație."
+
+#: patterns/404.php:17
+msgid "That page can't be found."
+msgstr "Acea pagină nu poate fi găsită."
+
+#: patterns/404.php:13
+msgid "Oops!"
+msgstr "Hopa!"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#. Author URI of the theme
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Overlaid displays large titles and excerpts that scroll over an image on the Homepage and neat single pages for the users that want their blogging to be simple."
+msgstr "Overlaid afișează titluri mari și rezumate care pot fi derulate peste o imagine în prima pagină și în pagini singulare ingenioase pentru utilizatorii care doresc ca blogurile lor să fie simple."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/overlaid"
+msgstr "https://wordpress.com/theme/overlaid"
+
+#. Theme Name of the theme
+msgid "Overlaid"
+msgstr "Overlaid"
