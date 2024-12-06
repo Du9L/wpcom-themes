@@ -1,0 +1,358 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Massimo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/massimo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T03:18:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Massimo"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/massimo/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Massimo is a blog theme that reverences the legendary designer Massimo Vignelli and his playbills for the Piccolo Teatro in Milan. This design is suitable for programs, calendars, and announcements."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Oops!"
+msgstr ""
+
+#: patterns/404.php:23
+msgid "Nothing was found at the location."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr ""
+
+#: patterns/archive.php:18
+msgid "Archive"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#: patterns/footer.php:14
+msgid "Designed with WordPress"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Tumblr"
+msgstr ""
+
+#: patterns/footer.php:29
+#: patterns/footer.php:37
+msgid "."
+msgstr ""
+
+#: patterns/footer.php:33
+msgid "Instgrm"
+msgstr ""
+
+#: patterns/footer.php:41
+msgid "Lnkdin"
+msgstr ""
+
+#: patterns/header-pages.php
+msgctxt "Pattern title"
+msgid "header-pages"
+msgstr ""
+
+#: patterns/header-pages.php:15
+#: patterns/header.php:14
+msgid "Piccolo Teatro"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr ""
+
+#: patterns/header.php:25
+msgid "An ode to elegance, structure, and timelessness."
+msgstr ""
+
+#: patterns/header.php:31
+msgid "Massimo is a theme that reverences the legendary designer Massimo Vignelli. It reproduces one of his famous projects, a series of posters for a famous theater in Milan."
+msgstr ""
+
+#: patterns/header.php:37
+msgid "Due to his fine experimentation, which echoes the communication of the 1960s, his design choices are still suitable for promoting programs, calendars, and similar events."
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/home.php:19
+msgid "coming next on "
+msgstr ""
+
+#: patterns/home.php:23
+#: patterns/index.php:25
+msgid "the Little Theatre"
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#: patterns/index.php:21
+msgid "coming next on"
+msgstr ""
+
+#: patterns/index.php:32
+msgid "Subscriptions and Propaganda Office&lt;br&gt;Canyon Fort Street, 6, Mainland"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr ""
+
+#: patterns/search.php:19
+msgid "search"
+msgstr ""
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "single"
+msgstr ""
+
+#: patterns/single.php:34
+msgid "By"
+msgstr ""
+
+#: patterns/single.php:71
+msgid "Previous/Next"
+msgstr ""
+
+#: styles/bodoni.json
+#: styles/century.json
+#: styles/futura.json
+#: styles/times.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/bodoni.json
+#: styles/century.json
+#: styles/futura.json
+#: styles/times.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/bodoni.json
+#: styles/century.json
+#: styles/futura.json
+#: styles/times.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/bodoni.json
+#: styles/century.json
+#: styles/futura.json
+#: styles/times.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/bodoni.json
+#: styles/century.json
+#: styles/futura.json
+#: styles/times.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/bodoni.json
+msgctxt "Style variation name"
+msgid "Bodoni"
+msgstr ""
+
+#: styles/century.json
+msgctxt "Style variation name"
+msgid "Century"
+msgstr ""
+
+#: styles/futura.json
+msgctxt "Style variation name"
+msgid "Futura"
+msgstr ""
+
+#: styles/times.json
+msgctxt "Style variation name"
+msgid "Times"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Default"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Futura"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "TNRoman"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Bodoni"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Century"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Besley"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Bodoni"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Involve"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Overused Grotesk"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Times Newer Roman"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Extra Large"
+msgstr ""
