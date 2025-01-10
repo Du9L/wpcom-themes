@@ -1,0 +1,642 @@
+# Copyright (C) 2025 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCV 1.1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/leancv\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-09T02:42:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "LeanCV"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/leancv/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "LeanCV is a blog theme that echoes the structure of a professional curriculum. It's suitable for the general public to display information, experiences, and education. And it's super easy to customize."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#. Translators: 1. is a 'br' HTML element
+#: patterns/404.php:17
+msgid "Oops! That page%1$scan’t be found."
+msgstr ""
+
+#: patterns/404.php:21
+msgid "You can try a search:"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr ""
+
+#: patterns/archive.php:43
+#: patterns/home.php:43
+#: patterns/index.php:41
+#: patterns/search.php:47
+msgid "No results found."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:23
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr ""
+
+#: patterns/front-page.php:16
+msgid "Hey there! I'm Emily Jones, a results-driven marketing professional hailing from the Windy City of Chicago."
+msgstr ""
+
+#: patterns/front-page.php:20
+msgid "I specialize in crafting innovative marketing campaigns that resonate with audiences and drive tangible results. I have a knack for blending creativity with strategic thinking."
+msgstr ""
+
+#: patterns/front-page.php:26
+msgid "Experience"
+msgstr ""
+
+#: patterns/front-page.php:31
+msgid "Marketing Coordinator, Big Apple Ventures NYC (2021-2023)"
+msgstr ""
+
+#: patterns/front-page.php:35
+msgid "Managed marketing activities for a venture capital firm based in the bustling city of New York. Supported the development of marketing collateral, coordinated event sponsorships, and facilitated digital marketing campaigns to promote brand awareness and attract potential investors."
+msgstr ""
+
+#: patterns/front-page.php:41
+msgid "Content Marketing Specialist, ChiTownTech Solutions (2020-2021)"
+msgstr ""
+
+#: patterns/front-page.php:45
+msgid "Led content marketing efforts for a tech startup in Chicago, creating engaging content across multiple platforms to enhance brand visibility and drive inbound traffic. Implemented SEO strategies and analyzed content performance metrics to optimize reach and engagement."
+msgstr ""
+
+#: patterns/front-page.php:51
+msgid "Senior Marketing Manager, Windy City Brands (2019-2020)"
+msgstr ""
+
+#: patterns/front-page.php:55
+msgid "Spearheaded marketing initiatives for a Chicago-based company, overseeing the development and execution of comprehensive marketing strategies. Collaborated with cross-functional teams to drive brand awareness, increase customer engagement, and boost sales in the local market."
+msgstr ""
+
+#: patterns/front-page.php:62
+msgid "Education"
+msgstr ""
+
+#: patterns/front-page.php:67
+msgid "Bachelor of Business Administration in Marketing"
+msgstr ""
+
+#: patterns/front-page.php:71
+msgid "University of Illinois at Chicago"
+msgstr ""
+
+#: patterns/front-page.php:75
+msgid "Earned a solid foundation in marketing principles and strategic planning through coursework at a leading university in Chicago. Developed critical thinking skills and gained practical experience through hands-on projects and internships."
+msgstr ""
+
+#: patterns/front-page.php:81
+msgid "Digital Marketing Certification Program"
+msgstr ""
+
+#: patterns/front-page.php:85
+msgid "General Assembly (Chicago)"
+msgstr ""
+
+#: patterns/front-page.php:89
+msgid "Completed an intensive digital marketing certification program focused on the latest trends and strategies in the digital landscape. Acquired expertise in areas such as social media marketing, content creation, and data analytics to stay ahead in the competitive marketing field."
+msgstr ""
+
+#: patterns/front-page.php:96
+msgid "Skills"
+msgstr ""
+
+#: patterns/front-page.php:101
+msgid "Local Marketing Expertise"
+msgstr ""
+
+#: patterns/front-page.php:105
+msgid "Deep understanding of local market dynamics and consumer behavior in Chicago, leveraging insights to develop targeted marketing campaigns that resonate with the city's diverse audience."
+msgstr ""
+
+#: patterns/front-page.php:111
+msgid "Creative Content Creation"
+msgstr ""
+
+#: patterns/front-page.php:115
+msgid "Proficient in crafting compelling content across various platforms, including social media, blogs, and email campaigns, to engage audiences and drive brand storytelling."
+msgstr ""
+
+#: patterns/front-page.php:121
+msgid "Data-driven Decision Making"
+msgstr ""
+
+#: patterns/front-page.php:125
+msgid "Skilled in analyzing marketing metrics and performance data to derive actionable insights and optimize marketing strategies for maximum impact and ROI."
+msgstr ""
+
+#: patterns/front-page.php:132
+msgid "Interests"
+msgstr ""
+
+#: patterns/front-page.php:137
+msgid "Chicago Food"
+msgstr ""
+
+#: patterns/front-page.php:141
+msgid "Enthusiastic foodie passionate about exploring Chicago's vibrant culinary scene, from deep-dish pizza joints to trendy rooftop bars, and everything in between."
+msgstr ""
+
+#: patterns/front-page.php:147
+msgid "Urban Exploration"
+msgstr ""
+
+#: patterns/front-page.php:151
+msgid "Love immersing myself in the urban landscape, discovering hidden gems and unique neighborhoods while capturing the essence of city life through photography."
+msgstr ""
+
+#: patterns/front-page.php:157
+msgid "Community Involvement"
+msgstr ""
+
+#: patterns/front-page.php:161
+msgid "Committed to giving back to the community through volunteer work and civic engagement, supporting local causes and initiatives that make a positive impact in Chicago and beyond."
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr ""
+
+#: patterns/header.php:18
+msgid "Emily Jones"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/home.php:16
+msgid "Welcome to my Blog, the threshold of my imagination. Here, I write about my literary journey, which intertwines science fiction, editorial endeavors, and social advocacy."
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#: patterns/profile-pic.php
+msgctxt "Pattern title"
+msgid "profile-pic"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Text to Transparent"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 1"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 2"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 3"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 4"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 5"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 6"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 7"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 8"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 9"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 10"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Color name"
+msgid "Color 2"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Color name"
+msgid "Color 1"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Color name"
+msgid "Color 4"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Color name"
+msgid "Color 5"
+msgstr ""
+
+#: styles/01-rose.json
+#: styles/02-hunter.json
+#: styles/03-ultraviolet.json
+#: styles/04-cinnabar.json
+#: styles/06-moss.json
+msgctxt "Color name"
+msgid "Color 3"
+msgstr ""
+
+#: styles/01-rose.json
+msgctxt "Style variation name"
+msgid "Rose"
+msgstr ""
+
+#: styles/02-hunter.json
+msgctxt "Style variation name"
+msgid "Hunter"
+msgstr ""
+
+#: styles/03-ultraviolet.json
+#: theme.json
+msgctxt "Font size name"
+msgid "X-Small"
+msgstr ""
+
+#: styles/03-ultraviolet.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: styles/03-ultraviolet.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: styles/03-ultraviolet.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: styles/03-ultraviolet.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: styles/03-ultraviolet.json
+msgctxt "Style variation name"
+msgid "Ultraviolet"
+msgstr ""
+
+#: styles/04-cinnabar.json
+msgctxt "Style variation name"
+msgid "Cinnabar"
+msgstr ""
+
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 11"
+msgstr ""
+
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 12"
+msgstr ""
+
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 13"
+msgstr ""
+
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 14"
+msgstr ""
+
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Gradient name"
+msgid "Gradient 15"
+msgstr ""
+
+#: styles/05-sapphire.json
+#: styles/06-moss.json
+msgctxt "Color name"
+msgid "Color 6"
+msgstr ""
+
+#: styles/05-sapphire.json
+msgctxt "Style variation name"
+msgid "Sapphire"
+msgstr ""
+
+#: styles/06-moss.json
+msgctxt "Style variation name"
+msgid "Moss"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Duotone Default"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Rose"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Hunter"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Ultraviolet"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Cinnabar"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Saphire"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Moss"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Besley"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Crimson Pro"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Franklin"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Plus Jakarta Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Texturina"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Profile Picture"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
