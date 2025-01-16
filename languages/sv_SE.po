@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Allez\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-08T01:13:50+00:00\n"
+"PO-Revision-Date: 2024-12-06 01:15:20+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header with Cover"
+msgstr "Sidhuvud med omslag"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Sidfot"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Dubbelt extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr "Trippel extra stor"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header with Sticky Post"
+msgstr "Sidhuvud me klistrat inlägg"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bas"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra liten"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Blue"
+msgstr "Blå"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Red"
+msgstr "Röd"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Green"
+msgstr "Grön"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "070606"
+msgstr "070606"
+
+#: styles/greek-blue.json
+msgctxt "Style variation name"
+msgid "Greek Blue"
+msgstr "Grekisk blå"
+
+#: styles/campari.json
+msgctxt "Style variation name"
+msgid "Campari"
+msgstr "Campari"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "En 404-sida"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Standardsidfot"
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr "startsida"
+
+#: patterns/header-with-cover.php
+msgctxt "Pattern title"
+msgid "Header with Cover"
+msgstr "Sidhuvud med omslag"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Standardsidhuvud"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr "index"
+
+#: patterns/post-author.php
+msgctxt "Pattern title"
+msgid "Post Author"
+msgstr "Inläggsförfattare"
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Inläggslista"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Sök"
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Inget resultatinnehåll"
+
+#: patterns/no-results-content.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing found. Please try again with some different keywords."
+msgstr "Inget hittades. Försök igen med några andra nyckelord."
+
+#: patterns/search.php:11
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Sök …"
+
+#: patterns/404.php:24
+msgid "Search..."
+msgstr "Sök …"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:20
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org"
+
+#: patterns/footer.php:22
+msgid "Designed with %1$s"
+msgstr "Designad med %1$s"
+
+#: patterns/latest-post-heading.php:14
+msgid "Latest Posts"
+msgstr "Senaste inläggen"
+
+#: patterns/404.php:18
+msgid "It looks like nothing was found at this location."
+msgstr "Det verkar som om inget hittades på denna plats."
+
+#: patterns/404.php:18
+msgid "Maybe try a search?"
+msgstr "Kanske prova en sökning?"
+
+#: patterns/404.php:24
+msgid "Search"
+msgstr "Sök"
+
+#: patterns/404.php:14
+msgid "Oops! That page can’t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
