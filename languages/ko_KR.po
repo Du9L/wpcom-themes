@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Rivington\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T04:46:33+00:00\n"
+"PO-Revision-Date: 2022-06-02 09:54:03+0000\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/rivington"
+msgstr "https://wordpress.com/theme/rivington"
+
+#: inc/wpcom-colors.php:481
+#: inc/wpcom-editor-colors.php:242
+msgid "Secondary Color"
+msgstr "보조 색상"
+
+#: inc/wpcom-colors.php:453
+#: inc/wpcom-editor-colors.php:223
+msgid "Text Color"
+msgstr "텍스트 색상"
+
+#: inc/wpcom-colors.php:255
+#: inc/wpcom-editor-colors.php:139
+msgid "Link Color"
+msgstr "링크 색깔"
+
+#: inc/wpcom-colors.php:160
+#: inc/wpcom-editor-colors.php:81
+msgid "Background Color"
+msgstr "배경 색상"
+
+#: functions.php:101
+msgid "Foreground Dark"
+msgstr "전경 어둡게"
+
+#: functions.php:96
+msgid "Foreground Light"
+msgstr "전경 밝게"
+
+#: functions.php:91
+msgid "Foreground"
+msgstr "전경"
+
+#: functions.php:86
+msgid "Background"
+msgstr "배경"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:140
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Description of the theme
+#: style.css
+msgid "Rivington is a robust theme designed for single property real estate."
+msgstr "Rivington은 한 건의 부동산 정보를 보여주기에 적합하게 디자인된 강력한 테마입니다."
+
+#: template-parts/header/site-navigation.php:12
+msgid "collapsed"
+msgstr "접힘"
+
+#: template-parts/header/site-navigation.php:11
+msgid "expanded"
+msgstr "열림"
+
+#: template-parts/header/site-navigation.php:8
+msgid "Menu"
+msgstr "메뉴"
+
+#: template-parts/header/site-navigation.php:5
+msgid "Main Navigation"
+msgstr "메인 탐색"
+
+#: functions.php:81
+msgid "Secondary"
+msgstr "보조"
+
+#: functions.php:76
+msgid "Primary"
+msgstr "기본"
+
+#: functions.php:51
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:50
+msgid "Huge"
+msgstr "큼"
+
+#: functions.php:45
+msgid "L"
+msgstr "L"
+
+#: functions.php:44
+msgid "Large"
+msgstr "최대 크기"
+
+#: functions.php:39
+msgid "M"
+msgstr "M"
+
+#: functions.php:38
+msgid "Normal"
+msgstr "일반"
+
+#: functions.php:33
+msgid "S"
+msgstr "S"
+
+#: functions.php:32
+msgid "Small"
+msgstr "소"
