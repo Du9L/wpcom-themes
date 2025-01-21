@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Mpho\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-25T02:52:46+00:00\n"
+"PO-Revision-Date: 2023-07-24 13:28:30+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: patterns/search.php:9
+msgctxt "This is a placeholder text in a search field"
+msgid "Type..."
+msgstr "Tastează..."
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/post-meta.php:12
+msgctxt "The word linking the post title and the post author."
+msgid "by"
+msgstr "de"
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "Post Meta"
+msgstr "Metadate articol"
+
+#: patterns/no-results.php:10
+msgctxt "Text displayed when there are no posts returned from the query."
+msgid "There are no posts yet."
+msgstr "Nu există articole până acum."
+
+#: patterns/no-results.php
+msgctxt "Pattern title"
+msgid "No Results"
+msgstr "Niciun rezultat"
+
+#: patterns/hidden-no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:24
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/footer.php:21
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: patterns/404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: patterns/404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagina nu poate fi găsită."
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Mpho is a minimalist single column theme that draws inspiration from short-sized posts and social networks. It prioritizes the post content and author, featuring a header with the author's bio and profile picture. With its simplicity, Mpho offers four style variations to suit different preferences."
+msgstr "Mpho este o temă simplă, cu o singură coloană, inspirată din articolele de dimensiuni reduse și rețelele sociale. Pune accent pe conținut și pe autorul articolului, prezentând un antet cu biografia și fotografia de profil a autorului. Prin simplitatea sa, Mpho oferă patru variante de stil ca să se potrivească cu mai multe preferințe."
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/tree/trunk/mpho"
+msgstr "https://github.com/Automattic/themes/tree/trunk/mpho"
+
+#. Theme Name of the theme
+msgid "Mpho"
+msgstr "Mpho"
