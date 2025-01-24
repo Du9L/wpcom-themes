@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Scratchpad\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-03T04:13:09+00:00\n"
+"PO-Revision-Date: 2024-09-16 02:17:27+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:87
+msgid "Yellow"
+msgstr "Vàng"
+
+#: functions.php:82
+msgid "Orange"
+msgstr "Cam"
+
+#: functions.php:72
+msgid "Blue"
+msgstr "Màu xanh da trời"
+
+#: functions.php:67
+msgid "White"
+msgstr "Trắng"
+
+#: functions.php:62
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:57
+msgid "Medium Gray"
+msgstr "Xám vừa"
+
+#: functions.php:52
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: functions.php:47
+msgid "Black"
+msgstr "Đen"
+
+#. Description of the theme
+#: style.css
+msgid "A colorful theme for collecting your ideas."
+msgstr "Một giao diện đầy màu sắc để thu thập ý tưởng của bạn."
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#. translators: %s: Name of current post
+#: template-parts/content-aside.php:50
+#: template-parts/content-audio.php:46
+#: template-parts/content-gallery.php:54
+#: template-parts/content-image.php:61
+#: template-parts/content-link.php:45
+#: template-parts/content-page.php:44
+#: template-parts/content-quote.php:45
+#: template-parts/content-single.php:34
+#: template-parts/content-status.php:55
+#: template-parts/content-video.php:56
+#: template-parts/content.php:40
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: template-parts/content-aside.php:35
+#: template-parts/content-link.php:30
+#: template-parts/content-page.php:31
+#: template-parts/content-quote.php:26
+#: template-parts/content-single.php:54
+#: template-parts/content-status.php:40
+#: template-parts/content.php:61
+msgid "Pages:"
+msgstr "Trang:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-aside.php:30
+#: template-parts/content-image.php:13
+#: template-parts/content-link.php:25
+#: template-parts/content-quote.php:21
+#: template-parts/content-single.php:49
+#: template-parts/content-status.php:35
+#: template-parts/content-video.php:12
+#: template-parts/content.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/author-bio.php:16
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/template-tags.php:118
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: inc/template-tags.php:102
+msgid "Next Post"
+msgstr "Bài sau"
+
+#: inc/template-tags.php:101
+msgid "Previous Post"
+msgstr "Bài trước"
+
+#: inc/template-tags.php:88
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: inc/template-tags.php:88
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:88
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: inc/template-tags.php:82
+msgid "Tagged:"
+msgstr "Thẻ:"
+
+#: inc/template-tags.php:67
+msgid "Posted in"
+msgstr "Đăng trong"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+#: inc/template-tags.php:80
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:53
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "Tất cả các bài đăng %1$s"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Đăng vào %s"
+
+#: header.php:31
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:288
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:190
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:178
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:106
+msgid "Header Menu"
+msgstr "Menu Tiêu đề"
+
+#: footer.php:33
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:31
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: footer.php:31
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: comments.php:44
+#: comments.php:66
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:43
+#: comments.php:65
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: comments.php:40
+#: comments.php:62
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Thử tìm trong lưu trữ tháng. %1$s"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Chuyên mục dùng nhiều nhất"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Không tìm thấy gì ở đây. Thử tìm thứ khác hoặc chọn một trong những liên kết dưới đây?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
