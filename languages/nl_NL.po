@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Toujours\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-13T03:18:23+00:00\n"
+"PO-Revision-Date: 2021-09-29 13:55:51+0000\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:67
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:62
+msgid "Light Gray"
+msgstr "Lichtgrijs"
+
+#: functions.php:57
+msgid "Medium Gray"
+msgstr "Mediumgrijs"
+
+#: functions.php:52
+msgid "Dark Gray"
+msgstr "Donkergrijs"
+
+#: functions.php:47
+msgid "Blue"
+msgstr "Blauw"
+
+#: inc/customizer.php:42
+msgid "Display a thin inset border on featured images"
+msgstr "Toon een dunne inzetrand om uitgelichte afbeeldingen"
+
+#: functions.php:435
+msgid "Previous Slide"
+msgstr "Vorige dia"
+
+#: functions.php:434
+msgid "Next Slide"
+msgstr "Volgende dia"
+
+#. Description of the theme
+msgid "Toujours has a simple, elegant design that's perfect for planning and sharing moments from your wedding. The theme highlights your content with a slideshow, large featured images, and a unique layout for recent posts."
+msgstr "Toujours heeft een eenvoudig en elegant ontwerp dat perfect past bij het plannen en delen van je bruiloft. Het thema toont je inhoud met een diashow, grote uitgelichte afbeeldingen en een unieke layout van je recente berichten."
+
+#. Template Name of the theme
+msgid "Guestbook"
+msgstr "Gastenboek"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht helpt de zoekfunctie."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met jouw zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: template-parts/content-audio.php:67
+#: template-parts/content-gallery.php:58
+#: template-parts/content-link.php:57
+#: template-parts/content-page.php:21
+#: template-parts/content-quote.php:35
+#: template-parts/content-status.php:30
+#: template-parts/content-video.php:69
+#: template-parts/content.php:57
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: template-parts/content-audio.php:40
+#: template-parts/content-gallery.php:25
+#: template-parts/content-link.php:24
+#: template-parts/content-quote.php:20
+#: template-parts/content-status.php:15
+#: template-parts/content-video.php:42
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:15
+#: template-parts/content-gallery.php:51
+#: template-parts/content-link.php:50
+#: template-parts/content-quote.php:28
+#: template-parts/content-status.php:23
+#: template-parts/content-video.php:15
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:22
+msgid "Next"
+msgstr "Volgende"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Vorige"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105
+#: template-parts/content-page.php:33
+#: template-parts/content-quote.php:60
+#: template-parts/content-status.php:55
+msgid "Edit %s"
+msgstr "%s bewerken"
+
+#: inc/template-tags.php:98
+msgid "Tags %1$s"
+msgstr "Tags %1$s"
+
+#: inc/template-tags.php:89
+msgid "Categories %1$s"
+msgstr "Categorieën %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:66
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "Alle %1$s berichten"
+
+#: inc/template-tags.php:50
+msgid "% Comments"
+msgstr "% reacties"
+
+#: inc/template-tags.php:50
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Published on %s"
+msgstr "Gepubliceerd op %s"
+
+#: inc/customizer.php:29
+msgid "Display the three most recent posts in a special area above your other posts"
+msgstr "Toon de drie meest recente berichten in een speciaal gebied boven je andere berichten"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#: functions.php:346
+msgid "Footer"
+msgstr "Voettekst"
+
+#: functions.php:334
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:302
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Alegreya Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:193
+msgid "More"
+msgstr "Meer"
+
+#: functions.php:102
+msgid "Social Menu"
+msgstr "Sociaal menu"
+
+#: functions.php:101
+#: functions.php:108
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "Ondersteund door %s"
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://nl.wordpress.org/"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:44
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:43
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:40
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#: 404.php:45
+msgid "Try looking in the monthly archives."
+msgstr "Bekijk het maandelijks archief"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Meest gebruikte categorie&#235;n"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Het lijkt erop dat niets werd gevonden op deze locatie. Probeer dan misschien een van de links hieronder of een zoekopdracht?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kon niet worden gevonden."

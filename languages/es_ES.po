@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Toujours\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-15T02:58:08+00:00\n"
+"PO-Revision-Date: 2021-11-12 14:20:59+0000\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:67
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:62
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: functions.php:57
+msgid "Medium Gray"
+msgstr "Gris medio"
+
+#: functions.php:52
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:47
+msgid "Blue"
+msgstr "Azul"
+
+#: functions.php:435
+msgid "Previous Slide"
+msgstr "Diapositiva anterior"
+
+#: functions.php:434
+msgid "Next Slide"
+msgstr "Siguiente diapositiva"
+
+#. Description of the theme
+msgid "Toujours has a simple, elegant design that's perfect for planning and sharing moments from your wedding. The theme highlights your content with a slideshow, large featured images, and a unique layout for recent posts."
+msgstr "Toujours tiene un diseño simple y elegante que es perfecto para planificar y compartir momentos de su boda. El tema resalta su contenido con una presentación de diapositivas, imágenes de gran tamaño y un diseño único para publicaciones recientes."
+
+#. Template Name of the theme
+msgid "Guestbook"
+msgstr "Libro de visitas"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda te pueda ayudar."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento pero no hay nada que se ajuste a tus criterios de búsqueda. Por favor, inténtalo de nuevo con palabras claves distintas."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Estás listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/content-audio.php:67
+#: template-parts/content-gallery.php:58
+#: template-parts/content-link.php:57
+#: template-parts/content-page.php:21
+#: template-parts/content-quote.php:35
+#: template-parts/content-status.php:30
+#: template-parts/content-video.php:69
+#: template-parts/content.php:57
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-audio.php:40
+#: template-parts/content-gallery.php:25
+#: template-parts/content-link.php:24
+#: template-parts/content-quote.php:20
+#: template-parts/content-status.php:15
+#: template-parts/content-video.php:42
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr "Destacado"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:15
+#: template-parts/content-gallery.php:51
+#: template-parts/content-link.php:50
+#: template-parts/content-quote.php:28
+#: template-parts/content-status.php:23
+#: template-parts/content-video.php:15
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:22
+msgid "Next"
+msgstr "Siguiente"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Anterior"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda por: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105
+#: template-parts/content-page.php:33
+#: template-parts/content-quote.php:60
+#: template-parts/content-status.php:55
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: inc/template-tags.php:98
+msgid "Tags %1$s"
+msgstr "Etiquetas %1$s"
+
+#: inc/template-tags.php:89
+msgid "Categories %1$s"
+msgstr "Categorías %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:66
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "Todos los posts de %1$s"
+
+#: inc/template-tags.php:50
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:50
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Published on %s"
+msgstr "Publicado el %s"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:346
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:334
+msgid "Sidebar"
+msgstr ""
+"Barra lateral\n"
+"  "
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:302
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "activado"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Alegreya Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:193
+msgid "More"
+msgstr "Más"
+
+#: functions.php:102
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:101
+#: functions.php:108
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "Orgullosamente ofrecido por %s"
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:44
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:43
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:40
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios sobre &ldquo;%2$s&rdquo;"
+
+#: 404.php:45
+msgid "Try looking in the monthly archives."
+msgstr "Intenta buscar en los archivos por mes."
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Quizás pruebes con uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se pudo encontrar esa página."

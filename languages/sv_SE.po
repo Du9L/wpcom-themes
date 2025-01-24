@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Toujours\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-15T02:58:11+00:00\n"
+"PO-Revision-Date: 2021-05-15 20:56:34+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:67
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:62
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:57
+msgid "Medium Gray"
+msgstr "Medelgrå"
+
+#: functions.php:52
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:47
+msgid "Blue"
+msgstr "Blå"
+
+#: functions.php:435
+msgid "Previous Slide"
+msgstr "Föregående bild"
+
+#: functions.php:434
+msgid "Next Slide"
+msgstr "Nästa bild"
+
+#. Template Name of the theme
+msgid "Guestbook"
+msgstr "Gästbok"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: template-parts/content-audio.php:67
+#: template-parts/content-gallery.php:58
+#: template-parts/content-link.php:57
+#: template-parts/content-page.php:21
+#: template-parts/content-quote.php:35
+#: template-parts/content-status.php:30
+#: template-parts/content-video.php:69
+#: template-parts/content.php:57
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/content-audio.php:40
+#: template-parts/content-gallery.php:25
+#: template-parts/content-link.php:24
+#: template-parts/content-quote.php:20
+#: template-parts/content-status.php:15
+#: template-parts/content-video.php:42
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr "Utvalda"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:15
+#: template-parts/content-gallery.php:51
+#: template-parts/content-link.php:50
+#: template-parts/content-quote.php:28
+#: template-parts/content-status.php:23
+#: template-parts/content-video.php:15
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:22
+msgid "Next"
+msgstr "Nästa"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Föregående"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105
+#: template-parts/content-page.php:33
+#: template-parts/content-quote.php:60
+#: template-parts/content-status.php:55
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: inc/template-tags.php:98
+msgid "Tags %1$s"
+msgstr "Etiketter %1$s"
+
+#: inc/template-tags.php:89
+msgid "Categories %1$s"
+msgstr "Kategorier %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:66
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "Alla %1$s inlägg"
+
+#: inc/template-tags.php:50
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:50
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Published on %s"
+msgstr "Publicerat den %s"
+
+#: inc/customizer.php:29
+msgid "Display the three most recent posts in a special area above your other posts"
+msgstr "Visa de tre senaste inläggen i ett speciellt område ovan dina andra inlägg"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temaalternativ"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:346
+msgid "Footer"
+msgstr "Sidfot"
+
+#: functions.php:334
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:302
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Alegreya Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:193
+msgid "More"
+msgstr "Mer"
+
+#: functions.php:102
+msgid "Social Menu"
+msgstr "Social meny"
+
+#: functions.php:101
+#: functions.php:108
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:44
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:43
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:40
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#: 404.php:45
+msgid "Try looking in the monthly archives."
+msgstr "Prova att titta i de månatliga arkiven."
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Mest använda kategorier"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova någon av länkarna nedan eller söka?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
