@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T06:06:30+00:00\n"
+"PO-Revision-Date: 2024-06-12 13:49:30+0000\n"
+"Language: sr_RS\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:138
+msgid "White"
+msgstr "бела"
+
+#: functions.php:133
+msgid "Light Gray"
+msgstr "Светло сива"
+
+#: functions.php:128
+msgid "Dark Gray"
+msgstr "Тамно сива"
+
+#: inc/wpcom-colors.php:99
+msgid "Buttons"
+msgstr "Дугмићи"
+
+#: inc/wpcom-colors.php:80
+msgid "Links"
+msgstr "Везe"
+
+#: inc/wpcom-colors.php:35
+msgid "Headings"
+msgstr "Заглавља"
+
+#: template-parts/content-single.php:47
+msgid "Published"
+msgstr "Објављено"
+
+#: template-parts/content-page.php:22
+#: template-parts/content-single.php:24
+#: template-parts/content.php:28
+msgid "Pages:"
+msgstr "Стране:"
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Изгледа да не можемо да пронађемо оно што сте тражили. Можда ће претраживање помоћи."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Нажалост, ваша претрага није донела резултате. Молимо вас, покушајте поново са другачијим параметрима."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Спремни сте да објавите свој први чланак? <a href=\"%1$s\">Започните овде</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ништа није пронађено"
+
+#: template-parts/content-author.php:35
+msgid "View all posts by %s"
+msgstr "Види све чланке од %s"
+
+#: template-parts/content-author.php:29
+msgid "Published by %s"
+msgstr "Објавио/ла: %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Резултати претраживања за: %s"
+
+#: inc/template-tags.php:151
+#: template-parts/content-search.php:29
+#: template-parts/content.php:19
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Прочитајте више %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:103
+#: template-parts/content-page.php:31
+#: template-parts/content-single.php:35
+msgid "Edit %s"
+msgstr "Уредите %s"
+
+#: inc/template-tags.php:80
+msgid "% Comments"
+msgstr "% коментара"
+
+#: inc/template-tags.php:80
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: template-parts/content-single.php:30
+msgid "Tagged"
+msgstr "Означено"
+
+#: inc/template-tags.php:80
+msgid "Leave a comment"
+msgstr "Оставите коментар"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:40
+#: inc/template-tags.php:131
+msgid "Featured"
+msgstr "Издвојено"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "могућности теме"
+
+#: header.php:63
+msgid "Menu"
+msgstr "Мени"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Скочи на садржај"
+
+#: functions.php:220
+msgid "Footer 3"
+msgstr "Подножје 3"
+
+#: functions.php:209
+msgid "Footer 2"
+msgstr "Подножје 2"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Бочна трака"
+
+#: functions.php:198
+msgid "Footer 1"
+msgstr "Подножје 1"
+
+#: functions.php:53
+msgid "Header"
+msgstr "Заглавље"
+
+#: footer.php:42
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s од %2$s."
+
+#: footer.php:40
+msgid "Proudly powered by %s"
+msgstr "Са поносом покреће %s"
+
+#: footer.php:40
+msgid "http://wordpress.org/"
+msgstr "http://sr.wordpress.org/"
+
+#: comments.php:43
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "Новији коментари"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Затворено за коментаре."
+
+#: comments.php:42
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Старији коментари"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Кретање коментара"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s мишљење на &#0132;%2$s&#0147;"
+msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
+msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ништа није нађено на овој локацији. Можда да покушате да пронађете тражени садржај међу доњим линковима или путем претраге?"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Најкоришћеније категорије"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Покушајте са гледањем месечних архива. %1$s"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Та страница није пронађена."

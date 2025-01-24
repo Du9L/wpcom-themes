@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T06:05:28+00:00\n"
+"PO-Revision-Date: 2024-02-03 12:07:02+0000\n"
+"Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:128
+msgid "Dark Gray"
+msgstr "Gri e Errët"
+
+#: functions.php:138
+msgid "White"
+msgstr "E bardhë"
+
+#: functions.php:133
+msgid "Light Gray"
+msgstr "Gri e Çelët"
+
+#: functions.php:123
+msgid "Bright Blue"
+msgstr "Blu e Ndritshme"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:269
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekte"
+
+#: inc/woocommerce.php:267
+msgid "View your shopping cart"
+msgstr "Shihni shportën tuaj të blerjeve"
+
+#: inc/wpcom-colors.php:99
+msgid "Buttons"
+msgstr "Butona"
+
+#: inc/wpcom-colors.php:35
+msgid "Headings"
+msgstr "Tituj"
+
+#: inc/wpcom-colors.php:80
+msgid "Links"
+msgstr "Lidhje"
+
+#: template-parts/content-single.php:47
+msgid "Published"
+msgstr "I botuar"
+
+#: template-parts/content-page.php:22
+#: template-parts/content-single.php:24
+#: template-parts/content.php:28
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk gjejmë dot ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por s&#8217;u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "S&#8217;u Gjet Gjë"
+
+#: template-parts/content-author.php:29
+msgid "Published by %s"
+msgstr "Botuar nga %s"
+
+#: template-parts/content-author.php:35
+msgid "View all posts by %s"
+msgstr "Shihni krejt postimet nga %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/template-tags.php:151
+#: template-parts/content-search.php:29
+#: template-parts/content.php:19
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vazhdoni leximin e %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:103
+#: template-parts/content-page.php:31
+#: template-parts/content-single.php:35
+msgid "Edit %s"
+msgstr "Përpunojeni %s"
+
+#: inc/template-tags.php:80
+msgid "% Comments"
+msgstr "% Komente"
+
+#: inc/template-tags.php:80
+msgid "1 Comment"
+msgstr "1 Koment"
+
+#: template-parts/content-single.php:30
+msgid "Tagged"
+msgstr "Me etiketë"
+
+#: inc/template-tags.php:80
+msgid "Leave a comment"
+msgstr "Lini një koment"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:40
+#: inc/template-tags.php:131
+msgid "Featured"
+msgstr "E zgjedhur"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Mundësi Teme"
+
+#: header.php:63
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Kaloni te lënda"
+
+#: functions.php:220
+msgid "Footer 3"
+msgstr "Fundfaqe 3"
+
+#: functions.php:209
+msgid "Footer 2"
+msgstr "Fundfaqe 2"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Anështyllë"
+
+#: functions.php:198
+msgid "Footer 1"
+msgstr "Fundfaqe 1"
+
+#: functions.php:53
+msgid "Header"
+msgstr "Kryefaqe"
+
+#: footer.php:42
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s"
+
+#: footer.php:40
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s."
+
+#: footer.php:40
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:43
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "Komente Më të Reja"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#: comments.php:42
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Komente Më të Vjetra"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Një mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Duket se s&#8217;u gjet gjë në këtë vend. Të provohet një nga lidhjet më poshtë ose një kërkim?"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Kategoritë Më të Përdorura"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provoni të shihni arkivat mujore. %1$s"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe s&#8217;gjendet dot."

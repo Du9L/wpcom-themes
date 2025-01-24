@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-26T01:52:35+00:00\n"
+"PO-Revision-Date: 2021-08-25 19:44:45+0000\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:121
+msgid "Dark Gray"
+msgstr "Grigio scuro"
+
+#: functions.php:131
+msgid "White"
+msgstr "Bianco"
+
+#: functions.php:126
+msgid "Light Gray"
+msgstr "Grigio chiaro"
+
+#: functions.php:116
+msgid "Bright Blue"
+msgstr "Blu chiaro"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:268
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d elemento"
+msgstr[1] "%d elementi"
+
+#: inc/woocommerce.php:266
+msgid "View your shopping cart"
+msgstr "Visualizza il tuo carrello"
+
+#. Description of the theme
+msgid "Independent Publisher 2 is a clean and polished theme with a light color scheme, bold typography, and full-width images."
+msgstr "Independent Publisher 2 è un tema pulito ed elegante con uno schema di colori chiaro, tipografia in grassetto e immagini a larghezza intera."
+
+#: template-parts/content-page.php:21
+#: template-parts/content-single.php:23
+#: template-parts/content.php:27
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Non riusciamo a trovare quello che cerchi. Forse eseguire una ricerca potrebbe essere di aiuto."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Spiacente, nulla corrisponde ai termini della tua ricerca. Riprova con parole chiave diverse."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sei pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Comincia da qui</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Pubblicato da %s"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Leggi tutti gli articoli di %s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Risultati ricerca per: %s"
+
+#: inc/template-tags.php:150
+#: template-parts/content-search.php:28
+#: template-parts/content.php:18
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua a leggere %s <span class=\"meta-nav\">\t</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:34
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: inc/template-tags.php:79
+msgid "% Comments"
+msgstr "% commenti"
+
+#: inc/template-tags.php:79
+msgid "1 Comment"
+msgstr "1 commento"
+
+#: template-parts/content-single.php:29
+msgid "Tagged"
+msgstr "Contrassegnato da tag"
+
+#: inc/template-tags.php:79
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:39
+#: inc/template-tags.php:130
+msgid "Featured"
+msgstr "In evidenza"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Opzioni tema"
+
+#: header.php:54
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: functions.php:213
+msgid "Footer 3"
+msgstr "Piè di pagina 3"
+
+#: functions.php:202
+msgid "Footer 2"
+msgstr "Piè di pagina 2"
+
+#: functions.php:180
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: functions.php:191
+msgid "Footer 1"
+msgstr "Piè di pagina 1"
+
+#: functions.php:52
+msgid "Header"
+msgstr "Header"
+
+#: footer.php:41
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s di %2$s."
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "Orgogliosamente fornito da %s"
+
+#: footer.php:39
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Newer Comments"
+msgstr "Nuovi commenti"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:41
+#: comments.php:63
+msgid "Older Comments"
+msgstr "Commenti più vecchi"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero riguardo &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri riguardo &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sembra che non ci sia nulla a questo indirizzo. Perché non provi con uno dei link in basso o una ricerca?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categorie più utilizzate"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provare a consultare gli archivi mensili. %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."

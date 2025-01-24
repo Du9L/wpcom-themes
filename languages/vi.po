@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Independent-publisher-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T06:06:42+00:00\n"
+"PO-Revision-Date: 2024-09-12 01:42:46+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:138
+msgid "White"
+msgstr "Trắng"
+
+#: functions.php:133
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:128
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: functions.php:123
+msgid "Bright Blue"
+msgstr "Xanh biển nhạt"
+
+#: inc/woocommerce.php:267
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:269
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d mục"
+
+#. Description of the theme
+#: style.css
+msgid "Independent Publisher 2 is a clean and polished theme with a light color scheme, bold typography, and full-width images."
+msgstr "Independent Publisher 2 là một giao diện sạch sẽ và bóng bẩy với bảng màu sáng, kiểu chữ đậm và hình ảnh toàn chiều rộng."
+
+#: inc/wpcom-colors.php:99
+msgid "Buttons"
+msgstr "Nút"
+
+#: inc/wpcom-colors.php:80
+msgid "Links"
+msgstr "Liên kết"
+
+#: inc/wpcom-colors.php:35
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#: template-parts/content-single.php:47
+msgid "Published"
+msgstr "Đã đăng"
+
+#: template-parts/content-page.php:22
+#: template-parts/content-single.php:24
+#: template-parts/content.php:28
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: template-parts/content-author.php:35
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết bằng %s"
+
+#: template-parts/content-author.php:29
+msgid "Published by %s"
+msgstr "Đăng bởi %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/template-tags.php:151
+#: template-parts/content-search.php:29
+#: template-parts/content.php:19
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:103
+#: template-parts/content-page.php:31
+#: template-parts/content-single.php:35
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: inc/template-tags.php:80
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: inc/template-tags.php:80
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: template-parts/content-single.php:30
+msgid "Tagged"
+msgstr "Thẻ"
+
+#: inc/template-tags.php:80
+msgid "Leave a comment"
+msgstr "Để lại phản hồi"
+
+#. translators: Used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:40
+#: inc/template-tags.php:131
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Tùy chọn giao diện"
+
+#: header.php:63
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#: functions.php:220
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:209
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:198
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:53
+msgid "Header"
+msgstr "Header"
+
+#: footer.php:42
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:40
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: footer.php:40
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:43
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Không tìm thấy gì ở đây. Thử tìm thứ khác hoặc chọn một trong những liên kết dưới đây?"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Thử tìm trong lưu trữ tháng. %1$s"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Chuyên mục dùng nhiều nhất"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
