@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Morden\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T03:36:22+00:00\n"
+"PO-Revision-Date: 2022-07-15 12:30:33+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/morden"
+msgstr "https://wordpress.com/theme/morden"
+
+#: search.php:26
+msgid "Search results for:"
+msgstr "Rezultate de căutare pentru:"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că n-am găsit nimic la această locație. Poate încerci o căutare?"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagina nu poate fi găsită."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:34
+#: template-parts/content/content.php:37
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuă lectura<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:45
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editează <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-page.php:31
+#: template-parts/content/content-single.php:47
+#: template-parts/content/content.php:50
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți. Probabil o căutare poate ajuta."
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:27
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ești gata să-ți publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: template-parts/content/content-none.php:17
+msgid "Nothing Found"
+msgstr "N-am găsit nimic"
+
+#: template-parts/content/content-excerpt.php:19
+#: template-parts/content/content.php:19
+msgctxt "post"
+msgid "Featured"
+msgstr "Reprezentativ"
+
+#. Description of the theme
+#: style.css
+msgid "Morden is a functional and responsive multi-purpose theme that is the perfect solution for your business's online presence."
+msgstr "Morden este o temă polivalentă, multi-funcțională și responsivă care este soluția perfectă pentru prezența online a afacerii tale."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:107
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:61
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:60
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: functions.php:55
+msgid "L"
+msgstr "L"
+
+#: functions.php:54
+msgid "Large"
+msgstr "Mare"
+
+#: functions.php:49
+msgid "M"
+msgstr "M"
+
+#: functions.php:48
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:43
+msgid "S"
+msgstr "S"
+
+#: functions.php:42
+msgid "Small"
+msgstr "Mică"

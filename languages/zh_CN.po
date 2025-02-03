@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Morden\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T03:34:43+00:00\n"
+"PO-Revision-Date: 2022-06-02 09:54:03+0000\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/morden"
+msgstr "https://wordpress.com/theme/morden"
+
+#: search.php:26
+msgid "Search results for:"
+msgstr "针对以下查询的搜索结果："
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "这儿似乎什么都没有，试试搜索？"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:34
+#: template-parts/content/content.php:37
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "继续阅读<span class=\"screen-reader-text\">“%s”</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:45
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "编辑<span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-page.php:31
+#: template-parts/content/content-single.php:47
+#: template-parts/content/content.php:50
+msgid "Pages:"
+msgstr "页码："
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们无法找到您想查找的内容。或许搜索可以帮助您。"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:27
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content/content-none.php:17
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: template-parts/content/content-excerpt.php:19
+#: template-parts/content/content.php:19
+msgctxt "post"
+msgid "Featured"
+msgstr "特色"
+
+#. Description of the theme
+#: style.css
+msgid "Morden is a functional and responsive multi-purpose theme that is the perfect solution for your business's online presence."
+msgstr "Morden 是个多用途，具有各种功能，支援自动版面调整的布景主题，很适合各行各业使用。"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:107
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:61
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:60
+msgid "Huge"
+msgstr "巨大"
+
+#: functions.php:55
+msgid "L"
+msgstr "L"
+
+#: functions.php:54
+msgid "Large"
+msgstr "大"
+
+#: functions.php:49
+msgid "M"
+msgstr "M"
+
+#: functions.php:48
+msgid "Normal"
+msgstr "正常"
+
+#: functions.php:43
+msgid "S"
+msgstr "S"
+
+#: functions.php:42
+msgid "Small"
+msgstr "小"
