@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-17T03:35:40+00:00\n"
+"PO-Revision-Date: 2024-12-16 21:54:03+0000\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:30
+msgid "Add or publish Posts"
+msgstr "เพิ่มหรือเผยแพร่เรื่อง"
+
+#: template-parts/content/content-none.php:25
+msgid "Your site is set to show the most recent posts on this page - but you don't have any Posts published."
+msgstr "เว็บของคุณถูกตั้งค่าให้แสดงเรื่องล่าสุดบนหน้านี้ - แต่คุณยังไม่มีเรื่องที่เผยแพร่เลย."
+
+#: template-parts/content/content-none.php:16
+msgid "No posts published yet!"
+msgstr "ยังไม่มีเรื่องที่เผยแพร่!"
+
+#: inc/customizer.php:172
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "ตรวจสอบเพื่อซ่อนเมนูเว็บ & วิดเจ็ตในส่วนท้าย หากหน้าแรกของคุณตั้งค่าให้แสดงหน้าแบบคงที่."
+
+#: inc/customizer.php:171
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "ซ่อนเมนูท้ายเว็บและวิดเจ็ต"
+
+#: inc/customizer.php:154
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "ตรวจสอบเพื่อซ่อนส่วนหัวของเว็บ ถ้าหน้าแรกของคุณตั้งค่าให้แสดงหน้าแบบคงที่."
+
+#: inc/customizer.php:153
+msgid "Hide the Site Header"
+msgstr "ซ่อนส่วนหัวเว็บ"
+
+#: inc/customizer.php:139
+msgid "Display Site Title & Tagline"
+msgstr "แสดงชื่อเว็บ & คำโปรย"
+
+#: template-parts/post/author-bio.php:29
+msgid "View all posts by %s"
+msgstr "ดูเรื่องทั้งหมดโดย %s"
+
+#: inc/customizer.php:115
+msgid "On archive pages, posts show:"
+msgstr "ในหน้าเก็บเข้าคลัง, เรื่องจะแสดง:"
+
+#: inc/customizer.php:105
+#: inc/customizer.php:118
+msgid "Full text"
+msgstr "ข้อความทั้งหมด"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Summary"
+msgstr "แบบย่อ"
+
+#: inc/customizer.php:102
+msgid "On the home page, posts show:"
+msgstr "บนหน้าแรก, เรื่องจะแสดง:"
+
+#: inc/customizer.php:70
+msgid "Excerpt Settings"
+msgstr "การตั้งค่าเกริ่นนำ"
+
+#: comments.php:76
+msgid "Leave a Comment"
+msgstr "ใส่ความเห็น"
+
+#: inc/block-patterns.php:41
+msgid "Plant"
+msgstr "พืช"
+
+#: inc/block-patterns.php:30
+msgid "Envelope"
+msgstr "ซองจดหมาย"
+
+#: inc/block-styles.php:20
+#: inc/block-styles.php:28
+msgid "Alternating Grid"
+msgstr "Alternating Grid"
+
+#: template-parts/header/navigation.php:22
+msgid "Main"
+msgstr "หลัก"
+
+#. Description of the theme
+#: style.css
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet เป็นธีมเวิร์ดเพรสฟรี เค้าโครงแบบสองคอลัมน์และการพิมพ์ที่มีความคลาสสิกและสง่างามสร้างเว็บที่มีความละเอียดอ่อนซึ่งให้พื้นที่สำหรับผลงานและรูปภาพของคุณในการหายใจ - และเปล่งประกาย Seedlet ถูกสร้างขึ้นมาเพื่อเป็นคู่หูที่สมบูรณ์แบบกับตัวแก้ไขบล็อก และรองรับบล็อกล่าสุดทั้งหมด การเขียน, เสียง, ภาพประกอบ, การถ่ายภาพ, วีดีโอ - ใช้ Seedlet เพื่อดึงดูดและชี้นำสายตาผู้เข้าชม โดยไม่ให้ธีมของคุณมาขัดขวาง และการออกแบบเรสปอนซิฟจะเปลี่ยนไปอย่างเป็นธรรมชาติระหว่างเดสก์ท็อปและอุปกรณ์มือถือ Seedlet เป็นตัวเลือกที่ยอดเยี่ยมสำหรับมืออาชีพและคนสร้างสรรค์ที่มองหาบรรยากาศที่ซับซ้อน ไม่ว่าคุณจะต้องการสร้างบล็อกหรือเว็บที่แข็งแกร่งเพื่อโปรโมตธุรกิจของคุณ ทำให้มันเรียบง่าย สไตล์ และ Seedlet."
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:47
+msgid "Alternating Grid of Latest Posts"
+msgstr "ตารางสลับของเรื่องล่าสุด"
+
+#: template-parts/post/author-bio.php:14
+msgid "Published by"
+msgstr "เผยแพร่โดย"
+
+#: inc/wpcom.php:163
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "เพื่อให้แน่ใจว่าคนสามารถอ่านเว็บของคุณได้ ให้พยายามรักษาสัดส่วนความเปรียบต่างที่ชัดเจนระหว่างสีที่คุณเลือกที่นี่ <a href=\"%s\" target=\"_blank\">เรียนรู้เพิ่มเติมเกี่ยวกับความเปรียบต่างของสี</a>."
+
+#: inc/wpcom.php:161
+msgid "Color Accessibility Warning"
+msgstr "คำเตือนการเข้าถึงสี"
+
+#: inc/wpcom.php:151
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "เลือกเพื่อลบชื่อหน้าออก ถ้าหน้าแรกของคุณตั้งค่าให้แสดงหน้าแบบคงที่."
+
+#: inc/wpcom.php:150
+msgid "Hide Homepage Title"
+msgstr "ซ่อนชื่อหน้าแรก"
+
+#: classes/class-seedlet-custom-colors.php:30
+msgid "Borders Color"
+msgstr "สีของขอบ"
+
+#: classes/class-seedlet-custom-colors.php:29
+#: inc/wpcom-colors-utils.php:73
+msgid "Tertiary Color"
+msgstr "สีตติย"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:59
+msgid "Secondary Color"
+msgstr "สีรอง"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:45
+msgid "Primary Color"
+msgstr "สีหลัก"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:31
+msgid "Foreground Color"
+msgstr "สีพื้นหน้า"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:17
+msgid "Background Color"
+msgstr "สีพื้นหลัง"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "อ่านเพิ่มเติม<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ดูเหมือนว่าเราไม่มีสิ่งที่คุณกำลังหาอยู่  บางทีคำสั่งค้นหาอาจช่วยคุณได้"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ขอโทษครับ  แต่ไม่มีสิ่งใดตรงกับเงื่อนไขการค้นหาของคุณ  โปรดลองใหม่ด้วยคำที่ต่างออกไป"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "พิเศษ"
+
+#: inc/template-tags.php:214
+msgid "Previous post:"
+msgstr "เรื่องก่อนหน้า:"
+
+#: inc/template-tags.php:213
+msgid "Previous Post"
+msgstr "เรื่องก่อนหน้า"
+
+#: inc/template-tags.php:211
+msgid "Next post:"
+msgstr "เรื่องต่อไป:"
+
+#: inc/template-tags.php:210
+msgid "Next Post"
+msgstr "เรื่องถัดไป"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:203
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">เผยแพร่ใน</span><span class=\"post-title\">%s</span>"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "ผลลัพท์การค้นหาสำหรับ:"
+
+#: inc/woocommerce.php:139
+#: inc/woocommerce.php:175
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "สินค้า %d ชิ้น"
+
+#: inc/template-tags.php:237
+msgid "Older posts"
+msgstr "เรื่องที่เก่ากว่า"
+
+#: inc/template-tags.php:233
+msgid "Newer posts"
+msgstr "เรื่องที่ใหม่กว่า"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:130
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "แก้ไข <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:114
+msgid "Tags:"
+msgstr "ป้ายกำกับ:"
+
+#: inc/template-tags.php:102
+msgid "Posted in"
+msgstr "เขียนแล้วใน"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:96
+#: inc/template-tags.php:108
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "แสดงความเห็น<span class=\"screen-reader-text\"> บน %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "แสดงความเห็นโดย"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "อ่านเพิ่มเติม %s"
+
+#: inc/template-functions.php:130
+msgid "Archives: "
+msgstr "Archives:"
+
+#: inc/template-functions.php:117
+#: inc/template-functions.php:125
+msgid "%s Archives"
+msgstr "%s คลังเก็บ"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "คลังเก็บประจำวัน: "
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:107
+msgid "Monthly Archives: "
+msgstr "คลังเก็บรายเดือน: "
+
+#: inc/template-functions.php:105
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:104
+msgid "Yearly Archives: "
+msgstr "คลังเก็บประจำปี: "
+
+#: inc/template-functions.php:101
+msgid "Author Archives: "
+msgstr "คลังเก็บผู้เขียน: "
+
+#: inc/template-functions.php:98
+msgid "Tag Archives: "
+msgstr "แท็กคลังเก็บ: "
+
+#: inc/template-functions.php:95
+msgid "Category Archives: "
+msgstr "หมวดหมู่ คลังเก็บ: "
+
+#: inc/block-patterns.php:37
+msgid "Group with Image Overlap"
+msgstr "กลุ่มที่มีรูปซ้อนทับ"
+
+#: inc/block-patterns.php:28
+msgid "Group with Split Background"
+msgstr "กลุ่มที่มีพื้นหลังแยก"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/block-patterns.php:17
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Seedlet ต้องการเวิร์ดเพรสรุ่น 4.7 ขึ้นไป คุณกำลังใช้งานรุ่น %s โปรดอัปเกรดและลองอีกครั้ง."
+
+#: image.php:94
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">เผยแพร่ใน</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "ขนาดใหญ่สุด"
+
+#: image.php:62
+msgid "Page"
+msgstr "หน้า"
+
+#: image.php:58
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "รูปต่อไป"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "รูปก่อนหน้า"
+
+#: template-parts/header/navigation.php:96
+msgid "Social Links Menu"
+msgstr "เมนูลิงก์โซเชียล"
+
+#: template-parts/header/navigation.php:79
+msgid "View your shopping list"
+msgstr "ดูรายการช้อปปิ้งของคุณ"
+
+#: inc/woocommerce.php:136
+#: template-parts/header/navigation.php:77
+msgid "View your shopping cart"
+msgstr "ดูตระกร้าสินค้า"
+
+#: template-parts/header/navigation.php:89
+msgid "Cart"
+msgstr "รถเข็น"
+
+#: template-parts/header/navigation.php:56
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:25
+#: template-parts/header/navigation.php:75
+msgid "collapsed"
+msgstr "ยุบ"
+
+#: template-parts/header/navigation.php:50
+#: template-parts/header/navigation.php:90
+msgid "expanded"
+msgstr "ขยาย"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:73
+msgid "Close"
+msgstr "ปิด"
+
+#: template-parts/header/navigation.php:49
+msgid "Menu"
+msgstr "เมนู"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "ข้ามไปยังเนื้อหา"
+
+#: functions.php:339
+msgid "Add widgets here to appear in your footer."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อให้ปรากฏในส่วนท้ายของคุณ."
+
+#: footer.php:18
+#: functions.php:337
+msgid "Footer"
+msgstr "ส่วนล่าง"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "เปิด"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:290
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "เปิด"
+
+#: functions.php:244
+#: inc/wpcom.php:127
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:239
+#: inc/wpcom.php:122
+msgid "Horizontal inverted gradient"
+msgstr "แนวนอนแบบกลับด้าน"
+
+#: functions.php:234
+#: inc/wpcom.php:117
+msgid "Horizontal gradient"
+msgstr "แนวนอนเกรเดียนต์"
+
+#: functions.php:229
+#: inc/wpcom.php:112
+msgid "Diagonal inverted gradient"
+msgstr "เส้นทแยงมุมแบบกลับด้าน"
+
+#: functions.php:224
+#: inc/wpcom.php:107
+msgid "Diagonal gradient"
+msgstr "ไดอาโกนอลเกรเดียนต์"
+
+#: functions.php:219
+#: inc/wpcom.php:102
+msgid "Horizontal inverted"
+msgstr "แนวนอนกลับ"
+
+#: functions.php:214
+#: inc/wpcom.php:97
+msgid "Horizontal"
+msgstr "แนวนอน"
+
+#: functions.php:209
+#: inc/wpcom.php:92
+msgid "Diagonal inverted"
+msgstr "Diagonal inverted\" in Thai is \"ทแยงมุมกลับ"
+
+#: functions.php:204
+#: inc/wpcom.php:87
+msgid "Diagonal"
+msgstr "ทแยงมุม"
+
+#: functions.php:190
+#: inc/wpcom.php:73
+msgid "Background"
+msgstr "พื้นหลัง"
+
+#: functions.php:185
+#: inc/wpcom.php:68
+msgid "Tertiary"
+msgstr "ระดับอุดมศึกษา"
+
+#: functions.php:180
+#: inc/wpcom.php:63
+msgid "Foreground"
+msgstr "พื้นหน้า"
+
+#: functions.php:175
+#: inc/wpcom.php:58
+msgid "Secondary"
+msgstr "รอง"
+
+#: functions.php:170
+#: inc/wpcom.php:53
+msgid "Primary"
+msgstr "บล็อกหลัก"
+
+#: functions.php:151
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:150
+msgid "Huge"
+msgstr "ใหญ่มาก"
+
+#: functions.php:145
+msgid "L"
+msgstr "L"
+
+#: functions.php:144
+msgid "Large"
+msgstr "ขนาดใหญ่"
+
+#: functions.php:139
+msgid "M"
+msgstr "M"
+
+#: functions.php:138
+msgid "Normal"
+msgstr "ปกติ"
+
+#: functions.php:133
+msgid "S"
+msgstr "S"
+
+#: functions.php:132
+msgid "Small"
+msgstr "เล็ก"
+
+#: functions.php:127
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:126
+msgid "Tiny"
+msgstr "เล็กมาก"
+
+#: functions.php:62
+msgid "Social Links Navigation"
+msgstr "นำทางลิงก์สังคม"
+
+#: functions.php:61
+msgid "Footer Navigation"
+msgstr "นำทางส่วนท้าย"
+
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr "เมนูนำทางหลัก"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:10
+msgid "Proudly powered by %s."
+msgstr "ภูมิใจเสนอโดย %s"
+
+#: template-parts/footer/footer-info.php:7
+msgid "https://wordpress.org/"
+msgstr "http://th.wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:3
+msgid "Footer Menu"
+msgstr "เมนูท้าย"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "การแสดงความเห็นถูกปิด"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s ความเห็น"
+
+#. translators: 1: title.
+#: comments.php:36
+msgid "1 Comment"
+msgstr "1 ความเห็น"
+
+#: classes/class-seedlet-custom-colors.php:312
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "การรวมสีนี้อาจทำให้คนอ่านยาก ลองใช้สีพื้นหลังที่สว่างขึ้นและ/หรือสีพื้นหน้าที่เข้มขึ้นดูนะ"
+
+#: classes/class-seedlet-custom-colors.php:180
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Theme Default"
+msgstr "ธีม ค่าเริ่มต้น"
+
+#: classes/class-seedlet-custom-colors.php:155
+#: classes/class-seedlet-custom-colors.php:177
+msgid "Colors"
+msgstr "สี"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ดูเหมือนว่าไม่พบสิ่งใดบนที่อยู่นั้น  บางทีคุณอยากลองใช้การค้นหา?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ขอโทษครับ  ไม่พบหน้านั้น"
