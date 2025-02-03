@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Rivington\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T04:46:44+00:00\n"
+"PO-Revision-Date: 2022-07-15 12:29:14+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/rivington"
+msgstr "https://wordpress.com/theme/rivington"
+
+#: inc/wpcom-colors.php:481
+#: inc/wpcom-editor-colors.php:242
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: inc/wpcom-colors.php:453
+#: inc/wpcom-editor-colors.php:223
+msgid "Text Color"
+msgstr "Culoare text"
+
+#: inc/wpcom-colors.php:255
+#: inc/wpcom-editor-colors.php:139
+msgid "Link Color"
+msgstr "Culoare legătură"
+
+#: inc/wpcom-colors.php:160
+#: inc/wpcom-editor-colors.php:81
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: functions.php:101
+msgid "Foreground Dark"
+msgstr "Prim-plan întunecat"
+
+#: functions.php:96
+msgid "Foreground Light"
+msgstr "Prim-plan luminos"
+
+#: functions.php:91
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: functions.php:86
+msgid "Background"
+msgstr "Fundal"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:140
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Description of the theme
+#: style.css
+msgid "Rivington is a robust theme designed for single property real estate."
+msgstr "Rivington este o temă robustă proiectată pentru site-uri de imobiliare individuale."
+
+#: template-parts/header/site-navigation.php:12
+msgid "collapsed"
+msgstr "restrâns"
+
+#: template-parts/header/site-navigation.php:11
+msgid "expanded"
+msgstr "extins"
+
+#: template-parts/header/site-navigation.php:8
+msgid "Menu"
+msgstr "Meniu"
+
+#: template-parts/header/site-navigation.php:5
+msgid "Main Navigation"
+msgstr "Navigare principală"
+
+#: functions.php:81
+msgid "Secondary"
+msgstr "Secundar"
+
+#: functions.php:76
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:51
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:50
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: functions.php:45
+msgid "L"
+msgstr "L"
+
+#: functions.php:44
+msgid "Large"
+msgstr "Mare"
+
+#: functions.php:39
+msgid "M"
+msgstr "M"
+
+#: functions.php:38
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:33
+msgid "S"
+msgstr "S"
+
+#: functions.php:32
+msgid "Small"
+msgstr "Mică"
