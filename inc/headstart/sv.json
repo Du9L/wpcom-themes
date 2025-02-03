@@ -1,0 +1,278 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": "social",
+                "menu-1": "primary",
+                "menu-2": "primary"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Bokningar",
+            "post_content": "<!-- wp:paragraph -->\n<p>Vi pratas vid &amp;#128075; Tveka inte att ta kontakt med uppgifterna nedan eller skicka ett meddelande med formuläret.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Boka ett bord genom att ringa oss eller med formuläret nedan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Hitta hit</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"1 Example Street\",\"city\":\"Anytown\",\"region\":\"NY\",\"postal\":\"10100\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Exempelgatan 1</div><div><span class=\"jetpack-address__city\">Någonstad</span>, <span class=\"jetpack-address__region\">NY</span> <span class=\"jetpack-address__postal\">10100</span></div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">adress@exempel.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:jetpack/contact-info -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":4} -->\n<h4>Öppettider</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>mån:</strong>&nbsp;stängt<br><strong>tis – sön:</strong>&nbsp;11:30 – 22:00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Boka online</h4>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "reservations",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 163,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Vad händer",
+            "post_content": "<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg\",\"id\":125,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">De senaste uppdateringarna från oss</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:a8c/posts-list {\"postsPerPage\":3} /-->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-default\"} -->\n<hr class=\"wp-block-separator is-style-default\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20,\"className\":\"desktop-only\"} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"left\",\"level\":4} -->\n<h4 class=\"has-text-align-left\">Följ oss</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Få nytt innehåll direkt till din inkorg.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 16,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Nyheter (Alla)",
+            "post_content": "",
+            "post_name": "news-all",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Meny",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Menyn som är en blandning av franska&nbsp;regionala kök ändras med säsongerna.<br>Fråga om dagens rätt!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Förrätter</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Laxkanapéer<br></strong><em>Rökt lax med crème fraîche, dill och kapris<br></em>15,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Fläskpaté<br></strong><em>Med snabbinlagda torkade aprikoser och krossade pistaschnötter<br></em>14,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Provençalsk grönsakspaj<br></strong><em>Med säsongens grönsaker<br></em>12,50 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Mini Tartes Flambées<br></strong><em>Traditionell rätt från Alsace med&nbsp;hemrökt bacon och lök</em><br>12,50 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Getostsallad<br></strong><em>Serveras varm med honung och krutonger</em><br>12,50 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Frikassé på skogssvamp</strong><br><em>Bräserad skogssvamp, serveras med sjögräs och flytande kväve</em><br>14,50 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Huvudrätter</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Coq au Vin d’Alsace<br></strong><em>Kyckling som kokats i Riesling med lök, svamp och örter</em><br>25,50 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Bouillabaisse</strong><br><em>Traditionell provençalsk fiskgryta med räkor, musslor, snäckor och marulk<br></em>26,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Sjötunga Meunière</strong><br><em>Sjötunga stekt i smör, serveras med en sås på brynt smör, persilja och citron<br></em>28,00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Côte de Boeuf<br></strong><em>Entrecôte hängmörad i 60 dagar, pepparsås, fondantpotatis<br></em>31,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Duck à l'Orange<br></strong><em>Grillat ankbröst med krispigt skinn och en sammetslen citrussås<br></em>26,50 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Ärt- och sparrisrisotto</strong><br><em>Med getost, ruccola och sallad på primörer<br></em>22,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Efterrätter</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Choklad-macaroner</strong><br><em>En klassisk fransk delikatess, fylld med chokladganache<br></em>12,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Crêpe Suzette</strong><br><em>Tunna crêpes i en apelsinsås, serveras flamberad<br></em>13,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Pralintårta</strong><br><em>En choklad och pralintårta i flera lager med kola och cream cheese<br></em>12,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Tarte Tatin</strong><br><em>Kolasås med äpplen, serveras med vispgrädde</em><br>12,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Citronpaj</strong><br><em>syrlig citron, vaniljsås med maräng ovanpå</em><br>12,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><strong>Frukttrio</strong><br><em>Blåbär, jordgubbar, hallon, plommon och passionsfrukt<br></em>28,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"foreground-light\"} -->\n<p style=\"text-align:center;\" class=\"has-text-color has-foreground-light-color\"><em>All vår fisk kommer från hållbart fiske</em>.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Hem",
+            "post_content": "<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg\",\"id\":217,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Njut av vår matupplevelse</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Välkommen till Rockfield</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Kock Joan Smith och vice kock François Lemoine har teamat upp för att öppna en av de mest spännande nya restaurangerna i Någonstad.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Vår specialitet är utsökt&nbsp;mat som lagats med all fantasi och passion som inspireras av alla fantastiska smaker som Frankrike&nbsp;har att erbjuda. Vi är stolta över att lägga vår egen touch till dina franska&nbsp;receptfavoriter och presentera dem på nya och kreativa sätt.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg\",\"id\":218,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Upptäck vår meny</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Menyn som är en blandning av franska&nbsp;regionala kök ändras med säsongerna.<br>Fråga om dagens rätt!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":4} -->\n<h4 class=\"has-text-align-center\">Avsmakningsmeny</h4>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Förrätt</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Frikassé på skogssvamp</strong><br><em>Bräserad skogssvamp, serveras med sjögräs och flytande kväve</em><br>14,50 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Huvudrätt</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Coq au Vin d’Alsace<br></strong><em>Kyckling som kokats i Riesling med lök, svamp och örter</em><br>25,50 USD<br></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Dessert</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Pumpasufflé</strong><br><em>Med en sås på bourbon, kanel och melass</em><br>9,00 USD</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://rockfielddemo.wordpress.com/menu/\">Visa hela menyn</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg\",\"id\":219,\"hasParallax\":true,\"dimRatio\":20,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Boka bord</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":20} -->\n<div style=\"height:20px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator\"  />\n<!-- /wp:separator --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Boka ett bord genom att ringa oss (123) 444-5678 eller med formuläret nedan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-telephone /-->\n\n<!-- wp:jetpack/field-date {\"label\":\"Date\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Time\",\"required\":true,\"options\":[\"11:30 am\",\"12:00 pm\",\"12:30 pm\",\"1:00 pm\",\"1:30 pm\",\"2:00 pm\",\"7:00 pm\",\"7:30 pm\",\"8:00 pm\",\"8:30 pm\",\"9:00 pm\",\"9:30 pm\"]} /-->\n\n<!-- wp:jetpack/field-select {\"label\":\"Party size\",\"required\":true,\"options\":[\"1 person\",\"2 people\",\"3 people\",\"4 people\",\"5 people\",\"6 people\",\"Larger party\"]} /-->\n\n<!-- wp:jetpack/field-textarea {\"label\":\"Special requests\"} /-->\n<!-- /wp:jetpack/contact-form -->\n\n<!-- wp:spacer {\"height\":84} -->\n<div style=\"height:84px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:cover {\"url\":\"https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg\",\"id\":220,\"hasParallax\":true,\"dimRatio\":60,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-60 has-background-dim has-parallax\" style=\"background-image:url('https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} -->\n<p style=\"text-align:center;\" class=\"has-huge-font-size\"><strong>Rockfield</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p style=\"text-align:center;\">Besökare vill veta vem som finns på andra sidan om sidan. Använd den här ytan för att skriva om din verksamhet.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":5} -->\n<h5>Öppettider</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\"><strong>mån:</strong> stängt<br><strong>tis–sön:</strong> 11:30–22:00</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">Hitta hit</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">Exempelgatan 1,<br>Någonstad, NY 10100</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":5} -->\n<h5 class=\"has-text-align-left\">Bokning</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:left;\" class=\"has-small-font-size\">(555) 555 1234<br>adress@example.com</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 7,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Trick för uppläggning som ett proffs",
+            "post_content": "<!-- wp:paragraph -->\n<p>Matpresentation är konsten att ändra, bearbeta, arrangera eller dekorera mat för att göra den mer estetiskt tilltalande.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Matens visuella presentation är något som kockar har i åtanke under flera olika tillfällen under matens tillredande, från sättet som köttet binds ihop till den typ av styckningsmetod som används när kött eller grönsaker skärs upp, till den typ av form som används för en upphälld rätt. Själva maten kan dekoreras som exempelvis glaserade tårtor som toppas med utsmyckningar eller ätbara skulpturer, den kan dekoreras med såser, dekoreras med frön, pulver eller andra typer av garnering eller så kan den ha ätbara eller oätbara dekorationer.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Matens arrangemang och utseende när den läggs upp på tallriken kallas för uppläggning. Några vanliga uppläggningssätt inkluderar den klassiska stilen med huvudkomponenten främst på tallriken med grönsaker eller stärkelse bakom, ett staplat arrangemang av de olika komponenterna, eller med huvudkomponenten lutandes mot en bädd av grönsaker eller annat tillbehör. Komponentens plats på tallriken benämns ofta enligt klockans visare, där klockan sex är positionen närmast måltidsgästen.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Som en grundregel vid uppläggning och i vissa fall även vid prepping, så bör en rätt ha 5 komponenter: protein, traditionellt klockan 6, grönsaker klockan 2, stärkelse klockan 11, sås och dekoration.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em>Från&nbsp;<a href=\"https://en.wikipedia.org/wiki/Food_presentation\">Wikipedia</a>.</em></p>\n<!-- /wp:paragraph -->",
+            "post_name": "tricks-to-plating-like-a-pro",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 149,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Vintermeny",
+            "post_content": "<!-- wp:paragraph -->\n<p>Den här vintersäsongen bjuder vi in till&#160;värmande soppor och grytor, ostiga gratänger och grytor.&#160;De här utsökta rätterna hittar du i vår säsongsmeny, med dagens rätt som byts ut kontinuerligt.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":142,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg?w=1024\" class=\"wp-image-142\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "winter-menu",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 140,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Julfest hos Rockfield",
+            "post_content": "<!-- wp:paragraph -->\n<p>Rockfield finns här för Julfester av alla storlekar så det är hög tid att börja planera din Jullunch&#160;eller&#160;-middag.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Klicka här&#160;för att göra en bokning idag!</p>\n<!-- /wp:paragraph -->",
+            "post_name": "christmas-party-at-rockfields",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 146,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primär",
+            "items": [
+                {
+                    "menu-item-title": "Hem",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "Meny",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Vad händer",
+                    "menu-item-db-id": 28,
+                    "menu-item-object-id": "16",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Bokningar",
+                    "menu-item-db-id": 166,
+                    "menu-item-object-id": "163",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sociala medier",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 21,
+                    "menu-item-object-id": "21",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "22",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Foursquare",
+                    "menu-item-db-id": 23,
+                    "menu-item-object-id": "23",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://foursquare.com"
+                },
+                {
+                    "menu-item-title": "Yelp",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://yelp.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://rockfielddemo.files.wordpress.com/2019/08/boston-https-whitlockdesigns-com-interior-design-2225579-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/ceiling-chairs-clean-2225570-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/blur-chef-close-up-671956-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/appetizers-chef-cuisine-1267320-1-1.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/cropped-healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2019/08/healthy.png",
+        "https://rockfielddemo.files.wordpress.com/2018/12/appetizer-blurred-background-cheese-2531189.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/berry-bowl-delicious-1510693.jpg",
+        "https://rockfielddemo.files.wordpress.com/2019/08/architecture-bar-ceiling-2225577.jpg"
+    ]
+}
