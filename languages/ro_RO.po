@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Allez\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-06T01:15:28+00:00\n"
+"PO-Revision-Date: 2024-12-06 01:15:20+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header with Cover"
+msgstr "Antet cu copertă"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header with Sticky Post"
+msgstr "Antet cu articole reprezentative"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr "Foarte mare triplu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Foarte mare dublu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Blue"
+msgstr "Albastru"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Red"
+msgstr "Roșu"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Green"
+msgstr "Verde"
+
+#: styles/greek-blue.json
+msgctxt "Style variation name"
+msgid "Greek Blue"
+msgstr "Albastru grecesc"
+
+#: styles/campari.json
+msgctxt "Style variation name"
+msgid "Campari"
+msgstr "Campari"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "070606"
+msgstr "070606"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: styles/campari.json
+#: styles/greek-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Listă cu articole"
+
+#: patterns/post-author.php
+msgctxt "Pattern title"
+msgid "Post Author"
+msgstr "Autor articol"
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Nu am găsit conținut"
+
+#: patterns/latest-post-heading.php
+msgctxt "Pattern title"
+msgid "Latest Posts Heading"
+msgstr "Titlu pentru Ultimele articole"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr "index"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Antet implicit"
+
+#: patterns/header-with-sticky-post.php
+msgctxt "Pattern title"
+msgid "header-with-sticky-post"
+msgstr "antet cu articole reprezentative"
+
+#: patterns/header-with-cover.php
+msgctxt "Pattern title"
+msgid "Header with Cover"
+msgstr "Antet cu copertă"
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr "pagina din față"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Subsol implicit"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#. Description of the theme
+#: style.css
+msgid "Allez is the perfect theme site for sports practitioners or fans who want to blog about their sport."
+msgstr "Allez este tema perfectă pentru site-urile practicanților de sport sau pentru fanii care doresc să-și facă un blog despre sportul lor."
+
+#: patterns/search.php:11
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Căutare..."
+
+#: patterns/no-results-content.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing found. Please try again with some different keywords."
+msgstr "Regret, dar nu am găsit nimic. Te rog să încerci din nou cu alte cuvinte cheie."
+
+#: patterns/latest-post-heading.php:14
+msgid "Latest Posts"
+msgstr "Ultimele articole"
+
+#: patterns/footer.php:22
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:20
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/404.php:24
+msgid "Search..."
+msgstr "Caută..."
+
+#: patterns/404.php:24
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/404.php:18
+msgid "Maybe try a search?"
+msgstr "Poate încerci o căutare?"
+
+#: patterns/404.php:18
+msgid "It looks like nothing was found at this location."
+msgstr "Se pare că n-a fost găsit nimic la această locație."
+
+#: patterns/404.php:14
+msgid "Oops! That page can’t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
