@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Bedrock\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-26T01:29:39+00:00\n"
+"PO-Revision-Date: 2025-02-24 17:08:44+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Shadow name"
+msgid "Buttons"
+msgstr "Knappar"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Metadata för inlägg"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Sidfot"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Dubbelt extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra liten"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: styles/sand.json
+msgctxt "Style variation name"
+msgid "Sand"
+msgstr "Sand"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / Three"
+msgstr "Accent/tre"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / Two"
+msgstr "Accent/två"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / One"
+msgstr "Accent/ett"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bas"
+
+#: styles/clay.json
+msgctxt "Style variation name"
+msgid "Clay"
+msgstr "Lera"
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Single"
+msgstr "Singel"
+
+#: patterns/sidebar-with-recent-posts.php
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Sök"
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr "metadata för inlägg"
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Inläggslista"
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "Page"
+msgstr "Sida"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "Index"
+msgstr "Index"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default header"
+msgstr "Standardsidhuvud"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Standardsidfot"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archive"
+msgstr "Arkiv"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#. Description of the theme
+#: style.css
+msgid "Inspired by the iconic worlds of Minecraft and Minetest, Bedrock is a blog theme that reminds the immersive experience of these games."
+msgstr "Inspirerad av de ikoniska världarna Minecraft och Minetest är Bedrock ett bloggtema som påminner om den uppslukande upplevelsen av dessa spel."
+
+#: patterns/sidebar-with-recent-posts.php:101
+#: patterns/sidebar.php:80
+msgid "Minetest"
+msgstr "Minetest"
+
+#: patterns/sidebar-with-recent-posts.php:97
+#: patterns/sidebar.php:76
+msgid "Minetest Blog"
+msgstr "Minetest-blogg"
+
+#: patterns/sidebar-with-recent-posts.php:91
+#: patterns/sidebar.php:70
+msgid "Blogroll"
+msgstr "Bloggroll"
+
+#: patterns/sidebar-with-recent-posts.php:70
+msgid "Recent Posts"
+msgstr "Senaste inläggen"
+
+#: patterns/sidebar-with-recent-posts.php:61
+#: patterns/sidebar.php:61
+msgid "Tags"
+msgstr "Etiketter"
+
+#: patterns/sidebar-with-recent-posts.php:51
+#: patterns/sidebar.php:51
+msgid "Categories"
+msgstr "Kategorier"
+
+#: patterns/sidebar-with-recent-posts.php:37
+#: patterns/sidebar.php:37
+msgid "Join the club"
+msgstr "Gå med i klubben"
+
+#: patterns/sidebar-with-recent-posts.php:15
+#: patterns/sidebar.php:15
+msgid "Hey!"
+msgstr "Hej!"
+
+#: patterns/search.php:63
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "No posts were found."
+msgstr "Inga inlägg hittades."
+
+#: patterns/search.php:27
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Sök …"
+
+#: patterns/footer.php:73
+msgid "Designed with %1$s"
+msgstr "Designad med %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:71
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org"
+
+#: patterns/footer.php:63
+msgid "Privacy and Cookies"
+msgstr "Integritet och cookies"
+
+#: patterns/footer.php:59
+msgid "Terms of Use"
+msgstr "Användarvillkor"
+
+#: patterns/footer.php:45
+msgid "Enter your email to sign up for our newsletter. We promise to respect your inbox."
+msgstr "Ange din e-post för att anmäla dig till vårt nyhetsbrev. Vi lovar att respektera din inkorg."
+
+#: patterns/footer.php:42
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: patterns/404.php:30
+msgid "LuaEntity not found."
+msgstr "LuaEntity hittades inte."
