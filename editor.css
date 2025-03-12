@@ -1,0 +1,717 @@
+@charset "UTF-8";
+/*
+Theme Name: Business
+Description: Used to style Gutenberg Blocks in the editor.
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 General Typography
+2.0 General Block Settings
+3.0 Blocks - Common Blocks
+4.0 Blocks - Formatting
+5.0 Blocks - Layout Elements
+6.0 Blocks - Widgets
+
+--------------------------------------------------------------*/
+/*$x-color-shade-black:   #1d1d21;
+$x-color-shade-gray-10: #2e2e31;*/
+/*
+$x-color-shade-gray-3:  #a8b1b8;
+*/
+/*$x-color-shade-gray-1:  #e8ecf1;*/
+/*$x-color-words-primary:    $x-color-primary-base;
+$x-color-words-secondary:  $x-color-secondary-base;
+$x-color-words-background: $x-color-shade-white;
+$x-color-words-link:       $x-color-primary-base;
+$x-color-words-hover:      $x-color-primary-dark;*/
+/*$x-color-border-primary:          $x-color-primary-base;
+$x-color-border-form:             $x-color-border-base;*/
+/*$x-color-border-form-error:       $x-color-feedback-error;
+$x-color-border-form-bg:          $x-color-shade-white;
+$x-color-border-form-placeholder: $x-color-shade-gray-4;*/
+/*$x-color-background-transparent: transparent;*/
+/*$x-color-button-primary-bg:       $x-color-primary-bg;
+$x-color-button-primary-hover:    $x-color-primary-light;
+$x-color-button-primary-active:   $x-color-primary-dark;
+$x-color-button-primary-label:    $x-color-shade-white;
+$x-color-button-secondary-bg:     $x-color-secondary-bg;
+$x-color-button-secondary-hover:  $x-color-secondary-light;
+$x-color-button-secondary-active: $x-color-secondary-dark;
+$x-color-button-secondary-label:  $x-color-shade-white;*/
+body {
+  --grid-column: 80px;
+  --grid-gutter: 25px;
+  --grid-column-count: 12;
+  --grid-column-1: calc( 1 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-2: calc( 2 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-3: calc( 3 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-4: calc( 4 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-5: calc( 5 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-6: calc( 6 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-7: calc( 7 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-8: calc( 8 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-9: calc( 9 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-10: calc( 10 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-11: calc( 11 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --grid-column-12: calc( 12 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-unit: 1.5rem;
+  --space-xxs: calc(0.25 * var(--space-unit));
+  --space-xs: calc(0.5 * var(--space-unit));
+  --space-sm: calc(0.75 * var(--space-unit));
+  --space-md: calc(1.25 * var(--space-unit));
+  --space-lg: calc(2 * var(--space-unit));
+  --space-xl: calc(3.25 * var(--space-unit));
+  --space-xxl: calc(5.25 * var(--space-unit));
+  --space-base: calc(0.75 * 1.5rem);
+  --space-column: 80px;
+  --space-gutter: 25px;
+  --space-column-count: 12;
+  --space-column-1: calc( 1 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-2: calc( 2 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-3: calc( 3 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-4: calc( 4 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-5: calc( 5 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-6: calc( 6 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-7: calc( 7 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-8: calc( 8 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-9: calc( 9 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-10: calc( 10 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-11: calc( 11 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --space-column-12: calc( 12 * ( var(--grid-column) + var(--grid-gutter) ) - var(--grid-gutter));
+  --font-size-base: 1em;
+  --font-size-ratio: 1.2;
+  --font-size-responsive-ratio: 1.167;
+  --font-size-xxs: calc( 1em / ( var(--font-size-ratio) * var(--font-size-ratio) * var(--font-size-ratio) ) );
+  --font-size-xs: calc( 1em / ( var(--font-size-ratio) * var(--font-size-ratio) ) );
+  --font-size-sm: calc( 1em / var(--font-size-ratio) );
+  --font-size-md: calc( 1em * var(--font-size-ratio) );
+  --font-size-lg: calc( 1em * ( var(--font-size-ratio) * var(--font-size-ratio) ) );
+  --font-size-xl: calc( 1em * ( var(--font-size-ratio) * var(--font-size-ratio) * var(--font-size-ratio) ) );
+  --font-size-xxl: calc( 1em * ( var(--font-size-ratio) * var(--font-size-ratio) * var(--font-size-ratio) * var(--font-size-ratio) ) );
+  --font-size-xxxl: calc( 1em * ( var(--font-size-ratio) * var(--font-size-ratio) * var(--font-size-ratio) * var(--font-size-ratio) * var(--font-size-ratio) ) );
+  --font-family-body: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --font-family-heading: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --font-family-code: Menlo, monaco, Consolas, Lucida Console, monospace;
+  --font-leading-body: 1.6;
+  --font-leading-heading: 1.2;
+  --font-leading-double: calc( var(--font-leading-heading) * 2);
+  --font-leading-md: 1.4;
+  --font-letter-spacing: .125em;
+  --color-primary-base: #6e7381;
+  --color-primary-dark: shade(#6e7381, 20%);
+  --color-primary-light: tint(#6e7381, 20%);
+  --color-primary-bg: tint(#6e7381, 80%);
+  --color-secondary-base: #121733;
+  --color-secondary-bg: tint(#121733, 80%);
+  --color-secondary-light: tint(#121733, 20%);
+  --color-secondary-dark: shade(#121733, 20%);
+  --color-accent-base: #5f4bb6;
+  --color-accent-light: tint(#5f4bb6, 20%);
+  --color-shade-black: #1d1d21;
+  --color-shade-gray-10: #2e2e31;
+  --color-shade-gray-6: #91a3b0;
+  --color-shade-gray-4: #8b949d;
+  --color-shade-gray-3: #a8b1b8;
+  --color-shade-gray-2: #e8ecf1;
+  --color-shade-gray-1: #e8ecf1;
+  --color-shade-white: #ffffff;
+  --color-feedback-success: #88c459;
+  --color-feedback-error: #f5414f;
+  --color-feedback-warning: #ffd137;
+  --color-words-base: #6e7381;
+  --color-words-subtle: #91a3b0;
+  --color-words-heading: #121733;
+  --color-words-primary: #6e7381;
+  --color-words-secondary: #121733;
+  --color-words-background: #ffffff;
+  --color-words-link: #6e7381;
+  --color-words-hover: shade(#6e7381, 20%);
+  --color-border-base: #e8ecf1;
+  --color-border-primary: #6e7381;
+  --color-border-form: #e8ecf1;
+  --color-border-form-focus: #6e7381;
+  --color-border-form-error: #f5414f;
+  --color-border-form-bg: #ffffff;
+  --color-border-form-placeholder: #8b949d;
+  --color-background-body: #ffffff;
+  --color-background-transparent: transparent;
+  --color-button-primary-bg: tint(#6e7381, 80%);
+  --color-button-primary-hover: tint(#6e7381, 20%);
+  --color-button-primary-active: shade(#6e7381, 20%);
+  --color-button-primary-label: #ffffff;
+  --color-button-secondary-bg: tint(#121733, 80%);
+  --color-button-secondary-hover: tint(#121733, 20%);
+  --color-button-secondary-active: shade(#121733, 20%);
+  --color-button-secondary-label: #ffffff;
+}
+
+/*--------------------------------------------------------------
+1.0 General Typography
+--------------------------------------------------------------*/
+/* Links */
+.editor-rich-text__tinymce a {
+  color: #121733;
+  color: var(--color-secondary-base);
+}
+
+/* font-family */
+.edit-post-visual-editor .editor-block-list__block,
+.editor-default-block-appender input[type="text"].editor-default-block-appender__content {
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font-family-body);
+}
+
+/* font size & line height */
+.edit-post-visual-editor .editor-block-list__block,
+.edit-post-visual-editor .editor-block-list__block p,
+.editor-default-block-appender input[type="text"].editor-default-block-appender__content {
+  line-height: 1.6;
+  line-height: var(--font-leading-body);
+  font-size: 18.672px;
+  font-weight: 400;
+}
+
+/* font color */
+.edit-post-visual-editor .editor-block-list__block {
+  color: #6e7381;
+  color: var(--color-words-base);
+}
+
+/* Post title fonts and colors */
+.editor-post-title__block .editor-post-title__input {
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font-family-heading);
+  line-height: 1.2;
+  line-height: var(--font-leading-heading);
+  color: #121733;
+  color: var(--color-words-heading);
+  font-size: 2.90386875em;
+  font-weight: 800;
+}
+
+/* Headings - applies to both Classic and Header blocks */
+.edit-post-visual-editor h1,
+.wp-block-freeform.block-library-rich-text__tinymce h1,
+.edit-post-visual-editor h2,
+.wp-block-freeform.block-library-rich-text__tinymce h2,
+.edit-post-visual-editor h3,
+.wp-block-freeform.block-library-rich-text__tinymce h3,
+.edit-post-visual-editor h4,
+.wp-block-freeform.block-library-rich-text__tinymce h4,
+.edit-post-visual-editor h5,
+.wp-block-freeform.block-library-rich-text__tinymce h5,
+.edit-post-visual-editor h6,
+.wp-block-freeform.block-library-rich-text__tinymce h6 {
+  color: #121733;
+  color: var(--color-words-heading);
+  font-weight: 800;
+}
+
+.edit-post-visual-editor h1,
+.wp-block-freeform.block-library-rich-text__tinymce h1 {
+  font-size: 2.0736021851em;
+}
+
+.edit-post-visual-editor h2,
+.wp-block-freeform.block-library-rich-text__tinymce h2 {
+  font-size: 1.7279991431em;
+}
+
+.edit-post-visual-editor h3,
+.wp-block-freeform.block-library-rich-text__tinymce h3 {
+  font-size: 1.4400010711em;
+}
+
+.edit-post-visual-editor h4,
+.wp-block-freeform.block-library-rich-text__tinymce h4 {
+  font-size: 1.2em;
+}
+
+.edit-post-visual-editor h5,
+.wp-block-freeform.block-library-rich-text__tinymce h5 {
+  font-size: 0.8300128535em;
+  letter-spacing: 0.125em;
+  text-transform: uppercase;
+}
+
+.edit-post-visual-editor h6,
+.wp-block-freeform.block-library-rich-text__tinymce h6 {
+  font-size: 0.6699978578em;
+  letter-spacing: 0.125em;
+  text-transform: uppercase;
+}
+
+/*--------------------------------------------------------------
+2.0 General Block Settings
+--------------------------------------------------------------*/
+/* Main content width */
+.wp-block {
+  /* max-width: XXX -- content width plus 30px to account for editor padding */
+  max-width: 740px;
+}
+
+/* Link styles */
+/* 
+* General HTML selectors, used for the Classic Block 
+*/
+/* Table styles */
+/* Quote styles */
+/* List styles */
+.wp-block-freeform.block-library-rich-text__tinymce li,
+.editor-styles-wrapper li {
+  margin-bottom: 0;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ol.editor-rich-text__tinymce,
+.wp-block-freeform.block-library-rich-text__tinymce ul.editor-rich-text__tinymce,
+.editor-styles-wrapper ol.editor-rich-text__tinymce,
+.editor-styles-wrapper ul.editor-rich-text__tinymce {
+  padding-left: 0;
+}
+
+.block-library-list .editor-rich-text__tinymce,
+.block-library-list .editor-rich-text__tinymce ol,
+.block-library-list .editor-rich-text__tinymce ul {
+  padding-left: 0.1em;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ol,
+.editor-styles-wrapper ol:not([class^="wp-block"]) {
+  counter-reset: sans-counter;
+  margin-left: 0 !important;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ol > li,
+.editor-styles-wrapper ol:not([class^="wp-block"]) > li {
+  position: relative;
+  counter-increment: sans-counter;
+  padding-left: calc(1.25 * 1.5rem);
+  padding-left: var(--space-md);
+  list-style: none;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ol > li:before,
+.editor-styles-wrapper ol:not([class^="wp-block"]) > li:before {
+  content: counter(sans-counter, decimal-leading-zero) " ";
+  left: 0;
+  position: absolute;
+  top: calc(0.25 * 1.5rem);
+  top: var(--space-xxs);
+  color: #6e7381;
+  color: var(--color-primary-base);
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font-family-heading);
+  font-size: calc( 1em / ( 1.2 * 1.2 ) );
+  font-size: var(--font-size-xs);
+  line-height: 1.4;
+  line-height: var(--font-leading-md);
+}
+
+/* Code styles */
+/* Caption styles */
+[class^="wp-block-"] figcaption {
+  color: #91a3b0;
+  color: var(--color-words-subtle);
+  font-size: calc( 1em / 1.2 );
+  font-size: var(--font-size-sm);
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font-family-heading);
+}
+
+.wp-block-gallery .blocks-gallery-image figcaption,
+.wp-block-gallery .blocks-gallery-item figcaption {
+  color: #ffffff;
+  color: var(--color-shade-white);
+}
+
+/* Definition List styles */
+.wp-block-freeform.block-library-rich-text__tinymce dt {
+  font-weight: bold;
+}
+
+/* Pre styles */
+/*--------------------------------------------------------------
+3.0 Blocks - Common Blocks
+--------------------------------------------------------------*/
+/* Paragraph */
+/* Quote */
+.wp-block-quote {
+  border-left: solid 4px #5f4bb6 !important;
+  border-left: solid 4px var(--color-accent-base) !important;
+  padding-left: 1.7em !important;
+  padding-right: 2em !important;
+}
+
+.wp-block-quote p {
+  font-size: 1em;
+  font-size: var(--font-size-base);
+  color: #121733;
+  color: var(--color-secondary-base);
+  font-style: italic;
+}
+
+.wp-block-quote .wp-block-quote__citation {
+  color: #91a3b0 !important;
+  color: var(--color-words-subtle) !important;
+  font-size: calc( 1em / 1.2 );
+  font-size: var(--font-size-sm);
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font-family-heading);
+  font-style: normal;
+  text-transform: none;
+}
+
+.wp-block-quote.is-large p,
+.wp-block-quote.is-style-large p {
+  font-size: 1.4401242502em;
+}
+
+.wp-block-quote.is-large .wp-block-quote__citation,
+.wp-block-quote.is-style-large .wp-block-quote__citation {
+  font-size: 1.1037917738em;
+  margin-top: -0.8em;
+}
+
+/* Cover */
+.edit-post-visual-editor .editor-block-list__block .wp-block-cover-image .wp-block-cover-image-text,
+.edit-post-visual-editor .editor-block-list__block .wp-block-cover-image .wp-block-cover-text,
+.edit-post-visual-editor .editor-block-list__block .wp-block-cover-image h2,
+.edit-post-visual-editor .editor-block-list__block .wp-block-cover .wp-block-cover-image-text,
+.edit-post-visual-editor .editor-block-list__block .wp-block-cover .wp-block-cover-text,
+.edit-post-visual-editor .editor-block-list__block .wp-block-cover h2 {
+  font-size: 2.0em;
+  /* Cover images inherit the paragraph size; this resets it */
+}
+
+/* File */
+.wp-block-file__textlink {
+  text-decoration: underline;
+  color: #121733;
+  color: var(--color-secondary-base);
+}
+
+.wp-block-file .wp-block-file__button,
+.wp-block-file .wp-block-file__button:visited {
+  background-color: #5f4bb6;
+  background-color: var(--color-accent-base);
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.125em;
+  letter-spacing: var(--font-letter-spacing);
+  font-size: 0.8333333333em;
+  padding: 0.68em 1.2em;
+  border-radius: 3px;
+}
+
+.wp-block-file .wp-block-file__button:hover,
+.wp-block-file .wp-block-file__button:visited:hover {
+  background-color: #7261bf;
+}
+
+/*--------------------------------------------------------------
+4.0 Blocks - Formatting
+--------------------------------------------------------------*/
+.wp-block-verse pre {
+  padding: 0;
+}
+
+/* Code */
+.wp-block-code {
+  background-color: #e8ecf1;
+  background-color: var(--color-shade-gray-2);
+  border: none;
+  border-radius: 0;
+}
+
+.wp-block-code .editor-plain-text {
+  color: #6e7381;
+  color: var(--color-words-base);
+  padding: 0.5em 0.5em 0.2em;
+}
+
+.wp-block-code textarea {
+  background: transparent;
+}
+
+/* Verse */
+.wp-block-verse {
+  font-family: Menlo, monaco, Consolas, Lucida Console, monospace;
+  font-family: var(--font-family-code);
+  background-color: #e8ecf1;
+  background-color: var(--color-shade-gray-2);
+  padding: 1em 1em;
+}
+
+.wp-block-verse .editor-rich-text__tinymce {
+  color: #6e7381;
+  color: var(--color-words-base);
+  font-size: 0.8333333333em;
+  line-height: 1.6 !important;
+}
+
+/* Preformatted */
+.wp-block-preformatted {
+  background-color: #e8ecf1;
+  background-color: var(--color-shade-gray-2);
+  padding: 1em 1em;
+}
+
+.wp-block-preformatted .editor-rich-text__tinymce {
+  color: #6e7381;
+  color: var(--color-words-base);
+}
+
+/* Pullquote */
+.wp-block-pullquote {
+  border: none;
+  margin-top: 0;
+  border-left: solid 4px #5f4bb6;
+  border-left: solid 4px var(--color-accent-base);
+  padding: 0;
+  text-align: left;
+}
+
+.wp-block-pullquote blockquote {
+  margin-top: 0;
+}
+
+.wp-block-pullquote blockquote > .block-library-pullquote__content .editor-rich-text__tinymce[data-is-empty=true]::before,
+.wp-block-pullquote blockquote > .editor-rich-text p {
+  font-size: 1.2em;
+  color: #121733;
+  color: var(--color-secondary-base);
+  font-style: italic;
+  margin-bottom: 0.45em;
+  padding-top: 0.2em;
+  line-height: 1.6;
+}
+
+.wp-block-pullquote.alignleft blockquote > .block-library-pullquote__content .editor-rich-text__tinymce[data-is-empty="true"]::before,
+.wp-block-pullquote.alignright blockquote > .block-library-pullquote__content .editor-rich-text__tinymce[data-is-empty="true"]::before,
+.wp-block-pullquote.alignleft blockquote > .editor-rich-text p,
+.wp-block-pullquote.alignright blockquote > .editor-rich-text p {
+  /* Font size */
+  margin-bottom: 0 !important;
+}
+
+.wp-block-pullquote cite,
+.wp-block-pullquote footer,
+.wp-block-pullquote__citation {
+  color: #91a3b0 !important;
+  color: var(--color-words-subtle) !important;
+  font-size: calc( 1em / 1.2 );
+  font-size: var(--font-size-sm);
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font-family-heading);
+  font-style: normal;
+  text-transform: none;
+}
+
+/* Table */
+.wp-block-table {
+  overflow-x: auto;
+}
+
+.wp-block-table td,
+.wp-block-table th {
+  padding: .5em;
+  text-align: left;
+  border-color: transparent;
+}
+
+.wp-block-table tr:nth-child(even) {
+  background-color: #e8ecf1;
+  background-color: var(--color-shade-gray-2);
+}
+
+.wp-block-table thead tr:nth-child(odd) {
+  background-color: tint(#6e7381, 80%);
+  background-color: var(--color-primary-bg);
+}
+
+.rtl .wp-block-table th {
+  text-align: right;
+}
+
+.wp-block-table__cell-content {
+  padding: 0;
+  /* removes/adjusts padding in editor per cell */
+}
+
+/*--------------------------------------------------------------
+5.0 Blocks - Layout Elements
+--------------------------------------------------------------*/
+/* Buttons */
+.wp-block-button {
+  margin-bottom: 0;
+}
+
+.wp-block-button .wp-block-button__link {
+  background-color: #5f4bb6;
+  background-color: var(--color-accent-base);
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.125em;
+  letter-spacing: var(--font-letter-spacing);
+  font-size: 0.8333333333em;
+  padding: 0.68em 1.2em;
+  border-radius: 3px;
+}
+
+.wp-block-button .wp-block-button__link:hover {
+  background-color: #7261bf;
+}
+
+.wp-block-button.is-style-squared .wp-block-button__link {
+  border-radius: 0;
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link {
+  background: transparent;
+  border: solid 2px #5f4bb6;
+  border: solid 2px var(--color-accent-base);
+  color: #5f4bb6;
+  color: var(--color-accent-base);
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link:hover {
+  background: #5f4bb6;
+  background: var(--color-accent-base);
+  color: white;
+}
+
+.wp-block-button .editor-rich-text__tinymce.mce-content-body {
+  /* Set a line-height here, if the button height changes when you edit it */
+}
+
+/* Separator */
+.wp-block-separator {
+  margin-top: calc(1.25 * 1.5rem) !important;
+  margin-top: var(--space-md) !important;
+  margin-bottom: calc(1.25 * 1.5rem) !important;
+  margin-bottom: var(--space-md) !important;
+  padding: 0;
+  width: 100px;
+  background-color: #e8ecf1;
+  background-color: var(--color-shade-gray-2);
+  border: 0;
+  height: 3px;
+  margin-bottom: 1.5em;
+}
+
+.wp-block-separator.is-style-wide {
+  width: 100%;
+}
+
+.wp-block-separator.is-style-dots {
+  background-color: #ffffff;
+  background-color: var(--color-shade-white);
+  width: auto;
+}
+
+.wp-block-separator.is-style-dots:before {
+  content: "\00b7 \00b7 \00b7 \00b7 \00b7";
+  color: #8b949d;
+  color: var(--color-shade-gray-4);
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  /* family@include globalvar(font-family, body); */
+  font-size: calc( 1em * ( 1.2 * 1.2 ) );
+  font-size: var(--font-size-lg);
+  letter-spacing: 1em;
+  padding-left: 1em;
+}
+
+@media only screen and (min-width: 815px) {
+  .wp-block-separator.is-style-dots {
+    max-width: calc( 6 * ( 80px + 25px ) - 25px);
+    max-width: var(--grid-column-6);
+  }
+}
+
+/*--------------------------------------------------------------
+6.0 Blocks - Widgets
+--------------------------------------------------------------*/
+/* Latest Posts, Categories, Archives – Link Styles */
+/* Latest Posts */
+.wp-block-latest-posts li,
+.wp-block-categories li,
+.wp-block-archives li {
+  margin: 0.3em 0;
+}
+
+.wp-block-latest-posts li a,
+.wp-block-categories li a,
+.wp-block-archives li a {
+  color: #121733;
+  color: var(--color-secondary-base);
+}
+
+[data-align="full"] .wp-block-latest-posts.is-grid, [data-align="full"]
+.wp-block-categories.is-grid, [data-align="full"]
+.wp-block-archives.is-grid {
+  padding-left: calc(0.75 * 1.5rem);
+  padding-left: var(--space-sm);
+  padding-right: calc(0.75 * 1.5rem);
+  padding-right: var(--space-sm);
+}
+
+/* Categories, Latest Posts & Archives */
+[data-align="center"] .wp-block-categories ul,
+[data-align="center"] ul.wp-block-latest-posts,
+[data-align="center"] ul.wp-block-archives {
+  list-style-position: inside;
+  /* makes sure bullets are centred with centred lists */
+  padding-left: 0;
+}
+
+/* Latest Comments */
+.wp-block-latest-comments {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.wp-block-latest-comments__comment-meta,
+.wp-block-latest-comments__comment-excerpt p {
+  /* change font size */
+}
+
+.wp-block-latest-comments__comment-meta a {
+  color: #121733;
+  color: var(--color-secondary-base);
+  font-size: calc( 1em * 1.2 );
+  font-size: var(--font-size-md);
+  text-decoration: underline;
+}
+
+.wp-block-latest-comments__comment-date {
+  /* change comment date styles */
+}
+
+.wp-block-latest-comments .wp-block-latest-comments__comment {
+  /* selector for each individual comment - good for borders, padding */
+}
+
+.edit-post-visual-editor .wp-block-latest-posts.is-grid {
+  list-style: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Left aligned block */
+.editor-block-list__layout .editor-block-list__block[data-align=left] .editor-block-list__block-edit {
+  margin-right: calc(1.25 * 1.5rem);
+  margin-right: var(--space-md);
+  margin-bottom: calc(0.75 * 1.5rem);
+  margin-bottom: var(--space-sm);
+}
+
+/* Right aligned block */
+.editor-block-list__layout .editor-block-list__block[data-align=right] .editor-block-list__block-edit {
+  margin-left: calc(1.25 * 1.5rem);
+  margin-left: var(--space-md);
+  margin-bottom: calc(0.75 * 1.5rem);
+  margin-bottom: var(--space-sm);
+}
