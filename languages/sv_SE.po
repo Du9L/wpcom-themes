@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Escutcheon\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-16T01:21:09+00:00\n"
+"PO-Revision-Date: 2021-05-15 20:52:56+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid "Tagged"
+msgstr "Märkt"
+
+#. Description of the theme
+msgid "With its smoky color palette and bold typography, Escutcheon is the perfect theme for writers who want to stand apart from the rest."
+msgstr "Med sin rökiga färgpalett och djärva typografi är Escutcheon är det perfekta temat för författare som vill skilja sig från resten."
+
+#: single.php:19
+msgid "Next Post %s"
+msgstr "Nästa inlägg %s"
+
+#: single.php:18
+msgid "Previous Post %s"
+msgstr "Föregående inlägg %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: inc/template-tags.php:68
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:68
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:68
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:59
+msgid "Posted in %1$s."
+msgstr "Publicerad i %1$s."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:40
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "Skriven av %s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Alegreya Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:144
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Oswald, translate this to 'off'. Do not translate into your own language.
+#: functions.php:138
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr "Huvudmeny"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
+
+#: components/content-page.php:32
+#: inc/template-tags.php:72
+msgid "Edit"
+msgstr "Redigera"
+
+#: components/content-page.php:26
+#: components/content-single.php:30
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: components/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: components/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: components/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: components/content-none.php:15
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:43
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova en sökning?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."

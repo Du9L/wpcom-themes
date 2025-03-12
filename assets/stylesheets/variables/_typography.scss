@@ -1,0 +1,25 @@
+$font__main: Alegreya Sans, sans-serif;
+$font__heading: Oswald, sans-serif;
+$font__code: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+$font__pre: "Courier 10 Pitch", Courier, monospace;
+$font__line-height-body: 1.5;
+$font__line-height-pre: 1.6;
+$font__line-height-headings: 1.2;
+
+// Font sizes
+$font__size-h1: round(70px * .9);
+$font__size-h2: round(48px * .9);
+$font__size-h3: round(36px * .9);
+$font__size-h4: round(22px * .9);
+$font__size-h5: round(18px * .9);
+$font__size-h6: round(14px * .9);
+$font__size-extra-large: round(144px * .9);
+$font__size-default: round(18px * .9);
+$font__size-content: round(22px * .9);
+$font__size-small: round(16px * .9);
+$font__size-smaller: round(14px * .9);
+$font__size_tiny: round(13px * .9);
+
+// Weights
+$font__weight-default: 400;
+$font__weight-bold: 700;

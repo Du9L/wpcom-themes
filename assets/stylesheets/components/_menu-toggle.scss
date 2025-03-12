@@ -1,0 +1,26 @@
+/* Small menu. */
+
+.main-navigation ul {
+	display: none;
+}
+
+.menu-toggle,
+.main-navigation.toggled ul {
+	display: block;
+}
+
+.menu-toggle {
+	position: absolute;
+	top: 1.2em;
+	left: 0;
+	max-width: 50%;
+}
+
+@media screen and (min-width: 50em) {
+	.menu-toggle {
+		display: none;
+	}
+	.main-navigation ul {
+		display: block;
+	}
+}
