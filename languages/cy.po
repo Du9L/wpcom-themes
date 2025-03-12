@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Cyanotype\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-19T01:07:32+00:00\n"
+"PO-Revision-Date: 2018-11-13 10:19:06+0000\n"
+"Language: cy_GB\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:99
+msgid "Text"
+msgstr "Testun"
+
+#: inc/wpcom-colors.php:43
+msgid "Background"
+msgstr "Cefndir"
+
+#: inc/template-tags.php:90
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:90
+msgid "Tags"
+msgstr "Tagiau"
+
+#: functions.php:319
+msgid "Menu &amp; Widgets"
+msgstr "Teclynnau &amp; Dewislen"
+
+#: single.php:31
+msgid "Previous post:"
+msgstr "Cofnod blaenorol:"
+
+#: single.php:30
+msgid "Previous"
+msgstr "Blaenorol"
+
+#: single.php:28
+msgid "Next post:"
+msgstr "Cofnod nesaf:"
+
+#: single.php:27
+msgid "Next"
+msgstr "Nesaf"
+
+#: functions.php:317
+#: sidebar.php:15
+msgid "Menu"
+msgstr "Dewislen"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Canlyniadau Chwilio: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:192
+msgid "Continue reading %s"
+msgstr "Parhau i ddarllen %s"
+
+#: inc/template-tags.php:127
+msgid "% Comments"
+msgstr "% Sylw"
+
+#: inc/template-tags.php:127
+msgid "1 Comment"
+msgstr "1 Sylw"
+
+#: inc/template-tags.php:118
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Maint llawn"
+
+#: inc/template-tags.php:127
+msgid "Leave a comment"
+msgstr "Rho sylw"
+
+#: inc/template-tags.php:107
+msgctxt "Used before project tag names."
+msgid "Project Tags"
+msgstr "Tagiau Project"
+
+#: inc/template-tags.php:99
+msgctxt "Used before project type names."
+msgid "Project Types"
+msgstr "Mathau o Broject"
+
+#: inc/template-tags.php:84
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categorïau"
+
+#: inc/template-tags.php:65
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Cofnodwyd ar"
+
+#: inc/template-tags.php:81
+#: inc/template-tags.php:96
+#: inc/template-tags.php:104
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:47
+msgid "Featured"
+msgstr "Nodweddion"
+
+#: inc/template-tags.php:28
+msgid "Newer Comments"
+msgstr "Sylwadau Diweddarach"
+
+#: inc/template-tags.php:24
+msgid "Older Comments"
+msgstr "Sylwadau Hŷn"
+
+#: image.php:83
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Cyhoeddwyd yn</span><span class=\"post-title\">%title</span>"
+
+#: inc/template-tags.php:21
+msgid "Comment navigation"
+msgstr "Llywio Sylwadau"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "Delwedd Nesaf"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "Delwedd Flaenorol"
+
+#: functions.php:318
+msgid "Widgets"
+msgstr "Teclynnau"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Neidio i'r cynnwys"
+
+#: functions.php:312
+msgid "expand child menu"
+msgstr "ehangu'r ddewislen plentyn"
+
+#: functions.php:313
+msgid "collapse child menu"
+msgstr "cau'r ddewislen plentyn"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:257
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "ymlaen"
+
+#: functions.php:227
+msgid "Widget Area"
+msgstr "Ardal Teclynnau"
+
+#: functions.php:63
+msgid "Social Links Menu"
+msgstr "Dewisiadau Dolenni Cymdeithasol"
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr "Dewislen Cynradd"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s gan %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Yn falch o gael ei bweru gan %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:31
+#: content-single.php:40
+#: image.php:70
+msgid "Edit"
+msgstr "Golygu"
+
+#: content-page.php:21
+#: content-single.php:23
+#: image.php:58
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Mae'n ymddangos nad ydych yn gallu canfod yr hyn rydych yn chwilio amdano. Efallai y gall chwilio fod o gymorth."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Does dim yn cydweddu eich geiriau chwilio. Ceisiwch eto gydag allweddeiriau gwahanol."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Barod i gyhoeddi eich cofnod cyntaf? <a href=\"%1$s\">Cychwyn fan hyn</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Mae'r sylwadau wedi cau."
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un sylw ar &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr "Gweld pob cofnod gan %s"
+
+#: archive.php:62
+#: content-page.php:25
+#: content-single.php:27
+#: image.php:62
+#: index.php:60
+#: search.php:44
+msgid "Page"
+msgstr "Tudalen"
+
+#: archive.php:61
+#: index.php:59
+#: search.php:43
+msgid "Next page"
+msgstr "Tudalen nesaf"
+
+#: archive.php:60
+#: index.php:58
+#: search.php:42
+msgid "Previous page"
+msgstr "Tudalen flaenorol"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Does dim wedi eu canfod yn fan hyn. Beth am chwilio?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Wps! Dim golwg o'r dudalen honno."

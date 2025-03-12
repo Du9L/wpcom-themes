@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Cyanotype\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-16T01:16:39+00:00\n"
+"PO-Revision-Date: 2019-02-16 22:56:15+0000\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:99
+msgid "Text"
+msgstr "Text"
+
+#: inc/wpcom-colors.php:43
+msgid "Background"
+msgstr "Pozadí"
+
+#: inc/template-tags.php:90
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:90
+msgid "Tags"
+msgstr "Štítky"
+
+#: single.php:31
+msgid "Previous post:"
+msgstr "Předchozí příspěvek:"
+
+#: single.php:30
+msgid "Previous"
+msgstr "Předešlé"
+
+#: single.php:28
+msgid "Next post:"
+msgstr "Následující příspěvek:"
+
+#: single.php:27
+msgid "Next"
+msgstr "Pokračovat"
+
+#: functions.php:317
+#: sidebar.php:15
+msgid "Menu"
+msgstr "Menu"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:192
+msgid "Continue reading %s"
+msgstr "Pokračování textu %s"
+
+#: inc/template-tags.php:127
+msgid "% Comments"
+msgstr "Komentáře: %"
+
+#: inc/template-tags.php:127
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: inc/template-tags.php:118
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Původní velikost:"
+
+#: inc/template-tags.php:127
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#: inc/template-tags.php:84
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Rubriky:"
+
+#: inc/template-tags.php:65
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publikováno:"
+
+#: inc/template-tags.php:81
+#: inc/template-tags.php:96
+#: inc/template-tags.php:104
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:47
+msgid "Featured"
+msgstr "Zvýrazněno"
+
+#: inc/template-tags.php:28
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: inc/template-tags.php:24
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: image.php:83
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Přiřazeno:</span><span class=\"post-title\">%title</span>"
+
+#: inc/template-tags.php:21
+msgid "Comment navigation"
+msgstr "Navigace v komentářích"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "Další obrázek"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "Předchozí obrázek"
+
+#: functions.php:318
+msgid "Widgets"
+msgstr "Widgety"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: functions.php:312
+msgid "expand child menu"
+msgstr "Zobrazit podřazené položky"
+
+#: functions.php:313
+msgid "collapse child menu"
+msgstr "Skrýt podřazené položky"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:257
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:252
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "zapnout"
+
+#: functions.php:227
+msgid "Widget Area"
+msgstr "Oblast pro widgety"
+
+#: functions.php:63
+msgid "Social Links Menu"
+msgstr "Menu pro sociální sítě"
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr "Hlavní menu"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Šablona: %1$s od %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://cs.wordpress.org/"
+
+#: content-page.php:31
+#: content-single.php:40
+#: image.php:70
+msgid "Edit"
+msgstr "Upravit"
+
+#: content-page.php:21
+#: content-single.php:23
+#: image.php:58
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání pomocí zadaného klíčového slova."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale hledaný výraz nebyl na webu nalezen. Zkuste to prosím znovu s nějakým jiným klíčovým slovem."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chystáte se publikovat svůj první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentář: &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře: &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů: &bdquo;%2$s&ldquo;"
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr "Zobrazit všechny příspěvky, jejichž autorem je %s"
+
+#: archive.php:62
+#: content-page.php:25
+#: content-single.php:27
+#: image.php:62
+#: index.php:60
+#: search.php:44
+msgid "Page"
+msgstr "stránka"
+
+#: archive.php:61
+#: index.php:59
+#: search.php:43
+msgid "Next page"
+msgstr "Následující stránka"
+
+#: archive.php:60
+#: index.php:58
+#: search.php:42
+msgid "Previous page"
+msgstr "Předchozí stránka"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání pomocí zadaného klíčového slova."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."
