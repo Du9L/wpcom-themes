@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-28T02:05:59+00:00\n"
+"PO-Revision-Date: 2022-10-06 13:49:28+0000\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29
+#: content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuer la lecture<span class=\"screen-reader-text\"> de &laquo; %s &raquo;</span>"
+
+#: inc/wpcom-colors.php:188
+msgid "Teal and Grey"
+msgstr "Bleu sarcelle et gris"
+
+#: inc/wpcom-colors.php:196
+msgid "Warm Grey"
+msgstr "Gris chaud"
+
+#: inc/wpcom-colors.php:164
+msgid "Plum"
+msgstr "Prune"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "Vert"
+
+#: inc/wpcom-colors.php:180
+msgid "Orange and Grey"
+msgstr "Orange et gris"
+
+#: inc/wpcom-colors.php:87
+msgid "Feature image headings"
+msgstr "Ajouter des titres d’images"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "Rouge"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "Liens"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/wpcom-colors.php:21
+msgid "Main Text"
+msgstr "Texte principal"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "Marqué"
+
+#: functions.php:111
+msgid "show"
+msgstr "afficher"
+
+#: functions.php:112
+msgid "hide"
+msgstr "Masquer"
+
+#: single.php:23
+msgid "Previous: "
+msgstr "Précédent : "
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#. Description of the theme
+#: style.css
+msgid "Coherent is a simple, structured theme with full screen featured images and a sliding panel sidebar."
+msgstr "Coherent est un thème simple et structuré avec des images à la une en pleine largeur et une colonne latérale coulissante."
+
+#: single.php:20
+msgid "Next: "
+msgstr "Suivant:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "Article Suivant :"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: inc/template-tags.php:160
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/template-tags.php:154
+msgid "Archives: %s"
+msgstr "Archives&nbsp;: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:158
+msgid "%1$s: %2$s"
+msgstr "%1$s : %2$s"
+
+#: inc/template-tags.php:148
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartés"
+
+#: inc/template-tags.php:148
+msgid "Day: %s"
+msgstr "Jour&nbsp;: %s"
+
+#: inc/template-tags.php:146
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:146
+msgid "Month: %s"
+msgstr "Mois&nbsp;: %s"
+
+#: inc/template-tags.php:144
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:144
+msgid "Year: %s"
+msgstr "Année&nbsp;: %s"
+
+#: inc/template-tags.php:142
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/template-tags.php:138
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#: inc/template-tags.php:140
+msgid "Tag: %s"
+msgstr "Mot-clé : %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "Posté dans %1$s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+#: inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:75
+msgid "Featured:"
+msgstr "En vedette&nbsp;:"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: header.php:26
+msgid "Show"
+msgstr "Afficher"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "Menu des Liens Sociaux"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41
+#: inc/template-tags.php:120
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-page.php:34
+#: content-single.php:37
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Le contenu demandé n&rsquo;a pu être trouvé. Pourquoi ne pas lancer une recherche? "
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères. Réessayez en modifiant les termes de recherche."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Vous êtes prêt à publier votre premier article? <a href=\"%1$s\">Commencez ici</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Inaccessible"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:38
+#: comments.php:60
+msgid "Older Comments"
+msgstr "Commentaires antérieurs"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Newer Comments"
+msgstr "Commentaires ultérieurs"
+
+#: comments.php:35
+#: comments.php:57
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Aucun contenu n&rsquo; a été trouvé à l&rsquo;adresse demandée. Pourquoi ne pas essayer l&rsquo;un des liens ci-dessouss, ou encore, lancer une recherche?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Cette page est introuvable."

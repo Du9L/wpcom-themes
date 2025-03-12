@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Coherent\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-04T02:01:11+00:00\n"
+"PO-Revision-Date: 2024-11-18 12:19:32+0000\n"
+"Language: skr_PK\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content-search.php:29
+#: content.php:26
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "پڑھݨ جاری رکھو <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/wpcom-colors.php:172
+msgid "Green"
+msgstr "ساوا"
+
+#: inc/wpcom-colors.php:156
+msgid "Red"
+msgstr "رتا"
+
+#: inc/wpcom-colors.php:78
+msgid "Links"
+msgstr "لنک"
+
+#: inc/wpcom-colors.php:10
+msgid "Background"
+msgstr "پس منظر"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgid "Tagged"
+msgstr "ٹیگ تھی ڳیا"
+
+#: functions.php:112
+msgid "hide"
+msgstr "لکاؤ"
+
+#: functions.php:111
+msgid "show"
+msgstr "ݙکھاؤ"
+
+#: single.php:24
+msgid "Previous post:"
+msgstr "پچھلی پوسٹ"
+
+#: single.php:23
+msgid "Previous: "
+msgstr "پچھلا:"
+
+#: single.php:21
+msgid "Next post:"
+msgstr "اڳلی پوسٹ"
+
+#: single.php:20
+msgid "Next: "
+msgstr "اڳلا:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s کیتے نتیجے ڳولو"
+
+#: inc/template-tags.php:160
+msgid "Archives"
+msgstr "آرکائیو"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:158
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:154
+msgid "Archives: %s"
+msgstr "آرکائیو: %s"
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "پاسے نال"
+
+#: inc/template-tags.php:148
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:148
+msgid "Day: %s"
+msgstr "ڈین٘ہ: %s"
+
+#: inc/template-tags.php:146
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:146
+msgid "Month: %s"
+msgstr "مہینہ:  %s"
+
+#: inc/template-tags.php:144
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "سال"
+
+#: inc/template-tags.php:144
+msgid "Year: %s"
+msgstr "%s"
+
+#: inc/template-tags.php:142
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#: inc/template-tags.php:140
+msgid "Tag: %s"
+msgstr "ٹیگ: %s"
+
+#: inc/template-tags.php:138
+msgid "Category: %s"
+msgstr "ونکی: %s"
+
+#: inc/template-tags.php:116
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: inc/template-tags.php:116
+msgid "1 Comment"
+msgstr "١ تبصرہ"
+
+#: inc/template-tags.php:116
+msgid "Leave a comment"
+msgstr "تبصرہ  لکھو"
+
+#: inc/template-tags.php:107
+msgid "Posted in %1$s"
+msgstr "%1$s وچ پوسٹ تھی ڳیا"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+#: inc/template-tags.php:111
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "پوسٹ نیویڳیشݨ"
+
+#: inc/template-tags.php:31
+msgid "Previous"
+msgstr "پچھلا"
+
+#: inc/template-tags.php:27
+msgid "Next"
+msgstr "اڳلا"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پوسٹاں دی نیویڳیشݨ"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "ورقہ %s"
+
+#: header.php:26
+msgid "Show"
+msgstr "ݙکھاؤ"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "چھوڑو تے مواد تے ون٘ڄو"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "پاسے آلی پٹی"
+
+#: functions.php:59
+msgid "Social Links Menu"
+msgstr "سماجی لنکاں دا مینیو"
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "وݙا مینیو"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s بائی %2$s"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "%s کنوں فخریہ طاقتور ٻݨیا ہویا"
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:41
+#: inc/template-tags.php:120
+msgid "Edit"
+msgstr "تبدیلی کرو"
+
+#: content-page.php:34
+#: content-single.php:37
+msgid "Pages:"
+msgstr "ورقے:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "اِین٘ویں لڳدے جو اَساں اُوہ شئے نِسے لبھ سڳدے جین٘دی تُساں ڳویڑ کِیتی ہِے۔ تِھی سڳدے جو ڳویڑ نال کُجھ معاونت مِلے۔ "
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "افسوس، تہاݙی ڳولݨ ٹرم  نال ککھ نی رلدا۔ سوہݨا کجھ ٻنھاں خاص لفظاں نال ڳولݨ دی کوشش کرو۔"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "تہاݙی پہلی پوسٹ شائع تھیوݨ کیتے تیار ہے? <a href=\"%1$s\">اتھ شروع کرو</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "کائی شئے کائنی لبھی"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "تبصرے بند  ہن۔"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Newer Comments"
+msgstr "نویں نویں تبصرے"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Older Comments"
+msgstr "پراݨے تبصرے"
+
+#: comments.php:35
+#: comments.php:57
+msgid "Comment navigation"
+msgstr "تبصریاں دی نیویڳیشݨ"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo اُتے ہِک وِچار؛"
+msgstr[1] "&ldquo;%2$s&rdquo; اُتے %1$s وِچار؛"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "اِین٘ویں لڳدے جو اِیں جاء تے کُجھ نئیں لبھیا۔ تھی سڳدے جو تَلّوں آلے لِنکاں تے کوشِش کرو یا ہِک ڳویڑ کرو؟"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہو! ایہ ورقہ کائنی لبھ سڳا۔"
