@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "欢迎使用 WordPress.com",
+            "home_hero_content": "使用此模板向读者展示一些重要信息。\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">号召性用语</a>",
+            "home_posts_subtitle": "使用“推荐内容”功能展示您的最佳内容，例如下列优秀文章：",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>添加视频</h3>\n\n“首页”模板包括视频版块，以及一些内容。\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">号召性用语</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "文本小组件",
+                "text": "这是文本小组件。文本小组件可让您向边栏添加文本或 HTML。您可以使用文本小组件显示文本、链接、图片、HTML 或这些内容的组合，还可以在<a href=\"https://wordpress.com/customize/\">定制器</a>的“小组件”部分编辑这些内容。",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "文本小组件",
+                "text": "这是文本小组件。文本小组件可让您向边栏添加文本或 HTML。您可以使用文本小组件显示文本、链接、图片、HTML 或这些内容的组合，还可以在<a href=\"https://wordpress.com/customize/\">定制器</a>的“小组件”部分编辑这些内容。",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "文本小组件",
+                "text": "这是文本小组件。文本小组件可让您向边栏添加文本或 HTML。您可以使用文本小组件显示文本、链接、图片、HTML 或这些内容的组合，还可以在<a href=\"https://wordpress.com/customize/\">定制器</a>的“小组件”部分编辑这些内容。",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "文本小组件",
+                "text": "这是文本小组件。文本小组件可让您向边栏添加文本或 HTML。您可以使用文本小组件显示文本、链接、图片、HTML 或这些内容的组合，还可以在<a href=\"https://wordpress.com/customize/\">定制器</a>的“小组件”部分编辑这些内容。",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "首页",
+            "post_content": "欢迎使用您的新站点！您可以点击“编辑”链接编辑此页面。如需详细了解如何自定义您的站点，请访问 <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "这是首页的摘录",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "关于",
+            "post_content": "这是“关于”页面的示例。与文章不同，页面更适合显示您希望让人轻松查看并且时限性较低的内容（比如“关于”或“联系信息”）。点击“编辑”链接修改此页面或<a href=\"https://wordpress.com/page\">添加另一页面</a>。",
+            "post_excerpt": "这只是“关于”页面的一小段摘录。",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "联系信息",
+            "post_content": "这是“联系信息”页面，其中包括一些基本联系信息和联系表单。[contact-form][contact-field label=\"姓名\" type=\"name\" required=\"1\"/][contact-field label=\"电子邮件\" type=\"email\" required=\"1\"/][contact-field label=\"网站\" type=\"url\"/][contact-field label=\"评论\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "这只是“联系信息”页面的一小段摘录。",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "博客",
+            "post_content": "用户可以在此页面上找到您站点的博客",
+            "post_excerpt": "这只是您的博客的一小段摘录。",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "推荐内容",
+            "post_content": "这是推荐内容文章。点击“编辑”链接修改或删除该文章，或者<a href=\"https://wordpress.com/post\">开始撰写新文章</a>。",
+            "post_excerpt": "这是推荐内容文章的摘录。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "推荐内容",
+            "post_content": "这是推荐内容文章。点击“编辑”链接修改或删除该文章，或者<a href=\"https://wordpress.com/post\">开始撰写新文章</a>。",
+            "post_excerpt": "这是推荐内容文章的摘录。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "推荐内容",
+            "post_content": "这是推荐内容文章。点击“编辑”链接修改或删除该文章，或者<a href=\"https://wordpress.com/post\">开始撰写新文章</a>。",
+            "post_excerpt": "这是推荐内容文章的摘录。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "博文标题",
+            "post_content": "这是一篇额外的占位文章。点击“编辑”链接修改或删除该文章，或者<a href=\"https://wordpress.com/post\">开始撰写新文章</a>。如果您愿意，可以通过这篇文章告诉读者您创建此博客的原因以及您打算使用它做些什么。",
+            "post_excerpt": "这是占位文章的摘录。点击“编辑”链接修改或删除该文章，或者<a href=\"https://wordpress.com/post\">开始撰写新文章</a>。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "社交菜单",
+            "items": [
+                {
+                    "menu-item-title": "在 Facebook 上关注我",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "在 Twitter 上关注我",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "在 Instagram 上关注我",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "在 Dribbble 上关注我们",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

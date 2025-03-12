@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "Benvenuto su WordPress.com",
+            "home_hero_content": "Usa questo template per fornire ai lettori alcune informazioni importanti.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Invito all'azione</a>",
+            "home_posts_subtitle": "Metti in mostra i tuoi migliori contenuti in evidenza, come questi fantastici articoli:",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>Aggiungi un video</h3>\n\nIl template della home page include una sezione per un video e una piccola quantità di contenuti.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Invito all'azione</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget di testo",
+                "text": "Questo è un widget di testo. Il widget di testo ti consente di aggiungere testo o elementi HTML alla barra laterale. Puoi usare un widget di testo per visualizzare testo, link, immagini, elementi HTML o una combinazioni di tutti questi. Modificali nella sezione Widget dell'<a href=\"https://wordpress.com/customize/\">utilità di personalizzazione</a>.",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget di testo",
+                "text": "Questo è un widget di testo. Il widget di testo ti consente di aggiungere testo o elementi HTML alla barra laterale. Puoi usare un widget di testo per visualizzare testo, link, immagini, elementi HTML o una combinazioni di tutti questi. Modificali nella sezione Widget dell'<a href=\"https://wordpress.com/customize/\">utilità di personalizzazione</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget di testo",
+                "text": "Questo è un widget di testo. Il widget di testo ti consente di aggiungere testo o elementi HTML alla barra laterale. Puoi usare un widget di testo per visualizzare testo, link, immagini, elementi HTML o una combinazioni di tutti questi. Modificali nella sezione Widget dell'<a href=\"https://wordpress.com/customize/\">utilità di personalizzazione</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "Widget di testo",
+                "text": "Questo è un widget di testo. Il widget di testo ti consente di aggiungere testo o elementi HTML alla barra laterale. Puoi usare un widget di testo per visualizzare testo, link, immagini, elementi HTML o una combinazioni di tutti questi. Modificali nella sezione Widget dell'<a href=\"https://wordpress.com/customize/\">utilità di personalizzazione</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Home",
+            "post_content": "Benvenuto nel tuo nuovo sito!  Puoi modificare questa pagina facendo clic sul link Modifica.  Per ulteriori informazioni sulla personalizzazione del sito consulta <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "Questo è l'estratto della home page",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "Informazioni",
+            "post_content": "Questo è l'esempio di una pagina di informazioni. A differenza degli articoli, le pagine sono più indicate per i contenuti senza data che vuoi siano facilmente accessibili, come le pagine di informazioni o dei contatti. Fai clic sul link Modifica per modificare questa pagina oppure <a href=\"https://wordpress.com/page\">aggiungi un'altra pagina</a>.",
+            "post_excerpt": "Questo è solo un piccolo estratto per la pagina di&nbsp;informazioni.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "Contatti",
+            "post_content": "Questa è una pagina di contatto con alcune informazioni di contatto di base e un modulo di contatto. [contact-form][contact-field label=\"Nome\" type=\"name\" required=\"1\"/][contact-field label=\"E-mail\" type=\"email\" required=\"1\"/][contact-field label=\"Sito web\" type=\"url\"/][contact-field label=\"Commento\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "Questo è solo un piccolo estratto per la pagina dei&nbsp;contatti.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "Questa è la pagina in cui gli utenti troveranno il blog del tuo sito",
+            "post_excerpt": "Questo è solo un breve estratto sul tuo blog.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Contenuti in evidenza",
+            "post_content": "Questo è un articolo di contenuti in evidenza. Fai clic sul link Modifica per modificarlo o eliminarlo oppure <a href=\"https://wordpress.com/post\">inizia un nuovo articolo</a>.",
+            "post_excerpt": "Questo è l'estratto per un articolo di contenuti in evidenza.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "Contenuti in evidenza",
+            "post_content": "Questo è un articolo di contenuti in evidenza. Fai clic sul link Modifica per modificarlo o eliminarlo oppure <a href=\"https://wordpress.com/post\">inizia un nuovo articolo</a>.",
+            "post_excerpt": "Questo è l'estratto per un articolo di contenuti in evidenza.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "Contenuti in evidenza",
+            "post_content": "Questo è un articolo di contenuti in evidenza. Fai clic sul link Modifica per modificarlo o eliminarlo oppure <a href=\"https://wordpress.com/post\">inizia un nuovo articolo</a>.",
+            "post_excerpt": "Questo è l'estratto per un articolo di contenuti in evidenza.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "Titolo dell'articolo sul blog",
+            "post_content": "Questo è un articolo segnaposto aggiuntivo. Fai clic sul link Modifica per modificarlo o eliminarlo oppure <a href=\"https://wordpress.com/post\">inizia un nuovo articolo</a>. Se desideri, usa questo articolo per dire ai lettori perché hai iniziato questo blog e cosa intendi farne.",
+            "post_excerpt": "Questo è l'estratto per un articolo segnaposto. Fai clic sul link Modifica per modificarlo o eliminarlo oppure <a href=\"https://wordpress.com/post\">inizia un nuovo articolo</a>.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "Menu Social",
+            "items": [
+                {
+                    "menu-item-title": "Seguimi su Facebook",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Seguimi su Twitter",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Seguimi su Instagram",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Seguici su Dribbble",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-21T01:27:32+00:00\n"
+"PO-Revision-Date: 2017-03-23 07:16:42+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:40
+msgid "Headings"
+msgstr "Rubrici"
+
+#: inc/wpcom-colors.php:30
+msgid "Links"
+msgstr "Legături"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:112
+msgid "Tagged"
+msgstr "Etichetat"
+
+#: inc/customizer.php:98
+msgid "Scroll &mdash; the header background image scrolls along with the rest of the page"
+msgstr "Derulare &mdash; imaginea de fundal a antetului se derulează împreună cu restul paginii"
+
+#: inc/customizer.php:97
+msgid "Fixed &mdash; the header background image stays in place while rest of the page scrolls."
+msgstr "Fix &mdash; imaginea de fundal a antetului rămâne la locul ei în timp ce restul paginii se derulează."
+
+#: inc/customizer.php:93
+msgid "Header Image Display"
+msgstr "Afișare imagine antet"
+
+#: header-home.php:62
+#: header.php:45
+msgid "Menu"
+msgstr "Meniu"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-home.php
+msgid "Home Page"
+msgstr "Prima pagină"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-full.php
+msgid "Full Width, No Sidebar"
+msgstr "Lățime completă, fără bară laterală"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "Gateway is the perfect mix of class and elegance, a traditional yet customizable home for your content. Reinforce your brand with a site logo, add a bold header image and call to action, and showcase your best posts or a video with a special Homepage template."
+msgstr "Gateway este combinația perfectă între clasă și eleganță, o primă pagină tradițională și totuși personalizabilă pentru conținutul tău. Îți întărește brandul cu un logo pentru sit, adaugă o imagine antet îndrăzneață și un apel la acțiune și îți prezintă cele mai bune articole sau un video cu un șablon special în prima pagină."
+
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nu s-a putut găsi conținutul căutat. Probabil o căutare sau una dintre legăturile de mai jos pot ajuta."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ne pare rau, căutarea nu are nici un rezultat. Vă rugăm să încercați din nou cu unele cuvinte cheie diferite."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pregătit să publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nu a fost găsit nimic"
+
+#: template-home.php:24
+#: template-parts/content-home.php:44
+#: template-parts/content-page.php:37
+#: template-parts/content-single.php:37
+#: template-parts/content.php:41
+msgid "Edit"
+msgstr "Editează"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "1 Comment"
+msgstr "1 comentariu"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: inc/template-tags.php:169
+msgid "Archives"
+msgstr "Arhive"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:167
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:163
+msgid "Archives: %s"
+msgstr "Arhive: %s"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Conversații"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stări"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Legături"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videouri"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imagini"
+
+#: inc/template-tags.php:146
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerii"
+
+#: inc/template-tags.php:144
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Note"
+
+#: inc/template-tags.php:141
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:141
+msgid "Day: %s"
+msgstr "Zi: %s"
+
+#: inc/template-tags.php:139
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:139
+msgid "Month: %s"
+msgstr "Lună: %s"
+
+#: inc/template-tags.php:137
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:137
+msgid "Year: %s"
+msgstr "An: %s"
+
+#: inc/template-tags.php:135
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:133
+msgid "Tag: %s"
+msgstr "Etichetă: %s"
+
+#: inc/template-tags.php:131
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr "Publicat în %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106
+#: inc/template-tags.php:112
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr "de %s"
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicat de %s"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "Navigare articol"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Articole mai noi"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Articole mai vechi"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigare articole"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/customizer.php:28
+msgid "Homepage Template"
+msgstr "Șablon prima pagină"
+
+#: inc/customizer.php:80
+msgid "Appears next to the video. You may use HTML."
+msgstr "Apare lângă video. Poți folosi HTML."
+
+#: inc/customizer.php:79
+msgid "Video Content"
+msgstr "Conținut video"
+
+#: inc/customizer.php:66
+msgid "Appears below the Featured Content."
+msgstr "Apare sub conținutul reprezentativ."
+
+#: inc/customizer.php:65
+msgid "Video URL"
+msgstr "URL video"
+
+#: inc/customizer.php:53
+msgid "Appears in the header. You may use HTML."
+msgstr "Apare în antet. Poți folosi HTML."
+
+#: inc/customizer.php:52
+msgid "Hero Content"
+msgstr "Conținut Hero"
+
+#: inc/customizer.php:39
+msgid "Appears in the header."
+msgstr "Apare în antet."
+
+#: inc/customizer.php:38
+msgid "Hero Title"
+msgstr "Titlu Hero"
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr "General"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Opțiuni temă"
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr "Oras"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:181
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "romanian"
+
+#: header-home.php:28
+#: header.php:23
+msgid "Skip to content"
+msgstr "Sări la conţinut"
+
+#: functions.php:238
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Mai mult <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: If there are characters in your language that are not supported
+#. by Fanwood Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:175
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr "Subsol 3"
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr "Subsol 2"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "Subsol 1"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:40
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi &rarr;"
+
+#: comments.php:39
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; comentarii mai vechi"
+
+#: comments.php:38
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Navigare comentarii"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un gând despre &ldquo;%2$s&rdquo;"
+msgstr[1] " %1$s gânduri despre &ldquo;%2$s&rdquo;"
+msgstr[2] " %1$s de gânduri despre &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Încearcă să cauți în arhiva lunară. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Cele mai folosite categorii"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Se pare că nu a fost găsit nimic la această locație. Poate încerci una din legăturile de mai jos sau o căutare?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina nu a fost găsită."

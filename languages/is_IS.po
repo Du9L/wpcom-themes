@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T05:32:17+00:00\n"
+"PO-Revision-Date: 2024-06-12 12:55:52+0000\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 100 != 1 && n % 100 != 21 && n % 100 != 31 && n % 100 != 41 && n % 100 != 51 && n % 100 != 61 && n % 100 != 71 && n % 100 != 81 && n % 100 != 91);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:40
+msgid "Headings"
+msgstr "Fyrirsagnir"
+
+#: inc/wpcom-colors.php:30
+msgid "Links"
+msgstr "Tenglar"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:112
+msgid "Tagged"
+msgstr "Merkt"
+
+#: inc/customizer.php:97
+msgid "Scroll &mdash; the header background image scrolls along with the rest of the page"
+msgstr "Skruna &mdash; bakgrunnsmynd í haus skrunar með restinni af síðunni"
+
+#: inc/customizer.php:96
+msgid "Fixed &mdash; the header background image stays in place while rest of the page scrolls."
+msgstr "Föst &mdash; bakgrunnsmynd í haus er föst á meðan afgangurinn af síðunni skrunar."
+
+#: inc/customizer.php:92
+msgid "Header Image Display"
+msgstr "Birting myndar í síðuhaus"
+
+#: header-home.php:62
+#: header.php:45
+msgid "Menu"
+msgstr "Valmynd"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Forsíða"
+
+#. Template Name of the theme
+msgid "Full Width, No Sidebar"
+msgstr "Full breidd, engar hliðarstikur"
+
+#. Description of the theme
+#: style.css
+msgid "Gateway is the perfect mix of class and elegance, a traditional yet customizable home for your content. Reinforce your brand with a site logo, add a bold header image and call to action, and showcase your best posts or a video with a special Homepage template."
+msgstr "Gateway er fullkomin blanda stíls og glæsileika, hefðbundið en samt sem áður sérhannað heimili fyrir efnið þitt. Styrktu vörumerkið þitt með lógói, bættu við djarfri hausmynd og kalls til aðgerðar, birtu einnig bestu færslurnar þínar eða myndband með sérstöku skapalóni fyrir forsíðu."
+
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Síður:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Það lítur út fyrir að við finnum ekki það sem þú sækist eftir. Hugsanlega hjálpar til að nota leitina."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Því miður, ekkert fannst sem passaði við leitarskilyrðin. Vinsamlega reyndu aftur með öðrum leitarorðum."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Tilbúin(n) til að birta fyrstu færsluna þína? <a href=\"%1$s\">Byrjaðu hér</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ekkert fannst"
+
+#: template-home.php:24
+#: template-parts/content-home.php:44
+#: template-parts/content-page.php:37
+#: template-parts/content-single.php:37
+#: template-parts/content.php:41
+msgid "Edit"
+msgstr "Breyta"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "% Comments"
+msgstr "% athugasemdir"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "1 Comment"
+msgstr "1 athugasemd"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "Leave a comment"
+msgstr "Færðu inn athugasemd"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Leitarniðurstöður fyrir: %s"
+
+#: inc/template-tags.php:170
+msgid "Archives"
+msgstr "Færslusafn"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:168
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:164
+msgid "Archives: %s"
+msgstr "Færslusafn: %s"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Samtöl"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Hljóðskrár"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stöður"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Tenglar"
+
+#: inc/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Tilvitnanir"
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Myndbönd"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Myndir"
+
+#: inc/template-tags.php:147
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Myndasöfn"
+
+#: inc/template-tags.php:145
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Innskot"
+
+#: inc/template-tags.php:142
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F, Y"
+
+#: inc/template-tags.php:142
+msgid "Day: %s"
+msgstr "Dagur: %s"
+
+#: inc/template-tags.php:140
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:140
+msgid "Month: %s"
+msgstr "Mánuður: %s"
+
+#: inc/template-tags.php:138
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:138
+msgid "Year: %s"
+msgstr "Ár: %s"
+
+#: inc/template-tags.php:136
+msgid "Author: %s"
+msgstr "Höfundur: %s"
+
+#: inc/template-tags.php:134
+msgid "Tag: %s"
+msgstr "Efnisorð: %s"
+
+#: inc/template-tags.php:132
+msgid "Category: %s"
+msgstr "Flokkur: %s"
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr "Birt í %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106
+#: inc/template-tags.php:112
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr "eftir %s"
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Birt þann %s"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "Leiðarkerfi færslu"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Nýrri færslur"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Eldri færslur"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Leiðarkerfi færslna"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Síða %s"
+
+#: inc/customizer.php:79
+msgid "Appears next to the video. You may use HTML."
+msgstr "Birtist við hliðina á myndbandi. Þú mátt nota HTML."
+
+#: inc/customizer.php:78
+msgid "Video Content"
+msgstr "Myndbandsefni"
+
+#: inc/customizer.php:65
+msgid "Appears below the Featured Content."
+msgstr "Birtist fyrir neðan efnisáherslur."
+
+#: inc/customizer.php:64
+msgid "Video URL"
+msgstr "Slóð myndbands"
+
+#: inc/customizer.php:53
+msgid "Appears in the header. You may use HTML."
+msgstr "Birtist í haus. Þú mátt nota HTML."
+
+#: inc/customizer.php:52
+msgid "Hero Content"
+msgstr "Hetju-efni"
+
+#: inc/customizer.php:39
+msgid "Appears in the header."
+msgstr "Birtist í haus"
+
+#: inc/customizer.php:38
+msgid "Hero Title"
+msgstr "Titill hetju"
+
+#: inc/customizer.php:28
+msgid "Homepage Template"
+msgstr "Skapalón forsíðu"
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr "Almennt"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Valkostir þema"
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr "Borg/bær"
+
+#: header-home.php:28
+#: header.php:23
+msgid "Skip to content"
+msgstr "Hoppa yfir í efni"
+
+#: functions.php:233
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Meira <span class=\"screen-reader-text\">%1$s</span>"
+
+#: functions.php:176
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "enginn undirflokkur"
+
+#. translators: If there are characters in your language that are not supported
+#. by Fanwood Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr "virkt"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:165
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr "virkt"
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr "Fótur 3"
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr "Fótur 2"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "Fótur 1"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Hliðarslá"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Aðalvalmynd"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "Þema: %1$s eftir %2$s."
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "Drifið áfram af %s"
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Lokað er á athugasemdir."
+
+#: comments.php:40
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Nýrri athugasemdir &raquo;"
+
+#: comments.php:39
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&laquo; Eldri athugasemdir"
+
+#: comments.php:38
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Leiðastýring athugasemda"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s athugasemd við &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s athugasemdir við &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Þú gætir prófað að leita í mánaðarskiptu greinasafni. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Mest notaðir flokkar"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Svo virðist sem ekkert hafi fundist á þessari slóð. Þú gætir reynt einn af tenglunum hér að neðan eða leitina?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Úbbs! Þessi síða fannst ekki."

@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "ברוכים הבאים ל-WordPress.com",
+            "home_hero_content": "אפשר להשתמש בתבנית זו כדי לידע את הקוראים בפרטים חשובים.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">קריאות לפעולה</a>",
+            "home_posts_subtitle": "להציג לראווה את המיטב בעזרת תוכן ראשי, כגון הפוסטים הנבחרים האלו:",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>להוסיף וידאו</h3>\n\nהתבנית של דף הבית כוללת מקטע לוידאו ואפשרות להוסיף מעט תוכן.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">קריאות לפעולה</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "וידג'ט טקסט",
+                "text": "זהו וידג'ט לטקסט. וידג'ט לטקסט מאפשר לך להוסיף טקסט או HTML לסרגל הצדי שלך. אפשר להשתמש בווידג'ט לטקסט להצגת טקסט, קישורים, תמונות, HTML או שילוב של התכנים הללו. ניתן לערוך אותם במקטע 'וידג'טים' ב<a href=\"https://wordpress.com/customize/\">כלי ההתאמה האישית</a>.",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "וידג'ט טקסט",
+                "text": "זהו וידג'ט לטקסט. וידג'ט לטקסט מאפשר לך להוסיף טקסט או HTML לסרגל הצדי שלך. אפשר להשתמש בווידג'ט לטקסט להצגת טקסט, קישורים, תמונות, HTML או שילוב של התכנים הללו. ניתן לערוך אותם במקטע 'וידג'טים' ב<a href=\"https://wordpress.com/customize/\">כלי ההתאמה האישית</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "וידג'ט טקסט",
+                "text": "זהו וידג'ט לטקסט. וידג'ט לטקסט מאפשר לך להוסיף טקסט או HTML לסרגל הצדי שלך. אפשר להשתמש בווידג'ט לטקסט להצגת טקסט, קישורים, תמונות, HTML או שילוב של התכנים הללו. ניתן לערוך אותם במקטע 'וידג'טים' ב<a href=\"https://wordpress.com/customize/\">כלי ההתאמה האישית</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "וידג'ט טקסט",
+                "text": "זהו וידג'ט לטקסט. וידג'ט לטקסט מאפשר לך להוסיף טקסט או HTML לסרגל הצדי שלך. אפשר להשתמש בווידג'ט לטקסט להצגת טקסט, קישורים, תמונות, HTML או שילוב של התכנים הללו. ניתן לערוך אותם במקטע 'וידג'טים' ב<a href=\"https://wordpress.com/customize/\">כלי ההתאמה האישית</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "ראשי",
+            "post_content": "ברוכים הבאים לאתר החדש שלך!  אפשר לערוך עמוד זה על ידי לחיצה על הקישור 'עריכה'.  למידע נוסף על התאמה אישית של האתר, כדאי לבקר בכתובת <a href=\"http://learn.wordpress.com/\">‏/http://learn.wordpress.com‏‏‏‏‏‏‏</a>‏",
+            "post_excerpt": "זהו תקציר של עמוד הבית",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "אודות",
+            "post_content": "זהו עמוד 'אודות' לדוגמה. להבדיל מפוסטים, עמודים מתאימים יותר ליצירת גישה קלה לתוכן שאינו תלוי בזמן, למשל 'אודות' או 'פרטים ליצירת קשר'. יש ללחוץ על הקישור 'עריכה' כדי לבצע שינויים בעמוד זה או <a href=\"https://wordpress.com/page\">להוסיף עוד עמוד</a>.",
+            "post_excerpt": "זהו תקציר עבור עמוד&nbsp;'אודות'.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "יצירת קשר",
+            "post_content": "זהו דף 'יצירת קשר' שכולל פרטי קשר בסיסיים וכן טופס יצירת קשר. [contact-form][contact-field label=\"שם\" type=\"name\" required=\"1\"/][contact-field label=\"אימייל\" type=\"email\" required=\"1\"/][contact-field label=\"אתר אינטרנט\" type=\"url\"/][contact-field label=\"תגובה\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "זהו תקציר עבור עמוד&nbsp;'יצירת קשר'.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "בלוג",
+            "post_content": "זהו העמוד שבו משתמשים ימצאו את הבלוג באתר שלך",
+            "post_excerpt": "זהו תקציר עבור הבלוג שלך.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "תוכן ראשי",
+            "post_content": "זהו פוסט תוכן ראשי. יש ללחוץ על הקישור 'עריכה' כדי לשנות או למחוק אותו או <a href=\"https://wordpress.com/post\">להתחיל פוסט חדש</a>.",
+            "post_excerpt": "זהו התקציר של פוסט תוכן ראשי.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "תוכן ראשי",
+            "post_content": "זהו פוסט תוכן ראשי. יש ללחוץ על הקישור 'עריכה' כדי לשנות או למחוק אותו או <a href=\"https://wordpress.com/post\">להתחיל פוסט חדש</a>.",
+            "post_excerpt": "זהו התקציר של פוסט תוכן ראשי.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "תוכן ראשי",
+            "post_content": "זהו פוסט תוכן ראשי. יש ללחוץ על הקישור 'עריכה' כדי לשנות או למחוק אותו או <a href=\"https://wordpress.com/post\">להתחיל פוסט חדש</a>.",
+            "post_excerpt": "זהו התקציר של פוסט תוכן ראשי.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "כותרת הפוסט",
+            "post_content": "זהו פוסט מציין מיקום נוסף. יש ללחוץ על הקישור 'עריכה' כדי לשנות או למחוק אותו או <a href=\"https://wordpress.com/post\">להתחיל פוסט חדש</a>. אפשר לנצל את הפוסט הזה כדי להסביר לקוראים מדוע פתחת את הבלוג ומה בכוונתך לעשות אתו.",
+            "post_excerpt": "זהו התקציר של פוסט מציין מיקום. יש ללחוץ על הקישור 'עריכה' כדי לשנות או למחוק אותו או <a href=\"https://wordpress.com/post\">להתחיל פוסט חדש</a>.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "תפריט חברתי",
+            "items": [
+                {
+                    "menu-item-title": "עקוב אחריי בפייסבוק",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "עקוב אחריי בטוויטר",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "עקוב אחריי ב-Instagram",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "עקוב אחריי ב-Dribbble",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

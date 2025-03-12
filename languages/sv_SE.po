@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-13T02:04:17+00:00\n"
+"PO-Revision-Date: 2021-05-20 18:11:33+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:112
+msgid "Tagged"
+msgstr "Märkt "
+
+#: header-home.php:62
+#: header.php:45
+msgid "Menu"
+msgstr "Meny"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Startsida"
+
+#. Template Name of the theme
+msgid "Full Width, No Sidebar"
+msgstr "Full bredd, ingen sidopanel"
+
+#. Description of the theme
+msgid "Gateway is the perfect mix of class and elegance, a traditional yet customizable home for your content. Reinforce your brand with a site logo, add a bold header image and call to action, and showcase your best posts or a video with a special Homepage template."
+msgstr "Gateway är den perfekta mixen av klass och elegans, Ett traditionellt men samtidigt justerbart tema för din sida. Förstärk ditt varumärke med en logotyp, lägg till en fräck bild i sidhuvudet och uppmana till handling samt visa upp dina bästa inlägg eller videor med en speciell hemsidemall."
+
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: template-home.php:24
+#: template-parts/content-home.php:44
+#: template-parts/content-page.php:37
+#: template-parts/content-single.php:37
+#: template-parts/content.php:41
+msgid "Edit"
+msgstr "Redigera"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: inc/template-tags.php:169
+msgid "Archives"
+msgstr "Arkiv"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:167
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:163
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chattar"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ljud"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusar"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Länkar"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:146
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier "
+
+#: inc/template-tags.php:144
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:141
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/template-tags.php:141
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:139
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:139
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: inc/template-tags.php:137
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:137
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:135
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#: inc/template-tags.php:133
+msgid "Tag: %s"
+msgstr "Etikett: %s"
+
+#: inc/template-tags.php:131
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr "Publicerat i %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106
+#: inc/template-tags.php:112
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicerad den %s"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Nyare inlägg"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Äldre inlägg"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: inc/customizer.php:79
+msgid "Appears next to the video. You may use HTML."
+msgstr "Syns bredvid videon. Du kan använda HTML."
+
+#: inc/customizer.php:78
+msgid "Video Content"
+msgstr "Videoinnehåll"
+
+#: inc/customizer.php:65
+msgid "Appears below the Featured Content."
+msgstr "Visas under det utvalda innehållet."
+
+#: inc/customizer.php:64
+msgid "Video URL"
+msgstr "Video-URL"
+
+#: inc/customizer.php:53
+msgid "Appears in the header. You may use HTML."
+msgstr "Visas i sidhuvudet. Du kan använda HTML."
+
+#: inc/customizer.php:52
+msgid "Hero Content"
+msgstr "Hero-innehåll"
+
+#: inc/customizer.php:39
+msgid "Appears in the header."
+msgstr "Syns i sidhuvudet."
+
+#: inc/customizer.php:38
+msgid "Hero Title"
+msgstr "Hero-rubrik"
+
+#: inc/customizer.php:28
+msgid "Homepage Template"
+msgstr "Mall för startsida"
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr "Allmänt"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temaalternativ"
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr "Ort"
+
+#: header-home.php:28
+#: header.php:23
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:233
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Mer <span class=\"screen-reader-text\">%1$s</span>"
+
+#: functions.php:176
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Fanwood Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:165
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr "Sidfot 3"
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr "Sidfot 2"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "Sidfot 1"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:40
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: comments.php:39
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: comments.php:38
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion på &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner på &rdquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova att leta i månadsarkiven. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Mest använda kategorier"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova någon av länkarna nedan eller söka?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."

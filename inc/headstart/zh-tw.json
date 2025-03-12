@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "歡迎來到 WordPress.com",
+            "home_hero_content": "利用此模板，向讀者提供一些重要資訊。\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">行動號召</a>",
+            "home_posts_subtitle": "透過「精選內容」，展現您的最佳成果，例如優秀文章：",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>新增影片</h3>\n\n首頁模板包含影片區段和一些內容。\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">行動號召</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "文字小工具",
+                "text": "這是文字小工具。「文字小工具」可讓你在側邊欄新增文字或 HTML。你可以利用文字小工具來顯示文字、連結、圖片、HTML 或上述多項元素。前往<a href=\"https://wordpress.com/customize/\">自訂工具</a>的「小工具」區段即可加以編輯。",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "文字小工具",
+                "text": "這是文字小工具。「文字小工具」可讓你在側邊欄新增文字或 HTML。你可以利用文字小工具來顯示文字、連結、圖片、HTML 或上述多項元素。前往<a href=\"https://wordpress.com/customize/\">自訂工具</a>的「小工具」區段即可加以編輯。",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "文字小工具",
+                "text": "這是文字小工具。「文字小工具」可讓你在側邊欄新增文字或 HTML。你可以利用文字小工具來顯示文字、連結、圖片、HTML 或上述多項元素。前往<a href=\"https://wordpress.com/customize/\">自訂工具</a>的「小工具」區段即可加以編輯。",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "文字小工具",
+                "text": "這是文字小工具。「文字小工具」可讓你在側邊欄新增文字或 HTML。你可以利用文字小工具來顯示文字、連結、圖片、HTML 或上述多項元素。前往<a href=\"https://wordpress.com/customize/\">自訂工具</a>的「小工具」區段即可加以編輯。",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "首頁",
+            "post_content": "歡迎來到你的全新網站！你可以按一下「編輯」連結修改這個頁面。如需自訂網站的更多資訊，請造訪 <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "這是首頁的部分節錄內容",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "簡介",
+            "post_content": "這是簡介頁面的範例。與文章不同的是，你希望能輕鬆存取的永久內容更適合放在頁面中，例如「簡介」或「聯絡資訊」。按一下「編輯」連結以變更此頁面或<a href=\"https://wordpress.com/page\">新增其他頁面</a>。",
+            "post_excerpt": "這只是「簡介」&nbsp;頁面的簡短摘要。",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "聯絡",
+            "post_content": "這是主要提供基本聯絡資訊和聯絡表單的聯絡頁面。[contact-form][contact-field label=\"姓名\" type=\"name\" required=\"1\"/][contact-field label=\"電子郵件\" type=\"email\" required=\"1\"/][contact-field label=\"網站\" type=\"url\"/][contact-field label=\"留言\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "這只是「聯絡」 &nbsp;頁面的簡短摘要。",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "網誌",
+            "post_content": "使用者可在此網站找到你的網誌",
+            "post_excerpt": "這只是從你網誌節錄出的部分內容。",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "精選內容",
+            "post_content": "這是一篇精選內容文章。按一下「編輯」連結，以修改或刪除文章，或是<a href=\"https://wordpress.com/post\">開始撰寫新文章</a>。",
+            "post_excerpt": "這是特色內容文章的文章摘要。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "精選內容",
+            "post_content": "這是一篇精選內容文章。按一下「編輯」連結，以修改或刪除文章，或是<a href=\"https://wordpress.com/post\">開始撰寫新文章</a>。",
+            "post_excerpt": "這是特色內容文章的文章摘要。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "精選內容",
+            "post_content": "這是一篇精選內容文章。按一下「編輯」連結，以修改或刪除文章，或是<a href=\"https://wordpress.com/post\">開始撰寫新文章</a>。",
+            "post_excerpt": "這是特色內容文章的文章摘要。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "網誌文章標題",
+            "post_content": "這是額外的預留位置文章。按一下「編輯」連結，以修改或刪除文章，或是<a href=\"https://wordpress.com/post\">開始撰寫新文章</a>。你可以利用這篇文章告訴讀者這個網誌的建立原因，以及網誌的未來計畫。",
+            "post_excerpt": "這是預留位置文章的文章摘要。按一下「編輯」連結，以修改或刪除文章，或是<a href=\"https://wordpress.com/post\">開始撰寫新文章</a>。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "社交選單",
+            "items": [
+                {
+                    "menu-item-title": "在 Facebook 上追蹤我",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "在 Twitter 上追蹤我",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "在 Instagram 上關注我",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "在 Dribbble 上關注我們",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

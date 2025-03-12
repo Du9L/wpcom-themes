@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "Welkom bij WordPress.com",
+            "home_hero_content": "Gebruik deze sjabloon om lezers belangrijke informatie te geven.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Call to action</a>",
+            "home_posts_subtitle": "Stel je beste aanbevolen inhoud tentoon, zoals deze prachtige berichten:",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>Voeg een video toe</h3>\n\nDe sjabloon Home Page bevat een sectie voor een video, evenals wat inhoud.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Call to action</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Tekstwidget",
+                "text": "Dit is een tekstwidget. Met de tekstwidget kun je tekst of HTML toevoegen aan je sidebar. Je kunt een tekstwidget gebruiken om tekst, links, afbeeldingen, HTML of een combinatie van deze weer te laten geven. Bewerk ze in de sectie Widget van het <a href=\"https://wordpress.com/customize/\">Aanpassingsmenu</a>.",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Tekstwidget",
+                "text": "Dit is een tekstwidget. Met de tekstwidget kun je tekst of HTML toevoegen aan je sidebar. Je kunt een tekstwidget gebruiken om tekst, links, afbeeldingen, HTML of een combinatie van deze weer te laten geven. Bewerk ze in de sectie Widget van het <a href=\"https://wordpress.com/customize/\">Aanpassingsmenu</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Tekstwidget",
+                "text": "Dit is een tekstwidget. Met de tekstwidget kun je tekst of HTML toevoegen aan je sidebar. Je kunt een tekstwidget gebruiken om tekst, links, afbeeldingen, HTML of een combinatie van deze weer te laten geven. Bewerk ze in de sectie Widget van het <a href=\"https://wordpress.com/customize/\">Aanpassingsmenu</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "Tekstwidget",
+                "text": "Dit is een tekstwidget. Met de tekstwidget kun je tekst of HTML toevoegen aan je sidebar. Je kunt een tekstwidget gebruiken om tekst, links, afbeeldingen, HTML of een combinatie van deze weer te laten geven. Bewerk ze in de sectie Widget van het <a href=\"https://wordpress.com/customize/\">Aanpassingsmenu</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Home",
+            "post_content": "Welkom bij je nieuwe site!  Je kunt deze pagina bewerken door op de koppeling Bewerken te klikken.  Voor meer informatie over het aanpassen van je site, ga je naar <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "Dit is de samenvatting van de startpagina",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "Over",
+            "post_content": "Dit is een voorbeeld van de pagina Over. In tegenstelling tot berichten zijn pagina's beter geschikt voor meer tijdloze inhoud die je eenvoudig toegankelijk wilt maken, zoals de gegevens bij Over of bij Contact. Klik op de link Bewerken om wijzigingen door te voeren in deze pagina of <a href=\"https://wordpress.com/page\">voeg een nieuwe pagina toe</a>.",
+            "post_excerpt": "Dit is slechts een samenvatting van de pagina&nbsp;Over.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "Contact",
+            "post_content": "Dit is een contactpagina met enkele contactgegevens en een contactformulier. [contact-form][contact-field label=\"Naam\" type=\"name\" required=\"1\"/][contact-field label=\"E-mail\" type=\"email\" required=\"1\"/][contact-field label=\"Website\" type=\"url\"/][contact-field label=\"Reactie\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "Dit is slechts een samenvatting van de pagina&nbsp;Contact.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "Dit is de pagina waar gebruikers de blog op je site kunnen vinden",
+            "post_excerpt": "Dit is maar een korte samenvatting van je blog.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Aanbevolen inhoud",
+            "post_content": "Dit is een bericht met aanbevolen inhoud. Klik op Bewerken om het aan te passen of te verwijderen, of <a href=\"https://wordpress.com/post\">maak een nieuw bericht aan</a>.",
+            "post_excerpt": "Dit is de samenvatting van een bericht met aanbevolen inhoud.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "Aanbevolen inhoud",
+            "post_content": "Dit is een bericht met aanbevolen inhoud. Klik op Bewerken om het aan te passen of te verwijderen, of <a href=\"https://wordpress.com/post\">maak een nieuw bericht aan</a>.",
+            "post_excerpt": "Dit is de samenvatting van een bericht met aanbevolen inhoud.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "Aanbevolen inhoud",
+            "post_content": "Dit is een bericht met aanbevolen inhoud. Klik op Bewerken om het aan te passen of te verwijderen, of <a href=\"https://wordpress.com/post\">maak een nieuw bericht aan</a>.",
+            "post_excerpt": "Dit is de samenvatting van een bericht met aanbevolen inhoud.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "Titel blogbericht",
+            "post_content": "Dit is een extra placeholderbericht. Klik op Bewerken om het aan te passen of te verwijderen, of <a href=\"https://wordpress.com/post\">maak een nieuw bericht aan</a>. Als je wilt, kun je dit bericht gebruiken om lezers te vertellen waarom je deze blog bent begonnen en wat je ermee wilt doen.",
+            "post_excerpt": "Dit is de samenvatting van een placeholderbericht. Klik op Bewerken om het aan te passen of te verwijderen, of <a href=\"https://wordpress.com/post\">maak een nieuw bericht aan</a>.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "Social-menu",
+            "items": [
+                {
+                    "menu-item-title": "Volg me via Facebook",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Volg me via Twitter",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Volg me via Instagram",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Volg ons via Dribbble",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

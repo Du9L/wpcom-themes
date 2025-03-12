@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-21T01:27:32+00:00\n"
+"PO-Revision-Date: 2017-03-23 07:16:42+0000\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:40
+msgid "Headings"
+msgstr "כותרות"
+
+#: inc/wpcom-colors.php:30
+msgid "Links"
+msgstr "קישורים"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:112
+msgid "Tagged"
+msgstr "מתויג"
+
+#: header-home.php:62
+#: header.php:45
+msgid "Menu"
+msgstr "תפריט"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-home.php
+msgid "Home Page"
+msgstr "עמוד הבית"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-full.php
+msgid "Full Width, No Sidebar"
+msgstr "רוחב מלא, ללא עמודה צידית"
+
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr ":עמודים"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה כי לא ניתן למצוא את מה שחיפשת, אולי חיפוש יעזור."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "מצוערים, אבל לא נמצאה התאמה. אפשר לנסות שוב עם מילות חיפוש שונות."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הרשומה הראשונה שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "לא נמצא כלום"
+
+#: template-home.php:24
+#: template-parts/content-home.php:44
+#: template-parts/content-page.php:37
+#: template-parts/content-single.php:37
+#: template-parts/content.php:41
+msgid "Edit"
+msgstr "עריכה"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "תוצאות החיפוש: %s"
+
+#: inc/template-tags.php:169
+msgid "Archives"
+msgstr "ארכיון"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:167
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:163
+msgid "Archives: %s"
+msgstr "ארכיון: %s"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "צ'אטים"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "אודיו"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "סטטוסים"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "לינקים"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "ציטוטים"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "וידאו"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "תמונות"
+
+#: inc/template-tags.php:146
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "גלריות"
+
+#: inc/template-tags.php:144
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "הערות"
+
+#: inc/template-tags.php:141
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j בF Y"
+
+#: inc/template-tags.php:141
+msgid "Day: %s"
+msgstr "יום: %s"
+
+#: inc/template-tags.php:139
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:139
+msgid "Month: %s"
+msgstr "חודש: %s"
+
+#: inc/template-tags.php:137
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:137
+msgid "Year: %s"
+msgstr "שנה: %s"
+
+#: inc/template-tags.php:135
+msgid "Author: %s"
+msgstr "מחבר: %s"
+
+#: inc/template-tags.php:133
+msgid "Tag: %s"
+msgstr "תגית: %s"
+
+#: inc/template-tags.php:131
+msgid "Category: %s"
+msgstr "קטגוריות: %s"
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr "פורסם ב-%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106
+#: inc/template-tags.php:112
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "פורסם בתאריך %s"
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr "מאת %s"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "ניווט"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "פוסטים חדשים יותר"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "פוסטים ישנים יותר"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "ניווט"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: inc/customizer.php:80
+msgid "Appears next to the video. You may use HTML."
+msgstr "מופיע ליד הוידאו. ניתן להשתמש ב HTML"
+
+#: inc/customizer.php:79
+msgid "Video Content"
+msgstr "תוכן וידאו"
+
+#: inc/customizer.php:65
+msgid "Video URL"
+msgstr "כתובת הוידאו"
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr "כללי"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "אפשרויות"
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr "עיר"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:181
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: header-home.php:28
+#: header.php:23
+msgid "Skip to content"
+msgstr "דילוג לתוכן"
+
+#: functions.php:238
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "המשך <span class=\"screen-reader-text\">%1$s</span>"
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr "תחתית העמוד 2"
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr "תחתית העמוד 3"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "תחתית העמוד 1"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr " סרגל צדדי"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s"
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: comments.php:40
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &larr;"
+
+#: comments.php:39
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&rarr; תגובות ישנות יותר"
+
+#: comments.php:38
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "מחשבה אחת על &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s מחשבות על &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "כדאי לחפש בארכיון החודשי. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "קטגוריות בולטות"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "לא הצלחנו למצוא שום דבר בכתובת זו. כדאי לנסות את הקישורים הבאים, או את החיפוש."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת אינו קיים."

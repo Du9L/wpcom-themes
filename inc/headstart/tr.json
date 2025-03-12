@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "WordPress.com'a hoş geldiniz",
+            "home_hero_content": "Okuyucularınıza bir parça önemli bilgi vermek için bu şablonu kullanın.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Eylem Çağrısı</a>",
+            "home_posts_subtitle": "Bu güzel gönderiler gibi Öne Çıkan İçerikle en iyilerinizi gösterin:",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>Video Ekle</h3>\n\nAna Sayfa şablonu, bir parça içeriğin yanı sıra bir video için kullanılabilecek bir bölüm içerir.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Eylem Çağrısı</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Metin Pencere Öğesi",
+                "text": "Bu bir metin pencere öğesidir. Bu, kenar çubuğunuza metin veya HTML eklemenizi sağlayan bir metin pencere öğesidir. Metinleri, bağlantıları, görüntüleri HTML'i veya bunların bir birleşimini görüntülemek için bir metin pencere öğesi kullanabilirsiniz. Bunları <a href=\"https://wordpress.com/customize/\">Özelleştirici</a>'nin Pencere Öğesi bölümünde düzenleyin.",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Metin Pencere Öğesi",
+                "text": "Bu bir metin pencere öğesidir. Bu, kenar çubuğunuza metin veya HTML eklemenizi sağlayan bir metin pencere öğesidir. Metinleri, bağlantıları, görüntüleri HTML'i veya bunların bir birleşimini görüntülemek için bir metin pencere öğesi kullanabilirsiniz. Bunları <a href=\"https://wordpress.com/customize/\">Özelleştirici</a>'nin Pencere Öğesi bölümünde düzenleyin.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Metin Pencere Öğesi",
+                "text": "Bu bir metin pencere öğesidir. Bu, kenar çubuğunuza metin veya HTML eklemenizi sağlayan bir metin pencere öğesidir. Metinleri, bağlantıları, görüntüleri HTML'i veya bunların bir birleşimini görüntülemek için bir metin pencere öğesi kullanabilirsiniz. Bunları <a href=\"https://wordpress.com/customize/\">Özelleştirici</a>'nin Pencere Öğesi bölümünde düzenleyin.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "Metin Pencere Öğesi",
+                "text": "Bu bir metin pencere öğesidir. Bu, kenar çubuğunuza metin veya HTML eklemenizi sağlayan bir metin pencere öğesidir. Metinleri, bağlantıları, görüntüleri HTML'i veya bunların bir birleşimini görüntülemek için bir metin pencere öğesi kullanabilirsiniz. Bunları <a href=\"https://wordpress.com/customize/\">Özelleştirici</a>'nin Pencere Öğesi bölümünde düzenleyin.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Giriş",
+            "post_content": "Yeni sitenize hoş geldiniz!  Düzenle bağlantısına tıklayarak bu sayfayı düzenleyebilirsiniz.  Sitenizi özelleştirme hakkında daha fazla bilgi için <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a> adresini kontrol edin",
+            "post_excerpt": "Bu, ana sayfanın alıntısıdır",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "Hakkında",
+            "post_content": "Bu bir hakkında sayfası örneğidir. Gönderilerin aksine sayfalar, Hakkında ya da İletişim gibi kolayca ulaşılabilir, zamandan bağımsız içerikleriniz için daha uygundur. Bu sayfada değişiklik yapmak için Düzenle'yi tıklayın veya <a href=\"https://wordpress.com/page\">başka bir sayfa ekleyin</a>.",
+            "post_excerpt": "Bu yalnızca hakkında&nbsp;sayfası için kısa bir alıntıdır.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "İletişim",
+            "post_content": "Bu, bazı temel bilgilerin ve bir iletişim formunun yer aldığı bir iletişim sayfasıdır. [contact-form][contact-field label=\"Ad\" type=\"name\" required=\"1\"/][contact-field label=\"E-posta\" type=\"email\" required=\"1\"/][contact-field label=\"Web sitesi\" type=\"url\"/][contact-field label=\"Yorum\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "Bu yalnızca iletişim&nbsp;sayfası için kısa bir alıntıdır.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "Bu, kullanıcıların sitenizin blogunu bulacağı sayfadır",
+            "post_excerpt": "Bu yalnızca blogunuz hakkında kısa bir alıntıdır.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Öne çıkarılmış içerik",
+            "post_content": "Bu bir öne çıkarılmış içerik gönderisidir. Değiştirmek veya silmek için Düzenle'ye tıklayın veya <a href=\"https://wordpress.com/post\">yeni bir gönderi başlatın</a>.",
+            "post_excerpt": "Bu bir öne çıkarılmış içerik gönderisinin kısa bir alıntısıdır.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "Öne çıkarılmış içerik",
+            "post_content": "Bu bir öne çıkarılmış içerik gönderisidir. Değiştirmek veya silmek için Düzenle'ye tıklayın veya <a href=\"https://wordpress.com/post\">yeni bir gönderi başlatın</a>.",
+            "post_excerpt": "Bu bir öne çıkarılmış içerik gönderisinin kısa bir alıntısıdır.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "Öne çıkarılmış içerik",
+            "post_content": "Bu bir öne çıkarılmış içerik gönderisidir. Değiştirmek veya silmek için Düzenle'ye tıklayın veya <a href=\"https://wordpress.com/post\">yeni bir gönderi başlatın</a>.",
+            "post_excerpt": "Bu bir öne çıkarılmış içerik gönderisinin kısa bir alıntısıdır.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "Blog gönderisi başlığı",
+            "post_content": "Bu, ek bir yer tutucu gönderisidir. Değiştirmek veya silmek için Düzenle'ye tıklayın veya <a href=\"https://wordpress.com/post\">yeni bir gönderi başlatın</a>. İsterseniz, bu gönderide okuyuculara bu bloga neden başladığınızı ve ne yapmayı planladığınızı belirtin.",
+            "post_excerpt": "Bu bir yer tutucu gönderisinin kısa bir alıntısıdır. Değiştirmek veya silmek için Düzenle'ye tıklayın veya <a href=\"https://wordpress.com/post\">yeni bir gönderi başlatın</a>.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "Sosyal Menü",
+            "items": [
+                {
+                    "menu-item-title": "Beni Facebook'ta takip et",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Beni Twitter'da takip et",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Beni Instagram'da takip et",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Bizi Dribbble'da takip et",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

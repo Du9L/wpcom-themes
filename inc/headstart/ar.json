@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "مرحباً بك إلى WordPress.com",
+            "home_hero_content": "استخدم هذا القالب لتقدم لقرائك قليلاً من المعلومات المهمة.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">دعوة إلى الإجراء</a>",
+            "home_posts_subtitle": "أظهر أفضل ما لديك باستخدام \"المحتوى المميز\"، مثل هذه المقالات الرائعة:",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>إضافة فيديو</h3>\n\nيتضمن قالب \"الصفحة الرئيسية\" قسمًا لفيديو مع محتوى صغير.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">دعوة إلى الإجراء</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي للنص",
+                "text": "هذا مربع جانبي للنص. يسمح لك المربع الجانبي للنص بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>.",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي للنص",
+                "text": "هذا مربع جانبي للنص. يسمح لك المربع الجانبي للنص بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي للنص",
+                "text": "هذا مربع جانبي للنص. يسمح لك المربع الجانبي للنص بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "مربع جانبي للنص",
+                "text": "هذا مربع جانبي للنص. يسمح لك المربع الجانبي للنص بإضافة نص أو HTML إلى شريطك الجانبي. يمكنك استخدام مربع جانبي للنص لعرض نص أو روابط أو صور أو HTML أو مجموعة متنوعة من هذه. حررها في قسم \"المربع الجانبي\" في <a href=\"https://wordpress.com/customize/\">\"أداة التخصيص\"</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "الرئيسية",
+            "post_content": "مرحبًا بك في موقعك الجديد!  يمكنك تحرير هذه الصفحة عن طريق النقر فوق رابط \"تحرير\".  لمزيد من المعلومات حول تخصيص موقعك، تحقق من <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_excerpt": "هذا هو مقتطف الصفحة الرئيسية",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "نبذة عن",
+            "post_content": "هذا مثال لصفحة \"نبذة عن\". على عكس المقالات، تتناسب الصفحات بشكل أفضل مع المحتوى المستمر لفترة طويلة الذي تريد تسهيل الوصول إليه، مثل \"نبذة عنك\" أو \"معلومات الاتصال الخاصة بك\" انقر فوق رابط \"تحرير\" لإجراء تغييرات على هذه الصفحة <a href=\"https://wordpress.com/page\">أو أضف صفحة أخرى</a>.",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة &nbsp;\"نبذة عن\".",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "اتصال",
+            "post_content": "هذه صفحة \"اتصال\" تحتوي على بعض معلومات الاتصال الرئيسية ونموذج الاتصال. [contact-form][contact-field label=\"Name\" type=\"name\" required=\"1\"/][contact-field label=\"البريد الإلكتروني\" type=\"email\" required=\"1\"/][contact-field label=\"موقع الويب\" type=\"url\"/][contact-field label=\"التعليق\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن صفحة &nbsp;\"اتصال\".",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "المدونة",
+            "post_content": "هذه هي الصفحة التي سيجد فيها المستخدمون مدونة موقعك",
+            "post_excerpt": "هذا مجرد مقتطف موجز عن مدونتك.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "المحتوى المميز",
+            "post_content": "هذه مقالة محتوى مميزة. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>.",
+            "post_excerpt": "هذا مقتطف لمقالة المحتوى المميز.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "المحتوى المميز",
+            "post_content": "هذه مقالة محتوى مميزة. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>.",
+            "post_excerpt": "هذا مقتطف لمقالة المحتوى المميز.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "المحتوى المميز",
+            "post_content": "هذه مقالة محتوى مميزة. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>.",
+            "post_excerpt": "هذا مقتطف لمقالة المحتوى المميز.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "عنوان المقالة على المدونة",
+            "post_content": "هذه هي مقالة متغير إضافية. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>. استخدم هذه المقالة، إن شئت، لإخبار القراء عن سبب إنشاء هذه المدونة وما الذي تخطط للقيام به من خلالها.",
+            "post_excerpt": "هذا مقتطف لمقالة متغير. انقر فوق رابط \"تحرير\" لتعديلها أو حذفها أو <a href=\"https://wordpress.com/post\">ابدأ مقالة جديدة</a>.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "قائمة اجتماعية",
+            "items": [
+                {
+                    "menu-item-title": "أتبعني على فيسبوك",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "أتبعني على تويتر",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "أتبعني على إنستغرام",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "تابعنا على Dribbble",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 0
+            }
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "Добро пожаловать на WordPress.com",
+            "home_hero_content": "Используйте этот шаблон, чтобы преподнести читателям важную информацию.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Call to Action</a>",
+            "home_posts_subtitle": "Покажите себя во всей красе с помощью избранного содержимого, например с помощью этих замечательных записей:",
+            "home_posts_video": "https://www.youtube.com/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https://vimeo.com/109354891",
+            "home_video_aside": "<h3>Добавить видео</h3>\n\nВ шаблоне главной страницы есть раздел для видео с небольшим пространством для текста.\n\n<a href=\"https://gatewaydemo.wordpress.com/add-a-call-to-action-button/\" class=\"button\">Call to Action</a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Текстовый виджет",
+                "text": "Это текстовый виджет. С помощью этого виджета можно добавлять текст или HTML-код на боковую панель. Используйте текстовый виджет для отображения текста, ссылок, изображений, HTML или их сочетаний. Чтобы изменить элемент, откройте раздел «Виджет» в <a href=\"https://wordpress.com/customize/\">Конфигураторе</a>.",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Текстовый виджет",
+                "text": "Это текстовый виджет. С помощью этого виджета можно добавлять текст или HTML-код на боковую панель. Используйте текстовый виджет для отображения текста, ссылок, изображений, HTML или их сочетаний. Чтобы изменить элемент, откройте раздел «Виджет» в <a href=\"https://wordpress.com/customize/\">Конфигураторе</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Текстовый виджет",
+                "text": "Это текстовый виджет. С помощью этого виджета можно добавлять текст или HTML-код на боковую панель. Используйте текстовый виджет для отображения текста, ссылок, изображений, HTML или их сочетаний. Чтобы изменить элемент, откройте раздел «Виджет» в <a href=\"https://wordpress.com/customize/\">Конфигураторе</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "Текстовый виджет",
+                "text": "Это текстовый виджет. С помощью этого виджета можно добавлять текст или HTML-код на боковую панель. Используйте текстовый виджет для отображения текста, ссылок, изображений, HTML или их сочетаний. Чтобы изменить элемент, откройте раздел «Виджет» в <a href=\"https://wordpress.com/customize/\">Конфигураторе</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Главная",
+            "post_content": "Добро пожаловать на ваш новый сайт!  Чтобы внести изменения на этой странице, выберите элемент «Изменить».  Дополнительную информацию о настройке сайта см. на странице <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>.",
+            "post_excerpt": "Это цитата для главной страницы.",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "О нас",
+            "post_content": "Это пример страницы «О нас». Сведения о владельце сайта, контактные данные и прочее содержимое, которое не привязано ко времени и должно быть легко доступно, лучше размещать на отдельных страницах, а не в записях блога. Выберите элемент «Изменить», чтобы отредактировать эту страницу, или <a href=\"https://wordpress.com/page\">добавьте новую страницу</a>.",
+            "post_excerpt": "Это небольшая цитата для страницы «О нас», содержащей информацию&nbsp;о владельце сайта.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "Контакты",
+            "post_content": "На этой странице представлена основная контактная информация и контактная форма. [contact-form][contact-field label=\"Имя\" type=\"name\" required=\"1\"/][contact-field label=\"Адрес эл. почты\" type=\"email\" required=\"1\"/][contact-field label=\"Веб-сайт\" type=\"url\"/][contact-field label=\"Комментарий\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_excerpt": "Это небольшая цитата для страницы&nbsp;«Контакты».",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "Блог",
+            "post_content": "Это страница, на которой будет располагаться блог вашего сайта.",
+            "post_excerpt": "Это небольшая цитата о вашем блоге.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Избранное содержимое",
+            "post_content": "Это запись с избранным содержимым. Выберите элемент «Изменить», чтобы отредактировать или удалить её, или <a href=\"https://wordpress.com/post\">создайте новую запись</a>.",
+            "post_excerpt": "Это цитата для записи с избранным содержимым.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 104,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2011/07/flower-256776_1280.jpg"
+        },
+        {
+            "post_title": "Избранное содержимое",
+            "post_content": "Это запись с избранным содержимым. Выберите элемент «Изменить», чтобы отредактировать или удалить её, или <a href=\"https://wordpress.com/post\">создайте новую запись</a>.",
+            "post_excerpt": "Это цитата для записи с избранным содержимым.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 105,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/08/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "Избранное содержимое",
+            "post_content": "Это запись с избранным содержимым. Выберите элемент «Изменить», чтобы отредактировать или удалить её, или <a href=\"https://wordpress.com/post\">создайте новую запись</a>.",
+            "post_excerpt": "Это цитата для записи с избранным содержимым.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 106,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2016/06/cropped-digital-camera-349873_1280.jpg"
+        },
+        {
+            "post_title": "Заголовок записи в блоге",
+            "post_content": "Это дополнительная запись с шаблонным текстом. Выберите элемент «Изменить», чтобы отредактировать или удалить её, или <a href=\"https://wordpress.com/post\">создайте новую запись</a>. В этой записи можно рассказать читателям, почему вы завели блог и что планируете в нём публиковать.",
+            "post_excerpt": "Это цитата для записи с шаблонным текстом. Выберите элемент «Изменить», чтобы отредактировать или удалить её, или <a href=\"https://wordpress.com/post\">создайте новую запись</a>.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_old_id": 107,
+            "hs_like_status": 0,
+            "attachment_url": "https://gatewaydemo.files.wordpress.com/2014/09/coffee-386878_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "Меню социальных сетей",
+            "items": [
+                {
+                    "menu-item-title": "Подпишитесь на обновления в Facebook",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Подпишитесь на обновления в Twitter",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Подпишитесь на обновления в Instagram",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Подпишитесь на обновления в Dribbble",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com/automattic/"
+                }
+            ]
+        }
+    }
+}

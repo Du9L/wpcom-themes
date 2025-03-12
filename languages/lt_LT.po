@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-21T01:27:32+00:00\n"
+"PO-Revision-Date: 2018-12-10 00:23:11+0000\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:40
+msgid "Headings"
+msgstr "Antraštės"
+
+#: inc/wpcom-colors.php:30
+msgid "Links"
+msgstr "Nuorodos"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:112
+msgid "Tagged"
+msgstr "Pažymėta"
+
+#: inc/customizer.php:98
+msgid "Scroll &mdash; the header background image scrolls along with the rest of the page"
+msgstr "Slenkantis  &mdash;  fono paveikslėlis slenka kartu su turiniu"
+
+#: inc/customizer.php:97
+msgid "Fixed &mdash; the header background image stays in place while rest of the page scrolls."
+msgstr "Fiksuotas  &mdash;  fono paveikslėlis lieka vietoje slenkant."
+
+#: inc/customizer.php:93
+msgid "Header Image Display"
+msgstr "Antraštės paveikslėlio rodymas"
+
+#: header-home.php:62
+#: header.php:45
+msgid "Menu"
+msgstr "Meniu"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-home.php
+msgid "Home Page"
+msgstr "Pradinis puslapis"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-full.php
+msgid "Full Width, No Sidebar"
+msgstr "Pilnas plotis, be šoninės srities"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "Gateway is the perfect mix of class and elegance, a traditional yet customizable home for your content. Reinforce your brand with a site logo, add a bold header image and call to action, and showcase your best posts or a video with a special Homepage template."
+msgstr "Tema Gateway - tai idealus klasikos ir elegancijos mišinys - tradicinis bet lankstus pasirinkimas Jūsų tinklalapiui. Galite įkelti savo logotipą, antraštės paveikslėlį bei mygtuką, rodyti rekomenduojamus įrašus ar video."
+
+#: template-parts/content-page.php:30
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nieko nerasta. Pabandykite pasinaudoti paieška."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti savo pirmajį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nieko nerasta"
+
+#: template-home.php:24
+#: template-parts/content-home.php:44
+#: template-parts/content-page.php:37
+#: template-parts/content-single.php:37
+#: template-parts/content.php:41
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: template-parts/content-home.php:40
+#: template-parts/content.php:37
+msgid "Leave a comment"
+msgstr "Parašykite komentarą"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai pagal: %s"
+
+#: inc/template-tags.php:169
+msgid "Archives"
+msgstr "Archyvai"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:167
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:163
+msgid "Archives: %s"
+msgstr "Archyvai: %s"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Pokalbiai"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusai"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Nuorodos"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citatos"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Paveiksliukai"
+
+#: inc/template-tags.php:146
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerijos"
+
+#: inc/template-tags.php:144
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Užrašai"
+
+#: inc/template-tags.php:141
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:141
+msgid "Day: %s"
+msgstr "Diena: %s"
+
+#: inc/template-tags.php:139
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:139
+msgid "Month: %s"
+msgstr "Mėnesis: %s"
+
+#: inc/template-tags.php:137
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:137
+msgid "Year: %s"
+msgstr "Metai: %s"
+
+#: inc/template-tags.php:135
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#: inc/template-tags.php:133
+msgid "Tag: %s"
+msgstr "Žymė: %s"
+
+#: inc/template-tags.php:131
+msgid "Category: %s"
+msgstr "Kategorija: %s"
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr "Paskelbta %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106
+#: inc/template-tags.php:112
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr "parašė %s"
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Paskelbta %s"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "Įrašo navigacija"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Naujesni įrašai"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Ankstesni įrašai"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Įrašų navigacija"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Puslapis %s"
+
+#: inc/customizer.php:80
+msgid "Appears next to the video. You may use HTML."
+msgstr "Rodoma šalia video. Galite naudoti HTML."
+
+#: inc/customizer.php:79
+msgid "Video Content"
+msgstr "Video turinys"
+
+#: inc/customizer.php:66
+msgid "Appears below the Featured Content."
+msgstr "Rodoma žemiau rekomenduojamo turinio,"
+
+#: inc/customizer.php:65
+msgid "Video URL"
+msgstr "Video URL"
+
+#: inc/customizer.php:53
+msgid "Appears in the header. You may use HTML."
+msgstr "Rodomas antraštėje. Galite naudoti HTML."
+
+#: inc/customizer.php:52
+msgid "Hero Content"
+msgstr "Pagrindinis aprašymas"
+
+#: inc/customizer.php:39
+msgid "Appears in the header."
+msgstr "Rodomas antraštėje."
+
+#: inc/customizer.php:38
+msgid "Hero Title"
+msgstr "Pagrindinis pavadinimas"
+
+#: inc/customizer.php:28
+msgid "Homepage Template"
+msgstr "Pradinio puslapio šablonas"
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr "Pagrindinės"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temos nuostatos"
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr "Miestas"
+
+#: header-home.php:28
+#: header.php:23
+msgid "Skip to content"
+msgstr "Praleisti ir eiti į turinį"
+
+#: functions.php:238
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Daugiau <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:181
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Fanwood Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:175
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr "Poraštė 3"
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr "Poraštė 2"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "Poraštė 1"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė; %2$s"
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:40
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Naujesni komentarai &rarr;"
+
+#: comments.php:39
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Senesni komentarai"
+
+#: comments.php:38
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Komentaro navigacija"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mintis apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mintys apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s minčių apie &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pabandykite pažiūrėti mėnesio archyve. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Populiariausios kategorijos"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."
