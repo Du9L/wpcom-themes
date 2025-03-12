@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Apostrophe-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T01:56:08+00:00\n"
+"PO-Revision-Date: 2020-05-01 10:52:06+0000\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:79
+msgid "Dark Blue"
+msgstr "ダークブルー"
+
+#: functions.php:54
+msgid "Dark Gray"
+msgstr "ダークグレー"
+
+#: functions.php:69
+msgid "White"
+msgstr "白"
+
+#: functions.php:74
+msgid "Blue"
+msgstr "青"
+
+#: functions.php:64
+msgid "Light Gray"
+msgstr "ライトグレー"
+
+#: functions.php:59
+msgid "Medium Gray"
+msgstr "ミディアムグレー"
+
+#: functions.php:49
+msgid "Black"
+msgstr "黒"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/apostrophe-2/templates/full-width-page.php
+msgid "Full-Width Page"
+msgstr "全幅ページ"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/apostrophe-2/style.css
+msgid "A clean, no-nonsense magazine theme"
+msgstr "スッキリとしたデザインの、実用的なマガジンテーマ"
+
+#: inc/wpcom-colors.php:122
+msgid "Links and Buttons"
+msgstr "リンク・ボタン"
+
+#: inc/wpcom-colors.php:144
+msgid "Accents"
+msgstr "アクセント"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/template-tags.php:37
+msgid "Featured"
+msgstr "おすすめ"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "メニュー"
+
+#: functions.php:255
+msgid "expand child menu"
+msgstr "サブメニューを展開"
+
+#: functions.php:256
+msgid "collapse child menu"
+msgstr "サブメニューを閉じる"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:204
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:210
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:166
+msgid "Secondary"
+msgstr "セカンダリ"
+
+#: functions.php:175
+msgid "Tertiary"
+msgstr "ターシャリ"
+
+#: functions.php:184
+msgid "Footer Sidebar"
+msgstr "フッターサイドバー"
+
+#: functions.php:106
+msgid "Header Menu"
+msgstr "ヘッダーメニュー"
+
+#: functions.php:157
+msgid "Primary"
+msgstr "メインブログ"
+
+#: footer.php:26
+msgid "Theme: %1$s by %2$s."
+msgstr "テーマ: %1$s by %2$s."
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: content-single.php:32
+msgid "<span class=\"meta-nav\">Previous</span> %title"
+msgstr "<span class=\"meta-nav\">前へ</span> %title"
+
+#: content-single.php:32
+msgid "<span class=\"meta-nav\">Next</span> %title"
+msgstr "<span class=\"meta-nav\">次</span> %title"
+
+#: content-page.php:16
+#: content-single.php:15
+msgid "Edit"
+msgstr "編集する"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: content-page.php:25
+#: content-single.php:24
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: comments.php:35
+#: comments.php:51
+msgid "Newer Comments &raquo;"
+msgstr "新しいコメント &raquo;"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:34
+#: comments.php:50
+msgid "&laquo; Older Comments"
+msgstr "&laquo; 古いコメント"
+
+#: comments.php:33
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください: %1$s"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%s comments"
+msgstr[0] "%s件のコメント"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "﻿ページが見つかりません。"

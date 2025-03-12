@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Apostrophe-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-20T01:50:24+00:00\n"
+"PO-Revision-Date: 2024-02-03 12:16:19+0000\n"
+"Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:79
+msgid "Dark Blue"
+msgstr "Blu e Errët"
+
+#: functions.php:54
+msgid "Dark Gray"
+msgstr "Gri e Errët"
+
+#: functions.php:69
+msgid "White"
+msgstr "E bardhë"
+
+#: functions.php:74
+msgid "Blue"
+msgstr "Blu"
+
+#: functions.php:64
+msgid "Light Gray"
+msgstr "Gri e Çelët"
+
+#: functions.php:59
+msgid "Medium Gray"
+msgstr "Gri Mesatare"
+
+#: functions.php:49
+msgid "Black"
+msgstr "E zezë"
+
+#. Template Name of the theme
+msgid "Full-Width Page"
+msgstr "Faqe Në Gjerësi të Plotë"
+
+#. Description of the theme
+#: style.css
+msgid "A clean, no-nonsense magazine theme"
+msgstr "Një temë revistash e pastër, pa gjëra të tepërta"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Përfundime Kërkimi për: %s"
+
+#: inc/template-tags.php:37
+msgid "Featured"
+msgstr "E zgjedhur"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Kaloni te lënda"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: header.php:29
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:291
+msgid "expand child menu"
+msgstr "zgjeroje menunë pjellë"
+
+#: functions.php:292
+msgid "collapse child menu"
+msgstr "tkurre menunë pjellë"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:230
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:236
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "më"
+
+#: functions.php:187
+msgid "Secondary"
+msgstr "Dytësore"
+
+#: functions.php:198
+msgid "Tertiary"
+msgstr "Terciare"
+
+#: functions.php:209
+msgid "Footer Sidebar"
+msgstr "Anështyllë Fundfaqeje"
+
+#: functions.php:107
+msgid "Header Menu"
+msgstr "Menu Kreu"
+
+#: functions.php:176
+msgid "Primary"
+msgstr "Parësor"
+
+#: footer.php:26
+msgid "Theme: %1$s by %2$s."
+msgstr "Temë: %1$s nga %2$s"
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Bazohet me krenari në %s."
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:16
+#: content-single.php:15
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk gjejmë dot ç&#8217;po kërkonit. Ndoshta mund t&#8217;ju ndihë kërkimi."
+
+#: content-page.php:25
+#: content-single.php:24
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por s&#8217;u përputh gjë me kriterin tuaj të kërkimit. Ju lutemi, riprovoni me ndonjë fjalëkyç tjetër."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "S&#8217;u Gjet Gjë"
+
+#: comments.php:35
+#: comments.php:51
+msgid "Newer Comments &raquo;"
+msgstr "Komente Më të Reja &raquo;"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#: comments.php:34
+#: comments.php:50
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Komente Më të Vjetra"
+
+#: comments.php:33
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Lëvizje te komentet"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Provoni të shihni arkivat mujore. %1$s"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%s comments"
+msgstr[0] "Një koment"
+msgstr[1] "%s komente"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Duket se s&#8217;u gjet gjë në këtë vend. Të provohet një nga lidhjet më poshtë ose një kërkim?"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "Kategoritë Më të Përdorura"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm! Ajo faqe s&#8217;gjendet dot."
