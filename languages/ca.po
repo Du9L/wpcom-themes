@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T04:48:15+00:00\n"
+"PO-Revision-Date: 2022-10-13 13:40:40+0000\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:87
+msgid "White"
+msgstr "Blanc"
+
+#: functions.php:92
+msgid "Blue"
+msgstr "Blau"
+
+#: functions.php:82
+msgid "Light Gray"
+msgstr "Gris clar"
+
+#: functions.php:72
+msgid "Dark Gray"
+msgstr "Gris fosc"
+
+#: functions.php:67
+msgid "Black"
+msgstr "Negre"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensament sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensaments sobre &ldquo;%2$s&rdquo;"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:273
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d article"
+msgstr[1] "%d articles"
+
+#: inc/wpcom-colors.php:67
+msgid "Links"
+msgstr "Enllaços"
+
+#: inc/wpcom-colors.php:22
+msgid "Headings"
+msgstr "Capçaleres"
+
+#: functions.php:341
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Continua llegint <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid "Tagged"
+msgstr "Etiquetat"
+
+#. Template Name of the theme
+msgid "Grid Page"
+msgstr "Pàgina en graella"
+
+#. Template Name of the theme
+msgid "Full Width, No Sidebar"
+msgstr "Ample complet, sense barra lateral"
+
+#: single.php:21
+msgid "Previous post"
+msgstr "Entrada prèvia"
+
+#: single.php:21
+msgid "Next post"
+msgstr "Entrada següent"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Resultats de cerca per: %s"
+
+#: inc/template-tags.php:63
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: inc/template-tags.php:63
+msgid "1 Comment"
+msgstr "1 Comentari"
+
+#: inc/template-tags.php:63
+msgid "Leave a comment"
+msgstr "Deixa un comentari"
+
+#: inc/customizer.php:42
+msgid "Front Page: Featured Page One"
+msgstr "Portada: primera pàgina destacada."
+
+#: inc/customizer.php:54
+msgid "Front Page: Featured Page Two"
+msgstr "Portada: segona pàgina destacada"
+
+#: inc/customizer.php:66
+msgid "Front Page: Featured Page Three"
+msgstr "Portada: tercera pàgina destacada"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Opcions del tema"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Vés al contingut"
+
+#: functions.php:271
+msgid "Footer 2"
+msgstr "Peu 2"
+
+#: functions.php:281
+msgid "Footer 3"
+msgstr "Peu 3"
+
+#: functions.php:251
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:261
+msgid "Footer 1"
+msgstr "Peu 1"
+
+#: functions.php:107
+msgid "Header"
+msgstr "Capçalera"
+
+#: components/post/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no podem trobar el què estaves buscant. Potser una cerca pot ajudar."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua llegint %s <span class=\"meta-nav\">&rarr;</span> "
+
+#: components/post/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ho sentim, però res coincideix amb els termes de cerca. Torneu-ho a provar amb algunes paraules clau diferents."
+
+#: components/post/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esteu preparats per publicar la primera entrada? <a href=\"%1$s\">Comenceu aquí</a>."
+
+#: components/post/content-author.php:35
+msgid "View all posts by %s"
+msgstr "Mostra totes les entrades de %s"
+
+#: components/post/content-none.php:15
+msgid "Nothing Found"
+msgstr "No s'ha trobat res"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:32
+#: components/testimonials/content-testimonial.php:26
+#: inc/template-tags.php:39
+msgid "Edit %s"
+msgstr "Edita %s"
+
+#: components/post/content-author.php:29
+msgid "Published by %s"
+msgstr "Publicat per %s"
+
+#: components/page/content-page.php:22
+#: components/post/content.php:55
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: components/footer/site-info.php:5
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s per %2$s."
+
+#: components/navigation/navigation-top.php:3
+msgid "Menu"
+msgstr "Menú"
+
+#: components/footer/site-info.php:3
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:3
+msgid "Proudly powered by %s"
+msgstr "Gràcies al %s."
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats."
+
+#: comments.php:57
+#: comments.php:77
+msgid "Older Comments"
+msgstr "Comentaris més antics"
+
+#: comments.php:58
+#: comments.php:78
+msgid "Newer Comments"
+msgstr "Comentaris més nous"
+
+#: comments.php:54
+#: comments.php:74
+msgid "Comment navigation"
+msgstr "Navegació de comentaris"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sembla que no s'ha trobat res aquí. Voleu intentar una cerca?"
+
+#: archive-jetpack-testimonial.php:29
+msgid "Testimonials"
+msgstr "Testimonis"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Aquesta pàgina no s'ha pogut trobar."
