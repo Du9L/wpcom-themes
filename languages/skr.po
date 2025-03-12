@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Edda\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:28:14+00:00\n"
+"PO-Revision-Date: 2020-07-19 15:07:11+0000\n"
+"Language: skr_PK\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:159
+msgid "Tagged"
+msgstr "ٹیگ تھی ڳیا"
+
+#: inc/template-tags.php:224
+msgid "Archives"
+msgstr "آرکائیو"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s کیتے نتیجے ڳولو"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:222
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:318
+msgid "Continue reading %s"
+msgstr "%s پڑھݨ جاری رکھو"
+
+#: inc/template-tags.php:218
+msgid "Archives: %s"
+msgstr "آرکائیو: %s"
+
+#: inc/template-tags.php:213
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "آڈیو"
+
+#: inc/template-tags.php:215
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "ڳالھیں"
+
+#: inc/template-tags.php:211
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "سٹیٹس"
+
+#: inc/template-tags.php:209
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "لنک"
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "ٻول"
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "ویڈیو"
+
+#: inc/template-tags.php:203
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصویراں"
+
+#: inc/template-tags.php:196
+msgid "Day: %s"
+msgstr "ڈین٘ہ: %s"
+
+#: inc/template-tags.php:194
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:194
+msgid "Month: %s"
+msgstr "مہینہ:  %s"
+
+#: inc/template-tags.php:201
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گیلریاں"
+
+#: inc/template-tags.php:196
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:199
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "پاسے نال"
+
+#: inc/template-tags.php:192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "سال"
+
+#: inc/template-tags.php:192
+msgid "Year: %s"
+msgstr "%s"
+
+#: inc/template-tags.php:190
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#: inc/template-tags.php:188
+msgid "Tag: %s"
+msgstr "ٹیگ: %s"
+
+#: inc/template-tags.php:186
+msgid "Category: %s"
+msgstr "ونکی: %s"
+
+#: inc/template-tags.php:165
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: inc/template-tags.php:165
+msgid "1 Comment"
+msgstr "١ تبصرہ"
+
+#: inc/template-tags.php:165
+msgid "Leave a comment"
+msgstr "تبصرہ  لکھو"
+
+#: inc/template-tags.php:155
+msgid "Posted in %1$s"
+msgstr "%1$s وچ پوسٹ تھی ڳیا"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153
+#: inc/template-tags.php:159
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:143
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:88
+msgid "Next"
+msgstr "اڳلا"
+
+#: inc/template-tags.php:87
+msgid "Previous"
+msgstr "پچھلا"
+
+#: inc/template-tags.php:107
+msgctxt "post author"
+msgid "Written by %s"
+msgstr "%s ولوں لکھیا ہویا"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "پوسٹ نیویڳیشݨ"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "نویاں نویاں پوسٹاں"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "پراٹیاں پراݨیاں پوسٹاں"
+
+#: inc/template-tags.php:86
+msgid "Page"
+msgstr "ورقہ"
+
+#: header.php:37
+msgid "Menu"
+msgstr "مینیو"
+
+#: inc/extras.php:87
+msgid "Page %s"
+msgstr "ورقہ %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پوسٹاں دی نیویڳیشݨ"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "چھوڑو تے مواد تے ون٘ڄو"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "بنیادی مینیو"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "%s کنوں فخریہ طاقتور ٻݨیا ہویا"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-single.php:13
+#: content.php:13
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "پڑھݨ جاری رکھو %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:169
+msgid "Edit"
+msgstr "تبدیلی کرو"
+
+#: content-page.php:24
+#: content-single.php:133
+msgid "Pages:"
+msgstr "ورقے:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "اِین٘ویں لڳدے جو اَساں اُوہ شئے نِسے لبھ سڳدے جین٘دی تُساں ڳویڑ کِیتی ہِے۔ تِھی سڳدے جو ڳویڑ نال کُجھ معاونت مِلے۔ "
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "افسوس، تہاݙی ڳولݨ ٹرم  نال ککھ نی رلدا۔ سوہݨا کجھ ٻنھاں خاص لفظاں نال ڳولݨ دی کوشش کرو۔"
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "تہاݙی پہلی پوسٹ شائع تھیوݨ کیتے تیار ہے? <a href=\"%1$s\">اتھ شروع کرو</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "کائی شئے کائنی لبھی"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "تبصرے بند  ہن۔"
+
+#: comments.php:40
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "تازہ ترین تبصرے  &rarr;"
+
+#: comments.php:39
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; پراݨے تبصرے"
+
+#: comments.php:38
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "تبصریاں دی نیویڳیشݨ"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo اُتے ہِک وِچار؛"
+msgstr[1] "&ldquo;%2$s&rdquo; اُتے %1$s وِچار؛"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "اینویں لڳدے جو ایں جاہ تے ککھ نی لبھا۔ تھی سڳدے، ڳولݨ دی کوشش کرو؟"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہو! ایہ ورقہ کائنی لبھ سڳا۔"

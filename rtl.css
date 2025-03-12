@@ -1,0 +1,387 @@
+/*
+Theme Name: Edda
+*/
+/*--------------------------------------------------------------
+1. Reset
+--------------------------------------------------------------*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/*--------------------------------------------------------------
+2. Utility classes
+--------------------------------------------------------------*/
+
+.screen-reader-text:focus {
+	right: 24px;
+	left: auto;
+}
+
+/*--------------------------------------------------------------
+3. Typography
+--------------------------------------------------------------*/
+body {
+	text-align: right;
+}
+
+pre,
+.form-allowed-tags code {
+	background-image: -webkit-gradient(linear, right top, right bottom, color-stop(50%, rgba(255, 255, 255, 0.5)), color-stop(50%, transparent), to(transparent));
+}
+
+ul,
+ol {
+	padding: 0 1.5em 0 0;
+}
+
+dd {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+blockquote {
+	margin: 0 1.5em 1.5em 0;
+}
+
+blockquote blockquote,
+blockquote.alignright {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+th,
+td {
+	text-align: right;
+}
+
+/*--------------------------------------------------------------
+4. Navigation
+--------------------------------------------------------------*/
+.menu {
+	padding-right: 0;
+	text-align: right;
+	padding-left: 0;
+}
+
+.menu ul li a {
+	padding-right: 1.5em;
+	padding-left: 0;
+}
+
+#site-navigation ul ul li a:before {
+	margin-left: .5em;
+	margin-right: auto;
+}
+#site-navigation ul ul li a,
+#site-navigation ul ul ul li a,
+#site-navigation ul ul ul ul li a,
+#site-navigation ul ul ul ul ul li a,
+#site-navigation ul ul ul ul ul ul li a,
+#site-navigation ul ul ul ul ul ul ul li a {
+	padding-left: 0;
+}
+#site-navigation ul ul li a {
+    padding-right: 2.0em;
+}
+#site-navigation ul ul ul li a {
+    padding-right: 3em;
+}
+#site-navigation ul ul ul ul li a {
+    padding-right: 4em;
+}
+#site-navigation ul ul ul ul ul li a {
+    padding-right: 5em;
+}
+#site-navigation ul ul ul ul ul ul li a {
+    padding-right: 6em;
+}
+#site-navigation ul ul ul ul ul ul ul li a {
+    padding-right: 7em;
+}
+/*--------------------------------------------------------------
+5. Media
+--------------------------------------------------------------*/
+
+.alignright {
+	float: right;
+	margin-left: 1.5em;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+.aligncenter {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+img.alignright,
+.wp-caption.alignright {
+	margin-left: 1.5em;
+	clear: right;
+	margin-right: auto;
+}
+
+img.alignleft,
+.wp-caption.alignleft {
+	margin-right: 1.5em;
+	clear: left;
+	margin-left: auto;
+}
+
+.gallery {
+	margin-right: -0.9375em;
+	margin-left: -0.9375em;
+}
+
+/* Gallery column widths */
+
+.gallery-caption {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+6. Forms
+--------------------------------------------------------------*/
+
+input[type="checkbox"] {
+	margin-left: .5em;
+	margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+8. Header
+--------------------------------------------------------------*/
+
+.icon-menu {
+	margin: .25em 0 0 .5em;
+}
+
+.site-menu-inner {
+	left: 0;
+	right: auto;
+}
+
+/* Social Links */
+
+.widget_nav_menu ul a[href*="facebook.com"]:before,
+.widget_nav_menu ul a[href*="twitter.com"]:before,
+.widget_nav_menu ul a[href*="dribbble.com"]:before,
+.widget_nav_menu ul a[href*="plus.google.com"]:before,
+.widget_nav_menu ul a[href*="pinterest.com"]:before,
+.widget_nav_menu ul a[href*="github.com"]:before,
+.widget_nav_menu ul a[href*="tumblr.com"]:before,
+.widget_nav_menu ul a[href*="youtube.com"]:before,
+.widget_nav_menu ul a[href*="flickr.com"]:before,
+.widget_nav_menu ul a[href*="vimeo.com"]:before,
+.widget_nav_menu ul a[href*="instagram.com"]:before,
+.widget_nav_menu ul a[href*="codepen.io"]:before,
+.widget_nav_menu ul a[href*="linkedin.com"]:before,
+.widget_nav_menu ul a[href*="foursquare.com"]:before,
+.widget_nav_menu ul a[href*="reddit.com"]:before,
+.widget_nav_menu ul a[href*="digg.com"]:before,
+.widget_nav_menu ul a[href*="getpocket.com"]:before,
+.widget_nav_menu ul a[href*="path.com"]:before,
+.widget_nav_menu ul a[href*="stumbleupon.com"]:before,
+.widget_nav_menu ul a[href*="spotify.com"]:before,
+.widget_nav_menu ul a[href*="twitch.tv"]:before,
+.widget_nav_menu ul a[href*="dropbox.com"]:before,
+.widget_nav_menu ul a[href*="/feed"]:before,
+.widget_nav_menu ul a[href*="skype"]:before,
+.widget_nav_menu ul a[href*="mailto"]:before,
+.main-navigation ul a[href*="facebook.com"]:before,
+.main-navigation ul a[href*="twitter.com"]:before,
+.main-navigation ul a[href*="dribbble.com"]:before,
+.main-navigation ul a[href*="plus.google.com"]:before,
+.main-navigation ul a[href*="pinterest.com"]:before,
+.main-navigation ul a[href*="github.com"]:before,
+.main-navigation ul a[href*="tumblr.com"]:before,
+.main-navigation ul a[href*="youtube.com"]:before,
+.main-navigation ul a[href*="flickr.com"]:before,
+.main-navigation ul a[href*="vimeo.com"]:before,
+.main-navigation ul a[href*="instagram.com"]:before,
+.main-navigation ul a[href*="codepen.io"]:before,
+.main-navigation ul a[href*="linkedin.com"]:before,
+.main-navigation ul a[href*="foursquare.com"]:before,
+.main-navigation ul a[href*="reddit.com"]:before,
+.main-navigation ul a[href*="digg.com"]:before,
+.main-navigation ul a[href*="getpocket.com"]:before,
+.main-navigation ul a[href*="path.com"]:before,
+.main-navigation ul a[href*="stumbleupon.com"]:before,
+.main-navigation ul a[href*="spotify.com"]:before,
+.main-navigation ul a[href*="twitch.tv"]:before,
+.main-navigation ul a[href*="dropbox.com"]:before,
+.main-navigation ul a[href*="/feed"]:before,
+.main-navigation ul a[href*="skype"]:before,
+.main-navigation ul a[href*="mailto"]:before {
+	margin: .25em 0 0 .5em;
+}
+
+.post-navigation .nav-previous a,
+.post-navigation .nav-next a {
+	text-align: right;
+	float: right;
+}
+
+.post-navigation .nav-next a,
+.comment-navigation .nav-next a {
+	float: left;
+	text-align: left;
+}
+
+/*--------------------------------------------------------------
+9. Main Content
+--------------------------------------------------------------*/
+
+.entry-format:before {
+	margin: .2em 0 0 .25em;
+}
+
+/* Archives */
+
+.format-status .entry-content .avatar {
+	float: right;
+	margin: 0 0 1.5em 1em;
+}
+
+.icon-link-external:before {
+	margin: .15em .15em 0 0;
+}
+
+/*--------------------------------------------------------------
+10. Comments
+--------------------------------------------------------------*/
+
+.comment-list {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.comment-list .children {
+	padding-right: 0;
+	margin-right: 1.5em;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+.comment-meta .avatar {
+	float: right;
+	margin: -7px 0 1.5em 1em;
+}
+
+.reply {
+	text-align: left;
+	padding-left: 1.5em;
+	padding-right: 0;
+}
+
+.pingback .edit-link,
+.trackback .edit-link {
+	float: left;
+}
+
+/*--------------------------------------------------------------
+11. Widgets
+--------------------------------------------------------------*/
+.widget {
+	text-align: right;
+}
+
+.widget-title {
+	text-align: right;
+}
+
+td#next {
+	text-align: left;
+}
+
+.search-form label {
+	margin-left: .25em;
+	margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+13. Jetpack
+--------------------------------------------------------------*/
+
+#infinite-handle span {
+	right: 50%;
+	left: auto;
+}
+
+/* Edda styles */
+
+.main-navigation {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+.plural .hentry > .entry-inner {
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+}
+
+/* Media Queries */
+
+@media only screen and ( min-width: 38em ) {
+
+	.format-quote .entry-content .format-quote-blockquote:before {
+		right: -.6em;
+		left: auto;
+	}
+
+	.format-quote .entry-content .format-quote-blockquote:after {
+		left: -.6em;
+		right: auto;
+	}
+
+	.site-header {
+		text-align: right;
+	}
+
+	.site-header,
+	.site-content,
+	.site-footer {
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	.site-menu {
+		float: left;
+		text-align: left;
+	}
+
+	.site-branding {
+		float: right;
+		padding: 1.5em 2em 1.5em 0;
+	}
+
+	.menu-toggle {
+		float: left;
+	}
+
+	.site-title {
+		margin: 0 0 0 .5em;
+		text-align: right;
+	}
+
+	.site-description {
+		text-align: right;
+	}
+
+	.main-navigation {
+		float: left;
+	}
+
+	.plural .hentry > .entry-inner {
+		padding-right: 4.5em;
+		padding-left: 4.5em;
+	}
+
+}
