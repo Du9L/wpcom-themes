@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Button-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T04:12:36+00:00\n"
+"PO-Revision-Date: 2024-09-12 01:43:29+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/woocommerce.php:249
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:251
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d mục"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">Bài trước</span> %title"
+
+#. Description of the theme
+#: style.css
+msgid "A stylish, lighthearted theme for crafters, hobbyists, and creatives."
+msgstr "Một giao diện phong cách, vui tươi dành cho những người thợ thủ công, những người yêu thích sở thích và những người sáng tạo."
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/template-tags.php:39
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: inc/template-tags.php:39
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: inc/template-tags.php:39
+msgid "Leave a comment"
+msgstr "Để lại phản hồi"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:216
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#: functions.php:173
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:163
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:153
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:142
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:48
+msgid "Header"
+msgstr "Header"
+
+#: footer.php:39
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:37
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:37
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#. translators: %s: Name of current post.
+#: components/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: components/content-page.php:46
+#: inc/template-tags.php:46
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: components/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: components/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: components/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: components/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: components/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết bằng %s"
+
+#: components/content-author.php:28
+msgid "Published by %s"
+msgstr "Đăng bởi %s"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:43
+#: comments.php:65
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:42
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
