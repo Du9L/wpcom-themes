@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:38:24+00:00\n"
+"PO-Revision-Date: 2017-03-23 07:14:34+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:304
+msgid "Berry"
+msgstr "Boabă"
+
+#: inc/wpcom-colors.php:276
+msgid "Ocean"
+msgstr "Ocean"
+
+#: inc/wpcom-colors.php:283
+msgid "Violet"
+msgstr "Violet"
+
+#: inc/wpcom-colors.php:290
+msgid "Burgundy"
+msgstr "Vișiniu"
+
+#: inc/wpcom-colors.php:297
+msgid "Forest"
+msgstr "Pădure"
+
+#: inc/wpcom-colors.php:269
+msgid "Human"
+msgstr "Uman"
+
+#: header.php:60
+msgid "Close"
+msgstr "Închide"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Meniu"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid "Lightweight theme with a responsive layout designed for bloggers. Theme consists of a 2 column layout with a widget area on the right, as well as a widgetized footer."
+msgstr "Tema Lightweight cu un aranjament responsiv proiectat pentru blogeri. Tema constă dintr-un aranjament pe 2 coloane cu o zonă asamblabilă în dreapta, precum și una în subsol."
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: inc/template-tags.php:81
+#: inc/template-tags.php:83
+msgid "Featured Post"
+msgstr "Articol reprezentativ"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Navigare în comentarii"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: image.php:54
+msgid "Previous Image"
+msgstr "Imaginea precedentă"
+
+#: image.php:55
+msgid "Next Image"
+msgstr "Imaginea următoare"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: header.php:31
+msgid "Search"
+msgstr "Căutare"
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "Meniu subsol"
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "Bara laterală principală"
+
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "Meniu secundar"
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "Dreapta subsol"
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "Stânga subsol"
+
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:124
+msgid "Widgets in this area will appear in the right column of the footer."
+msgstr "Piesele din acestă zonă vor apărea în coloana din dreapta a subsolului."
+
+#: functions.php:114
+msgid "Widgets in this area will appear in the middle column of the footer."
+msgstr "Piesele din acestă zonă vor apărea în coloana din mijloc a subsolului."
+
+#: functions.php:112
+msgid "Footer Middle"
+msgstr "Mijloc subsol"
+
+#: functions.php:104
+msgid "Widgets in this area will appear in the left column of the footer."
+msgstr "Piesele din acestă zonă vor apărea în coloana din stânga a subsolului."
+
+#: functions.php:94
+msgid "Widgets in this area will appear in the right sidebar on all pages and posts."
+msgstr "Piesele din acestă zonă vor apărea în bara laterală dreapta în toate paginile și articolele."
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#. translators: %s: Name of current post
+#: content.php:19
+#: inc/template-tags.php:159
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Citește în continuare %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:140
+msgid "Edit"
+msgstr "Editare"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să publici primul tău articol? <a href=\"%1$s\">Poți începe aici</a>."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nimic nu se potrivește termenilor căutării tale. Te rog încearcă din nou cu cuvinte cheie diferite."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nimic găsit"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un gând despre &#8222;%2$s&#8221;"
+msgstr[1] "%1$s gânduri despre &#8222;%2$s&#8221;"
+msgstr[2] "%1$s de gânduri despre &#8222;%2$s&#8221;"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Se pare că nu a fost găsit nimic la această locație. Poate încerci una din legăturile de mai jos sau o căutare?"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Cele mai folosite categorii"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Încearcă să cauți în arhivele lunare. %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina aceea nu a fost găsită."

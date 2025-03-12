@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-15T03:28:02+00:00\n"
+"PO-Revision-Date: 2024-06-13 12:34:34+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: header.php:60
+msgid "Close"
+msgstr "إغلاق"
+
+#: header.php:60
+msgid "Menu"
+msgstr "القائمة"
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: inc/template-tags.php:88
+#: inc/template-tags.php:90
+msgid "Featured Post"
+msgstr "موضوع مميّز"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "تصفح التعليق"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: image.php:55
+msgid "Previous Image"
+msgstr "الصورة السابقة"
+
+#: image.php:56
+msgid "Next Image"
+msgstr "الصورة التالية"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: header.php:31
+msgid "Search"
+msgstr "بحث "
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "القائمة الثانوية"
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "الشريط الجانبي الأساسي"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "تفعيل"
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "قائمة تذييل الصفحة"
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "تذييل على اليسار"
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "تذييل على اليمين"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "مدعوم بفخر من %s"
+
+#: content.php:19
+#: inc/template-tags.php:166
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "متابعة قراءة %s <span class=\"meta-nav\">&larr;</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:147
+msgid "Edit"
+msgstr "تحرير"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسفين, ولكن لا يوجد شئ مطابق لكلمات البحث التي ادخلتها, حاول بكلمات اخرى مرة ثانية."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يظهر انه لا يمكننا الوصول لما تبحث عنه. يمكن ان يساعدك البحث."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "لا يوجد شيء"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا رأي على &ldquo;%2$s&rdquo;"
+msgstr[1] "رأي واحد على &ldquo;%2$s&rdquo;"
+msgstr[2] "رأيان على &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s آراء على &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s رأي على &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s رأي على &ldquo;%2$s&rdquo;"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "يظهر انه لا يوجد شئ هنا. يمكنك محاولة البحث بالروابط بالاسفل او بإستخدام أداة البحث؟"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "التصنيفات الاكثر استخداماً"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول مراجعة ارشيفتنا الشهرية. %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوبس! الصفحة غير موجودة."

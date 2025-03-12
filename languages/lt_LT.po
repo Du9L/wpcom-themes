@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:38:24+00:00\n"
+"PO-Revision-Date: 2018-11-02 01:03:37+0000\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:304
+msgid "Berry"
+msgstr "Uoga"
+
+#: inc/wpcom-colors.php:297
+msgid "Forest"
+msgstr "Miškas"
+
+#: inc/wpcom-colors.php:290
+msgid "Burgundy"
+msgstr "Bordo"
+
+#: inc/wpcom-colors.php:283
+msgid "Violet"
+msgstr "Violetinė"
+
+#: inc/wpcom-colors.php:276
+msgid "Ocean"
+msgstr "Vandenynas"
+
+#: inc/wpcom-colors.php:269
+msgid "Human"
+msgstr "Žmogus"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:60
+msgid "Close"
+msgstr "Uždaryti"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid "Lightweight theme with a responsive layout designed for bloggers. Theme consists of a 2 column layout with a widget area on the right, as well as a widgetized footer."
+msgstr "Dviejų stulpelių išdėstymo tema su valdiklių sritimis poraštėje."
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai: %s"
+
+#: inc/template-tags.php:81
+#: inc/template-tags.php:83
+msgid "Featured Post"
+msgstr "Rekomenduojamas įrašas"
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#: image.php:55
+msgid "Next Image"
+msgstr "Kitas paveikslėlis"
+
+#: image.php:54
+msgid "Previous Image"
+msgstr "Ankstesnis paveikslėlis"
+
+#: header.php:31
+msgid "Search"
+msgstr "Paieška"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:124
+msgid "Widgets in this area will appear in the right column of the footer."
+msgstr "Valdikliai pridėti į šią sritį bus rodomi dešiniąjame poraštės stulpelyje."
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "Poraštės dešinė"
+
+#: functions.php:114
+msgid "Widgets in this area will appear in the middle column of the footer."
+msgstr "Valdikliai pridėti į šią sritį bus rodomi viduriniame poraštės stulpelyje."
+
+#: functions.php:112
+msgid "Footer Middle"
+msgstr "Poraštės centras"
+
+#: functions.php:104
+msgid "Widgets in this area will appear in the left column of the footer."
+msgstr "Valdikliai pridėti į šią sritį bus rodomi kairiąjame poraštės stulpelyje."
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "Poraštės kairė"
+
+#: functions.php:94
+msgid "Widgets in this area will appear in the right sidebar on all pages and posts."
+msgstr "Valdikliai pridėti į šią sritį bus rodomi dešiniąjame šone visuose puslapiuose ir įrašuose."
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "Pagr. šoninė juosta"
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "Meniu apačioje"
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "Antrinis meniu"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė: %2$s"
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:19
+#: inc/template-tags.php:159
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:140
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Panašu, kad nepavyko rasti jūsų ieškomo puslapio. Galbūt jums padės paieškos galimybė."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mintis apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mintys apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s minčių apie &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pabandykite pažiūrėti mėnesio archyve. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Populiariausios kategorijos"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."

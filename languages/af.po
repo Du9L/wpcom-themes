@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:38:24+00:00\n"
+"PO-Revision-Date: 2017-02-06 07:32:52+0000\n"
+"Language: af_ZA\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: header.php:60
+msgid "Close"
+msgstr "Sluit"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Keuselys"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/franklin/style.css
+msgid "Lightweight theme with a responsive layout designed for bloggers. Theme consists of a 2 column layout with a widget area on the right, as well as a widgetized footer."
+msgstr "Liggewigontwerp met 'n aanpasbare uitleg, ontwerp vir bloggers. Ontwerp bestaan uit 'n 2-kolom uitleg met 'n widgetarea aan die regterkant, asook widgets in die voetstuk."
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "Blaaie:"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Soekresultate vir: %s"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Kommentaarnavigasie"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "Nuwer kommentaar"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Ouer kommentaar"
+
+#: image.php:55
+msgid "Next Image"
+msgstr "Volgende beeld"
+
+#: image.php:54
+msgid "Previous Image"
+msgstr "Vorige beeld"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Slaan oor na inhoud"
+
+#: header.php:31
+msgid "Search"
+msgstr "Soek"
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "Primêre Kantkolom"
+
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:124
+msgid "Widgets in this area will appear in the right column of the footer."
+msgstr "Widgets in die area sal in die regterkolom van die voetstuk verskyn."
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "Regtervoetstuk"
+
+#: functions.php:114
+msgid "Widgets in this area will appear in the middle column of the footer."
+msgstr "Widgets in die area sal in die middelste kolom van die voetstuk verskyn."
+
+#: functions.php:112
+msgid "Footer Middle"
+msgstr "Middelvoetstuk"
+
+#: functions.php:104
+msgid "Widgets in this area will appear in the left column of the footer."
+msgstr "Widgets in die area sal in die linkerkolom van die voetstuk verskyn."
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "Linkervoetstuk"
+
+#: functions.php:94
+msgid "Widgets in this area will appear in the right sidebar on all pages and posts."
+msgstr "Widgets in die area sal in die regterkantkolom op alle bladsye en artikels verskyn."
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "Voetstukkieslys"
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "Sekondêre Kieslys"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Primêre Keuselys"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Ontwerp: %1$s deur %2$s."
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "Trots aangedryf deur %s"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:19
+#: inc/template-tags.php:159
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees voort %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:140
+msgid "Edit"
+msgstr "Wysig"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Is jy gereed om jou eerste artikel te publiseer? <a href=\"%1$s\">Begin hier</a>."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Dit lyk nie of ons kan vind waarna jy op soek is nie. Dalk sal dit help om die soekfunksie te gebruik."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Jammer, maar niks stem ooreen met jou soekterme nie. Probeer asseblief weer met ander sleutelwoorde."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Geen Bevingdings"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Kommentaar is gesluit."
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedagte oor &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedagtes oor &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Probeer in die maandelikse argiewe soek. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Mees-gebruikte Kategorieë"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Dit lyk of niks hier gevind is nie. Probeer dalk een van die skakels hieronder, of probeer soek?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Daardie blad kan nie gevind word nie."

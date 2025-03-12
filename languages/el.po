@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:38:43+00:00\n"
+"PO-Revision-Date: 2019-12-06 11:35:43+0000\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: header.php:60
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Μενού"
+
+#. Description of the theme
+msgid "Lightweight theme with a responsive layout designed for bloggers. Theme consists of a 2 column layout with a widget area on the right, as well as a widgetized footer."
+msgstr "Γρήγορο Θέμα ειδικά σχεδιασμένο για blogs. Λειτουργεί άψογα σε κάθε είδους συσκευή και μέγεθος οθόνης, συμπεριλαμβανομένων κινητών και tablets. Υποστηρίζει 2 στήλες, widgets στην δεξιά site και στο υποσέλιδο."
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για : %s"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Παλιότερα σχόλια"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "Νεώτερα σχόλια"
+
+#: image.php:55
+msgid "Previous Image"
+msgstr "Προηγούμενη εικόνα"
+
+#: image.php:56
+msgid "Next Image"
+msgstr "Επόμενη εικόνα"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Μετάβαση σε περιεχόμενο"
+
+#: header.php:31
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "Δευτερεύον μενού"
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "Πρωτεύουσα πλευρική στήλη"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "Αριστερό υποσέλιδο"
+
+#: functions.php:112
+msgid "Footer Middle"
+msgstr "Μεσαίο υποσέλιδο"
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "Δεξί υποσέλιδο"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Κύριο μενού"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Θέμα: %1$s από %2$s."
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "Με την υποστήριξη του %s"
+
+#: content.php:19
+#: inc/template-tags.php:166
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια ανάγνωσης %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:147
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Κανένα αποτέλεσμα"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μια σκέψη σχετικά μέ το &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις σχετικά με το &ldquo;%2$s&rdquo;"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Τα σχόλια έχουν κλείσει."
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Πιο συνηθισμένες κατηγορίες"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Δεν βρέθηκε κάτι εδώ. Μήπως να δοκιμάζατε σε ένα από τα παρακάτω links ή στην αναζήτηση;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."

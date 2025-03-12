@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:38:24+00:00\n"
+"PO-Revision-Date: 2018-12-10 19:53:35+0000\n"
+"Language: no\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:304
+msgid "Berry"
+msgstr "Bær"
+
+#: inc/wpcom-colors.php:297
+msgid "Forest"
+msgstr "Skog"
+
+#: inc/wpcom-colors.php:290
+msgid "Burgundy"
+msgstr "Burgunder"
+
+#: inc/wpcom-colors.php:283
+msgid "Violet"
+msgstr "Fiolett"
+
+#: inc/wpcom-colors.php:276
+msgid "Ocean"
+msgstr "Hav"
+
+#: inc/wpcom-colors.php:269
+msgid "Human"
+msgstr "Menneske"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:60
+msgid "Close"
+msgstr "Lukk"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: inc/template-tags.php:81
+#: inc/template-tags.php:83
+msgid "Featured Post"
+msgstr "Fremhevet innlegg"
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "Sider:"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: image.php:55
+msgid "Next Image"
+msgstr "Neste bilde"
+
+#: image.php:54
+msgid "Previous Image"
+msgstr "Forrige bilde"
+
+#: header.php:31
+msgid "Search"
+msgstr "Søk"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "Nederst til høyre"
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "Nederst til venstre"
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "Primær sidekolonne"
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "Footer meny"
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "Sekundærmeny"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:19
+#: inc/template-tags.php:159
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les mer %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:140
+msgid "Edit"
+msgstr "endre"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet passet med dine søkeord. Vennligst prøv igjen med andre søkeord."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Forsøk de månedlige arkivene. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ble tydeligvis ikke funnet noe her. Kanskje forsøke en av lenkene under eller et søk?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke."

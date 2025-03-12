@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:38:24+00:00\n"
+"PO-Revision-Date: 2017-03-23 07:14:34+0000\n"
+"Language: az\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: header.php:60
+msgid "Close"
+msgstr "Bağla"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Menyu"
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "Səhifələr:"
+
+#: inc/template-tags.php:88
+#: inc/template-tags.php:90
+msgid "Featured Post"
+msgstr "Xüsusi yazı"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Axtarışın nəticələri: %s"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Şərh naviqasiyası"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Ən əski Şərhlər"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "Ən yeni Şərhlər"
+
+#: image.php:55
+msgid "Previous Image"
+msgstr "Öncəki təsvir"
+
+#: image.php:56
+msgid "Next Image"
+msgstr "Sonrakı təsvir"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Mühtəviyyata keç"
+
+#: header.php:31
+msgid "Search"
+msgstr "Axtar"
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "İkinci dərəcəli menyu"
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "Zirzəmi Menyusu"
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "Birinci Dərəcəli Yan Menyu Çubuğu"
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "Zirzəmi Solda"
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "Zirzəmi Sağda"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "açıq"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Mövzu: %1$s tərəfindən %2$s."
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Əsas menyu"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "%s qürurla təqdim edər"
+
+#: content.php:19
+#: inc/template-tags.php:166
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Oxumağa davam et %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:147
+msgid "Edit"
+msgstr "Redaktə et"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı dərc etməyə hazırsınızmı? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bağışlayın, axtarış kriteriyalarınıza uyğun heç bir şey tapılmadı. Bəzi fərqli açar kəlmələrdən istifadə edərək təkrar yoxlayın."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Axtardığınız səhifə tapılmadı. Bəlkə axtarış qutusu axtardığınızı tapmaqda sizə kömək edər."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Heç nə tapılmadı"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üçün bir şərh"
+msgstr[1] "&ldquo;%2$s&rdquo; üçün %1$s şərh"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Şərh üçün bağlıdır."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada heç bir şeyin tapılmadığı görünür. Bəlkə aşağıdakı bağlantılardan birini yoxlayasan və ya bir axtarış edəsən?"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Ən sıx istifadə edilən kateqoriyalar"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylıq arxivlərə baxmağı yoxlayın. %1$s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Əfsuslar! Bu səhifə tapıla bilməz."

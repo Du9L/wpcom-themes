@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Franklin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:38:24+00:00\n"
+"PO-Revision-Date: 2019-01-04 22:08:02+0000\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:304
+msgid "Berry"
+msgstr "Böğürtlen"
+
+#: inc/wpcom-colors.php:297
+msgid "Forest"
+msgstr "Orman"
+
+#: inc/wpcom-colors.php:290
+msgid "Burgundy"
+msgstr "Şarap rengi"
+
+#: inc/wpcom-colors.php:283
+msgid "Violet"
+msgstr "Mor"
+
+#: inc/wpcom-colors.php:276
+msgid "Ocean"
+msgstr "Okyanus"
+
+#: inc/wpcom-colors.php:269
+msgid "Human"
+msgstr "İnsan"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:60
+msgid "Close"
+msgstr "Kapat"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Şu kriter için arama sonuçları: %s"
+
+#: inc/template-tags.php:81
+#: inc/template-tags.php:83
+msgid "Featured Post"
+msgstr "Öne Çıkarılmış Yazı"
+
+#: inc/template-tags.php:46
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: inc/template-tags.php:23
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: image.php:55
+msgid "Next Image"
+msgstr "Sonraki Görüntü"
+
+#: image.php:54
+msgid "Previous Image"
+msgstr "Önceki Görüntü"
+
+#: header.php:31
+msgid "Search"
+msgstr "Ara"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions.php:181
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "açık"
+
+#: functions.php:174
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:122
+msgid "Footer Right"
+msgstr "Sağ Altbilgi"
+
+#: functions.php:102
+msgid "Footer Left"
+msgstr "Sol Altbilgi"
+
+#: functions.php:92
+msgid "Primary Sidebar"
+msgstr "Birincil yan sütun"
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr "Sayfa alt bölüm menüsü"
+
+#: functions.php:50
+msgid "Secondary Menu"
+msgstr "İkincil Menü"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: footer.php:56
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %2$s tarafından %1$s."
+
+#: footer.php:54
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:19
+#: inc/template-tags.php:159
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Okumaya devam et %s <span class=\"meta-nav\">→</span>"
+
+#: content-page.php:19
+#: content-single.php:17
+#: image.php:46
+#: inc/template-tags.php:140
+msgid "Edit"
+msgstr "Düzenle"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunmadı"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylık arşivlere bakmayı deneyin. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "En çok Kullanılan Kategoriler"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."
