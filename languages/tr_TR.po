@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Toujours\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T06:03:49+00:00\n"
+"PO-Revision-Date: 2024-11-10 19:16:37+0000\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:67
+msgid "White"
+msgstr "Beyaz"
+
+#: functions.php:62
+msgid "Light Gray"
+msgstr "Açık gri"
+
+#: functions.php:52
+msgid "Dark Gray"
+msgstr "Koyu gri"
+
+#: functions.php:47
+msgid "Blue"
+msgstr "Mavi"
+
+#: inc/wpcom-colors.php:28
+msgid "Navigation, Post Titles"
+msgstr "Gezinme, Yazı Başlıkları"
+
+#: inc/wpcom-colors.php:82
+msgid "Links in Content, Site Title"
+msgstr "İçerikteki Bağlantılar, Site Başlığı"
+
+#: functions.php:442
+msgid "Previous Slide"
+msgstr "Önceki Slayt"
+
+#: functions.php:441
+msgid "Next Slide"
+msgstr "Sonraki Slayt"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunmadı"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: template-parts/content-audio.php:40
+#: template-parts/content-gallery.php:25
+#: template-parts/content-link.php:24
+#: template-parts/content-quote.php:20
+#: template-parts/content-status.php:15
+#: template-parts/content-video.php:42
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr "Öne çıkan"
+
+#: template-parts/content-audio.php:67
+#: template-parts/content-gallery.php:58
+#: template-parts/content-link.php:57
+#: template-parts/content-page.php:21
+#: template-parts/content-quote.php:35
+#: template-parts/content-status.php:30
+#: template-parts/content-video.php:69
+#: template-parts/content.php:57
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:15
+#: template-parts/content-gallery.php:51
+#: template-parts/content-link.php:50
+#: template-parts/content-quote.php:28
+#: template-parts/content-status.php:23
+#: template-parts/content-video.php:15
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s yazısını okumaya devam edin <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Önceki"
+
+#: single.php:22
+msgid "Next"
+msgstr "Sonraki"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: inc/template-tags.php:89
+msgid "Categories %1$s"
+msgstr "Kategoriler %1$s"
+
+#: inc/template-tags.php:98
+msgid "Tags %1$s"
+msgstr "Etiketler %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105
+#: template-parts/content-page.php:33
+#: template-parts/content-quote.php:60
+#: template-parts/content-status.php:55
+msgid "Edit %s"
+msgstr "Düzenle %s"
+
+#: inc/template-tags.php:50
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/template-tags.php:50
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s tarafından"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:302
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "açık"
+
+#: functions.php:341
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: functions.php:353
+msgid "Footer"
+msgstr "Alt Kısım"
+
+#: functions.php:101
+#: functions.php:108
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: functions.php:102
+msgid "Social Menu"
+msgstr "Sosyal Menü"
+
+#: functions.php:193
+msgid "More"
+msgstr "Daha fazla"
+
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %2$s tarafından %1$s."
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:40
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:43
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:44
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "En çok Kullanılan Kategoriler"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#: 404.php:45
+msgid "Try looking in the monthly archives."
+msgstr "Aylık arşivlere göz atmayı deneyin."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."

@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Toujours\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T04:13:25+00:00\n"
+"PO-Revision-Date: 2020-07-14 08:15:02+0000\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:50
+msgid "Dark Gray"
+msgstr "אפור כהה"
+
+#: functions.php:65
+msgid "White"
+msgstr "לבן"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "אפור בהיר"
+
+#: functions.php:55
+msgid "Medium Gray"
+msgstr "אפור ביניים"
+
+#: functions.php:45
+msgid "Blue"
+msgstr "כחול"
+
+#: inc/customizer.php:42
+msgid "Display a thin inset border on featured images"
+msgstr "להוסיף מסגרת דקה סביב תמונת מרכזיות"
+
+#: inc/wpcom-colors.php:28
+msgid "Navigation, Post Titles"
+msgstr "ניווט, כותרות פוסטים"
+
+#: inc/wpcom-colors.php:82
+msgid "Links in Content, Site Title"
+msgstr "קישורים בתוכן, כותרת אתר"
+
+#: functions.php:412
+msgid "Next Slide"
+msgstr "שקף הבא"
+
+#: functions.php:413
+msgid "Previous Slide"
+msgstr "שקף קודם"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/toujours/guestbook.php
+msgid "Guestbook"
+msgstr "ספר אורחים"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לביטוי החיפוש, ניתן לנסות שוב עם ביטויים אחרים."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה כי לא ניתן למצוא את מה שחיפשת, אולי חיפוש יעזור."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "לא נמצא כלום"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:15
+#: template-parts/content-gallery.php:51
+#: template-parts/content-link.php:50
+#: template-parts/content-quote.php:28
+#: template-parts/content-status.php:23
+#: template-parts/content-video.php:15
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להמשיך לקרוא %s <span class=\"meta-nav\">&larr;</span>"
+
+#: template-parts/content-audio.php:40
+#: template-parts/content-gallery.php:25
+#: template-parts/content-link.php:24
+#: template-parts/content-quote.php:20
+#: template-parts/content-status.php:15
+#: template-parts/content-video.php:42
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr "‎פוסט נבחר"
+
+#: template-parts/content-audio.php:67
+#: template-parts/content-gallery.php:58
+#: template-parts/content-link.php:57
+#: template-parts/content-page.php:21
+#: template-parts/content-quote.php:35
+#: template-parts/content-status.php:30
+#: template-parts/content-video.php:69
+#: template-parts/content.php:57
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: single.php:21
+msgid "Previous"
+msgstr "קודם"
+
+#: single.php:22
+msgid "Next"
+msgstr "הבא"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105
+#: template-parts/content-page.php:33
+#: template-parts/content-quote.php:60
+#: template-parts/content-status.php:55
+msgid "Edit %s"
+msgstr "לערוך את %s"
+
+#: inc/template-tags.php:66
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "כל הפוסטים מסוג %1$s"
+
+#: inc/template-tags.php:98
+msgid "Tags %1$s"
+msgstr "תגיות %1$s"
+
+#: inc/template-tags.php:89
+msgid "Categories %1$s"
+msgstr "קטגוריות %1$s"
+
+#: inc/template-tags.php:50
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: inc/template-tags.php:50
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "מאת %s"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Published on %s"
+msgstr "פורסם בתאריך %s"
+
+#: inc/customizer.php:29
+msgid "Display the three most recent posts in a special area above your other posts"
+msgstr "להציג את שלושת הפוסטים האחרונים באיזור מיוחד מעל שאר הפוסטים"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: header.php:50
+msgid "Menu"
+msgstr "תפריט"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "אפשרויות"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:315
+msgid "Sidebar"
+msgstr " סרגל צדדי"
+
+#: functions.php:325
+msgid "Footer"
+msgstr "פוטר"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Alegreya Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:278
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:98
+#: functions.php:103
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: functions.php:99
+msgid "Social Menu"
+msgstr "תפריט חברתי"
+
+#: functions.php:175
+msgid "More"
+msgstr "עוד"
+
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://he.wordpress.org/"
+
+#: comments.php:40
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "ניווט תגובות"
+
+#: comments.php:43
+#: comments.php:71
+msgid "Older Comments"
+msgstr "תגובות ישנות"
+
+#: comments.php:44
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "תגובות חדשות"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "לא הצלחנו למצוא שום דבר בכתובת זו. כדאי לנסות את הקישורים הבאים, או את החיפוש."
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "קטגוריות בולטות"
+
+#: 404.php:45
+msgid "Try looking in the monthly archives."
+msgstr "נסה לחפש בארכיון לפי חודשים."
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "תגובה אחת בנושא &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s תגובות בנושא &ldquo;%2$s&rdquo;"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "העמוד לא נמצא."

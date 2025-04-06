@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Toujours\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T04:13:25+00:00\n"
+"PO-Revision-Date: 2018-11-16 01:33:51+0000\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:65
+msgid "White"
+msgstr "Balta"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "Šviesiai pilka"
+
+#: functions.php:55
+msgid "Medium Gray"
+msgstr "Pilka"
+
+#: functions.php:50
+msgid "Dark Gray"
+msgstr "Tamsiai pilka"
+
+#: functions.php:45
+msgid "Blue"
+msgstr "Mėlyna"
+
+#: inc/customizer.php:42
+msgid "Display a thin inset border on featured images"
+msgstr "Rodyti ploną vidinį rėmelį ant specialiųjų paveikslėlių"
+
+#: inc/wpcom-colors.php:82
+msgid "Links in Content, Site Title"
+msgstr "Nuorodos tekste ir tinklalapio pavadinimas"
+
+#: inc/wpcom-colors.php:28
+msgid "Navigation, Post Titles"
+msgstr "Meniu ir įrašų pavadinimai"
+
+#: functions.php:413
+msgid "Previous Slide"
+msgstr "Ankstesnė skaidrė"
+
+#: functions.php:412
+msgid "Next Slide"
+msgstr "Sekanti skaidrė"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/toujours/style.css
+msgid "Toujours has a simple, elegant design that's perfect for planning and sharing moments from your wedding. The theme highlights your content with a slideshow, large featured images, and a unique layout for recent posts."
+msgstr "Toujours yra speciali elegantiško stiliaus tema skirta dalinis momentais iš vestuvių. Tema turi karuselę. didelius paveikslėlius ir unikalų išdėstymą naujausiems įrašams."
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/toujours/guestbook.php
+msgid "Guestbook"
+msgstr "Svečių knyga"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Panašu, kad nepavyko rasti jūsų ieškomo puslapio. Galbūt jums padės paieškos galimybė."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: template-parts/content-audio.php:67
+#: template-parts/content-gallery.php:58
+#: template-parts/content-link.php:57
+#: template-parts/content-page.php:21
+#: template-parts/content-quote.php:35
+#: template-parts/content-status.php:30
+#: template-parts/content-video.php:69
+#: template-parts/content.php:57
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: template-parts/content-audio.php:40
+#: template-parts/content-gallery.php:25
+#: template-parts/content-link.php:24
+#: template-parts/content-quote.php:20
+#: template-parts/content-status.php:15
+#: template-parts/content-video.php:42
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr "Rekomenduojama"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:15
+#: template-parts/content-gallery.php:51
+#: template-parts/content-link.php:50
+#: template-parts/content-quote.php:28
+#: template-parts/content-status.php:23
+#: template-parts/content-video.php:15
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:22
+msgid "Next"
+msgstr "Kitas"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105
+#: template-parts/content-page.php:33
+#: template-parts/content-quote.php:60
+#: template-parts/content-status.php:55
+msgid "Edit %s"
+msgstr "Redaguoti %s"
+
+#: inc/template-tags.php:98
+msgid "Tags %1$s"
+msgstr "Žymos %1$s"
+
+#: inc/template-tags.php:89
+msgid "Categories %1$s"
+msgstr "Kategorijos %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:66
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "Visi įrašai: %1$s"
+
+#: inc/template-tags.php:50
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: inc/template-tags.php:50
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment"
+msgstr "Komentarų: 0"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "parašė %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Published on %s"
+msgstr "Paskelbta %s"
+
+#: inc/customizer.php:29
+msgid "Display the three most recent posts in a special area above your other posts"
+msgstr "Rodo tris naujausius įrašus specialioje skiltyje virš kitų Jūsų įrašų"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temos nuostatos"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#: functions.php:325
+msgid "Footer"
+msgstr "Poraštė"
+
+#: functions.php:315
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Alegreya Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:278
+msgctxt "Alegreya Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:175
+msgid "More"
+msgstr "Daugiau"
+
+#: functions.php:99
+msgid "Social Menu"
+msgstr "Socialinis meniu"
+
+#: functions.php:98
+#: functions.php:103
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė: %2$s"
+
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:44
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:43
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: comments.php:40
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s mintis apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mintys apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s minčių apie &ldquo;%2$s&rdquo;"
+
+#: 404.php:45
+msgid "Try looking in the monthly archives."
+msgstr "Pabandykite ieškoti mėnesių archyve."
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Populiariausios kategorijos"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."
