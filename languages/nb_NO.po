@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Textbook\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-06T01:55:52+00:00\n"
+"PO-Revision-Date: 2020-03-13 13:54:49+0000\n"
+"Language: no\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:86
+msgid "Purple"
+msgstr "Lilla"
+
+#: functions.php:106
+msgid "White"
+msgstr "Hvit"
+
+#: functions.php:91
+msgid "Dark Gray"
+msgstr "Mørkegrå"
+
+#: functions.php:101
+msgid "Light Gray"
+msgstr "Lysegrå"
+
+#: functions.php:96
+msgid "Medium Gray"
+msgstr "Middels grå"
+
+#: functions.php:76
+msgid "Red"
+msgstr "Rød"
+
+#: functions.php:81
+msgid "Green"
+msgstr "Grønn"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/temaer"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/textbook/style.css
+msgid "http://wordpress.com/theme/textbook/"
+msgstr "https://wordpress.com/theme/textbook/"
+
+#: inc/wpcom-colors.php:709
+msgid "Black on White"
+msgstr "Svart på Hvitt"
+
+#: inc/wpcom-colors.php:685
+msgid "Blue, Red & Yellow"
+msgstr "Blå, rød og gul"
+
+#: inc/wpcom-colors.php:701
+msgid "Blue, Yellow & Red"
+msgstr "Blå, gul og rød"
+
+#: inc/wpcom-colors.php:351
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: inc/wpcom-colors.php:187
+msgid "Category Color 1"
+msgstr "Kategorifarge 1"
+
+#: inc/wpcom-colors.php:307
+msgid "Category Color 3"
+msgstr "Kategorifarge 3"
+
+#: inc/wpcom-colors.php:256
+msgid "Category Color 2"
+msgstr "Kategorifarge 2"
+
+#: inc/wpcom-colors.php:319
+msgid "Dark Color"
+msgstr "Mørk farge"
+
+#: inc/wpcom-colors.php:27
+msgid "Background Color"
+msgstr "Bakgrunnsfarge"
+
+#. translators: used before a list of the post's tags
+#: inc/template-tags.php:85
+msgid "Tags:"
+msgstr "Stikkord:"
+
+#: single.php:22
+msgid "Next"
+msgstr "Neste"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: single.php:21
+msgid "Previous"
+msgstr "Forrige"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:87
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post.
+#: components/features/featured-content/content-page-highlight.php:44
+#: inc/template-tags.php:189
+msgid "Continue reading %s"
+msgstr "Fortsett %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid "Categories: "
+msgstr "Kategorier:"
+
+#: inc/template-tags.php:77
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Forfatter"
+
+#: inc/template-tags.php:45
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/customizer.php:76
+msgid "Select Featured Page"
+msgstr "Velg siden som skal fremheves"
+
+#: inc/template-tags.php:44
+msgid "Add a comment"
+msgstr "Legg til en kommentar"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: inc/customizer.php:17
+msgid "Theme Options"
+msgstr "Temainnstillinger"
+
+#: functions.php:322
+#: functions.php:334
+msgid "Close"
+msgstr "Lukk"
+
+#: functions.php:327
+msgid "expand child menu"
+msgstr "utvid undermenyen"
+
+#: functions.php:328
+msgid "collapse child menu"
+msgstr "lukk undermenyen"
+
+#. translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:174
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:152
+msgid "Footer Sidebar"
+msgstr "Sidelinjen på bunnen"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display SC, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:210
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display SC, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:246
+msgctxt "Playfair Display SC font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Playfair Display SC character subset
+#. specific to your language, translate this to 'greek', 'cyrillic' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:216
+msgctxt "Playfair Display font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: To add an additional Libre Franklin character subset specific
+#. to your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do
+#. not translate into your own language.
+#: functions.php:180
+msgctxt "Libre Franklin font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: To add an additional Playfair Display SC character subset
+#. specific to your language, translate this to 'greek', 'cyrillic' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:252
+msgctxt "Playfair Display SC font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:55
+msgid "Footer"
+msgstr "Bunntekst"
+
+#: functions.php:144
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: components/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: functions.php:54
+msgid "Header"
+msgstr "Sidetopp"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:39
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les mer %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: components/post/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet passet med dine søkeord. Vennligst prøv igjen med andre søkeord."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: inc/template-tags.php:95
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+#: components/navigation/navigation-top.php:2
+#: functions.php:321
+msgid "Menu"
+msgstr "Meny"
+
+#: components/page/content-page.php:22
+#: components/post/content.php:44
+msgid "Pages:"
+msgstr "Sider:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: components/header/site-branding.php:25
+#: functions.php:333
+msgid "Search"
+msgstr "Søk"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://nb.wordpress.org/"
+
+#: components/features/testimonials/archive-jetpack-testimonial.php:31
+#: components/features/testimonials/display-testimonials.php:22
+msgid "Testimonials"
+msgstr "Tilbakemeldinger"
+
+#: components/features/testimonials/content-testimonials.php:17
+#: components/post/content-card.php:73
+msgid "Edit"
+msgstr "endre"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: components/features/featured-content/content-featured-full.php:14
+#: components/features/featured-content/content-featured.php:14
+msgid "Featured"
+msgstr "Fremhevet"
+
+#: comments.php:42
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:43
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Én kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ble tydeligvis ikke funnet noe her. Kanskje forsøke en av lenkene under eller et søk?"
