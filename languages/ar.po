@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Publication\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T04:25:44+00:00\n"
+"PO-Revision-Date: 2022-10-22 11:07:43+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:77
+msgid "White"
+msgstr "أبيض"
+
+#: functions.php:82
+msgid "Orange"
+msgstr "برتقالي"
+
+#: functions.php:62
+msgid "Dark Gray"
+msgstr "رمادي داكن"
+
+#: functions.php:67
+msgid "Medium Gray"
+msgstr "رمادي متوسط"
+
+#: functions.php:72
+msgid "Light Gray"
+msgstr "رمادي فاتح"
+
+#: functions.php:57
+msgid "Black"
+msgstr "اسود"
+
+#: inc/wpcom-colors.php:8
+msgid "Background"
+msgstr "خلفية"
+
+#: inc/wpcom-colors.php:276
+msgid "Sidebar Accent"
+msgstr "علامة الشريط الجانبي "
+
+#: inc/wpcom-colors.php:41
+msgid "Accent"
+msgstr "العنصر البارز"
+
+#: inc/wpcom-colors.php:243
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: template-parts/content-page.php:43
+#: template-parts/content-single.php:43
+msgid "Page"
+msgstr "الصفحة"
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#: template-parts/content-page.php:39
+#: template-parts/content-single.php:39
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسفين, ولكن لا يوجد شئ مطابق لكلمات البحث التي ادخلتها, حاول بكلمات اخرى مرة ثانية."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يظهر انه لا يمكننا الوصول لما تبحث عنه. يمكن ان يساعدك البحث."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لا يوجد شيء"
+
+#: single.php:27
+msgid "Next post:"
+msgstr "المقالة التالية:"
+
+#: single.php:28
+msgid "Previous"
+msgstr "السابق"
+
+#: single.php:28
+msgid "Previous post:"
+msgstr "المقالة السابقة:"
+
+#: template-parts/content-author.php:23
+msgid "Published by"
+msgstr "نُشرت بواسطة"
+
+#: template-parts/content-author.php:30
+msgid "View all posts by %s"
+msgstr "عرض كل المقالات بواسطة %s"
+
+#: single.php:27
+msgid "Next"
+msgstr "التالي"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/template-tags.php:59
+#: template-parts/content-page.php:50
+msgid "Edit"
+msgstr "تحرير"
+
+#: inc/template-tags.php:46
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: inc/extras.php:79
+#: template-parts/content.php:29
+msgid "Continue reading %s"
+msgstr "متابعة قراءة %s"
+
+#: inc/template-tags.php:46
+msgid "Leave a comment"
+msgstr "أضف تعليقاً "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:16
+#: inc/template-tags.php:53
+msgid ", "
+msgstr "، "
+
+#: header.php:68
+msgid "Social Navigation"
+msgstr "أيقونات مواقع التواصل الإجتماعي"
+
+#: header.php:54
+msgid "Primary Navigation"
+msgstr "عنوان القائمة الرئيسي"
+
+#: header.php:48
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى "
+
+#: functions.php:295
+msgid "collapse child menu"
+msgstr "طي القائمة الفرعية"
+
+#: functions.php:294
+msgid "expand child menu"
+msgstr "توسيع القائمة الفرعية"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:240
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:196
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "مفعل"
+
+#: functions.php:108
+msgid "Social Menu"
+msgstr "قائمة اجتماعية"
+
+#: functions.php:107
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "مدعوم بواسطة %s"
+
+#: footer.php:16
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "استعراض التعليق"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا أفكار على &rdquo;%2$s&ldquo;"
+msgstr[1] "فكرة واحدة على &rdquo;%2$s&ldquo;"
+msgstr[2] "فكرتان اثنتان على &rdquo;%2$s&ldquo;"
+msgstr[3] "%1$s أفكار على &rdquo;%2$s&ldquo;"
+msgstr[4] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+msgstr[5] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+
+#: archive.php:41
+#: index.php:46
+#: search.php:36
+msgid "Newer posts"
+msgstr "التدوينات الأحدث"
+
+#: archive.php:40
+#: index.php:45
+#: search.php:35
+msgid "Older posts"
+msgstr "تدوينات أقدم "
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم إيجاد شيء في هذا المكان. ربما تريد البحث؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "الصفحة التي طلبتها غير موجودة."
