@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Libretto\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T03:08:20+00:00\n"
+"PO-Revision-Date: 2024-06-12 12:02:39+0000\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:85
+msgid "Red"
+msgstr "Красный"
+
+#: functions.php:60
+msgid "Black"
+msgstr "Чёрный"
+
+#: functions.php:65
+msgid "Dark Gray"
+msgstr "Темно-серый"
+
+#: functions.php:80
+msgid "White"
+msgstr "Белый"
+
+#: functions.php:75
+msgid "Light Gray"
+msgstr "Светло-серая"
+
+#. translators: used in pagination, as in page "x of y"
+#: inc/template-tags.php:57
+msgid "of"
+msgstr "из"
+
+#: inc/wpcom-colors.php:34
+msgid "Text"
+msgstr "Текст"
+
+#: inc/wpcom-colors.php:52
+msgid "Accent"
+msgstr "Акцент"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130
+msgid "Tagged"
+msgstr "Отмечено"
+
+#. Author URI of the theme
+#: style.css
+msgid "http://wordpress.com/themes/"
+msgstr "http://wordpress.com/themes/"
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: inc/template-tags.php:189
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:193
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:195
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:186
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+#: inc/template-tags.php:174
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/template-tags.php:176
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: inc/template-tags.php:167
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: inc/template-tags.php:167
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Заметки"
+
+#: inc/template-tags.php:163
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:165
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: inc/template-tags.php:165
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:161
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:163
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: inc/template-tags.php:126
+msgid "Posted in %1$s"
+msgstr "Рубрика: %1$s"
+
+#: inc/template-tags.php:157
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+#: inc/template-tags.php:159
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:124
+#: inc/template-tags.php:130
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:90
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/template-tags.php:107
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#: inc/template-tags.php:36
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: image.php:48
+msgid "Previous image"
+msgstr "Предыдущее изображение"
+
+#: image.php:51
+msgid "Next image"
+msgstr "Следующее изображение"
+
+#: image.php:63
+msgid "Page"
+msgstr "Страница"
+
+#: header.php:92
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: header.php:95
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: header.php:91
+msgid "Error"
+msgstr "Ошибка"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Droid Mono, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:240
+msgctxt "Droid Sans Mono font: on or off"
+msgid "on"
+msgstr "включить"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:228
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:103
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:13
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s, автор: %2$s."
+
+#: content.php:53
+msgid "Read more"
+msgstr "Читать далее"
+
+#: footer.php:12
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:12
+msgid "Proudly powered by %s."
+msgstr "Сайт работает на %s"
+
+#: content.php:24
+#: content.php:70
+#: inc/template-tags.php:135
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: content.php:24
+#: content.php:70
+#: inc/template-tags.php:135
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: content.php:24
+#: content.php:70
+#: inc/template-tags.php:135
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: content-page.php:14
+#: content.php:26
+#: content.php:72
+#: image.php:70
+#: inc/template-tags.php:139
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-page.php:12
+#: content-single.php:14
+#: image.php:59
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: content-page.php:11
+msgid "read more"
+msgstr "Читать далее"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:43
+#: comments.php:68
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:39
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:36
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#. translators: %1$s: smiley
+#: 404.php:41
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"
+
+#: 404.php:24
+msgid "Most Used Categories"
+msgstr "Самые используемые рубрики"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По этому адресу ничего не найдено. Воспользуйтесь одной из следующих ссылок или поиском."

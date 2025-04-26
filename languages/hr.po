@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Libretto\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-25T03:00:01+00:00\n"
+"PO-Revision-Date: 2025-02-24 11:54:22+0000\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:85
+msgid "Red"
+msgstr "Crvena"
+
+#: functions.php:60
+msgid "Black"
+msgstr "Crna"
+
+#: functions.php:65
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: functions.php:80
+msgid "White"
+msgstr "Bijela"
+
+#: functions.php:75
+msgid "Light Gray"
+msgstr "Svjetlo siva"
+
+#. translators: used in pagination, as in page "x of y"
+#: inc/template-tags.php:57
+msgid "of"
+msgstr "od"
+
+#: inc/wpcom-colors.php:34
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/wpcom-colors.php:52
+msgid "Accent"
+msgstr "Naglašene"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130
+msgid "Tagged"
+msgstr "Označeno"
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: inc/template-tags.php:189
+msgid "Archives: %s"
+msgstr "Arhiva: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:193
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:195
+msgid "Archives"
+msgstr "Arhive"
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Poveznice"
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusi"
+
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:186
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Čavrljanja"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerije"
+
+#: inc/template-tags.php:174
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Slike"
+
+#: inc/template-tags.php:176
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videi"
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citati"
+
+#: inc/template-tags.php:167
+msgid "Day: %s"
+msgstr "Dan: %s"
+
+#: inc/template-tags.php:167
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y."
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Crtice"
+
+#: inc/template-tags.php:163
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:165
+msgid "Month: %s"
+msgstr "Mjesec: %s"
+
+#: inc/template-tags.php:165
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:161
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:163
+msgid "Year: %s"
+msgstr "Godina: %s"
+
+#: inc/template-tags.php:126
+msgid "Posted in %1$s"
+msgstr "Objavljeno u %1$s"
+
+#: inc/template-tags.php:157
+msgid "Category: %s"
+msgstr "Kategorija: %s"
+
+#: inc/template-tags.php:159
+msgid "Tag: %s"
+msgstr "Oznaka: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:124
+#: inc/template-tags.php:130
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:36
+msgid "Post navigation"
+msgstr "Navigacija postova"
+
+#: image.php:48
+msgid "Previous image"
+msgstr "Prethodna slika"
+
+#: image.php:51
+msgid "Next image"
+msgstr "Sljedeća slika"
+
+#: image.php:63
+msgid "Page"
+msgstr "Stranica"
+
+#: header.php:92
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups!. Tu stranicu nije moguće pronaći."
+
+#: header.php:95
+msgid "Search results"
+msgstr "Rezultati pretraživanja"
+
+#: header.php:91
+msgid "Error"
+msgstr "Greška"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Idi na sadržaj"
+
+#: functions.php:103
+msgid "Primary Menu"
+msgstr "Primarni Izbornik"
+
+#: footer.php:13
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s od %2$s "
+
+#: content.php:53
+msgid "Read more"
+msgstr "Opširnije"
+
+#: footer.php:12
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:12
+msgid "Proudly powered by %s."
+msgstr "Ponosno pokreće %s"
+
+#: content.php:24
+#: content.php:70
+#: inc/template-tags.php:135
+msgid "% Comments"
+msgstr "% komentara"
+
+#: content.php:24
+#: content.php:70
+#: inc/template-tags.php:135
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: content.php:24
+#: content.php:70
+#: inc/template-tags.php:135
+msgid "Leave a comment"
+msgstr "Napišite komentar"
+
+#: content-page.php:14
+#: content.php:26
+#: content.php:72
+#: image.php:70
+#: inc/template-tags.php:139
+msgid "Edit"
+msgstr "Uredi"
+
+#: content-page.php:12
+#: content-single.php:14
+#: image.php:59
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: content-page.php:11
+msgid "read more"
+msgstr "Opširnije"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izgleda da ne možemo pronaći ono što tražite. Možda pretraga može pomoći."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Žalim, ali nije pronađeno ništa što odgovara vašim kriterijima pretraživanja. Molimo pokušajte ponovno sa nekim drugim ključnim riječima."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Jesi spreman objaviti prvi članak? <a href=\"%1$s\">Započni ovdje</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ništa nije pronađeno"
+
+#: comments.php:43
+#: comments.php:68
+msgid "Newer Comments"
+msgstr "Noviji komentari"
+
+#: comments.php:39
+#: comments.php:64
+msgid "Older Comments"
+msgstr "Stariji komentari"
+
+#: comments.php:36
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Navigacija komentara"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s misao o &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s misli o &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s misli o &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:41
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pokušajte pregledati u mjesečnim arhivama. %1$s"
+
+#: 404.php:24
+msgid "Most Used Categories"
+msgstr "Najkorištenije Kategorije"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Izgleda da ništa nije nađeno na ovoj lokaciji. Mogli bi isprobati jednu od donjih poveznica ili napraviti pretragu?"
