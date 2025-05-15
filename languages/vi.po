@@ -1,0 +1,581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-24T03:50:29+00:00\n"
+"PO-Revision-Date: 2025-01-23 20:54:03+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:30
+msgid "Add or publish Posts"
+msgstr "Thêm hoặc đăng Bài viết"
+
+#: template-parts/content/content-none.php:25
+msgid "Your site is set to show the most recent posts on this page - but you don't have any Posts published."
+msgstr "Web của bạn được thiết lập để hiển thị các bài viết gần đây nhất trên trang này - nhưng bạn chưa có bài viết nào được đăng."
+
+#: template-parts/content/content-none.php:16
+msgid "No posts published yet!"
+msgstr "Chưa có bài đăng nào!"
+
+#: inc/customizer.php:172
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Đánh dấu để ẩn menu trang web & widget trong chân trang, nếu trang chủ của bạn được thiết lập để hiển thị một Trang tĩnh."
+
+#: inc/customizer.php:171
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Ẩn menu chân trang và widget của trang web"
+
+#: inc/customizer.php:154
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Đánh dấu để ẩn đầu trang của trang web, nếu trang chủ của bạn được thiết lập để hiển thị một Trang tĩnh."
+
+#: inc/customizer.php:153
+msgid "Hide the Site Header"
+msgstr "Ẩn đầu trang trang web"
+
+#: inc/customizer.php:139
+msgid "Display Site Title & Tagline"
+msgstr "Hiển thị Tên website & tagline"
+
+#: template-parts/post/author-bio.php:29
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết bằng %s"
+
+#: inc/customizer.php:115
+msgid "On archive pages, posts show:"
+msgstr "Trên các trang lưu trữ, bài viết hiển thị:"
+
+#: inc/customizer.php:105
+#: inc/customizer.php:118
+msgid "Full text"
+msgstr "Đầy đủ"
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Summary"
+msgstr "Tóm tắt"
+
+#: inc/customizer.php:102
+msgid "On the home page, posts show:"
+msgstr "Trên trang chủ, các bài viết hiển thị:"
+
+#: inc/customizer.php:70
+msgid "Excerpt Settings"
+msgstr "Cài đặt tóm tắt"
+
+#: comments.php:76
+msgid "Leave a Comment"
+msgstr "Gửi bình luận"
+
+#: inc/block-patterns.php:41
+msgid "Plant"
+msgstr "Cây"
+
+#: inc/block-patterns.php:30
+msgid "Envelope"
+msgstr "Bao thư"
+
+#: inc/block-styles.php:20
+#: inc/block-styles.php:28
+msgid "Alternating Grid"
+msgstr "Lưới Xen Kẽ"
+
+#: template-parts/header/navigation.php:22
+msgid "Main"
+msgstr "Chính"
+
+#. Description of the theme
+#: style.css
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet là một giao diện WordPress miễn phí. Bố cục hai cột và kiểu chữ thanh lịch cổ điển tạo ra một trang web tinh tế cho phép tác phẩm và hình ảnh của bạn có không gian để thở - và tỏa sáng. Seedlet được xây dựng để trở thành đối tác hoàn hảo cho trình chỉnh sửa khối và hỗ trợ tất cả các khối mới nhất. Viết, âm thanh, minh họa, nhiếp ảnh, video - sử dụng Seedlet để thu hút và hướng mắt người xem, mà không cần giao diện của bạn cản trở. Và thiết kế đáp ứng thay đổi tự nhiên giữa thiết bị máy tính để bàn và thiết bị di động. Seedlet là một lựa chọn tuyệt vời cho các chuyên gia và người sáng tạo đang tìm kiếm một phong cách tinh tế. Cho dù bạn đang muốn tạo một blog hay một trang web mạnh mẽ để quảng bá doanh nghiệp của mình, hãy làm điều đó với sự đơn giản, phong cách và Seedlet."
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:47
+msgid "Alternating Grid of Latest Posts"
+msgstr "Ma trận xen kẽ của các bài viết mới nhất"
+
+#: template-parts/post/author-bio.php:14
+msgid "Published by"
+msgstr "Được xuất bản bởi"
+
+#: inc/wpcom.php:163
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Để đảm bảo mọi người có thể đọc trang web của bạn, hãy cố gắng duy trì tỷ lệ tương phản mạnh giữa các màu mà bạn chọn ở đây. <a href=\"%s\" target=\"_blank\">Tìm hiểu thêm về độ tương phản màu</a>."
+
+#: inc/wpcom.php:161
+msgid "Color Accessibility Warning"
+msgstr "Cảnh báo truy cập màu"
+
+#: inc/wpcom.php:151
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Đánh dấu để ẩn tiêu đề trang, nếu trang chủ của bạn được thiết lập để hiển thị một trang tĩnh."
+
+#: inc/wpcom.php:150
+msgid "Hide Homepage Title"
+msgstr "Ẩn Tiêu đề Trang chủ"
+
+#: classes/class-seedlet-custom-colors.php:30
+msgid "Borders Color"
+msgstr "Màu Biên Giới"
+
+#: classes/class-seedlet-custom-colors.php:29
+#: inc/wpcom-colors-utils.php:73
+msgid "Tertiary Color"
+msgstr "Màu thứ ba"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:59
+msgid "Secondary Color"
+msgstr "Màu phụ"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:45
+msgid "Primary Color"
+msgstr "Màu chính"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:31
+msgid "Foreground Color"
+msgstr "Màu Nền"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:17
+msgid "Background Color"
+msgstr "Màu nền"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: inc/template-tags.php:214
+msgid "Previous post:"
+msgstr "Bài cũ hơn:"
+
+#: inc/template-tags.php:213
+msgid "Previous Post"
+msgstr "Bài trước"
+
+#: inc/template-tags.php:211
+msgid "Next post:"
+msgstr "Bài tiếp theo:"
+
+#: inc/template-tags.php:210
+msgid "Next Post"
+msgstr "Bài sau"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:203
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Đăng vào</span><span class=\"post-title\">%s</span>"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Kết quả tìm kiếm cho:"
+
+#: inc/woocommerce.php:139
+#: inc/woocommerce.php:175
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d mục"
+
+#: inc/template-tags.php:237
+msgid "Older posts"
+msgstr "Bài cũ hơn"
+
+#: inc/template-tags.php:233
+msgid "Newer posts"
+msgstr "Các bài viết mới hơn"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:130
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sửa <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:114
+msgid "Tags:"
+msgstr "Nhãn:"
+
+#: inc/template-tags.php:102
+msgid "Posted in"
+msgstr "Đăng trong"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:96
+#: inc/template-tags.php:108
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Đăng bình luận<span class=\"screen-reader-text\"> trong %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Đăng bởi"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Đọc tiếp %s"
+
+#: inc/template-functions.php:130
+msgid "Archives: "
+msgstr "Lưu trữ:"
+
+#: inc/template-functions.php:117
+#: inc/template-functions.php:125
+msgid "%s Archives"
+msgstr "Bài viết trong %s:"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Bài viết đăng ngày:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:107
+msgid "Monthly Archives: "
+msgstr "Bài viết đăng trong tháng:"
+
+#: inc/template-functions.php:105
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:104
+msgid "Yearly Archives: "
+msgstr "Bài viết đăng trong năm:"
+
+#: inc/template-functions.php:101
+msgid "Author Archives: "
+msgstr "Bài viết của tác giả:"
+
+#: inc/template-functions.php:98
+msgid "Tag Archives: "
+msgstr "Bài viết có từ khóa:"
+
+#: inc/template-functions.php:95
+msgid "Category Archives: "
+msgstr "Bài viết trong chuyên mục:"
+
+#: inc/block-patterns.php:37
+msgid "Group with Image Overlap"
+msgstr "Nhóm với Ảnh Chồng Lên"
+
+#: inc/block-patterns.php:28
+msgid "Group with Split Background"
+msgstr "Nhóm với Nền Chia"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/block-patterns.php:17
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Seedlet yêu cầu ít nhất phiên bản WordPress 4.7. Bạn đang chạy phiên bản %s. Vui lòng nâng cấp và thử lại."
+
+#: image.php:94
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Đăng trong</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Kích thước đầy đủ"
+
+#: image.php:62
+msgid "Page"
+msgstr "Trang"
+
+#: image.php:58
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Trang:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Ảnh tiếp theo"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Ảnh trước"
+
+#: template-parts/header/navigation.php:96
+msgid "Social Links Menu"
+msgstr "Menu các đường dẫn mạng xã hội"
+
+#: template-parts/header/navigation.php:79
+msgid "View your shopping list"
+msgstr "xem danh sách mua sắm của bạn"
+
+#: inc/woocommerce.php:136
+#: template-parts/header/navigation.php:77
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng"
+
+#: template-parts/header/navigation.php:89
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: template-parts/header/navigation.php:56
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:25
+#: template-parts/header/navigation.php:75
+msgid "collapsed"
+msgstr "thu gọn"
+
+#: template-parts/header/navigation.php:50
+#: template-parts/header/navigation.php:90
+msgid "expanded"
+msgstr "mở rộng"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:73
+msgid "Close"
+msgstr "Đóng"
+
+#: template-parts/header/navigation.php:49
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Đến nội dung"
+
+#: functions.php:339
+msgid "Add widgets here to appear in your footer."
+msgstr "Thêm widget ở đây để hiển thị ở cuối trang."
+
+#: footer.php:18
+#: functions.php:337
+msgid "Footer"
+msgstr "Footer"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "trên"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:290
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "trên"
+
+#: functions.php:244
+#: inc/wpcom.php:127
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:239
+#: inc/wpcom.php:122
+msgid "Horizontal inverted gradient"
+msgstr "Độ dốc ngược nằm ngang"
+
+#: functions.php:234
+#: inc/wpcom.php:117
+msgid "Horizontal gradient"
+msgstr "Độ dốc ngang"
+
+#: functions.php:229
+#: inc/wpcom.php:112
+msgid "Diagonal inverted gradient"
+msgstr "Độ dốc ngược chéo"
+
+#: functions.php:224
+#: inc/wpcom.php:107
+msgid "Diagonal gradient"
+msgstr "Độ dốc chéo"
+
+#: functions.php:219
+#: inc/wpcom.php:102
+msgid "Horizontal inverted"
+msgstr "Đảo ngược ngang"
+
+#: functions.php:214
+#: inc/wpcom.php:97
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: functions.php:209
+#: inc/wpcom.php:92
+msgid "Diagonal inverted"
+msgstr "Đường chéo ngược"
+
+#: functions.php:204
+#: inc/wpcom.php:87
+msgid "Diagonal"
+msgstr "Đường chéo"
+
+#: functions.php:190
+#: inc/wpcom.php:73
+msgid "Background"
+msgstr "Nền"
+
+#: functions.php:185
+#: inc/wpcom.php:68
+msgid "Tertiary"
+msgstr "Đại học"
+
+#: functions.php:180
+#: inc/wpcom.php:63
+msgid "Foreground"
+msgstr "Tiền cảnh"
+
+#: functions.php:175
+#: inc/wpcom.php:58
+msgid "Secondary"
+msgstr "Phụ"
+
+#: functions.php:170
+#: inc/wpcom.php:53
+msgid "Primary"
+msgstr "Chính"
+
+#: functions.php:151
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:150
+msgid "Huge"
+msgstr "Rất lớn"
+
+#: functions.php:145
+msgid "L"
+msgstr "L"
+
+#: functions.php:144
+msgid "Large"
+msgstr "Lớn"
+
+#: functions.php:139
+msgid "M"
+msgstr "M"
+
+#: functions.php:138
+msgid "Normal"
+msgstr "Bình thường"
+
+#: functions.php:133
+msgid "S"
+msgstr "S"
+
+#: functions.php:132
+msgid "Small"
+msgstr "Nhỏ"
+
+#: functions.php:127
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:126
+msgid "Tiny"
+msgstr "Rất nhỏ"
+
+#: functions.php:62
+msgid "Social Links Navigation"
+msgstr "Menu Liên kết Xã hội"
+
+#: functions.php:61
+msgid "Footer Navigation"
+msgstr "Menu chân trang"
+
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr "Thanh điều hướng chính"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:10
+msgid "Proudly powered by %s."
+msgstr "Tự hào cung cấp bởi %s."
+
+#: template-parts/footer/footer-info.php:7
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:3
+msgid "Footer Menu"
+msgstr "Menu cuối trang"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#. translators: 1: title.
+#: comments.php:36
+msgid "1 Comment"
+msgstr "1 phản hồi"
+
+#: classes/class-seedlet-custom-colors.php:312
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "Sự kết hợp màu này có thể khó đọc đối với mọi người. Hãy thử sử dụng một màu nền sáng hơn và/hoặc một màu foreground tối hơn."
+
+#: classes/class-seedlet-custom-colors.php:180
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Theme Default"
+msgstr "Giao diện mặc định"
+
+#: classes/class-seedlet-custom-colors.php:155
+#: classes/class-seedlet-custom-colors.php:177
+msgid "Colors"
+msgstr "Các màu"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."

@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Seedlet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-17T03:34:56+00:00\n"
+"PO-Revision-Date: 2024-12-16 21:54:03+0000\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:30
+msgid "Add or publish Posts"
+msgstr "Hozzáadás vagy közzétesz bejegyzések"
+
+#: template-parts/content/content-none.php:25
+msgid "Your site is set to show the most recent posts on this page - but you don't have any Posts published."
+msgstr "A honlapod be van állítva, hogy megjelenítse a legfrissebb bejegyzéseket ezen az oldalon - de nincs közzétéve bejegyzésed."
+
+#: template-parts/content/content-none.php:16
+msgid "No posts published yet!"
+msgstr "Még nincs közzétéve bejegyzés!"
+
+#: inc/customizer.php:172
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Jelöld be az elrejtéshez a honlap menüjét és moduljait a láblécben, ha a kezdőlapod beállítása statikus oldal megjelenítésére van."
+
+#: inc/customizer.php:171
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Elrejtés a Honlap Lábléc Menüjét és Moduljait"
+
+#: inc/customizer.php:154
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Jelöld be az elrejtéshez a honlap fejlécét, ha a kezdőoldalad statikus oldal megjelenítésére van beállítva."
+
+#: inc/customizer.php:153
+msgid "Hide the Site Header"
+msgstr "Elrejtés a Honlap Fejléc"
+
+#: inc/customizer.php:139
+msgid "Display Site Title & Tagline"
+msgstr "Honlap cím és címsor megjelenítése"
+
+#: template-parts/post/author-bio.php:29
+msgid "View all posts by %s"
+msgstr "Összes bejegyzés megjelenítése: %s"
+
+#: inc/customizer.php:115
+msgid "On archive pages, posts show:"
+msgstr "Arhív oldalon mutatott bejegyzések: "
+
+#: inc/customizer.php:105
+#: inc/customizer.php:118
+msgid "Full text"
+msgstr "teljes szövege."
+
+#: inc/customizer.php:104
+#: inc/customizer.php:117
+msgid "Summary"
+msgstr "összegzése."
+
+#: inc/customizer.php:102
+msgid "On the home page, posts show:"
+msgstr "A kezdőlapon a bejegyzések megjelenítése:"
+
+#: inc/customizer.php:70
+msgid "Excerpt Settings"
+msgstr "Részlet beállítások"
+
+#: comments.php:76
+msgid "Leave a Comment"
+msgstr "Vélemény?"
+
+#: inc/block-patterns.php:41
+msgid "Plant"
+msgstr "Növény"
+
+#: inc/block-patterns.php:30
+msgid "Envelope"
+msgstr "Boríték"
+
+#: inc/block-styles.php:20
+#: inc/block-styles.php:28
+msgid "Alternating Grid"
+msgstr "Váltakozó Rács"
+
+#: template-parts/header/navigation.php:22
+msgid "Main"
+msgstr "Fő-"
+
+#. Description of the theme
+#: style.css
+msgid "Seedlet is a free WordPress theme. A two-column layout and classically elegant typography creates a refined site that gives your works and images space to breathe - and shine. Seedlet was built to be the perfect partner to the block editor, and supports all the latest blocks. Writing, audio, illustrations, photography, video - use Seedlet to engage and direct visitors' eyes, without your theme getting in the way. And the responsive design shifts naturally between desktop and mobile devices. Seedlet is a great option for professionals and creatives looking for a sophisticated vibe. Whether you're looking to create a blog or a robust site promoting your business, do with simplicity, style, and Seedlet."
+msgstr "Seedlet egy ingyenes WordPress sablon. A két oszlopos elrendezés és a klasszikusan elegáns tipográfia egy kifinomult honlapot hoz létre, amely teret ad a munkáidnak és a képeidnek, hogy lélegezzenek - és ragyogjanak. A Seedletet úgy építették, hogy tökéletes partnere legyen a blokk szerkesztőnek, és támogatja az összes legújabb blokkot. Írás, audió, illusztrációk, fényképezés, videó - használd a Seedletet, hogy lekösd és irányítsd a látogatók figyelmét, anélkül, hogy a sablonod az utadba állna. A reszponszív dizájn természetesen vált a desktop és mobil eszközök között. A Seedlet nagyszerű választás szakamiaknak és kreatívoknak, akik kifinomult hangulatot keresnek. Akár blogot, akár egy robusztus honlapot szeretnél létrehozni, tedd ezt egyszerűséggel, stílussal és a Seedlettel."
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/seedlet"
+msgstr "https://wordpress.com/theme/seedlet"
+
+#: inc/block-patterns.php:47
+msgid "Alternating Grid of Latest Posts"
+msgstr "Legújabb Bejegyzések Váltakozó Rács"
+
+#: template-parts/post/author-bio.php:14
+msgid "Published by"
+msgstr "Szerző:"
+
+#: inc/wpcom.php:163
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Annak érdekében, hogy az emberek el tudják olvasni a honlapodat, próbáld meg fenntartani a színek között a kiválasztás erős kontrasztarányát. <a href=\"%s\" target=\"_blank\">Tudd meg többet a színkontrasztról</a>."
+
+#: inc/wpcom.php:161
+msgid "Color Accessibility Warning"
+msgstr "Színhozzáférhetőségi figyelmeztetés"
+
+#: inc/wpcom.php:151
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Jelöld be az oldal címének elrejtését, ha a kezdőlapod beállítása statikus oldal megjelenítésére van."
+
+#: inc/wpcom.php:150
+msgid "Hide Homepage Title"
+msgstr "Homepage cím elrejtése"
+
+#: classes/class-seedlet-custom-colors.php:30
+msgid "Borders Color"
+msgstr "Határok színe"
+
+#: classes/class-seedlet-custom-colors.php:29
+#: inc/wpcom-colors-utils.php:73
+msgid "Tertiary Color"
+msgstr "Másodlagos szín"
+
+#: classes/class-seedlet-custom-colors.php:28
+#: inc/wpcom-colors-utils.php:59
+msgid "Secondary Color"
+msgstr "Másodlagos szín"
+
+#: classes/class-seedlet-custom-colors.php:27
+#: inc/wpcom-colors-utils.php:45
+msgid "Primary Color"
+msgstr "Elsődleges szín"
+
+#: classes/class-seedlet-custom-colors.php:26
+#: inc/wpcom-colors-utils.php:31
+msgid "Foreground Color"
+msgstr "Előtér szín"
+
+#: classes/class-seedlet-custom-colors.php:25
+#: inc/wpcom-colors-utils.php:17
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Bővebben <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Úgy tűnik, nem találtuk meg, amit kerestünk. Talán, egy újabb keresés segíthetne."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Elnézést, nem találunk a keresési feltételeknek megfelelő eredményt. Próbáljunk meg  más kulcsszóval, kifejezéssel."
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Kiemelt"
+
+#: inc/template-tags.php:214
+msgid "Previous post:"
+msgstr "Előző bejegyzés:"
+
+#: inc/template-tags.php:213
+msgid "Previous Post"
+msgstr "Előző bejegyzés"
+
+#: inc/template-tags.php:211
+msgid "Next post:"
+msgstr "Következő bejegyzés:"
+
+#: inc/template-tags.php:210
+msgid "Next Post"
+msgstr "Következő bejegyzés"
+
+#. translators: %s: parent post link
+#: inc/template-tags.php:203
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Közzétéve</span><span class=\"post-title\">%s</span>"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Keresés eredménye:"
+
+#: inc/woocommerce.php:139
+#: inc/woocommerce.php:175
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d elem"
+msgstr[1] "%d elem"
+
+#: inc/template-tags.php:237
+msgid "Older posts"
+msgstr "Régebbi bejegyzések"
+
+#: inc/template-tags.php:233
+msgid "Newer posts"
+msgstr "Újabb bejegyzések"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:130
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> szerkesztése"
+
+#: inc/template-tags.php:114
+msgid "Tags:"
+msgstr "Címkék:"
+
+#: inc/template-tags.php:102
+msgid "Posted in"
+msgstr "Kategória:"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:96
+#: inc/template-tags.php:108
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Hozzászólás a(z) <span class=\"screen-reader-text\">%s</span> bejegyzéshez"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Szerző"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Bővebben: %s"
+
+#: inc/template-functions.php:130
+msgid "Archives: "
+msgstr "Archívum:"
+
+#: inc/template-functions.php:117
+#: inc/template-functions.php:125
+msgid "%s Archives"
+msgstr "%s aerchívum:"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Napi archívum:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y F"
+
+#: inc/template-functions.php:107
+msgid "Monthly Archives: "
+msgstr "Havi összes bejegyzés:"
+
+#: inc/template-functions.php:105
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:104
+msgid "Yearly Archives: "
+msgstr "Éves archímum,"
+
+#: inc/template-functions.php:101
+msgid "Author Archives: "
+msgstr "Szerző archív bejegyzése:"
+
+#: inc/template-functions.php:98
+msgid "Tag Archives: "
+msgstr "Címketár:"
+
+#: inc/template-functions.php:95
+msgid "Category Archives: "
+msgstr "Kategória tár:"
+
+#: inc/block-patterns.php:37
+msgid "Group with Image Overlap"
+msgstr "Kép átfedéses csoport"
+
+#: inc/block-patterns.php:28
+msgid "Group with Split Background"
+msgstr "Csapat megosztott háttérrel"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/block-patterns.php:17
+msgid "Seedlet"
+msgstr "Seedlet"
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Seedlet requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "A Seedlet legalább 4.7-es WordPress verziót igényel. Te a %s verziót futtatod. Kérlek, frissítsd, és próbáld újra."
+
+#: image.php:94
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Kategória:</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Teljes méret"
+
+#: image.php:62
+msgid "Page"
+msgstr "oldal"
+
+#: image.php:58
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Következő kép"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Előző kép"
+
+#: template-parts/header/navigation.php:96
+msgid "Social Links Menu"
+msgstr "Közösségi hivatkozások menü"
+
+#: template-parts/header/navigation.php:79
+msgid "View your shopping list"
+msgstr "Nézd meg a bevásárlólistádat"
+
+#: inc/woocommerce.php:136
+#: template-parts/header/navigation.php:77
+msgid "View your shopping cart"
+msgstr "Nézd meg a bevásárlókosarad"
+
+#: template-parts/header/navigation.php:89
+msgid "Cart"
+msgstr "Kosár"
+
+#: template-parts/header/navigation.php:56
+msgid "Woo Minicart"
+msgstr "Woo Minicart"
+
+#: template-parts/header/navigation.php:25
+#: template-parts/header/navigation.php:75
+msgid "collapsed"
+msgstr "összeomlott"
+
+#: template-parts/header/navigation.php:50
+#: template-parts/header/navigation.php:90
+msgid "expanded"
+msgstr "bővített"
+
+#: template-parts/header/navigation.php:24
+#: template-parts/header/navigation.php:73
+msgid "Close"
+msgstr "Bezárás"
+
+#: template-parts/header/navigation.php:49
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Ugrás a tartalomhoz"
+
+#: functions.php:339
+msgid "Add widgets here to appear in your footer."
+msgstr "A lábrészben megjelenó widgeteket itt adjuk hozzá."
+
+#: footer.php:18
+#: functions.php:337
+msgid "Footer"
+msgstr "Lábléc"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:296
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Fira Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:290
+msgctxt "Fira Sans: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:244
+#: inc/wpcom.php:127
+msgid "Stripe"
+msgstr "Stripe"
+
+#: functions.php:239
+#: inc/wpcom.php:122
+msgid "Horizontal inverted gradient"
+msgstr "Vízszintes inverz gradiens"
+
+#: functions.php:234
+#: inc/wpcom.php:117
+msgid "Horizontal gradient"
+msgstr "Vízszintes átmenet"
+
+#: functions.php:229
+#: inc/wpcom.php:112
+msgid "Diagonal inverted gradient"
+msgstr "Átlós inverz gradiens"
+
+#: functions.php:224
+#: inc/wpcom.php:107
+msgid "Diagonal gradient"
+msgstr "Átlós átmenet"
+
+#: functions.php:219
+#: inc/wpcom.php:102
+msgid "Horizontal inverted"
+msgstr "Vízszintes fordított"
+
+#: functions.php:214
+#: inc/wpcom.php:97
+msgid "Horizontal"
+msgstr "Horizontális"
+
+#: functions.php:209
+#: inc/wpcom.php:92
+msgid "Diagonal inverted"
+msgstr "Átlós inverz"
+
+#: functions.php:204
+#: inc/wpcom.php:87
+msgid "Diagonal"
+msgstr "Átlós"
+
+#: functions.php:190
+#: inc/wpcom.php:73
+msgid "Background"
+msgstr "Háttér"
+
+#: functions.php:185
+#: inc/wpcom.php:68
+msgid "Tertiary"
+msgstr "Harmadlagos"
+
+#: functions.php:180
+#: inc/wpcom.php:63
+msgid "Foreground"
+msgstr "Előtér"
+
+#: functions.php:175
+#: inc/wpcom.php:58
+msgid "Secondary"
+msgstr "Másodlagos"
+
+#: functions.php:170
+#: inc/wpcom.php:53
+msgid "Primary"
+msgstr "Elsődleges"
+
+#: functions.php:151
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:150
+msgid "Huge"
+msgstr "Hatalmas"
+
+#: functions.php:145
+msgid "L"
+msgstr "L"
+
+#: functions.php:144
+msgid "Large"
+msgstr "Nagy"
+
+#: functions.php:139
+msgid "M"
+msgstr "m"
+
+#: functions.php:138
+msgid "Normal"
+msgstr "Normál"
+
+#: functions.php:133
+msgid "S"
+msgstr "S"
+
+#: functions.php:132
+msgid "Small"
+msgstr "Kicsi"
+
+#: functions.php:127
+msgid "XS"
+msgstr "XS"
+
+#: functions.php:126
+msgid "Tiny"
+msgstr "Apró"
+
+#: functions.php:62
+msgid "Social Links Navigation"
+msgstr "Szociális Hivatkozások Navigáció"
+
+#: functions.php:61
+msgid "Footer Navigation"
+msgstr "Lábléc navigáció"
+
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr "Elsődleges navigáció"
+
+#. translators: %s: WordPress.
+#: template-parts/footer/footer-info.php:10
+msgid "Proudly powered by %s."
+msgstr "Köszönjük, %s!"
+
+#: template-parts/footer/footer-info.php:7
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: template-parts/footer/footer-menu.php:3
+msgid "Footer Menu"
+msgstr "Lábléc menü"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Hozzászólás jelenleg nem lehetséges."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s hozzászólás"
+msgstr[1] "%1$s hozzászólás"
+
+#. translators: 1: title.
+#: comments.php:36
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: classes/class-seedlet-custom-colors.php:312
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker foreground color."
+msgstr "Ez a színkombináció nehezen olvasható lehet az emberek számára. Próbálj meg világosabb háttérszínt és/vagy sötétebb előtérszínt használni."
+
+#: classes/class-seedlet-custom-colors.php:180
+msgid "Custom"
+msgstr "egyéni"
+
+#: classes/class-seedlet-custom-colors.php:179
+msgid "Theme Default"
+msgstr "Sablon alapértelmezett"
+
+#: classes/class-seedlet-custom-colors.php:155
+#: classes/class-seedlet-custom-colors.php:177
+msgid "Colors"
+msgstr "Színek"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Úgy tűnik, hogy itt sajnos nem található semmi. Esetleg megpróbálkozunk egy másik kereséssel?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "A keresett oldal nem található."
