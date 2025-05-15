@@ -1,0 +1,81 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Poppins",
+                "font_headings": "Poppins"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": null
+            },
+            "custom_css_post_id": -1,
+            "colors_manager": {
+                "0": false,
+                "cached": false,
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#1a1a1a",
+                    "link": "#000000",
+                    "fg1": "#1a1a1a",
+                    "fg2": "#fafafa"
+                }
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Home",
+            "post_content": "<!-- wp:cover {\"customOverlayColor\":\"#5e2584\",\"minHeight\":100,\"minHeightUnit\":\"vh\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull\" style=\"min-height:100vh;\"><span aria-hidden=\"true\" class=\"has-background-dim-100 wp-block-cover__gradient-background has-background-dim\" style=\"background-color:#5e2584;\"><\/span><div class=\"wp-block-cover__inner-container\"><!-- wp:image {\"align\":\"center\",\"id\":12,\"width\":100,\"height\":100,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-full is-resized\"><img src=\"https:\/\/bantrydemo.files.wordpress.com\/2021\/11\/bullhorn_icon-1-1.png\" alt=\"\" class=\"wp-image-12\" width=\"100\" height=\"100\" \/><\/figure><\/div>\n<!-- \/wp:image -->\n\n<!-- wp:spacer {\"height\":5} -->\n<div style=\"height:5px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:heading {\"textAlign\":\"center\",\"align\":\"wide\",\"style\":{\"typography\":{\"fontSize\":\"64px\",\"lineHeight\":\"1.1\"}},\"textColor\":\"background\"} -->\n<h2 class=\"alignwide has-text-align-center has-background-color has-text-color\" id=\"coming-soon\" style=\"font-size:64px;line-height:1.1;\"><strong>Coming Soon<\/strong><\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"background\"} -->\n<p class=\"has-text-align-center has-background-color has-text-color\">Sign up to hear when my journey begins.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:jetpack\/subscriptions {\"buttonBackgroundColor\":\"background\",\"customTextColor\":\"#5e2584\",\"borderRadius\":6,\"borderColor\":\"#ffffff\",\"customBorderColor\":\"#ffffff\"} -->\n<div class=\"wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline\">[jetpack_subscription_form show_subscribers_total=\"false\" button_on_newline=\"false\" custom_text_button_color=\"#5e2584\" custom_font_size=\"16px\" custom_border_radius=\"6\" custom_border_weight=\"1\" custom_border_color=\"#ffffff\" custom_padding=\"15\" custom_spacing=\"10\" submit_button_classes=\"has-ffffff-border-color has-background has-background-background-color\" email_field_classes=\"has-ffffff-border-color\" show_only_email_and_button=\"true\"]<\/div>\n<!-- \/wp:jetpack\/subscriptions -->\n\n<!-- wp:social-links {\"iconColor\":\"background\",\"iconColorValue\":\"#ffffff\",\"align\":\"center\",\"className\":\"is-style-logos-only\"} -->\n<ul class=\"wp-block-social-links aligncenter has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} \/--><\/ul>\n<!-- \/wp:social-links --><\/div><\/div>\n<!-- \/wp:cover -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "coming-soon-8",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https:\/\/bantrydemo.files.wordpress.com\/2021\/11\/bullhorn_icon-1-1.png"
+    ],
+    "meta": {
+        "blog_id": 197662261,
+        "url": "https:\/\/bantrydemo.wordpress.com",
+        "update_date": "November 11, 2021, 4:13 am",
+        "update_timestamp": 1636603988
+    }
+}
