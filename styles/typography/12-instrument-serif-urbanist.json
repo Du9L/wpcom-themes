@@ -1,0 +1,197 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Instrument Serif & Urbanist",
+	"category": "playful",
+	"keywords": [
+		"serif",
+		"sans-serif",
+		"elegant",
+		"modern",
+		"versatile",
+		"professional",
+		"italic",
+		"uppercase",
+		"editorial",
+		"contemporary",
+		"readable"
+	],
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Instrument Serif",
+							"fontStyle": "normal",
+							"fontWeight": "400 700",
+							"src": [
+								"file:./assets/fonts/instrument-serif/InstrumentSerif-Regular.woff2"
+							]
+						},
+						{
+							"fontFamily": "Instrument Serif",
+							"fontStyle": "italic",
+							"fontWeight": "400 700",
+							"src": [
+								"file:./assets/fonts/instrument-serif/InstrumentSerif-Italic.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Instrument Serif\", serif",
+					"name": "Instrument Serif",
+					"slug": "instrument-serif"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Urbanist",
+							"fontStyle": "normal",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/urbanist/Urbanist-VariableFont_wght.woff2"
+							]
+						},
+						{
+							"fontFamily": "Urbanist",
+							"fontStyle": "italic",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/urbanist/Urbanist-Italic-VariableFont_wght.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Urbanist\", sans-serif",
+					"name": "Urbanist",
+					"slug": "urbanist"
+				}
+			],
+			"fontSizes": [
+				{
+					"name": "Small",
+					"size": "19px",
+					"slug": "small",
+					"fluid": {
+						"min": "17px",
+						"max": "19px"
+					}
+				},
+				{
+					"name": "Medium",
+					"size": "20px",
+					"slug": "medium",
+					"fluid": {
+						"min": "18px",
+						"max": "20px"
+					}
+				},
+				{
+					"name": "Large",
+					"size": "28px",
+					"slug": "large",
+					"fluid": {
+						"min": "20px",
+						"max": "28px"
+					}
+				},
+				{
+					"name": "Extra Large",
+					"size": "48px",
+					"slug": "x-large",
+					"fluid": {
+						"min": "36px",
+						"max": "48px"
+					}
+				},
+				{
+					"name": "2X Large",
+					"size": "64px",
+					"slug": "xx-large",
+					"fluid": {
+						"min": "40px",
+						"max": "64px"
+					}
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/site-title": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--urbanist)",
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"fontWeight": "500"
+				}
+			},
+			"core/navigation": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--urbanist)",
+					"fontSize": "var(--wp--preset--font-size--small)",
+					"fontWeight": "400"
+				}
+			}
+		},
+		"elements": {
+			"button": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--urbanist)",
+					"fontSize": "var(--wp--preset--font-size--small)",
+					"fontWeight": "400"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--instrument-serif)",
+					"fontSize": "var(--wp--preset--font-size--xx-large)",
+					"lineHeight": "0.9",
+					"fontWeight": "400",
+					"letterSpacing": "-0.005em"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--instrument-serif)",
+					"fontSize": "var(--wp--preset--font-size--x-large)",
+					"letterSpacing": "-0.005em",
+					"fontWeight": "400",
+					"lineHeight": "1.1"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--urbanist)",
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"lineHeight": "1.1",
+					"letterSpacing": "-0.005em",
+					"fontWeight": "500"
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"lineHeight": "1.1"
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"lineHeight": "1.1"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--urbanist)",
+					"fontWeight": "600",
+					"lineHeight": "1"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--urbanist)",
+			"fontSize": "var(--wp--preset--font-size--small)",
+			"fontWeight": "400",
+			"lineHeight": "1.55"
+		}
+	}
+}
