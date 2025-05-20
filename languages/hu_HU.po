@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Sapor\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T03:46:07+00:00\n"
+"PO-Revision-Date: 2017-03-23 08:43:36+0000\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:51
+msgid "Heading Color"
+msgstr "Fejléc színe"
+
+#: inc/wpcom-colors.php:12
+msgid "Text Color"
+msgstr "Szöveg színe"
+
+#: inc/wpcom-colors.php:45
+msgid "Primary Color"
+msgstr "Elsődleges szín"
+
+#: inc/template-tags.php:105
+msgid "by"
+msgstr "Szerző:"
+
+#: template-parts/content.php:22
+msgid "Continue reading"
+msgstr "Bővebben"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Elnézést, nem találunk a keresési feltételeknek megfelelő eredményt. Másik kulcsszóval, kifejezéssel újra kellene kezdeni egy keresést."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Úgy tűnik, nem találtuk meg amit kerestünk. :) Talán, egy újabb keresés segíthetne..."
+
+#: template-parts/content-page.php:24
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Oldal:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Készen állunk az első bejegyzés közzétételére? <a href=\"%1$s\">Kezdőlépések</a>."
+
+#: index.php:38
+msgid "Next page"
+msgstr "Következő oldal"
+
+#: index.php:39
+msgid "Page"
+msgstr "Oldal"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s kifejezésre történő keresés eredménye:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:149
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:211
+#: template-parts/content-search.php:16
+msgid "Featured"
+msgstr "Kiemelt"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:262
+msgid "Continue reading %s"
+msgstr "%s részletei..."
+
+#: index.php:37
+msgid "Previous page"
+msgstr "Előző oldal"
+
+#: inc/template-tags.php:132
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: inc/template-tags.php:132
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: inc/template-tags.php:132
+msgid "Leave a comment"
+msgstr "Hozzászólás"
+
+#: inc/template-tags.php:115
+msgid "Posted in %1$s"
+msgstr "Kategória: %1$s"
+
+#: inc/template-tags.php:128
+#: template-parts/content-page.php:17
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Bejegyzések navigációja"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Bejegyzések navigációja"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:57
+msgid "Page %s"
+msgstr "Oldal %s"
+
+#: functions.php:138
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "be"
+
+#: header.php:23
+msgid "Show"
+msgstr "Mutat"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Tartalomhoz"
+
+#: functions.php:133
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "be"
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr "Főmenü"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Közösségi hivatkozások menü"
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Köszönjük %s!"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Sablon: %1$s Szerző: %2$s."
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Hozzászólások lehetősége itt nem engedélyezett."
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:35
+#: comments.php:57
+msgid "Comment navigation"
+msgstr "Hozzászólás navigáció"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Older Comments"
+msgstr "Korábbi hozzászólás"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Newer Comments"
+msgstr "Újabb hozzászólás"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "%s összes bejegyzéseinek megtekintése"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; bejegyzéshez egy hozzászólás"
+msgstr[1] "&ldquo;%2$s&rdquo; bejegyzéshez %1$s hozzászólás"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "A keresett oldal nem található."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "A keresett oldal vagy bejegyzés nem található. Próbálkozzunk meg az alábbi hivatkozásokkal vagy esetleg egy kereséssel."

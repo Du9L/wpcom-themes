@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Sapor\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-20T05:17:52+00:00\n"
+"PO-Revision-Date: 2024-07-18 11:49:09+0000\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/template-tags.php:59
+msgid "Next post:"
+msgstr "Pos selanjutnya:"
+
+#: inc/template-tags.php:122
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:55
+msgid "Previous: "
+msgstr "Sebelumnya:"
+
+#: inc/template-tags.php:56
+msgid "Previous post:"
+msgstr "Pos sebelumnya:"
+
+#: inc/template-tags.php:58
+msgid "Next: "
+msgstr "Berikut:"
+
+#: inc/template-tags.php:105
+msgid "by"
+msgstr "oleh"
+
+#: template-parts/content.php:22
+msgid "Continue reading"
+msgstr "Lanjutkan membaca"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: template-parts/content-page.php:24
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak ada yang ditemukan"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: index.php:38
+msgid "Next page"
+msgstr "Laman berikutnya"
+
+#: index.php:39
+msgid "Page"
+msgstr "Laman"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/template-tags.php:149
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:215
+#: template-parts/content-search.php:16
+msgid "Featured"
+msgstr "Andalan"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:266
+msgid "Continue reading %s"
+msgstr "Lanjutkan membaca %s"
+
+#: index.php:37
+msgid "Previous page"
+msgstr "Laman sebelumnya"
+
+#: inc/template-tags.php:132
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:132
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:132
+msgid "Leave a comment"
+msgstr "Meninggalkan komentar"
+
+#: inc/template-tags.php:115
+msgid "Posted in %1$s"
+msgstr "Dikirimkan di %1$s"
+
+#: inc/template-tags.php:128
+#: template-parts/content-page.php:17
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigasi pos"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigasi pos"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:57
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: functions.php:133
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "nyala"
+
+#: functions.php:138
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:23
+msgid "Show"
+msgstr "Tampilkan"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr "Menu Utama"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Menu Tautan Sosial"
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr "Bilah Sisi"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga bertenaga %s"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:35
+#: comments.php:57
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Older Comments"
+msgstr "Komentar Sebelumnya"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Newer Comments"
+msgstr "Komentar Berikutnya"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "Tampilkan semua pos berdasarkan %s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nampaknya tidak ada yang ditemukan di lokasi. Mungkin coba salah satu tautan di bawah atau telusuri?"

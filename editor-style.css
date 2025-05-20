@@ -1,0 +1,446 @@
+/*
+Theme Name: sapor
+Description: Used to style the TinyMCE editor.
+*/
+.alignleft {
+  display: inline;
+  float: left;
+  margin: 5px 20px 5px 0;
+}
+
+.alignright {
+  display: inline;
+  float: right;
+  margin: 5px 20px 5px 0;
+}
+
+.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  color: #666;
+  font-family: "PT Serif", serif;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
+  color: #aaa;
+  font-family: "PT Sans", sans-serif;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 3.052em;
+}
+
+h2 {
+  font-size: 2.441em;
+}
+
+h3 {
+  font-size: 1.953em;
+}
+
+h4 {
+  font-size: 1.563em;
+}
+
+h5 {
+  font-size: 1.25em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+h1.site-title {
+  margin-bottom: 0;
+}
+
+h1.site-title a {
+  text-decoration: none;
+}
+
+h2.site-description {
+  font-size: 1.563em;
+  font-weight: 400;
+  margin-top: 0;
+  text-transform: normal;
+}
+
+h2.comments-title {
+  font-size: 1.25em;
+}
+
+h2.widget-title {
+  font-weight: 400;
+}
+
+h3.comment-reply-title {
+  font-size: 1.25em;
+  margin-bottom: 0;
+}
+
+h1.page-title {
+  font-size: 3.052em;
+  margin: 0 0 40px;
+}
+
+h2.entry-title {
+  font-size: 3.052em;
+  margin: 40px 0 20px;
+}
+
+h1.entry-title {
+  margin-top: 0;
+}
+
+h2.author-heading {
+  font-size: 1.563em;
+  margin: 0 0 5px 0;
+}
+
+.entry-content,
+.entry-summary,
+.page-content,
+.comment-content,
+.textwidget,
+.entry-title,
+.page-title {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word;
+}
+
+p {
+  margin-bottom: 40px;
+}
+
+dfn, cite, em, i {
+  font-style: italic;
+}
+
+blockquote, q {
+  quotes: "" "";
+}
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+}
+
+blockquote {
+  color: #aaa;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.25em;
+  margin: 0;
+  padding: 0 40px;
+}
+
+blockquote > blockquote {
+  font-size: 1em;
+}
+
+blockquote cite {
+  font-size: 0.9em;
+  color: #666;
+}
+
+address {
+  margin: 0 0 20px;
+}
+
+pre {
+  background: #e8e8e8;
+  font-family: "Courier 10 Pitch", Courier, monospace;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  max-width: 100%;
+  overflow: auto;
+  padding: 20px;
+}
+
+code, kbd, tt, var {
+  font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+}
+
+abbr, acronym {
+  border-bottom: 1px solid #e8e8e8;
+  cursor: help;
+}
+
+mark, ins {
+  background: #f1f1f1;
+  text-decoration: none;
+}
+
+big {
+  font-size: 125%;
+}
+
+a {
+  color: #444;
+  text-decoration: none;
+}
+a:visited {
+  color: #444;
+}
+a:hover, a:focus, a:active {
+  color: #88cc33;
+  webkit-transition: 0.2s all ease-in-out;
+  transition: 0.2s all ease-in-out;
+}
+a:focus {
+  outline: thin dotted;
+}
+a:hover, a:active {
+  outline: 0;
+}
+
+a.more-link {
+  color: #88cc33;
+}
+
+.entry-header a,
+.comment-content a,
+.entry-content a,
+.entry-meta a,
+.comment-respond a,
+.site-footer a,
+.widget_archive a,
+.widget_categories a,
+.widget_links a,
+.widget_meta a,
+.widget_pages a,
+.widget_recent_comments a,
+.widget_recent_entries a,
+.author-info a,
+.nav-links a {
+  position: relative;
+  display: inline;
+  outline: none;
+  text-decoration: none;
+  padding: 0 0 1px;
+}
+
+.entry-header a {
+  padding: 0 0 5px;
+}
+
+.comment-content a::after,
+.entry-content a::after,
+.entry-header a::after,
+.comment-respond a::after,
+.site-footer a::after,
+.entry-meta a::after,
+.widget_archive a::after,
+.widget_categories a::after,
+.widget_links a::after,
+.widget_meta a::after,
+.widget_pages a::after,
+.widget_recent_comments a::after,
+.widget_recent_entries a::after,
+.author-info a::after,
+.nav-links a::after {
+  background: #88cc33;
+  content: '';
+  height: 2px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  -webkit-transform: translateY(-2px);
+  transform: translateY(-2px);
+  -webkit-transition: height 0.3s, opacity 0.3s, transform 0.3s;
+  transition: height 0.3s, opacity 0.3s, transform 0.3s;
+  top: 100%;
+  width: 100%;
+}
+
+.entry-header a::after {
+  -webkit-transform: translateY(-4px);
+  transform: translateY(-4px);
+  height: 4px;
+}
+.entry-header a::after::after {
+  height: 5px;
+}
+
+.entry-header a:hover::after,
+.comment-content a:hover::after,
+.entry-content a:hover::after,
+.comment-respond a:hover::after,
+.site-footer a:hover::after,
+.entry-meta a:hover::after,
+.widget_archive a:hover::after,
+.widget_categories a:hover::after,
+.widget_links a:hover::after,
+.widget_meta a:hover::after,
+.widget_pages a:hover::after,
+.widget_recent_comments a:hover::after,
+.widget_recent_entries a:hover::after,
+.author-info a:hover::after,
+.nav-links a:hover::after {
+  height: 2px;
+  opacity: 1;
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+}
+
+.entry-header a:hover::after {
+  height: 4px;
+}
+
+.comment-content a img:after,
+.entry-content a img:after,
+.comment-respond a img:after {
+  display: none;
+}
+
+h1.site-title a:hover {
+  color: #666;
+}
+
+.page-content .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+  border: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+img {
+  height: auto;
+  /* Make sure images are scaled correctly. */
+  max-width: 100%;
+  /* Adhere to container width. */
+}
+
+/* Make sure embeds and iframes fit their containers. */
+embed,
+iframe,
+object {
+  max-width: 100%;
+}
+
+img.size-big {
+  margin: 0;
+  max-width: 100%;
+}
+
+a img {
+  border: 0;
+}
+
+.featured-image {
+  margin-bottom: 40px;
+}
+
+img.site-logo {
+  margin: 0 auto 40px auto;
+}
+
+.site-logo-link {
+  max-width: 100%;
+  text-align: center;
+}
+
+.page .feature-image {
+  margin-bottom: 40px;
+}
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+.wp-caption {
+  margin-bottom: 10px;
+  max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.wp-caption .wp-caption-text {
+  margin: 5px 0;
+}
+
+.wp-caption-text {
+  color: #aaa;
+  font-style: italic;
+  font-size: 0.7em;
+  padding: 10px 0;
+}
+
+/*--------------------------------------------------------------
+## Galleries
+--------------------------------------------------------------*/
+.gallery {
+  margin-bottom: 20px;
+}
+
+.gallery-item {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 100%;
+}
+.gallery-columns-2 .gallery-item {
+  max-width: 50%;
+}
+.gallery-columns-3 .gallery-item {
+  max-width: 33.33%;
+}
+.gallery-columns-4 .gallery-item {
+  max-width: 25%;
+}
+.gallery-columns-5 .gallery-item {
+  max-width: 20%;
+}
+.gallery-columns-6 .gallery-item {
+  max-width: 16.66%;
+}
+.gallery-columns-7 .gallery-item {
+  max-width: 14.28%;
+}
+.gallery-columns-8 .gallery-item {
+  max-width: 12.5%;
+}
+.gallery-columns-9 .gallery-item {
+  max-width: 11.11%;
+}
+
+.gallery-caption {
+  display: block;
+}
+
+.gallery-item img {
+  padding: 2px;
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+  display: none;
+}
+
+.entry-content [class*=gallery] a:hover:after,
+.entry-content [class*=gallery] a:focus:after,
+.entry-content [class*=gallery] a:active:after {
+  display: none;
+}

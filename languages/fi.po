@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Sapor\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T04:54:19+00:00\n"
+"PO-Revision-Date: 2022-10-06 18:51:09+0000\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/template-tags.php:59
+msgid "Next post:"
+msgstr "Seuraava artikkeli:"
+
+#: inc/template-tags.php:122
+msgid "Format"
+msgstr "Oma tyyli"
+
+#: inc/template-tags.php:56
+msgid "Previous post:"
+msgstr "Edellinen artikkeli:"
+
+#: inc/template-tags.php:58
+msgid "Next: "
+msgstr "Seuraava:"
+
+#: inc/template-tags.php:55
+msgid "Previous: "
+msgstr "Edellinen: "
+
+#: inc/template-tags.php:105
+msgid "by"
+msgstr " Kirjoittanut"
+
+#: template-parts/content.php:22
+msgid "Continue reading"
+msgstr "Lue lisää"
+
+#. Description of the theme
+msgid "Sapor is a two column blogging theme with a lot of possibilities"
+msgstr "Sapor on kaksipalstainen blogiteema monilla mahdollisuuksilla"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: template-parts/content-page.php:24
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen kirjoituksesi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: index.php:38
+msgid "Next page"
+msgstr "Seuraava sivu"
+
+#: index.php:39
+msgid "Page"
+msgstr "Sivu"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hakutulokset: %s"
+
+#: inc/template-tags.php:149
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:215
+#: template-parts/content-search.php:16
+msgid "Featured"
+msgstr "Suositeltu"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:266
+msgid "Continue reading %s"
+msgstr "Jatka artikkeliin %s"
+
+#: index.php:37
+msgid "Previous page"
+msgstr "Edellinen sivu"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:259
+msgid "&#8734;"
+msgstr "&#8734;"
+
+#: inc/template-tags.php:132
+msgid "1 Comment"
+msgstr "Yksi kommentti"
+
+#: inc/template-tags.php:132
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: inc/template-tags.php:132
+msgid "Leave a comment"
+msgstr "Kommentoi"
+
+#: inc/template-tags.php:115
+msgid "Posted in %1$s"
+msgstr "Kategoriassa %1$s"
+
+#: inc/template-tags.php:128
+#: template-parts/content-page.php:17
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Artikkelien selaus"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:57
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: functions.php:138
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:23
+msgid "Show"
+msgstr "Näytä"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr "Päävalikko"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Some-valikko"
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Palvelun tarjoaa %s"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Teema: %1$s tekijä %2$s."
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:35
+#: comments.php:57
+msgid "Comment navigation"
+msgstr "Kommenttien selaus"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Older Comments"
+msgstr "Vanhemmat kommentit"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Newer Comments"
+msgstr "Uudemmat kommentit"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "Näytä kaikki käyttäjän %s artikkelit"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi vastaus artikkeliiin &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s vastausta artikkeliin &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:27
+msgid "Published by "
+msgstr "Julkaissut"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Etsimääsi sivua ei löytynyt."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Valitettavasti mitään ei löytynyt. Kokeile alla olevia linkkejä tai hakua."

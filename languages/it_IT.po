@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Sapor\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T04:54:48+00:00\n"
+"PO-Revision-Date: 2022-03-18 17:50:26+0000\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/template-tags.php:59
+msgid "Next post:"
+msgstr "Articolo successivo:"
+
+#: inc/template-tags.php:122
+msgid "Format"
+msgstr "Formato"
+
+#: inc/template-tags.php:56
+msgid "Previous post:"
+msgstr "Articolo precedente:"
+
+#: inc/template-tags.php:58
+msgid "Next: "
+msgstr "Successivo:"
+
+#: inc/template-tags.php:55
+msgid "Previous: "
+msgstr "Precedente:"
+
+#: inc/template-tags.php:105
+msgid "by"
+msgstr "di"
+
+#: template-parts/content.php:22
+msgid "Continue reading"
+msgstr "Continua a leggere"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Spiacente, nulla corrisponde ai termini della tua ricerca. Riprova con parole chiave diverse."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Non riusciamo a trovare quello che cerchi. Forse eseguire una ricerca potrebbe essere di aiuto."
+
+#: template-parts/content-page.php:24
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sei pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Comincia da qui</a>."
+
+#: index.php:38
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: index.php:39
+msgid "Page"
+msgstr "Pagina"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Risultati ricerca per: %s"
+
+#: inc/template-tags.php:149
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:215
+#: template-parts/content-search.php:16
+msgid "Featured"
+msgstr "In evidenza"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:266
+msgid "Continue reading %s"
+msgstr "Continua a leggere %s"
+
+#: index.php:37
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: inc/template-tags.php:132
+msgid "1 Comment"
+msgstr "1 commento"
+
+#: inc/template-tags.php:132
+msgid "% Comments"
+msgstr "% commenti"
+
+#: inc/template-tags.php:132
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: inc/template-tags.php:115
+msgid "Posted in %1$s"
+msgstr "Inviato su %1$s"
+
+#: inc/template-tags.php:128
+#: template-parts/content-page.php:17
+msgid "Edit"
+msgstr "Modifica"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigazione articoli"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigazione articolo"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:57
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: functions.php:138
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:23
+msgid "Show"
+msgstr "Visualizza"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: functions.php:133
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr "Menu principale"
+
+#: functions.php:58
+msgid "Social Links Menu"
+msgstr "Menù social link"
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: footer.php:14
+msgid "Proudly powered by %s"
+msgstr "Orgogliosamente fornito da %s"
+
+#: footer.php:16
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s di %2$s."
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:35
+#: comments.php:57
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: comments.php:38
+#: comments.php:60
+msgid "Older Comments"
+msgstr "Commenti più vecchi"
+
+#: comments.php:39
+#: comments.php:61
+msgid "Newer Comments"
+msgstr "Nuovi commenti"
+
+#: author-bio.php:31
+msgid "View all posts by %s"
+msgstr "Leggi tutti gli articoli di %s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero riguardo &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri riguardo &ldquo;%2$s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sembra che non ci sia nulla a questo indirizzo. Perché non provi con uno dei link in basso o una ricerca?"
