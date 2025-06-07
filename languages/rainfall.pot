@@ -1,0 +1,375 @@
+# Copyright (C) 2025 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainfall 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/rainfall\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-15T03:25:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Rainfall"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/rainfall/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Rainfall is a clean, objective blogging theme strongly inspired by Swiss Design. Its minimalist functionality is balanced by a strong accent color, beautiful photography and post templates with sidebars."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:17
+msgid "Page not Found"
+msgstr ""
+
+#: patterns/404.php:36
+msgid "The page you requested cannot be found, maybe try a search?"
+msgstr ""
+
+#: patterns/big-header.php
+msgctxt "Pattern title"
+msgid "Big Header"
+msgstr ""
+
+#: patterns/big-header.php:18
+#: patterns/index.php:16
+msgid "The City That Never Sleeps"
+msgstr ""
+
+#: patterns/big-header.php:28
+#: patterns/index.php:24
+msgid "002"
+msgstr ""
+
+#: patterns/big-header.php:32
+msgid "Read Issue"
+msgstr ""
+
+#: patterns/big-header.php:38
+#: patterns/index.php:35
+msgid "Person with umbrella"
+msgstr ""
+
+#: patterns/contacts.php
+msgctxt "Pattern title"
+msgid "Contacts"
+msgstr ""
+
+#: patterns/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: patterns/contacts.php:21
+msgid "Editorial &amp; Submissions"
+msgstr ""
+
+#: patterns/contacts.php:25
+msgid "We’re always looking for engaging contributors from around the world. If you’re a writer, artist, photographer, and would like to have your project published on our website, email us."
+msgstr ""
+
+#: patterns/contacts.php:31
+msgid "Advertising"
+msgstr ""
+
+#: patterns/contacts.php:35
+msgid "If you would like to learn more about advertising on Rainfall, please contact Fabian."
+msgstr ""
+
+#: patterns/contacts.php:35
+msgid "For all other inquiries, please contact us here."
+msgstr ""
+
+#: patterns/contacts.php:47
+msgid "Mailing Address"
+msgstr ""
+
+#: patterns/contacts.php:51
+msgid "Rainfall Mag"
+msgstr ""
+
+#: patterns/contacts.php:51
+msgid "Linienstraße 121"
+msgstr ""
+
+#: patterns/contacts.php:51
+msgid "10115 Berlin"
+msgstr ""
+
+#: patterns/contacts.php:57
+msgid "Social Media"
+msgstr ""
+
+#: patterns/contacts.php:61
+msgid "Facebook"
+msgstr ""
+
+#: patterns/contacts.php:61
+msgid "Instagram"
+msgstr ""
+
+#: patterns/contacts.php:61
+msgid "Twitter"
+msgstr ""
+
+#: patterns/contacts.php:61
+msgid "TikTok"
+msgstr ""
+
+#: patterns/cta.php
+msgctxt "Pattern title"
+msgid "CTA"
+msgstr ""
+
+#: patterns/cta.php:14
+#: patterns/index.php:100
+msgid "Work With Us"
+msgstr ""
+
+#: patterns/cta.php:20
+#: patterns/index.php:106
+msgid "Rainfall is an online magazine featuring curated stories about real people. We are passionate about interviewing people from self-employed entrepreneurs to established CEO’s and represent the times."
+msgstr ""
+
+#: patterns/cta.php:31
+#: patterns/index.php:117
+msgid "Browse Open Positions"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 content"
+msgstr ""
+
+#: patterns/hidden-404.php:15
+msgid "Missing page"
+msgstr ""
+
+#: patterns/hidden-404.php:26
+msgid "The page you requested cannot be found; poor luck, eh?"
+msgstr ""
+
+#: patterns/home-query.php
+msgctxt "Pattern title"
+msgid "Home Query"
+msgstr ""
+
+#: patterns/home-query.php:11
+#: patterns/index.php:54
+msgid "Issues"
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/index.php:29
+msgid "%1$sRead Issue%2$s"
+msgstr ""
+
+#: patterns/latest-posts.php
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/latest-posts.php:10
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/media-text.php
+msgctxt "Pattern title"
+msgid "Media & Text"
+msgstr ""
+
+#: patterns/media-text.php:14
+msgid "\"Every year about the end of the rains and before the strength of the sun had come upon us, we'd notice the city glow.\""
+msgstr ""
+
+#: patterns/media-text.php:18
+msgid "John Thompson"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:15
+msgid "Search for a Topic"
+msgstr ""
+
+#: patterns/sidebar.php:25
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:35
+msgid "Posted Recently"
+msgstr ""
+
+#: patterns/sidebar.php:45
+msgid "Submissions"
+msgstr ""
+
+#: patterns/sidebar.php:49
+msgid "Would you like to contribute as an editor or a writer to our blog? Let us know all the details about yourself and send us a message."
+msgstr ""
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:13
+msgid "The People's Voices"
+msgstr ""
+
+#: patterns/testimonials.php:24
+msgid "“I've lived in New York for twelve years and the city has grown on me. I wouldn't want to live anywhere else.”"
+msgstr ""
+
+#: patterns/testimonials.php:28
+msgid "Noah, Coffee Lover"
+msgstr ""
+
+#: patterns/testimonials.php:38
+msgid "“To me, surfing is ultimately a spiritual thing, the feeling of freedom I get from it is transcendental.”"
+msgstr ""
+
+#: patterns/testimonials.php:42
+msgid "Sam, Surfer"
+msgstr ""
+
+#: patterns/testimonials.php:52
+msgid "“I like driving from point A to point B. A car can truly simplify our lives. It's traffic that really sucks!”"
+msgstr ""
+
+#: patterns/testimonials.php:56
+msgid "Selma, Uber Driver"
+msgstr ""
+
+#: patterns/testimonials.php:66
+msgid "“Fashion is not just about clothes, it's about expression and the confidence to wear what represents you.”"
+msgstr ""
+
+#: patterns/testimonials.php:70
+msgid "Lily, Model"
+msgstr ""
+
+#: patterns/testimonials.php:80
+msgid "“An old lady was passing by our shop the other day and I just felt like offering her a rose.”"
+msgstr ""
+
+#: patterns/testimonials.php:84
+msgid "Fatimah, Loves Flowers"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with black header"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with no sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Grey"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light Grey"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Brown"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Orange"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light Orange"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "50"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "100"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "110"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "200"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Helvetica Neue"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Extra Large"
+msgstr ""
