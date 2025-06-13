@@ -1,0 +1,189 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pierian 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pierian\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T04:19:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Pierian"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/pierian/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Pierian is a minimalist typography-focused theme that embraces a low-key styling approach. With equivalent headings, paragraphs, links, and navigation, it features columns that elegantly divide navigation, blog posts, and a profile block."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:22
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/sidebar-right.php
+msgctxt "Pattern title"
+msgid "sidebar-right"
+msgstr ""
+
+#: patterns/sidebar-right.php:13
+#: patterns/sidebar.php:13
+msgid "Sappho, spelled (in the dialect spoken by the poet) Psappho, (born c. 610, Lesbos, Greece — died c. 570 BCE). A lyric poet greatly admired in all ages for the beauty of her writing style."
+msgstr ""
+
+#: patterns/sidebar-right.php:17
+#: patterns/sidebar.php:17
+msgid "Her language contains elements from Aeolic vernacular and poetic tradition, with traces of epic vocabulary familiar to readers of Homer. She has the ability to judge critically her own ecstasies and grief, and her emotions lose nothing of their force by being recollected in tranquillity."
+msgstr ""
+
+#: patterns/sidebar-right.php:23
+msgid "Marble statue of Sappho on side profile."
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:23
+msgid "Marble statue of Sappho on side profile"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/sidebar.php:30
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/sidebar.php:32
+msgid "Designed with %1$s"
+msgstr ""
+
+#: styles/dogwood.json
+#: styles/marula.json
+#: styles/plums.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dogwood.json
+#: styles/marula.json
+#: styles/plums.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/dogwood.json
+#: styles/marula.json
+#: styles/plums.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/dogwood.json
+#: styles/marula.json
+#: styles/plums.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/dogwood.json
+#: styles/marula.json
+#: styles/plums.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/dogwood.json
+msgctxt "Style variation name"
+msgid "Dogwood"
+msgstr ""
+
+#: styles/marula.json
+msgctxt "Style variation name"
+msgid "Marula"
+msgstr ""
+
+#: styles/plums.json
+msgctxt "Style variation name"
+msgid "Plums"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Default"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Plums"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Dogwood"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Marula"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
