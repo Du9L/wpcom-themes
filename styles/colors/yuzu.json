@@ -1,0 +1,32 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#FFFEAD",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#404634",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#404634",
+					"name": "Primary",
+					"slug": "primary"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/site-title": {
+				"css": ".wp-block-site-title :where(a) {color:var(--wp--preset--color--base) !important;}"
+			}
+		}
+	},
+	"version": 3,
+	"title": "Yuzu"
+}

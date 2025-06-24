@@ -1,0 +1,305 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Miko 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/miko\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-23T03:25:09+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Miko"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/miko/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Miko is a personal theme designed to showcase your resume and writing."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:18
+msgid "<a href=\"#\">Instagram</a> / <a href=\"#\">TikTok</a> / <a href=\"#\">X</a>"
+msgstr ""
+
+#: patterns/footer.php:22
+msgid "Designed with <a href=\"https://wordpress.org\" rel=\"nofollow\">WordPress</a>"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:23
+msgid "Oops... That page can’t be found."
+msgstr ""
+
+#: patterns/hidden-404.php:27
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:30
+#: patterns/hidden-search.php:23
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/hidden-archive.php
+msgctxt "Pattern title"
+msgid "Archive"
+msgstr ""
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/hidden-index.php
+msgctxt "Pattern title"
+msgid "Index"
+msgstr ""
+
+#: patterns/hidden-page.php
+msgctxt "Pattern title"
+msgid "Page"
+msgstr ""
+
+#: patterns/hidden-search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-search.php:31
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/hidden-single.php
+msgctxt "Pattern title"
+msgid "Single"
+msgstr ""
+
+#: patterns/posts-post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr ""
+
+#: styles/colors/aizome.json
+#: styles/colors/akane.json
+#: styles/colors/mizumi.json
+#: styles/colors/sakura.json
+#: styles/colors/yuzu.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/colors/aizome.json
+#: styles/colors/akane.json
+#: styles/colors/mizumi.json
+#: styles/colors/sakura.json
+#: styles/colors/yuzu.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/colors/aizome.json
+#: styles/colors/akane.json
+#: styles/colors/mizumi.json
+#: styles/colors/sakura.json
+#: styles/colors/yuzu.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/colors/aizome.json
+msgctxt "Style variation name"
+msgid "Aizome"
+msgstr ""
+
+#: styles/colors/akane.json
+msgctxt "Style variation name"
+msgid "Akane"
+msgstr ""
+
+#: styles/colors/mizumi.json
+msgctxt "Style variation name"
+msgid "Mizumi"
+msgstr ""
+
+#: styles/colors/sakura.json
+msgctxt "Style variation name"
+msgid "Sakura"
+msgstr ""
+
+#: styles/colors/yuzu.json
+msgctxt "Style variation name"
+msgid "Yuzu"
+msgstr ""
+
+#: styles/typography/bricolage-groesque.json
+msgctxt "Font family name"
+msgid "Bricolage Grotesque"
+msgstr ""
+
+#: styles/typography/bricolage-groesque.json
+#: styles/typography/dela-gothic.json
+msgctxt "Font family name"
+msgid "Dela Gothic One"
+msgstr ""
+
+#: styles/typography/bricolage-groesque.json
+msgctxt "Style variation name"
+msgid "Bricolage Groesque"
+msgstr ""
+
+#: styles/typography/dela-gothic.json
+#: styles/typography/funky-serif.json
+#: theme.json
+msgctxt "Font family name"
+msgid "Mona Sans"
+msgstr ""
+
+#: styles/typography/dela-gothic.json
+msgctxt "Style variation name"
+msgid "Dela Gothic"
+msgstr ""
+
+#: styles/typography/funky-serif.json
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: styles/typography/funky-serif.json
+msgctxt "Font family name"
+msgid "Hepta Slab"
+msgstr ""
+
+#: styles/typography/funky-serif.json
+msgctxt "Font family name"
+msgid "BioRhyme"
+msgstr ""
+
+#: styles/typography/funky-serif.json
+msgctxt "Style variation name"
+msgid "Funky Serif"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
