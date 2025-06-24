@@ -1,0 +1,205 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#fcfcfc",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#990080",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#94007b",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#99007f1a",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#99007f03",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				}
+			]
+		},
+		"typography": {
+			"fontSizes": [
+				{
+					"fluid": false,
+					"name": "Extra Small",
+					"size": "0.7rem",
+					"slug": "x-small"
+				},
+				{
+					"fluid": {
+						"max": "1.15rem",
+						"min": "1rem"
+					},
+					"name": "Small",
+					"size": "1.15rem",
+					"slug": "small"
+				},
+				{
+					"fluid": {
+						"max": "1.5rem",
+						"min": "1.125rem"
+					},
+					"name": "Medium",
+					"size": "1.5rem",
+					"slug": "medium"
+				},
+				{
+					"fluid": {
+						"max": "2rem",
+						"min": "1.25rem"
+					},
+					"name": "Large",
+					"size": "2rem",
+					"slug": "large"
+				},
+				{
+					"fluid": {
+						"max": "4.25rem",
+						"min": "1.75rem"
+					},
+					"name": "Extra Large",
+					"size": "4.25rem",
+					"slug": "x-large"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/avatar": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--mardi-gras)"
+				}
+			},
+			"core/comment-author-name": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "500"
+				}
+			},
+			"core/comment-date": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--x-small)",
+					"fontStyle": "normal",
+					"fontWeight": "400",
+					"letterSpacing": "0.025rem"
+				}
+			},
+			"core/comment-edit-link": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--x-small)",
+					"fontStyle": "normal",
+					"fontWeight": "500",
+					"letterSpacing": "0.05rem",
+					"textTransform": "uppercase"
+				}
+			},
+			"core/comment-reply-link": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--x-small)",
+					"fontStyle": "normal",
+					"fontWeight": "500",
+					"letterSpacing": "0.05rem",
+					"textTransform": "uppercase"
+				}
+			},
+			"core/comments-pagination": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontStyle": "normal",
+					"fontWeight": "500",
+					"letterSpacing": "0.025rem"
+				}
+			},
+			"core/navigation": {
+				"spacing": {
+					"blockGap": "var(--wp--preset--spacing--40)"
+				},
+				"typography": {
+					"letterSpacing": "0.05rem",
+					"textTransform": "uppercase"
+				}
+			},
+			"core/post-date": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "400",
+					"letterSpacing": "0rem"
+				}
+			},
+			"core/post-featured-image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--mardi-gras)"
+				}
+			},
+			"core/post-terms": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "500"
+				}
+			},
+			"core/post-title": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			},
+			"core/query-pagination": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "500"
+				}
+			},
+			"core/query-title": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			},
+			"core/site-logo": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--mardi-gras)"
+				}
+			}
+		},
+		"elements": {
+			"h1": {
+				"typography": {
+					"letterSpacing": "0rem"
+				}
+			},
+			"h2": {
+				"typography": {
+					"letterSpacing": "0rem"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
+			"fontStyle": "normal",
+			"fontWeight": "400",
+			"letterSpacing": "0rem"
+		}
+	},
+	"version": 3,
+	"title": "Mardi Gras"
+}
