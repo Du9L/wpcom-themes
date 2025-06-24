@@ -1,0 +1,20 @@
+/*
+Theme Name: Ici
+Theme URI: https://wordpress.com/themes/ici/
+Description: The design goal of Ici was to craft a mobile-first layout with high visual density on a narrow space. This theme could be a good choice for users that want to write a newsletter or a personal journal.
+Version: 1.0.4
+Author: Automattic
+Author URI: https://automattic.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ici
+*/
+
+/*
+* Control the hover stylings of outline block style.
+*/
+.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--tertiary);
+	border-color: var(--wp--preset--color--tertiary);
+	color: var(--wp--preset--color--base);
+}

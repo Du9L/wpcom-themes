@@ -1,0 +1,161 @@
+# Copyright (C) 2024 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ici 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/ici\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T05:59:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Ici"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://wordpress.com/theme/ici/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The design goal of Ici was to craft a mobile-first layout with high visual density on a narrow space. This theme could be a good choice for users that want to write a newsletter or a personal journal."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "Oops, this page cannot be found."
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Search"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:21
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "Ici Theme –––– Designed with %1$s"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default header"
+msgstr ""
+
+#: patterns/no-results.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr ""
+
+#: patterns/no-results.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Nano"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tinier"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
