@@ -1,0 +1,20 @@
+/*
+Theme Name: Azur
+Theme URI: https://wordpress.com/themes/azur/
+Description: Azur draws its inspiration from the mesmerizing hues of the Azure coast, where the Èze village is located.
+Version: 1.0.4
+Author: Automattic
+Author URI: https://automattic.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: azur
+*/
+
+/*
+* Control the hover stylings of outline block style.
+*/
+.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--accent-2);
+	border-color: var(--wp--preset--color--accent-2);
+	color: var(--wp--preset--color--background);
+}
