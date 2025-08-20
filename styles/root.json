@@ -1,0 +1,68 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#dcfee9",
+					"name": "Background",
+					"slug": "background"
+				},
+				{
+					"color": "#0d3f37",
+					"name": "Foreground",
+					"slug": "foreground"
+				},
+				{
+					"color": "#0d3f37",
+					"name": "Background Dark",
+					"slug": "background-dark"
+				},
+				{
+					"color": "#dcfee9",
+					"name": "Foreground Dark",
+					"slug": "foreground-dark"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/avatar": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--root)"
+				}
+			},
+			"core/image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--root)"
+				}
+			},
+			"core/post-featured-image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--root)"
+				}
+			},
+			"core/site-logo": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--root)"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--background)"
+		},
+		"elements": {
+			"button": {
+				"color": {
+					"text": "var(--wp--preset--color--background)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--inter)",
+			"letterSpacing": "0rem"
+		}
+	},
+	"version": 3,
+	"title": "Root"
+}

@@ -1,0 +1,78 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#eaf1fb",
+					"name": "Background",
+					"slug": "background"
+				},
+				{
+					"color": "#113069",
+					"name": "Foreground",
+					"slug": "foreground"
+				},
+				{
+					"color": "#113069",
+					"name": "Background Dark",
+					"slug": "background-dark"
+				},
+				{
+					"color": "#eaf1fb",
+					"name": "Foreground",
+					"slug": "foreground-dark"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/avatar": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--horizon)"
+				}
+			},
+			"core/image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--horizon)"
+				}
+			},
+			"core/post-featured-image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--horizon)"
+				}
+			},
+			"core/post-title": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--bitter)"
+				}
+			},
+			"core/site-logo": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--horizon)"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--background)",
+			"text": "var(--wp--preset--color--foreground)"
+		},
+		"elements": {
+			"button": {
+				"color": {
+					"text": "var(--wp--preset--color--background)"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--inter)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--bitter)"
+		}
+	},
+	"version": 3,
+	"title": "Horizon"
+}
