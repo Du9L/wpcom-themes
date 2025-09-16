@@ -1,0 +1,220 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#f53d43",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#160101",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#160101",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#1801011a",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#18010103",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				}
+			]
+		},
+		"typography": {
+			"fontSizes": [
+				{
+					"fluid": false,
+					"name": "Extra Small",
+					"size": "0.7rem",
+					"slug": "x-small"
+				},
+				{
+					"fluid": {
+						"max": "1.05rem",
+						"min": "1rem"
+					},
+					"name": "Small",
+					"size": "1.05rem",
+					"slug": "small"
+				},
+				{
+					"fluid": {
+						"max": "1.25rem",
+						"min": "1.125rem"
+					},
+					"name": "Medium",
+					"size": "1.25rem",
+					"slug": "medium"
+				},
+				{
+					"fluid": {
+						"max": "2rem",
+						"min": "1.25rem"
+					},
+					"name": "Large",
+					"size": "1.25rem",
+					"slug": "large"
+				},
+				{
+					"fluid": {
+						"max": "4.25rem",
+						"min": "1.75rem"
+					},
+					"name": "Extra Large",
+					"size": "4.25rem",
+					"slug": "x-large"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/avatar": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--stendhal)"
+				}
+			},
+			"core/comment-author-name": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"core/comment-content": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontStyle": "normal",
+					"fontWeight": "500"
+				}
+			},
+			"core/comment-date": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--x-small)",
+					"fontStyle": "normal",
+					"fontWeight": "400",
+					"letterSpacing": "0.025rem"
+				}
+			},
+			"core/comment-edit-link": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--x-small)",
+					"fontStyle": "normal",
+					"fontWeight": "600",
+					"letterSpacing": "0.025rem"
+				}
+			},
+			"core/comment-reply-link": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--x-small)",
+					"fontStyle": "normal",
+					"fontWeight": "600",
+					"letterSpacing": "0.025rem"
+				}
+			},
+			"core/comments-pagination": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"core/navigation": {
+				"spacing": {
+					"blockGap": "var(--wp--preset--spacing--40)"
+				},
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600",
+					"letterSpacing": "0.025rem",
+					"textTransform": "none"
+				}
+			},
+			"core/post-content": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "500"
+				}
+			},
+			"core/post-date": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600",
+					"letterSpacing": "-0.025rem"
+				}
+			},
+			"core/post-featured-image": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--stendhal)"
+				}
+			},
+			"core/post-navigation-link": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"core/post-terms": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"core/post-title": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"core/query-title": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			},
+			"core/site-logo": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--stendhal)"
+				}
+			}
+		},
+		"elements": {
+			"h1": {
+				"typography": {
+					"letterSpacing": "-0.025rem"
+				}
+			},
+			"h2": {
+				"typography": {
+					"letterSpacing": "-0.025rem"
+				}
+			},
+			"h3": {
+				"typography": {
+					"letterSpacing": "-0.01rem"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--hauora)",
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--hauora)",
+			"fontStyle": "normal",
+			"fontWeight": "500"
+		}
+	},
+	"version": 3,
+	"title": "Stendhal"
+}

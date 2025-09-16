@@ -1,0 +1,38 @@
+/*
+Theme Name: Essentialist
+Theme URI: https://wordpress.com/themes/essentialist/
+Description: A clean, content-first typographical theme for minimalist thinkers, mindful creators, and writers who believe less truly is more. Built on clarity, rhythm, and intention, it prioritizes text and lets your ideas breathe without visual clutter.
+Version: 1.0.1
+Author: Automattic
+Author URI: https://automattic.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: essentialist
+*/
+
+h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption {
+    text-wrap: balance;
+}
+p {
+    text-wrap: pretty;
+}
+
+/*
+ * Control the hover stylings of outline block style.
+ * Unnecessary once block styles are configurable via theme.json
+ * https://github.com/WordPress/gutenberg/issues/42794
+ */
+.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background):hover {
+	background-color: var(--wp--preset--color--secondary);
+	color: var(--wp--preset--color--base);
+	border-color: var(--wp--preset--color--secondary);
+}
+
+/*
+ * Link styles
+ * https://github.com/WordPress/gutenberg/issues/42319
+ */
+a {
+	text-decoration-thickness: .025em !important;
+	text-underline-offset: .1em;
+}
