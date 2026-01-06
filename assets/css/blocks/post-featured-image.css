@@ -1,0 +1,19 @@
+/* Remove the filter from the image when it's hovered */
+[class*="wp-duotone-"].wp-block-post-featured-image img:hover {
+	filter: none;
+}
+
+/* Editor */
+[class*="wp-duotone-"].wp-block-post-featured-image.is-hovered img {
+	filter: none;
+}
+
+/* Change the colour of the link when the featured image is hovered */
+[class*="wp-duotone-"].wp-block-post-featured-image:hover ~ .wp-block-post-title a {
+	color: var(--wp--preset--color--secondary);
+}
+
+/* Remove the filter from the image when the title is hovered */
+[class*="wp-duotone-duotone-"].wp-block-post-featured-image img.is-hovered {
+	filter: none;
+}
