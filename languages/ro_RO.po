@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Bedrock\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-23T01:27:47+00:00\n"
+"PO-Revision-Date: 2025-02-21 14:22:11+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Shadow name"
+msgid "Buttons"
+msgstr "Butoane"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Metadate articol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Foarte mare dublu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: styles/sand.json
+msgctxt "Style variation name"
+msgid "Sand"
+msgstr "Nisip"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / Three"
+msgstr "Accent/trei"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / Two"
+msgstr "Accent/doi"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / One"
+msgstr "Accent/unu"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: styles/clay.json
+#: styles/sand.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: styles/clay.json
+msgctxt "Style variation name"
+msgid "Clay"
+msgstr "Argilă"
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Single"
+msgstr "Singular"
+
+#: patterns/sidebar-with-recent-posts.php
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr "metadate articol"
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Listă cu articole"
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "Page"
+msgstr "Pagină"
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "Index"
+msgstr "Index"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default header"
+msgstr "Antet implicit"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archive"
+msgstr "Arhivă"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#. Description of the theme
+#: style.css
+msgid "Inspired by the iconic worlds of Minecraft and Minetest, Bedrock is a blog theme that reminds the immersive experience of these games."
+msgstr "Inspirată din lumea jocurilor Minecraft și Minetest, Bedrock este o temă pentru bloguri care aduce aminte de experiența captivantă a acestor jocuri."
+
+#: patterns/sidebar-with-recent-posts.php:101
+#: patterns/sidebar.php:80
+msgid "Minetest"
+msgstr "Minetest"
+
+#: patterns/sidebar-with-recent-posts.php:97
+#: patterns/sidebar.php:76
+msgid "Minetest Blog"
+msgstr "Blog Minetest"
+
+#: patterns/sidebar-with-recent-posts.php:91
+#: patterns/sidebar.php:70
+msgid "Blogroll"
+msgstr "Listă cu legături"
+
+#: patterns/sidebar-with-recent-posts.php:70
+msgid "Recent Posts"
+msgstr "Articole recente"
+
+#: patterns/sidebar-with-recent-posts.php:61
+#: patterns/sidebar.php:61
+msgid "Tags"
+msgstr "Etichete"
+
+#: patterns/sidebar-with-recent-posts.php:51
+#: patterns/sidebar.php:51
+msgid "Categories"
+msgstr "Categorii"
+
+#: patterns/sidebar-with-recent-posts.php:41
+#: patterns/sidebar.php:41
+msgid "Stay updated with our latest tips and other news by joining our newsletter."
+msgstr "Înregistrează-te la buletinul nostru de știri ca să fii la curent cu ultimele sfaturi și alte noutăți."
+
+#: patterns/sidebar-with-recent-posts.php:37
+#: patterns/sidebar.php:37
+msgid "Join the club"
+msgstr "Intră în club"
+
+#: patterns/sidebar-with-recent-posts.php:15
+#: patterns/sidebar.php:15
+msgid "Hey!"
+msgstr "Bună!"
+
+#: patterns/search.php:63
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "No posts were found."
+msgstr "Nu am găsit niciun articol."
+
+#: patterns/search.php:27
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Căutare..."
+
+#: patterns/footer.php:73
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:71
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php:63
+msgid "Privacy and Cookies"
+msgstr "Confidențialitate și cookie-uri"
+
+#: patterns/footer.php:59
+msgid "Terms of Use"
+msgstr "Termeni de utilizare"
+
+#: patterns/footer.php:42
+msgid "Subscribe"
+msgstr "Abonare"
+
+#: patterns/404.php:30
+msgid "LuaEntity not found."
+msgstr "Nu am găsit LuaEntity."
