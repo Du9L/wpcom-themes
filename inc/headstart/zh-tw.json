@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "網誌",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "關於",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist 網誌主要介紹地底下的一切事物。</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>關於作者：</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Sarah Edwards</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah 是 Anthem State University 的地質學家。她在幼稚園時挖出某人埋在沙坑中的玩具，自此激發出對地底世界的熱愛。</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Angelo Ortiz</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Angelo 是一位獨立研究員兼興趣愛好者。他的寶石收藏可媲美某些博物館的館藏。Angelo 不斷追求新的發現，並隨身攜帶著他的工具組。</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "寶石",
+            "post_content": "<!-- wp:paragraph --> <p>「等我喝完茶就去翠綠莊園一趟，問問瑪莉拉他究竟去了哪裡，又是為什麼出門。」這位受人敬重的婦人最後做出決定。「他通常不會在這個時節到鎮上，也<em>從不</em>拜訪任何人；就算是蕪菁種子用完，他也不會打扮正式地駕車去買；而且他駕車的速度也不像急著去看醫生的樣子。但昨晚一定發生了什麼事，讓他必須出門。我完全想不通，要是不弄清楚馬休．卡斯伯為什麼離開艾凡里村，我一刻也不得安寧。」</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>於是林德太太喝完茶便出發了。這段路並不遠，卡斯伯家那棟果園環繞、格局凌亂的大房子距離林德家的窪地只有約四百公尺的距離。然而，漫漫小徑讓人感覺比實際遠上許多。馬休．卡斯伯的父親和兒子一樣靦腆寡言，因此在準備建造莊園時，選了這個盡可能遠離人煙，但又不至於遁隱山林的地點。翠綠莊園座落在這片開墾地的最外緣，一直屹立到今天。從穿過艾凡里村其他所有房屋的主道路遠望過去，幾乎無法看到這座莊園。瑞秋．林德太太可不認為住在那裡稱得上是<em>生活</em>。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>「那頂多叫做<em>活著</em>，就是這樣。」她邊說邊穿過印著深深車轍、雜草叢生的小徑，兩側長滿野薔薇叢。「馬休和瑪莉拉住在這麼偏僻的地方，難怪兩人個性都變得有些古怪。樹木又不能作伴，就算能作伴，他們總也看夠了吧。我寧可看人。不過他們看起來挺滿足的；我猜大概是習慣了。就像愛爾蘭人說的，人總能習慣任何事情，就連絞刑也一樣。」</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>接著林德太太走出小徑，進入翠綠莊園的後院。院中綠意盎然，打理得乾淨俐落，恰到好處，一側種著高大的老柳樹，另一側則是整齊的白楊樹。一路看不到任何掉落的樹枝或石頭，否則絕對逃不過林德太太的眼睛。她心裡認為瑪莉拉．卡斯伯打掃院子的次數一定跟打掃房子一樣多。這院子乾淨到就算有人坐在地上用餐，也不會沾上半點灰塵。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz 的寶石插畫。CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "「等我喝完茶就去翠綠莊園一趟，問問瑪莉拉他究竟去了哪裡，又是為什麼出門。」這位受人敬重的婦人最後做出決定。「他通常不會在這個時節到鎮上，也從不拜訪任何人；就算是蕪菁種子用完，他也不會打扮正式地駕車去買；而且他駕車的速度也不像急著去看醫生的樣子。 ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "化石",
+            "post_content": "<!-- wp:paragraph --> <p>六月初的某個午後，她一如往常坐在那裡。溫暖明亮的陽光自窗口照了進來；屋子下方斜坡的果園開著淡粉紅色的花朵，宛如新娘臉上的紅暈，周圍環繞著許多嗡嗡飛舞的蜜蜂。湯馬斯．林德 (他是個矮小、謙和的男人，艾凡里村的人都叫他「瑞秋．林德的丈夫」) 正在穀倉遠處的小丘上將晚熟的蕪菁種子播入田中；馬休．卡斯伯此時也該在翠綠莊園的大紅溪田中播蕪菁種子才對。林德太太之所以清楚這事，是因為昨晚在卡莫迪鎮威廉．J．布萊爾的店裡，她親耳聽見馬休告訴彼得．莫里森說，他打算在明天下午播蕪菁種子。當然，這是彼得問出來的答案。馬休．卡斯伯一生絕對不會主動透漏任何事。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>然而，在這忙碌一天的下午三點半，馬休．卡斯伯卻出現在這裡，平靜地駕車穿過窪地，爬上山丘；他還穿著最體面的衣服，露出白色領口，讓人確信他打算離開艾凡里村；他還駕著由栗色馬匹拉動的馬車，顯然是要出遠門的樣子。馬休．卡斯伯到底要去哪裡？又是為什麼出門呢？</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>如果換成艾凡里村的其他男人，林德太太稍微動腦拼湊資訊，也許就能猜出這兩個問題的答案。但馬休實在太少出門，其中絕對有著急迫而不尋常的理由；他是世上最內向的男人，厭惡與陌生人相處或置身於任何必須開口說話的地方。身著正裝駕駛馬車的馬休可不是什麼尋常的景象。林德太太左思右想，卻始終想不出個所以然，讓她無法好好享受午後時光。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz 的化石插圖。CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "六月初的某個午後，她一如往常坐在那裡。溫暖明亮的陽光自窗口照了進來；屋子下方斜坡的果園開著淡粉紅色的花朵，宛如新娘臉上的紅暈，周圍環繞著許多嗡嗡飛舞的蜜蜂。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "其他",
+            "post_content": "<!-- wp:paragraph --> <p>瑞秋．林德太太就住在艾凡里村大道經過的一個小窪地上，屋子周圍種滿了赤楊木和吊鐘花，門前還有一條源自老卡斯伯家森林裡的小溪；這條小溪從錯綜複雜的上游奔流而下，穿過森林並形成許多不為人知的池塘和瀑布；然而，當這條小溪抵達林德家的窪地時，就已變得安靜而平穩，因為即使只是條小溪，在經過瑞秋．林德太太門前時也得表現得循規蹈矩，端莊得體；小溪可能知道林德太太會坐在窗前，用銳利的目光審視經過的一切事物，不管那是溪流還是孩童。如果發現任何不尋常或可疑的事，她絕對會追查到底，在弄清來龍去脈前絕不罷休。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>艾凡里村子內外有許多人經常不管自家正事，反而密切關注鄰居的閒事；但林德太太十分優秀，正事閒事都能兼顧。她是個了不起的家庭主婦，總是能完美完成所有事務，還「經營」著縫紉社團、協助管理主日學校，更是教會救助協會和傳教輔助組織的重要支柱。即使如此繁忙，林德太太仍能挪出幾小時的時間，坐在廚房窗邊編織棉被 (艾凡里村的主婦們常敬畏地表示她已編織十六條棉被)，並用銳利的目光盯著穿過窪地、蜿蜒攀上遠方紅色山丘的村莊大道。艾凡里村位於聖勞倫斯灣的一個小型三角半島上，兩側臨海，因此出入村莊的人都會經過這條山路，也就無法逃過林德太太的法眼。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz 的寶石插畫。CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "瑞秋．林德太太就住在艾凡里村大道經過的一個小窪地上，屋子周圍種滿了赤楊木和吊鐘花，門前還有一條源自老卡斯伯家森林裡的小溪。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "聯絡方式",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">1 Example Street,<br>Anytown, NY 10100 USA</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">contact@example.com</a><br>(012) 345 67 89</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "主要",
+            "items": [
+                {
+                    "menu-item-title": "網誌",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "關於",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "聯絡方式",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}

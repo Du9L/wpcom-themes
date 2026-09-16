@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "À propos",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist est un blog dédié à tout ce qui est enfoui sous la surface de la terre.</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>À propos des auteurs :</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Sarah Edwards</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah est géologue à l’Anthem State University. Elle a découvert sa passion pour le monde souterrain à l’école maternelle, le jour où elle a déterré un jouet qu’un enfant avait laissé dans le bac à sable.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Angelo Ortiz</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Angelo est un chercheur indépendant et amateur. Sa collection de pierres précieuses n’a rien à envier à celles de certains musées. Angelo est toujours à la recherche d’une nouvelle découverte et il a toujours sa boîte à outils avec lui.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Pierres précieuses",
+            "post_content": "<!-- wp:paragraph --> <p>« Je ferai un saut à Green Gables après le thé et je tirerai les vers du nez à Marilla », se dit pour finir cette noble femme. « Il ne va pas à la ville, en général, à cette époque-ci de l’année, et il ne rend <em>jamais</em> visite à personne. S’il n’avait plus de semences de navets, il ne s’habillerait pas si bien et ne prendrait pas le boghei pour aller en chercher d’autres ; et il n’allait pas assez vite pour se rendre chez le médecin. Et pourtant, depuis hier soir, il a dû se passer quelque chose pour qu’il prenne la route. C’est un vrai mystère, un vrai, et je ne serai pas tranquille avant de savoir ce qui a incité Matthew Cuthbert à quitter Avonlea aujourd’hui. »</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Voilà pourquoi, sitôt le thé pris, Mme Rachel fila ; elle n’avait pas à aller loin ; la grande maison où vivaient les Cuthbert, pleine de coins et de recoins, abritée par des vergers, était à peine à un quart de mille de Lynde’s Hollow, par la route. Bien sûr, la longue allée ajoutait considérablement à cette distance. Le père de Matthew Cuthbert, aussi timide et silencieux que son fils, avait cherché, lorsqu’il avait fondé son domaine, à prendre le plus possible ses distances face à ses semblables, sans pour autant s’isoler totalement dans les bois. Les bâtiments de Green Gables étaient construits à l’extrémité la plus éloignée des terres qu’il avait défrichées, et les Cuthbert y étaient toujours installés, à peine visibles de la route principale bordée par les autres maisons d’Avonlea si gracieusement situées. Pour Mme Rachel Lynde, vivre à un tel endroit, ce n’était pas <em>vivre</em>, tout bonnement.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>« Tout juste <em>résider</em>, voilà ce que c’est », se disait-elle en foulant l’allée pleine d’herbes et d’ornières, bordée d’églantiers. « Je ne suis pas surprise du tout que Matthew et Marilla soient tous les deux un peu bizarres, à force de vivre tout seuls dans un endroit pareil. Les arbres ne constituent pas la meilleure des compagnies. Il n’en manque pourtant pas ! J’aime bien mieux les gens, quant à moi. Je dois dire que les Cuthbert, eux, semblent s’y plaire, mais c’est vrai, je pense, qu’ils en ont pris l’habitude. Une créature se ferait à tout, même à être pendue, comme dirait un Irlandais. »</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Sur ces bonnes paroles, Mme Rachel, sortant de l’allée, déboucha dans la cour de Green Gables bordée d’un côté de vieux saules à l’allure de patriarches, et de l’autre de fort pimpants peupliers d’Italie. Dans cette cour si verdoyante, si propre, nette, on n’apercevait pas l’ombre d’un bout de bois ou d’une roche : s’il y en avait eu, Mme Rachel n’aurait pas manqué de les voir. En privé, elle confessait qu’à son avis, Marilla Cuthbert devait balayer cette cour aussi souvent qu’elle balayait la maison. On aurait pu manger par terre, sans rencontrer le moindre grain de poussière.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Illustration de pierre précieuse par Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "« Je ferai un saut à Green Gables après le thé et je tirerai les vers du nez à Marilla », se dit pour finir cette noble femme. « Il ne va pas à la ville, en général, à cette époque-ci de l’année, et il ne rend jamais visite à personne. S’il n’avait plus de semences de navets, il ne s’habillerait pas si bien et ne prendrait pas le boghei pour aller en chercher d’autres ; et il n’allait pas assez vite pour se rendre chez le médecin. ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Fossiles",
+            "post_content": "<!-- wp:paragraph --> <p>Un après-midi du début de juin, elle était à son poste. Le soleil, brillant et chaud, dardait ses rayons sur la fenêtre ; le verger, en contrebas de la maison, rosissait, comme une jeune mariée, de toutes ses fleurs autour desquelles bourdonnaient des milliers d’abeilles. Thomas Lynde – un petit homme doux que les habitants d’Avonlea appelaient « le mari de Rachel Lynde » – semait ses graines de navets tardifs dans le champ de la colline, en arrière de la grange. Matthew Cuthbert aurait dû, lui aussi, en semer dans le grand champ rouge près du ruisseau, vers le domaine de Green Gables. Mme Rachel savait bien qu’il devait s’y mettre incessamment ; la veille, elle l’avait entendu mentionner à Peter Morrison, dans le magasin de William J. Blair à Carmody, qu’il comptait commencer le lendemain après-midi. C’est Peter qui le lui avait demandé, bien sûr : on n’avait jamais entendu Matthew Cuthbert se confier de lui-même à quiconque.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Or voici qu’à trois heures et demie, en plein après-midi d’une journée de travail normale, Matthew Cuthbert menait calmement son attelage, traversant le vallon, remontant la colline ; bien plus, il portait un col blanc agrémenté de son plus beau costume, ce qui prouvait bien qu’il quittait Avonlea ; enfin il avait pris le boghei et la jument alezane, signe incontestable qu’il comptait se rendre fort loin. Mais où donc pouvait bien aller Matthew Cuthbert, et dans quel but ?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Mme Rachel, par d’habiles rapprochements, de faibles indices, aurait pu sans peine trouver la réponse à ces deux questions s’il s’était agi de n’importe quel autre homme. Mais Matthew, lui, quittait si peu sa maison qu’il devait sans doute obéir, ce jour-là, à quelque impératif aussi urgent qu’inhabituel ; il était, en effet, l’homme le plus timide qui fût et il détestait se rendre en un lieu étranger, ou à quelque endroit où il eût risqué de devoir parler. Matthew, bien habillé, avec un col blanc, conduisant un boghei, cela n’arrivait pas souvent ! Mme Rachel, de quelque manière qu’elle abordât ce problème, n’y trouvait pas de solution, et tout le plaisir qu’elle eût pu retirer de son après-midi s’en trouva gâché.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Illustration de fossile par Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "Un après-midi du début de juin, elle était à son poste. Le soleil, brillant et chaud, dardait ses rayons sur la fenêtre ; le verger, en contrebas de la maison, rosissait, comme une jeune mariée, de toutes ses fleurs autour desquelles bourdonnaient des milliers d’abeilles.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Etcetera",
+            "post_content": "<!-- wp:paragraph --> <p>Madame Rachel Lynde habitait à l’endroit précis où la grand-route d’Avonlea plongeait brusquement dans le creux d’un vallon bordé d’aunes et de fuchsias et traversé d’un ruisseau qui prenait sa source dans le bois, en arrière de la vieille maison Cuthbert. On disait que ce ruisseau impétueux serpentait à travers le bois par un mystérieux dédale de méandres, de cuvettes et de cascades, mais, une fois arrivé à Lynde’s Hollow, il se transformait en un ruisselet paisible parfaitement discipliné, car même un ruisseau n’aurait pu passer devant la porte de Mme Rachel Lynde sans soigner son apparence et ses bonnes manières. Il était sans doute fort conscient, ce ruisseau, que Mme Rachel, assise derrière sa fenêtre, prenait bonne note de tout ce qu’elle apercevait, à commencer par les enfants et les cours d’eau. Il savait bien que, pour peu qu’elle remarquât quelque chose d’étrange ou de déplacé, elle ne serait en paix qu’après en avoir compris le pourquoi et le comment.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Bien des gens, à Avonlea comme ailleurs, s’occupent des affaires de leurs voisins et négligent les leurs. Pour sa part, Mme Rachel Lynde était de ces créatures particulièrement douées qui peuvent à la fois s’occuper de leurs affaires personnelles et mettre le nez dans celles des autres. C’était une maîtresse de maison hors pair ; elle s’acquittait toujours à la perfection de ses tâches domestiques ; elle dirigeait le cercle de couture, aidait à organiser les cours de catéchisme pour l’école du dimanche, et s’était instituée pilier de la société de bienfaisance de son église et auxiliaire des missions pour l’étranger. Pourtant, en dépit de toute cette activité, Mme Rachel trouvait le temps de rester assise des heures durant à la fenêtre de sa cuisine pour tricoter des courtepointes à chaîne de coton – elle en avait tricoté seize, c’est ce que racontaient avec admiration les femmes d’Avonlea – tout en parcourant de son regard perçant la route principale qui, ayant traversé le vallon, montait, en s’essoufflant, la butte rouge que l’on voyait au loin. Comme Avonlea occupait une petite presqu’île triangulaire qui faisait saillie dans le golfe du Saint-Laurent, on n’avait pas d’autre choix, pour en sortir ou y rentrer, que de passer par la route de la colline ; on n’échappait donc jamais à l’œil inquisiteur de Mme Rachel.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Illustration de pierre précieuse par Emil Hochdanz. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "Madame Rachel Lynde habitait à l’endroit précis où la grand-route d’Avonlea plongeait brusquement dans le creux d’un vallon bordé d’aunes et de fuchsias et traversé d’un ruisseau qui prenait sa source dans le bois, en arrière de la vieille maison Cuthbert.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Contact",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">1 rue Exemple,<br>12345 Quelque Part FRANCE</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">contact@exemple.com</a><br>(012) 345 67 89</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Principal",
+            "items": [
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "À propos",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Contact",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}

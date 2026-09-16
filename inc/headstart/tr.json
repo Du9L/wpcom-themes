@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Hakkında",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist, dünya yüzeyinin altındaki her şeyle ilgili bir blog.</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Yazarlar Hakkında:</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Sarah Edwards</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah, Anthem Eyalet Üniversitesi'nden bir jeolog. Yeraltındaki her şeye olan yoğun sevgisi, anaokulundayken kum havuzunda kumların altında kalmış bir oyuncağı bulduğunda başlamıştı.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Angelo Ortiz</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Angelo bağımsız bir amatör araştırmacı. Değerli taş koleksiyonu bazı müzelerdeki koleksiyonlarla rekabet edebilecek seviyede. Angelo her zaman yeni bir keşif peşinde ve her yere alet çantasıyla birlikte gidiyor.</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Değerli taşlar",
+            "post_content": "<!-- wp:paragraph --> <p>\"Çaydan sonra Green Gables'a gideceğim ve Marilla'dan nereye ve neden gittiğini öğreneceğim,\" diye bitirdi saygın kadın. “Yılın bu zamanında genellikle kasabaya gitmez ve <em>hiç</em> ziyarete gelmez; şalgam tohumu biterse giyinip arabaya binerek biraz tohum almaya gitmezdi; Doktora gidecek kadar hızlı araba kullanmıyordu. Yine de dün geceden beri onu harekete geçirecek bir şeyler olmuş olmalı. Kafam karıştı, işte bu ve bugün Matthew Cuthbert'in Avonlea'dan dışarı çıkmasına neyin neden olduğunu öğrenene kadar bir an olsun huzur bulamayacağım.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Bunun için Bayan Rachel çaydan sonra yola çıktı; gidecek fazla yolu yoktu; Cuthbert'lerin yaşadığı büyük, başıboş, meyve bahçesiyle çevrili ev, Lynde's Hollow'dan sadece bir çeyrek mil uzaktaydı. Tabi uzun yol daha da uzakta gibi hissettiriyordu. Matthew Cuthbert'in babası, kendisine benzeyen oğlu kadar utangaç ve sessizdi, çiftliğini kurduğunda, ormana çekilmeden arkadaşlarından mümkün olduğunca uzaklaşmıştı. Green Gables, açık arazisinin en uzak ucuna inşa edilmişti ve bugün de hâlâ oradadır; diğer tüm Avonlea evlerinin çok sosyal bir şekilde yerleştirildiği ana yoldan zar zor görülebiliyordu. Bayan Rachel Lynde böyle bir yerde yaşamaya <em>yaşamak</em> demiyordu.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>“Sadece <em>kalmak</em>, bu kadar,\" dedi, etrafı yabani gül çalılıklarıyla çevrili, tekerlek izleriyle dolu, çimenli yolda yürürken. \"Matthew ve Marilla'nın burada tek başlarına yaşadıkları için biraz tuhaf olmalarına şaşmamalı. Ağaçlar pek dost sayılmazlar, gerçi tanrı bilir ya olsalardı onlardan yeteri kadar olurdu. İnsanlara bakmayı tercih ederim. Elbette yeterince memnun görünüyorlar; ama sonra, sanırım buna alışmışlar. Bir vücut her şeye alışabilir, İrlandalı'nın dediği gibi asılmaya bile.\"</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Ve Bayan Rachel yoldan çıkıp Green Gables'ın arka bahçesine girdi. Bir tarafında büyük yaşlı söğütlerin, diğer tarafında ise bakımlı Lombardiyaların bulunduğu bu avlu çok yeşil, düzenli ve kusursuzdu. Ne başıboş bir sopa ne de bir taş görünüyordu, çünkü olsaydı Bayan Rachel onu görürdü. Marilla Cuthbert'in evini süpürdüğü kadar o bahçeyi de süpürdüğü kanısındaydı. Yerde bile yemek yenebilirdi, yerler adeta bal dök yala gibiydi.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz tarafından değerli taş illüstrasyonu. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "\"Çaydan sonra Green Gables'a gideceğim ve Marilla'dan nereye ve neden gittiğini öğreneceğim\" diye bitirdi sözlerini saygın kadın. “Yılın bu zamanında genellikle kasabaya gitmez ve hiç ziyarete gelmez; şalgam tohumu biterse giyinip arabaya binerek biraz tohum almaya gitmezdi; Doktora gidecek kadar hızlı araba kullanmıyordu. ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Fosiller",
+            "post_content": "<!-- wp:paragraph --> <p>Haziran başında bir öğleden sonra orada oturuyordu. Pencereden giren güneş sıcak ve parlaktı; evin altındaki yamaçtaki meyve bahçesi üzerinde sayısız arının vızıldadığı pembemsi beyaz çiçeklerle gelin gibiydi. Avonlea halkının “Rachel Lynde'in kocası” dediği, uysal ufak tefek bir adam olan Thomas Lynde, geç kalmış şalgam tohumunu ahırın ötesindeki tepede tarlaya ekiyordu; Matthew Cuthbert de Green Gables'ın yanındaki büyük Red Brook tarlasına kendi tohumunu ekiyor olmalıydı. Bayan Rachel bunu yapacağını biliyordu, çünkü önceki akşam William J. Blair'in Carmody'deki dükkânında Peter Morrison'a şalgam tohumunu ertesi öğleden sonra ekeceğini söylediğini duymuştu. Tabi Peter ona sormuştu, çünkü Matthew Cuthbert'in hayatı boyunca hiçbir şey hakkında kendi isteğiyle bilgi verdiği duyulmamıştı.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Yine de Matthew Cuthbert, yoğun bir günün öğleden sonrası saat üç buçukta, çukurun üzerinden ve tepeye doğru arabayı sakin bir şekilde sürüyordu; üstelik beyaz gömleğini ve en iyi takım elbisesini giymişti, bu da Avonlea'dan çıktığının açık kanıtıydı; arabası ve kızıl renkli kısrağı önemli bir mesafe kat ettiğini gösteriyordu.  Matthew Cuthbert nereye gidiyordu ve neden gidiyordu?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Avonlea'da başka bir adam olsaydı, her şeyi ustaca bir araya getiren Bayan Rachel, her iki soru için de oldukça iyi bir tahminde bulunabilirdi. Ama Matthew evden o kadar ender çıkıyordu ki, onu alıp götüren acil ve olağandışı bir şey olmalıydı; o yaşayan en utangaç adamdı ve yabancıların arasına ya da konuşmak zorunda kalabileceği herhangi bir yere gitmekten nefret ederdi. Matthew'nun beyaz gömlek giyip arabasını sürmesi pek sık görülmeyen bir şeydi. Bayan Rachel, ne kadar düşünürse düşünsün, bundan hiçbir şey anlamadı ve tüm öğleden sonrası mahvoldu.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz tarafından çizilmiş fosil illüstrasyonu. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "Haziran başında bir ikindi vakti orada oturuyordu. Pencereden giren güneş sıcak ve parlaktı; evin altındaki yamaçtaki meyve bahçesi üzerinde sayısız arının vızıldadığı pembemsi beyaz çiçeklerle gelin gibiydi.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Vesaire",
+            "post_content": "<!-- wp:paragraph --> <p>Bayan Rachel Lynde, tam da Avonlea ana yolunun küçük bir yokuşa indiği, kızılağaçlarla çevrili ve eski Cuthbert kasabasının ormanından çıkan bir derenin geçtiği yerde yaşıyordu; bu derenin ormandan geçen kısmının havuz ve şelalenin karanlık sırlarıyla çok tuhaf olduğu söylenirdi. Ama Lynde's Hollow'a ulaştığında sessiz, düzgün akan küçük bir dere olurdu. Çünkü edep ve terbiyeye gereken saygı gösterilmeden Bayan Rachel Lynde'nin kapısının önünden bir dere bile geçemezdi. Bayan Rachel'ın penceresinin önünde oturduğunun ve derelerden çocuklara kadar geçen her şeyi dikkatle izlediğinin, tuhaf ya da yerinde olmayan bir şey fark ederse bunun nedenlerini ve niçinlerini bulana kadar asla dinlenmeyeceğinin muhtemelen farkındaydı.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Avonlea'da ve dışında, kendi işlerini ihmal ederek komşularının işleriyle yakından ilgilenebilecek birçok insan vardır; ama Bayan Rachel Lynde, kendi endişelerini de diğer insanların endişelerini de yönetebilen yetenekli yaratıklardan biriydi. O kayda değer bir ev hanımıydı; işini her zaman iyi yapardı; Dikiş Kursunu yürütüyordu, Pazar okulunun çalışmasına yardım ediyordu ve Kilise Yardım Derneği ile Yabancı Misyon Yardımcılarının en güçlü destekçisiydi. Yine de Bayan Rachel, mutfak penceresinin önünde saatlerce oturup \"pamuk çözgü\" yorganlar örecek (Avonlea'daki hizmetçilerin huşu içinde söylemeye alıştıkları gibi, on altı yorgan örmüştü) ve gözlerini yokuşu geçen ve ilerideki sarp kırmızı tepeyi saran yola keskin şekilde dikecek kadar çok vakti vardı. Avonlea, iki yanı su olan St. Lawrence Körfezi'ne uzanan küçük üçgen bir yarımadada bulunduğundan, oradan gelen veya oradan giden herkes o tepedeki yoldan geçmek ve böylece Bayan Rachel'ın her şeyi özlerinin önünden geçmek zorundaydı.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Emil Hochdanz tarafından çizilmiş değerli taş illüstrasyonu. CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "Bayan Rachel Lynde, tam da Avonlea ana yolunun küçük bir çukura indiği, kızılağaçlarla çevrili, kaynağı eski Cuthbert kasabasının ormanlarında bulunan bir derenin geçtiği yerde yaşıyordu.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "İletişim",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">1 Örnek cad.,<br>Örnek Şehir, NY 10100, ABD,,</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">iletişim@örnek.com</a><br>(012) 345 67 8901</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Birincil",
+            "items": [
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Hakkında",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "İletişim",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}

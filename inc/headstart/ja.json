@@ -1,0 +1,193 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false,
+            "jetpack_global_styles": {
+                "font_base": "Roboto",
+                "font_headings": "Rubik"
+            }
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "ブログ",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 62,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "このサイトについて",
+            "post_content": "<!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"lineHeight\":\"1.3\",\"fontSize\":53}}} --> <h1 style=\"font-size:53px;line-height:1.3;\"><strong>Geologist は地表に埋まっているあらゆるものに特化したブログです。</strong></h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":80} --> <div style=\"height:80px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>投稿者について:</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":10} --> <div style=\"height:10px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":3} --> <h3 class=\"has-text-align-left\">Sarah Edwards</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Sarah はアンセム州立大学の地質学者です。幼稚園の頃、誰かが砂場に埋めたままにしておいたおもちゃを発掘したことがきっかけで、地中のあらゆるものに興味を持つようになりました。</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":3} --> <h3>Angelo Ortiz</h3> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Angelo は個人の研究者であり、趣味人でもあります。彼の宝石のコレクションはちょっとした美術館に匹敵します。Angelo は常に新しい発見を求めており、どこにでもツールキットを持ち歩いています。</p> <!-- /wp:paragraph --> <!-- wp:social-links {\"iconColor\":\"secondary\",\"iconColorValue\":\"#FFFFFF\",\"className\":\"is-style-logos-only\"} --> <ul class=\"wp-block-social-links has-icon-color is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--></ul> <!-- /wp:social-links --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "page_template": "page-without-title"
+        },
+        {
+            "post_type": "post",
+            "post_title": "宝石",
+            "post_content": "<!-- wp:paragraph --> <p>「午後のお茶が済んだらグリーンゲイブルズへ行き、彼がどこに出かけていたのか、マリラからその理由を掴むとするわ」立派なご夫人はついに一連の思考の結論に至った。「彼は一年のうちのこの時期に町に出かけることは普通は<em>ありえない</em>。もしカブの種を使い切ったら彼は着飾って馬車に乗り出かけるなんてことは無いでしょう。医師のところに行く時のように急いではいなかった。昨夜何かが起こって彼は発ったに違いない。全くわからない。一体なぜ、今日マシュー・カスバートがアヴォンリーを出たのか分かるまで気になって仕方がないわ」</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>そういった次第でお茶の後、レイチェル夫人は出かけた。それほど遠くはない。カスバート家の住む大きく広がる果樹園に囲まれた家は、くぼ地のリンド家からわずか4分の1マイル登った場所にあった。確かに、長い小道は、実際より長く感じられた。マシュー・カスバートの父親は、のちの彼の子のように恥ずかしがり屋で物静かだった。彼が自分の農場を作った時、森の中に引きこもることは無かったが、自身の同胞からは出来るだけ遠くに離れた。グリーンゲイブルズは彼の開墾地の最も外れに建てられて、それは今日までそこにある。他の全てのアヴォンリーの家々は村を貫く幹線道路沿いに寄せ合うように建てられているが、グリーンゲイブルズはそれらから辛うじて見える程度だ。レイチェル・リンド夫人はその様な住まいを、<em>生活</em>をする場所だとは言えないとしていた。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>「<em>滞在</em>しているだけ、なんというか...」彼女は深い轍が刻まれ、野バラの茂みに挟まれた草の多い小道に沿って歩みを進めながら言う。「マシューとマリラが共に少し変わってるのは当然ですよ、自らこんな離れたところに住むのだから。木を友としてなんて。もしかしてそれで充分なのでしょう。私は人の方がいいわ。確かに、2人は十分満足しているように見える。ただ私が思うに、彼らはそんな状態に慣れているだけ。アイルランド人が言ったように、体は何事にも慣れる、たとえ吊るされるとしてもね」</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>こうしてレイチェル夫人は小道からグリーンゲイブルズの裏庭に入った。緑鮮やかで楚々とし入念に手入れされた庭で、片側に立派で長老のような柳が並び、反対側に上品なロンバルディが並んでいた。枝一本も石ころもそこには無く、もしそういうものがあったらレイチェル夫人は見落とさないだろう。夫人の個人的な見解ではマリラ・カスバートは家の中を掃除するのと同じ頻度で庭を掃除しているとみていた。誰かが地面に食べ物を落としても、ことわざのように泥など付かず拾って食べられるほどだ。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>宝石のイラストは Emil Hochdanz 氏によるものです。 CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "gemstones",
+            "post_excerpt": "「午後のお茶が済んだらグリーンゲイブルズへ行き、彼がどこに出かけていたのか、マリラからその理由を掴むとするわ」立派なご夫人はついに一連の思考の結論に至った。「彼は一年のうちのこの時期に町に出かけることは普通はありえない。もしカブの種を使い切ったら彼は着飾って馬車に乗り出かけるなんてことは無いでしょう。医師のところに行く時のように急いではいなかった。 ",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 20,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "化石",
+            "post_content": "<!-- wp:paragraph --> <p>6月初めのとある午後、彼女はそこに座っていた。暖かくまぶしい日の光が窓から差し込んでいた。屋敷の下の斜面にある果樹園では頬を赤らめた花嫁のようなピンクがかった白い花が咲き、無数のミツバチが羽音を立てていた。トーマス・リンド、アヴォンリーの人々から「レイチェル・リンド夫人の夫」と呼ばれているおとなしく平凡なその男は、納屋の向こうの丘の畑で遅まきのカブの種をまいていた。そしてその日、マシュー・カスバートはそこよりも遠い場所にあるグリーンゲーブルズの広く赤い小川のある畑で種まきをしているはずだった。レイチェル夫人はその日、マシューが種まきをするものと思っていた。なぜなら前日の夕方、カーモディのウィリアム・J・ブレアの店で、明日の午後カブの種まきをするとマシューがピーター・モリソンに話しているのを聞いていたからだ。ピーターが尋ねたのだ。もっとも、マシュー・カスバートは今まで自分から何かを話し始めたことは一度もない。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>それにもかかわらず、マシューは忙しい1日の午後3時半過ぎに静かにくぼ地から丘を馬車で登って行った。その上、白襟に持っている中で最も上等な外出着に身を包んでいるのは、アヴォンリーの外へ出かける明白な証明である。そして一頭立ての馬車と栗色の雌馬はかなりの遠出を予感させた。一体、マシュー・カスバートはどこに向かっているのか、そして何故出かけたのだろうか。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>アヴォンリーの他の男なら、レイチェル夫人があれこれ上手く想像して、その2つの問いにだいたいの予想をつけていたかもしれない。しかし、マシューが外出することは滅多になく、切実で普通ではない何かのために出かけたに違いない。彼は誰よりも引っ込み思案な男として生きてきて、知り合いの居ない場所や彼が話をしなければならない場所を嫌っていた。マシューが他所行きの白襟の服を着て、一頭立ての馬車で出かけるということはごく稀にも起こらないことであった。レイチェル夫人は考えを巡らせるが見当も付かず、午後の楽しみは台無しになってしまった。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>化石のイラストは Emil Hochdanz 氏によるものです。 CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "fossils",
+            "post_excerpt": "6月初めのとある午後、彼女はそこに座っていた。暖かくまぶしい日の光が窓から差し込んでいた。屋敷の下の斜面にある果樹園では頬を赤らめた花嫁のようなピンクがかった白い花が咲き、無数のミツバチが羽音を立てていた。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "エトセトラ",
+            "post_content": "<!-- wp:paragraph --> <p>レイチェル・リンド夫人はちょうどアヴォンリーの村を貫く大通りの少しくぼみになっている辺りに住んでいる。 ハンノキと釣浮草に囲まれ、カスバート家の古い家の森から流れている小川が横切っていた。うわさではその小川は、上流の木立の奥では淵と小さな滝を作り複雑で急なようだ。しかしリンド家のあるくぼ地まで来ると穏やかになり、上品な流れとなる。相応の礼儀と作法に敬意を払わないと、川の流れでさえレイチェル・リンド夫人の家の前を横切ることは出来ない。窓辺に座るレイチェル・リンド夫人は、小川から子どもたちまでそこを通るすべてに鋭い視線を向けていると小川は知っているかもしれない。夫人が何か異変や違和感に気付いたら、その原因と理由を確認するまでやめないこともある。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>アヴォンリーにも他の土地にも、自分の事はおろそかにしても隣人にお節介を焼く人々がいる。しかし、レイチェル・リンド夫人は自分の心配事に加えて他人のことまで世話することに長けていた。彼女は注目に値する主婦だった。いつも家事をてきぱきと要領よくこなし、縫製サークルを活発にし、日曜学校の運営を助けていた。そして教会の共済組織と異邦での伝導活動の為の援助団体の強力な支持者であった。その様に忙しいにもかかわらず、レイチェル・リンド夫人は台所の窓辺に座り「コットンワープ」のキルトの編み物をしながらすでに16着を編んでおり、アヴォンリー周辺の主婦達は畏敬の念を口にするのが常であった。くぼ地を通って急な赤い丘まで曲がって進む大通りに目を光らす時間がたっぷりあったのだ。アヴォンリーはセントローレンス湾に突き出し、両側を海に挟まれた小さな三角形の半島にある。ここに出入りする誰もがあの丘の道を通らなければならず、レイチェル夫人の何でも見通す目に知らぬ間に批判されているのだ。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>宝石のイラストは Emil Hochdanz 氏によるものです。 CC0</em></p> <!-- /wp:paragraph -->",
+            "post_name": "etcetera",
+            "post_excerpt": "レイチェル・リンド夫人はちょうどアヴォンリーの村を貫く大通りの少しくぼみになっている辺りに住んでいる。 ハンノキと釣浮草に囲まれ、カスバート家の古い家の森から流れている小川が横切っていた。",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "お問い合わせ",
+            "post_content": "<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\">1 Example Street,<br>Anytown, NY 10100 USA</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":20}}} --> <p style=\"font-size:20px;\"><a href=\"mailto:contact@example.com\">contact@example.com</a><br>(012) 345 67 89</p> <!-- /wp:paragraph --> <!-- wp:social-links --> <ul class=\"wp-block-social-links\"><!-- wp:social-link {\"url\":\"\",\"service\":\"wordpress\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} /--> <!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} /--> <!-- wp:social-link {\"service\":\"linkedin\"} /--> <!-- wp:social-link {\"service\":\"youtube\"} /--></ul> <!-- /wp:social-links --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/contact-form {\"subject\":\"\",\"to\":\"\"} --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"required\":true} /--> <!-- wp:jetpack/field-textarea /--> <!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Submit\"} /--> <!-- /wp:jetpack/contact-form --> <!-- wp:spacer {\"height\":60} --> <div style=\"height:60px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "メイン",
+            "items": [
+                {
+                    "menu-item-title": "ブログ",
+                    "menu-item-db-id": 65,
+                    "menu-item-object-id": "62",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "このサイトについて",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "お問い合わせ",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-01-e1633597018555.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-03-e1633597047999.jpg",
+        "https://geologistdemo.files.wordpress.com/2021/09/gem-02-e1633597060597.jpg"
+    ],
+    "meta": {
+        "blog_id": 197417429,
+        "url": "https://geologistdemo.wordpress.com",
+        "update_date": "October 7, 2021, 11:20 am",
+        "update_timestamp": 1633605612
+    }
+}
