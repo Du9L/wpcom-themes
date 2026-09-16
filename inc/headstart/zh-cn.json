@@ -1,0 +1,135 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "关于",
+            "post_content": "<!-- wp:paragraph -->\n<p> 👋 Remote 是圣保罗的社交媒体经理撰写的博客。 我曾经在一间巨大的办公室里工作，但是现在办公只需要一个角落，在我小小的公寓里就实现了。 不过这很棒，我保证！ </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>如果可以的话，我再也不回办公室了。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading -->\n<h2>有问题吗？</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"[Remote] About\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-textarea /-->\n\n<!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Ask me a question\"} /--></div>\n<!-- /wp:jetpack/contact-form -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 21,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "回顾远程工作这一年",
+            "post_content": "<!-- wp:paragraph -->\n<p>直到最近几年，人们才开始重视科学养蜂。 以前收蜜都是采取一些传统的方法，但是采取这些方法的人并不知晓其中的原理。 不过，现在多亏了我们伟大的科学家，正是他们对蜜蜂生活和习性的观察，以及他们在记录蜜蜂劳作方式方面的耐心和勤奋，才使得我们掌握了足够的知识，让养蜂人能够精简杂乱无章的传统方法，找到条理清晰、目的明确的方法。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>初出茅庐的养蜂人在读到一本关于蜜蜂及其习性的好书时，可能会想这对于自己来说是不是太美妙了，自己是否有希望成为养蜂艺术和实践的专家。 我要说的是，只要有耐心、有毅力、勤奋好学、在工作中积极思考，无论是谁都能获得成功。 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.23\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"line-height:1.23;\">我会把更多的时间放在<br>陪伴家人、锻炼身体<br>和保证充足的睡眠上。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>尽管新手遇到的疑惑和困难以及由此产生的问题可能会让专家会心一笑（即使是让他想起自己早期的抱负和努力也好），但我们没有理由绝望；尽管肯定会产生失望的情绪，但应该接受这一事实，把它们作为向前的动力、作为迈向成功的必经之路。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>有些人可能会想当然地认为，对于蜜蜂人类不会再有什么新发现了。但事实却是，即使是科学家，对于蜜蜂某些器官的确切作用，也无从知晓；而蜜蜂所患的某些疾病，科学家至今尚未找到原因和治疗方法。 因此，撇开养蜂的商业价值不谈，仍有广阔的兴趣和研究领域等待智慧的养蜂人去探索。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "looking-back-on-a-year-of-working-remotely",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "提高效率的贴士",
+                    "日程安排"
+                ],
+                "post_tag_name": [
+                    "通勤"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "我每天只查收两次电子邮件，这没什么问题",
+            "post_content": "<!-- wp:paragraph -->\n<p>直到最近几年，人们才开始重视科学养蜂。 以前收蜜都是采取一些传统的方法，但是采取这些方法的人并不知晓其中的原理。 不过，现在多亏了我们伟大的科学家，正是他们对蜜蜂生活和习性的观察，以及他们在记录蜜蜂劳作方式方面的耐心和勤奋，才使得我们掌握了足够的知识，让养蜂人能够精简杂乱无章的传统方法，找到条理清晰、目的明确的方法。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>初出茅庐的养蜂人在读到一本关于蜜蜂及其习性的好书时，可能会想这对于自己来说是不是太美妙了，自己是否有希望成为养蜂艺术和实践的专家。 我要说的是，只要有耐心、有毅力、勤奋好学、在工作中积极思考，无论是谁都能获得成功。 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>尽管新手遇到的疑惑和困难以及由此产生的问题可能会让专家会心一笑（即使是让他想起自己早期的抱负和努力也好），但我们没有理由绝望；尽管肯定会产生失望的情绪，但应该接受这一事实，把它们作为向前的动力、作为迈向成功的必经之路。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>有些人可能会想当然地认为，对于蜜蜂人类不会再有什么新发现了。但事实却是，即使是科学家，对于蜜蜂某些器官的确切作用，也无从知晓；而蜜蜂所患的某些疾病，科学家至今尚未找到原因和治疗方法。 因此，撇开养蜂的商业价值不谈，仍有广阔的兴趣和研究领域等待智慧的养蜂人去探索。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "i-check-email-just-two-times-a-day-and-its-fine",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "合作",
+                    "居家办公装置"
+                ],
+                "post_tag_name": [
+                    "视频会议"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "这就是我一天的日常生活",
+            "post_content": "<!-- wp:paragraph -->\n<p>直到最近几年，人们才开始重视科学养蜂。 以前收蜜都是采取一些传统的方法，但是采取这些方法的人并不知晓其中的原理。 不过，现在多亏了我们伟大的科学家，正是他们对蜜蜂生活和习性的观察，以及他们在记录蜜蜂劳作方式方面的耐心和勤奋，才使得我们掌握了足够的知识，让养蜂人能够精简杂乱无章的传统方法，找到条理清晰、目的明确的方法。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>初出茅庐的养蜂人在读到一本关于蜜蜂及其习性的好书时，可能会想这对于自己来说是不是太美妙了，自己是否有希望成为养蜂艺术和实践的专家。 我要说的是，只要有耐心、有毅力、勤奋好学、在工作中积极思考，无论是谁都能获得成功。 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>尽管新手遇到的疑惑和困难以及由此产生的问题可能会让专家会心一笑（即使是让他想起自己早期的抱负和努力也好），但我们没有理由绝望；尽管肯定会产生失望的情绪，但应该接受这一事实，把它们作为向前的动力、作为迈向成功的必经之路。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>有些人可能会想当然地认为，对于蜜蜂人类不会再有什么新发现了。但事实却是，即使是科学家，对于蜜蜂某些器官的确切作用，也无从知晓；而蜜蜂所患的某些疾病，科学家至今尚未找到原因和治疗方法。 因此，撇开养蜂的商业价值不谈，仍有广阔的兴趣和研究领域等待智慧的养蜂人去探索。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "this-is-what-a-typical-day-looks-like-for-me",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "提高效率的贴士",
+                    "日程安排"
+                ],
+                "post_tag_name": [
+                    "立式办公桌"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "主菜",
+            "items": []
+        },
+        "primary": {
+            "name": "主要",
+            "items": []
+        }
+    },
+    "images": [
+        "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+    ],
+    "meta": {
+        "blog_id": 202726634,
+        "url": "https://remotedemo.wordpress.com",
+        "update_date": "2022 年 4 月 5 日，下午 1:16",
+        "update_timestamp": 1649164578
+    }
+}

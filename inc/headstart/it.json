@@ -1,0 +1,135 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Informazioni",
+            "post_content": "<!-- wp:paragraph -->\n<p> 👋 Da remoto è un blog scritto da un social media manager a San Paolo. Lavoravo in un ufficio gigantesco, ma sono passato con successo in un ufficio angolare... all'interno del mio minuscolo appartamento. Comunque giuro che è fantastico! </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Non tornerò mai più in un ufficio, se posso evitarlo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\" />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading -->\n<h2>Domande?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form {\"subject\":\"[Remote] About\"} -->\n<div class=\"wp-block-jetpack-contact-form\"><!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-textarea /-->\n\n<!-- wp:jetpack/button {\"element\":\"button\",\"text\":\"Ask me a question\"} /--></div>\n<!-- /wp:jetpack/contact-form -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 21,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Guardando indietro a un anno di lavoro da remoto",
+            "post_content": "<!-- wp:paragraph -->\n<p>È solamente in un periodo di tempo relativamente recente che l'attenzione è stata rivolta all'apicoltura su base scientifica. In passato, per garantire la raccolta del miele, si dovevano seguire alcuni metodi tradizionali, ma coloro che li praticavano non sapevano né il perché né il percome. Oggi, invece, grazie alle osservazioni dei nostri grandi scienziati sulla vita e sulle abitudini delle api, alla loro pazienza e diligenza nell'osservare le modalità di lavorare dell'insetto, siamo in possesso di conoscenze che hanno permesso al pratico apicoltore di ridimensionare i vecchi metodi casuali al metodo, all'ordine e allo scopo preciso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mentre legge una di queste grandi opere sull'ape e sulle sue abitudini, l'apicoltore alle prime armi può cominciare a chiedersi se affrontare tutto questo non sia per lui troppo meraviglioso e se può mai sperare di diventare esperto in l'arte e la pratica dell'apicoltura. Lasciatemi dire, qui e ora, che, date pazienza, perseveranza e diligenza, a chiunque metta intelligenza nel suo lavoro si apre una misura del successo. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"lineHeight\":\"1.23\"}},\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\" style=\"line-height:1.23;\">Passo più tempo con <br>la mia famiglia, mi alleno di più <br>e dormo per più ore.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":\"1em\"} -->\n<div style=\"height:1em;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p>Sebbene i dubbi e le difficoltà che assalgono il principiante, e le domande che ne derivano, possano far sorridere l'esperto (anche solo per il semplice fatto di ricordare le sue prime aspirazioni e gli sforzi), tuttavia non c'è motivo di disperarsi; anche se sicuramente ne deriveranno delusioni, dovrebbero essere accettate semplicemente come stimoli ad aumentare gli sforzi, come fossero passi verso l'obiettivo finale che è il successo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Alcuni potrebbero pensare - avventatamente - che non ci sia nulla di nuovo da dire o da imparare sull'ape, ma il fatto è che anche gli scienziati ignorano ancora gli usi definitivi di alcuni organi dell'insetto e l'origine e i rimedi di alcune delle malattie di cui soffre. Mettendo da parte, quindi, l'aspetto meramente commerciale dell'apicoltura, esiste ancora un vasto campo di interesse e di ricerca che l'apicoltore intelligente può esplorare.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "looking-back-on-a-year-of-working-remotely",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 13,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Suggerimenti sulla produttività",
+                    "Pianificazioni"
+                ],
+                "post_tag_name": [
+                    "Distanze coperte da un pendolare"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Controllo l'e-mail solo due volte al giorno e va bene ",
+            "post_content": "<!-- wp:paragraph -->\n<p>È solamente in un periodo di tempo relativamente recente che l'attenzione è stata rivolta all'apicoltura su base scientifica. In passato, per garantire la raccolta del miele, si dovevano seguire alcuni metodi tradizionali, ma coloro che li praticavano non sapevano né il perché né il percome. Oggi, invece, grazie alle osservazioni dei nostri grandi scienziati sulla vita e sulle abitudini delle api, alla loro pazienza e diligenza nell'osservare le modalità di lavorare dell'insetto, siamo in possesso di conoscenze che hanno permesso al pratico apicoltore di ridimensionare i vecchi metodi casuali al metodo, all'ordine e allo scopo preciso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mentre legge una di queste grandi opere sull'ape e sulle sue abitudini, l'apicoltore alle prime armi può cominciare a chiedersi se affrontare tutto questo non sia per lui troppo meraviglioso e se può mai sperare di diventare esperto in l'arte e la pratica dell'apicoltura. Lasciatemi dire, qui e ora, che, date pazienza, perseveranza e diligenza, a chiunque metta intelligenza nel suo lavoro si apre una misura del successo. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Sebbene i dubbi e le difficoltà che assalgono il principiante, e le domande che ne derivano, possano far sorridere l'esperto (anche solo per il semplice fatto di ricordare le sue prime aspirazioni e gli sforzi), tuttavia non c'è motivo di disperarsi; anche se sicuramente ne deriveranno delusioni, dovrebbero essere accettate semplicemente come stimoli ad aumentare gli sforzi, come fossero passi verso l'obiettivo finale che è il successo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Alcuni potrebbero pensare - avventatamente - che non ci sia nulla di nuovo da dire o da imparare sull'ape, ma il fatto è che anche gli scienziati ignorano ancora gli usi definitivi di alcuni organi dell'insetto e l'origine e i rimedi di alcune delle malattie di cui soffre. Mettendo da parte, quindi, l'aspetto meramente commerciale dell'apicoltura, esiste ancora un vasto campo di interesse e di ricerca che l'apicoltore intelligente può esplorare.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "i-check-email-just-two-times-a-day-and-its-fine",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 11,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Collaborazione",
+                    "Organizzazione del lavoro da casa"
+                ],
+                "post_tag_name": [
+                    "Videoconferenza"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Ecco a cosa assomiglia per me una giornata tipo",
+            "post_content": "<!-- wp:paragraph -->\n<p>È solamente in un periodo di tempo relativamente recente che l'attenzione è stata rivolta all'apicoltura su base scientifica. In passato, per garantire la raccolta del miele, si dovevano seguire alcuni metodi tradizionali, ma coloro che li praticavano non sapevano né il perché né il percome. Oggi, invece, grazie alle osservazioni dei nostri grandi scienziati sulla vita e sulle abitudini delle api, alla loro pazienza e diligenza nell'osservare le modalità di lavorare dell'insetto, siamo in possesso di conoscenze che hanno permesso al pratico apicoltore di ridimensionare i vecchi metodi casuali al metodo, all'ordine e allo scopo preciso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mentre legge una di queste grandi opere sull'ape e sulle sue abitudini, l'apicoltore alle prime armi può cominciare a chiedersi se affrontare tutto questo non sia per lui troppo meraviglioso e se può mai sperare di diventare esperto in l'arte e la pratica dell'apicoltura. Lasciatemi dire, qui e ora, che, date pazienza, perseveranza e diligenza, a chiunque metta intelligenza nel suo lavoro si apre una misura del successo. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Sebbene i dubbi e le difficoltà che assalgono il principiante, e le domande che ne derivano, possano far sorridere l'esperto (anche solo per il semplice fatto di ricordare le sue prime aspirazioni e gli sforzi), tuttavia non c'è motivo di disperarsi; anche se sicuramente ne deriveranno delusioni, dovrebbero essere accettate semplicemente come stimoli ad aumentare gli sforzi, come fossero passi verso l'obiettivo finale che è il successo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Alcuni potrebbero pensare - avventatamente - che non ci sia nulla di nuovo da dire o da imparare sull'ape, ma il fatto è che anche gli scienziati ignorano ancora gli usi definitivi di alcuni organi dell'insetto e l'origine e i rimedi di alcune delle malattie di cui soffre. Mettendo da parte, quindi, l'aspetto meramente commerciale dell'apicoltura, esiste ancora un vasto campo di interesse e di ricerca che l'apicoltore intelligente può esplorare.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "this-is-what-a-typical-day-looks-like-for-me",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "_starter_page_template": "",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Suggerimenti sulla produttività",
+                    "Pianificazioni"
+                ],
+                "post_tag_name": [
+                    "Scrivanie per lavorare in piedi"
+                ]
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main": {
+            "name": "Portata principale",
+            "items": []
+        },
+        "primary": {
+            "name": "Principale",
+            "items": []
+        }
+    },
+    "images": [
+        "https://remotedemo.files.wordpress.com/2022/03/laptop.jpg"
+    ],
+    "meta": {
+        "blog_id": 202726634,
+        "url": "https://remotedemo.wordpress.com",
+        "update_date": "5 aprile 2022, ore 13:16",
+        "update_timestamp": 1649164578
+    }
+}
