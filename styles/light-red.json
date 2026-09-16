@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Light Red",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "primary",
+					"color": "#8E3636",
+					"name": "Primary"
+				},
+				{
+					"slug": "tertiary",
+					"color": "#E9E5E9",
+					"name": "Tertiary"
+				},
+				{
+					"slug": "background",
+					"color": "#F1F0F4",
+					"name": "Background"
+				}
+			]
+		}
+	}
+
+}
