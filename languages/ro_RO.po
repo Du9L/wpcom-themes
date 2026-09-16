@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Partygurl\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-20T03:21:11+00:00\n"
+"PO-Revision-Date: 2025-02-18 14:37:45+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "TeX Gyre Heros Cn"
+msgstr "TeX Gyre Heros Cn"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr "metadate articol"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Subsol"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#. Description of the theme
+#: style.css
+msgid "Partygurl embodies a bold and rebellious aesthetic, inspired by edgy, chaotic fun and the unapologetic “brat” energy popularized by cultural trends."
+msgstr "Partygurl întruchipează o estetică îndrăzneață și rebelă, inspirată de distracția provocatoare, haotică și de energia fără remușcări „răsfățat” popularizată de tendințele culturale."
+
+#: patterns/post-meta.php:16
+msgid "/"
+msgstr "/"
+
+#: patterns/hidden-no-results-content.php:11
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but no thing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. Translators: WordPress link.
+#: patterns/footer.php:21
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/404.php:13
+msgid "show me the good stuff"
+msgstr "arată-mi lucrurile bune"
+
+#: patterns/404.php:13
+msgid "type something..."
+msgstr "scrie ceva..."
