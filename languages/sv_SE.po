@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Hola\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-07T03:41:32+00:00\n"
+"PO-Revision-Date: 2024-10-06 11:58:33+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/footer.php:53
+msgid "Designed with %1$s"
+msgstr "Designad med %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:51
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org"
+
+#: patterns/footer.php:44
+msgid "Get in touch"
+msgstr "Kontakta oss"
+
+#: patterns/404.php:24
+msgid "Maybe try a search?"
+msgstr "Kanske prova en sökning?"
+
+#: patterns/404.php:24
+msgid "It looks like nothing was found at this location."
+msgstr "Det verkar som om inget hittades på denna plats."
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Systemtypsnitt"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr "XXL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Liten"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr "XS"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr "XXS"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "default gradient"
+msgstr "standardgradient"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Mattone"
+msgstr "Tegel"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Avocado"
+msgstr "Avokado"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Pomegranate"
+msgstr "Granatäpple"
+
+#: styles/pomegranate.json
+msgctxt "Style variation name"
+msgid "Pomegranate"
+msgstr "Granatäpple"
+
+#: styles/mattone.json
+msgctxt "Style variation name"
+msgid "Mattone"
+msgstr "Tegel"
+
+#: styles/avocado.json
+msgctxt "Style variation name"
+msgid "Avocado"
+msgstr "Avokado"
+
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bas"
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr "metadata för inlägg"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Dolt innehåll utan resultat"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr "sidfot"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/post-meta.php:57
+msgid "Before:"
+msgstr "Före:"
+
+#: patterns/post-meta.php:43
+msgid "Up next:"
+msgstr "Nästa:"
+
+#: patterns/post-meta.php:29
+msgid "Date:"
+msgstr "Datum:"
+
+#: patterns/post-meta.php:15
+msgid "Tags:"
+msgstr "Etiketter:"
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: patterns/404.php:20
+msgid "Oops! That page can’t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."

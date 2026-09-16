@@ -1,0 +1,256 @@
+# Copyright (C) 2026 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hola 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hola\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-05-22T01:19:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hola"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/hola/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Hola is a text-only blog design, a new interpretation of the theme ‘Hey’ with diverse style variations."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "Maybe try a search?"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "Get in touch"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:51
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:53
+#, php-format
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "post-meta"
+msgstr ""
+
+#: patterns/post-meta.php:15
+msgid "Tags:"
+msgstr ""
+
+#: patterns/post-meta.php:29
+msgid "Date:"
+msgstr ""
+
+#: patterns/post-meta.php:43
+msgid "Up next:"
+msgstr ""
+
+#: patterns/post-meta.php:57
+msgid "Before:"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Ligure"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Pomegranate"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Avocado"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Mattone"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "default gradient"
+msgstr ""
+
+#: theme.json
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+#: styles/avocado.json
+#: styles/mattone.json
+#: styles/pomegranate.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: styles/avocado.json
+msgctxt "Style variation name"
+msgid "Avocado"
+msgstr ""
+
+#: styles/mattone.json
+msgctxt "Style variation name"
+msgid "Mattone"
+msgstr ""
+
+#: styles/pomegranate.json
+msgctxt "Style variation name"
+msgid "Pomegranate"
+msgstr ""
