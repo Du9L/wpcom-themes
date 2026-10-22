@@ -1,0 +1,12 @@
+.wp-block-calendar :where(table:not(.has-text-color)) td {
+    border-color: var(--wp--preset--color--theme-4) !important;
+}
+.wp-block-calendar :where(table:not(.has-text-color)) th {
+    border-color: var(--wp--preset--color--theme-4) !important;
+}
+.wp-block-calendar table:not(.has-text-color) {
+    color:var(--wp--preset--color--theme-2)
+}
+:where(.wp-block-calendar table:not(.has-background) th) {
+    background-color:var(--wp--preset--color--theme-4);
+}

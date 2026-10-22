@@ -1,0 +1,578 @@
+# Copyright (C) 2026 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Memoriam 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/memoriam\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-21T02:04:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+
+#. Theme Name of the theme
+#: style.css
+#: functions.php:84
+msgid "Memoriam"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/memoriam/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Memoriam is a gentle block theme for memorial and tribute websites. It comes with five color variations and a set of dedicated patterns for service details, life timelines, guestbook walls, donation callouts, and other tribute content, so you can build a heartfelt memorial page without writing any custom code."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:13
+msgid "Page not found"
+msgstr ""
+
+#: patterns/404.php:17
+msgid "The page you are looking for doesn't exist, or it has been moved. Please try searching using the form below."
+msgstr ""
+
+#: patterns/404.php:20
+#: patterns/search.php:15
+msgid "Search"
+msgstr ""
+
+#: patterns/404.php:20
+#: patterns/search.php:15
+msgid "Type here..."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archive"
+msgstr ""
+
+#: patterns/archive.php:44
+#: patterns/search.php:44
+msgid "Sorry, but nothing was found. Please try a search with different keywords."
+msgstr ""
+
+#: patterns/archive.php:51
+#: patterns/front-page.php:158
+#: patterns/index.php:33
+#: patterns/search.php:51
+#: patterns/single.php:40
+msgid "Prev"
+msgstr ""
+
+#: patterns/archive.php:53
+#: patterns/front-page.php:162
+#: patterns/index.php:35
+#: patterns/search.php:53
+#: patterns/single.php:42
+msgid "Next"
+msgstr ""
+
+#: patterns/donation-callout.php
+msgctxt "Pattern title"
+msgid "Donation Callout"
+msgstr ""
+
+#: patterns/donation-callout.php:12
+msgid "In Lieu of Flowers"
+msgstr ""
+
+#: patterns/donation-callout.php:16
+msgid "Support a Cause They Believed In"
+msgstr ""
+
+#: patterns/donation-callout.php:21
+msgid "Memorial gifts may be made to the organization named below, a cause close to their heart. Your generosity helps carry their legacy forward."
+msgstr ""
+
+#: patterns/donation-callout.php:26
+msgid "Make a Donation"
+msgstr ""
+
+#: patterns/footer-contact.php
+msgctxt "Pattern title"
+msgid "Footer with Contact"
+msgstr ""
+
+#: patterns/footer-contact.php:13
+msgid "In loving memory"
+msgstr ""
+
+#: patterns/footer-contact.php:25
+msgid "Family contact: family@example.com"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:16
+#, php-format
+msgid "Designed with %1$sWordPress%2$s"
+msgstr ""
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "Front Page"
+msgstr ""
+
+#: patterns/front-page.php:20
+msgid "∞"
+msgstr ""
+
+#: patterns/front-page.php:28
+#: patterns/quote.php:17
+msgid "In Loving Memory"
+msgstr ""
+
+#: patterns/front-page.php:37
+msgid "1946—2026"
+msgstr ""
+
+#: patterns/front-page.php:50
+msgid "Portrait of Winona smiling, in round glasses and a brown knit cardigan."
+msgstr ""
+
+#: patterns/front-page.php:61
+msgid "Dear friends and family,"
+msgstr ""
+
+#: patterns/front-page.php:65
+msgid "As we remember the life and legacy Winona Morrison, we find ourselves returning to the words she said so often to her students: \"Science is just love, paying close attention.\""
+msgstr ""
+
+#: patterns/front-page.php:69
+msgid "For those wishing to honor her memory, the Morrison family kindly requests that, in lieu of flowers, you consider a donation to the Winona Morrison Scholarship Fund at Lakeshore University. Established by her family and former students, the Fund supports first-generation college students pursuing degrees in medicine and the life sciences."
+msgstr ""
+
+#: patterns/front-page.php:73
+msgid "We are deeply grateful for your kindness, your memories, and your presence in her life and ours."
+msgstr ""
+
+#: patterns/front-page.php:77
+msgid "The Morrison Family"
+msgstr ""
+
+#. Translators: 1. is the start of a 'em' HTML element, 2. is the end of a 'em' HTML element
+#: patterns/front-page.php:96
+#, php-format
+msgid "%1$s\"To study the world is to love it.\"%2$s"
+msgstr ""
+
+#: patterns/front-page.php:107
+msgid "In Eternal Memory"
+msgstr ""
+
+#: patterns/front-page.php:124
+msgid "Sunlight falling through tall redwoods onto a winding forest road."
+msgstr ""
+
+#: patterns/front-page.php:124
+msgid "Photo taken by Winona, July 2020"
+msgstr ""
+
+#: patterns/front-page.php:136
+msgid "Remembering Winona"
+msgstr ""
+
+#: patterns/front-page.php:167
+msgid "No posts have been found."
+msgstr ""
+
+#: patterns/guestbook-wall.php
+msgctxt "Pattern title"
+msgid "Guestbook Wall"
+msgstr ""
+
+#: patterns/guestbook-wall.php:12
+msgid "Guestbook"
+msgstr ""
+
+#: patterns/guestbook-wall.php:16
+msgid "Words of Comfort"
+msgstr ""
+
+#: patterns/guestbook-wall.php:27
+msgid "“I will miss our morning coffee and hard questions.”"
+msgstr ""
+
+#: patterns/guestbook-wall.php:31
+msgid "Sofia R."
+msgstr ""
+
+#: patterns/guestbook-wall.php:31
+msgid "former student"
+msgstr ""
+
+#: patterns/guestbook-wall.php:37
+msgid "“Always had time for one more question by the door.”"
+msgstr ""
+
+#: patterns/guestbook-wall.php:41
+msgid "Miguel T."
+msgstr ""
+
+#: patterns/guestbook-wall.php:41
+msgid "nephew"
+msgstr ""
+
+#: patterns/guestbook-wall.php:47
+msgid "“Thank you for believing in me before I believed in myself.”"
+msgstr ""
+
+#: patterns/guestbook-wall.php:51
+msgid "Ana P."
+msgstr ""
+
+#: patterns/guestbook-wall.php:51
+msgid "class of 2009"
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "Blog Index"
+msgstr ""
+
+#: patterns/life-timeline.php
+msgctxt "Pattern title"
+msgid "Life Timeline"
+msgstr ""
+
+#: patterns/life-timeline.php:12
+msgid "A Life in Moments"
+msgstr ""
+
+#: patterns/life-timeline.php:16
+msgid "The Story of Their Life"
+msgstr ""
+
+#: patterns/life-timeline.php:27
+msgid "1946"
+msgstr ""
+
+#: patterns/life-timeline.php:33
+msgid "Born in Lakeshore, the second of four children, and raised beside the lake she would return to for the rest of her life."
+msgstr ""
+
+#: patterns/life-timeline.php:41
+msgid "1968"
+msgstr ""
+
+#: patterns/life-timeline.php:47
+msgid "Graduated with a degree in Biology and began a career devoted to teaching and research."
+msgstr ""
+
+#: patterns/life-timeline.php:55
+msgid "1978"
+msgstr ""
+
+#: patterns/life-timeline.php:61
+msgid "Began teaching, a role that would define the next four decades and touch thousands of students."
+msgstr ""
+
+#: patterns/life-timeline.php:69
+msgid "2026"
+msgstr ""
+
+#: patterns/life-timeline.php:75
+msgid "Passed away peacefully, surrounded by family and the people she loved most."
+msgstr ""
+
+#: patterns/quote.php
+msgctxt "Pattern title"
+msgid "Featured Quote"
+msgstr ""
+
+#: patterns/quote.php:12
+msgid "“The best of her will live on in the people she loved.”"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search Results"
+msgstr ""
+
+#: patterns/service-details.php
+msgctxt "Pattern title"
+msgid "Service Details"
+msgstr ""
+
+#: patterns/service-details.php:12
+msgid "Celebration of Life"
+msgstr ""
+
+#: patterns/service-details.php:16
+msgid "You’re Invited to Join Us"
+msgstr ""
+
+#: patterns/service-details.php:27
+msgid "Date & Time"
+msgstr ""
+
+#: patterns/service-details.php:27
+msgid "Saturday, March 14, 2026 at 2:00 PM"
+msgstr ""
+
+#: patterns/service-details.php:35
+msgid "Location"
+msgstr ""
+
+#: patterns/service-details.php:35
+msgid "Lakeview Chapel, 220 University Avenue"
+msgstr ""
+
+#: patterns/service-details.php:43
+msgid "Reception to Follow"
+msgstr ""
+
+#: patterns/service-details.php:43
+msgid "Refreshments will be served in the garden hall."
+msgstr ""
+
+#: patterns/service-details.php:49
+msgid "All are welcome to attend and celebrate a life well lived. For those unable to join in person, the service will also be streamed online."
+msgstr ""
+
+#: patterns/service-details.php:54
+msgid "Get Directions"
+msgstr ""
+
+#: patterns/service-details.php:58
+msgid "Watch the Livestream"
+msgstr ""
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Single Post"
+msgstr ""
+
+#: patterns/single.php:23
+msgid "Written by"
+msgstr ""
+
+#: patterns/single.php:29
+msgid "in"
+msgstr ""
+
+#: patterns/single.php:48
+msgid "Comments"
+msgstr ""
+
+#: patterns/tribute-cta.php
+msgctxt "Pattern title"
+msgid "Tribute Call to Action"
+msgstr ""
+
+#: patterns/tribute-cta.php:12
+msgid "Share a Memory"
+msgstr ""
+
+#: patterns/tribute-cta.php:16
+msgid "Add your story, a photo, or a few words in their honor. Every tribute becomes part of this page."
+msgstr ""
+
+#: patterns/tribute-cta.php:22
+msgid "Leave a Tribute"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and white"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical soft beige to white"
+msgstr ""
+
+#: theme.json
+#: styles/colors/afterglow.json
+#: styles/colors/angel.json
+#: styles/colors/cloud.json
+#: styles/colors/delicacy.json
+#: styles/colors/murmur.json
+msgctxt "Color name"
+msgid "Color 1"
+msgstr ""
+
+#: theme.json
+#: styles/colors/afterglow.json
+#: styles/colors/angel.json
+#: styles/colors/cloud.json
+#: styles/colors/delicacy.json
+#: styles/colors/murmur.json
+msgctxt "Color name"
+msgid "Color 2"
+msgstr ""
+
+#: theme.json
+#: styles/colors/afterglow.json
+#: styles/colors/angel.json
+#: styles/colors/cloud.json
+#: styles/colors/delicacy.json
+#: styles/colors/murmur.json
+msgctxt "Color name"
+msgid "Color 3"
+msgstr ""
+
+#: theme.json
+#: styles/colors/afterglow.json
+#: styles/colors/angel.json
+#: styles/colors/cloud.json
+#: styles/colors/delicacy.json
+#: styles/colors/murmur.json
+msgctxt "Color name"
+msgid "Color 4"
+msgstr ""
+
+#: theme.json
+#: styles/colors/afterglow.json
+#: styles/colors/angel.json
+#: styles/colors/cloud.json
+#: styles/colors/delicacy.json
+#: styles/colors/murmur.json
+msgctxt "Color name"
+msgid "Color 5"
+msgstr ""
+
+#: theme.json
+#: styles/colors/afterglow.json
+#: styles/colors/angel.json
+#: styles/colors/cloud.json
+#: styles/colors/delicacy.json
+#: styles/colors/murmur.json
+msgctxt "Color name"
+msgid "Color 6"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Cormorant"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Navigation Overlay"
+msgstr ""
+
+#: styles/colors/afterglow.json
+msgctxt "Style variation name"
+msgid "Afterglow"
+msgstr ""
+
+#: styles/colors/angel.json
+msgctxt "Style variation name"
+msgid "Angel"
+msgstr ""
+
+#: styles/colors/cloud.json
+msgctxt "Style variation name"
+msgid "Cloud"
+msgstr ""
+
+#: styles/colors/delicacy.json
+msgctxt "Style variation name"
+msgid "Delicacy"
+msgstr ""
+
+#: styles/colors/murmur.json
+msgctxt "Style variation name"
+msgid "Murmur"
+msgstr ""
