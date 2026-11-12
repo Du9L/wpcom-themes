@@ -1,0 +1,411 @@
+# Copyright (C) 2026 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Colorstream 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/colorstream\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-04T01:00:55+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Colorstream"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/colorstream/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Colorstream is a slick and minimalistic theme design crafted especially for WordPress blogs."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:18
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr ""
+
+#: patterns/archive.php:25
+#: patterns/home.php:24
+#: patterns/home.php:68
+#: patterns/home.php:112
+#: patterns/home.php:156
+#: patterns/home.php:200
+#: patterns/home.php:244
+#: patterns/home.php:288
+#: patterns/home.php:332
+#: patterns/home.php:376
+#: patterns/home.php:420
+#: patterns/index.php:21
+#: patterns/search.php:33
+msgid "☉"
+msgstr ""
+
+#: patterns/archive.php:31
+#: patterns/home.php:30
+#: patterns/home.php:74
+#: patterns/home.php:118
+#: patterns/home.php:162
+#: patterns/home.php:206
+#: patterns/home.php:250
+#: patterns/home.php:294
+#: patterns/home.php:338
+#: patterns/home.php:382
+#: patterns/home.php:426
+#: patterns/index.php:27
+#: patterns/search.php:39
+msgid "to read"
+msgstr ""
+
+#: patterns/archive.php:45
+#: patterns/home.php:44
+#: patterns/home.php:88
+#: patterns/home.php:132
+#: patterns/home.php:176
+#: patterns/home.php:220
+#: patterns/home.php:264
+#: patterns/home.php:308
+#: patterns/home.php:352
+#: patterns/home.php:396
+#: patterns/home.php:440
+#: patterns/index.php:41
+#: patterns/search.php:53
+msgid "⇢"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#: patterns/footer.php:14
+msgid "Designed with <a href=\"https://wordpress.org\" rel=\"nofollow\">WordPress</a>"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "home"
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "index"
+msgstr ""
+
+#: patterns/page.php
+msgctxt "Pattern title"
+msgid "page"
+msgstr ""
+
+#: patterns/page.php:29
+#: patterns/sidebar.php:46
+msgid "Get updates"
+msgstr ""
+
+#: patterns/page.php:34
+#: patterns/sidebar.php:51
+msgid "Spam-free subscription, we guarantee. This is just a friendly ping when new content is out."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "search"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+#: patterns/single.php:71
+msgid "From the blog"
+msgstr ""
+
+#: patterns/sidebar.php:32
+#: patterns/single.php:87
+msgid "About the author"
+msgstr ""
+
+#: patterns/sidebar.php:36
+msgid "Sophia Bennett is an art historian and freelance writer with a passion for exploring the intersections between nature, symbolism, and artistic expression. With a background in Renaissance and modern art, Sophia enjoys uncovering the hidden meanings behind iconic works and sharing her insights with art lovers of all levels."
+msgstr ""
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "single"
+msgstr ""
+
+#: patterns/single.php:91
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu enim eu magna convallis accumsan sodales et metus. Quisque at metus id purus luctus aliquet. Proin venenatis arcu nec dolor dapibus, vitae ornare sapien volutpat. Nam magna leo, sollicitudin tincidunt."
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Septenary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Octonary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Nonary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Denary"
+msgstr ""
+
+#: theme.json
+#: styles/autunnale.json
+#: styles/pastel-garden.json
+#: styles/remington.json
+msgctxt "Color name"
+msgid "Undenary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Bricolage Grotesque"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Overused Grotesk"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Elite Math"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Caslon Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Space Grotesk"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Special Elite"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr ""
+
+#: styles/autunnale.json
+msgctxt "Style variation name"
+msgid "Autunnale"
+msgstr ""
+
+#: styles/pastel-garden.json
+msgctxt "Style variation name"
+msgid "Pastel Garden"
+msgstr ""
+
+#: styles/remington.json
+msgctxt "Style variation name"
+msgid "Remington"
+msgstr ""
