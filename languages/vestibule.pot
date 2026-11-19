@@ -1,0 +1,946 @@
+# Copyright (C) 2026 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vestibule 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/vestibule\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-16T04:32:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: vestibule\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Vestibule"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeshaper.com/vestibule/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Vestibule is a block theme for coaches, consultants, teachers and everyone else who meets clients on Zoom. A photo, a few honest words, and the booking calendar right on the page. It has a real dark mode, switched by the visitor and remembered."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://automattic.com/"
+msgstr ""
+
+#: functions.php:91
+msgid "Vestibule sections"
+msgstr ""
+
+#: functions.php:92
+msgid "One section each: hero, booking, sound familiar, about, sessions, stories, how it works, questions, notes, closing."
+msgstr ""
+
+#: functions.php:98
+msgid "Vestibule parts"
+msgstr ""
+
+#: functions.php:99
+msgid "The header and the footer."
+msgstr ""
+
+#: functions.php:105
+msgid "Vestibule front pages"
+msgstr ""
+
+#: functions.php:106
+msgid "A whole front page for a career coach, ready to make your own."
+msgstr ""
+
+#: functions.php:120
+msgid "Card"
+msgstr ""
+
+#: functions.php:127
+msgid "On the ground"
+msgstr ""
+
+#: functions.php:134
+#: functions.php:197
+msgid "Accent"
+msgstr ""
+
+#: functions.php:141
+msgid "Tile"
+msgstr ""
+
+#: functions.php:148
+msgid "Lead"
+msgstr ""
+
+#: functions.php:155
+msgid "Muted"
+msgstr ""
+
+#: functions.php:162
+msgid "Number"
+msgstr ""
+
+#: functions.php:169
+msgid "Arrow link"
+msgstr ""
+
+#: functions.php:176
+msgid "Rows"
+msgstr ""
+
+#: functions.php:183
+msgid "Steps"
+msgstr ""
+
+#: functions.php:190
+#: patterns/faq.php:21
+msgid "Questions"
+msgstr ""
+
+#: functions.php:204
+msgid "Small"
+msgstr ""
+
+#: functions.php:228
+msgid "Leave a reply"
+msgstr ""
+
+#. translators: %s: author of the comment being replied to
+#: functions.php:230
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: functions.php:231
+msgid "Post comment"
+msgstr ""
+
+#: functions.php:340
+msgid "Newer notes"
+msgstr ""
+
+#: functions.php:341
+msgid "Older notes"
+msgstr ""
+
+#. translators: %d: minutes it takes to read a note
+#: functions.php:386
+#, php-format
+msgid "%d min read"
+msgid_plural "%d min read"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of notes found
+#: functions.php:422
+#, php-format
+msgid "%d note"
+msgid_plural "%d notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns/about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr ""
+
+#: patterns/about.php
+msgctxt "Pattern description"
+msgid "A picture, two paragraphs and three rules."
+msgstr ""
+
+#: patterns/about.php:21
+msgid "Hi, I’m Amara."
+msgstr ""
+
+#: patterns/about.php:30
+msgid "Amara Okafor, head and shoulders, navy sweater"
+msgstr ""
+
+#: patterns/about.php:33
+msgid "Amara Okafor"
+msgstr ""
+
+#: patterns/about.php:33
+msgid "Coaching since 2019"
+msgstr ""
+
+#: patterns/about.php:40
+msgid "For six years I ran the exit interviews at a company that lost a lot of good people. A hundred and forty conversations on someone’s last day, when they finally said what they wanted. Almost none of them had said it while they still worked there."
+msgstr ""
+
+#: patterns/about.php:43
+msgid "I noticed I was taking notes for myself. I left at forty-one, late and badly timed, two months before a promotion I had wanted for years. Coaching full time since 2019, around two hundred people, most of them good at their jobs and quietly done with them."
+msgstr ""
+
+#: patterns/about.php:50
+msgid "Few people at a time"
+msgstr ""
+
+#: patterns/about.php:53
+msgid "So that when you write between calls, I answer the same day."
+msgstr ""
+
+#: patterns/about.php:60
+msgid "No dependency"
+msgstr ""
+
+#: patterns/about.php:63
+msgid "The point is that you stop needing me. Most people are done in three months."
+msgstr ""
+
+#: patterns/about.php:70
+msgid "From experience"
+msgstr ""
+
+#: patterns/about.php:73
+msgid "I have sat where you sit. I will tell you what I see, not what you want to hear."
+msgstr ""
+
+#: patterns/booking.php
+msgctxt "Pattern title"
+msgid "Booking"
+msgstr ""
+
+#: patterns/booking.php
+msgctxt "Pattern description"
+msgid "A heading, one line, and the Zoom Scheduler calendar clipped to its own card. Without Jetpack the calendar is embedded directly."
+msgstr ""
+
+#: patterns/booking.php:21
+msgid "The first call is <em>free</em>.<br>Thirty minutes, on Zoom."
+msgstr ""
+
+#: patterns/booking.php:24
+msgid "Where you are, what is in the way, and whether I am the right person to help. You leave with clarity, whether we go on or not."
+msgstr ""
+
+#. translators: %s: link to the booking page on Zoom
+#: patterns/booking.php:41
+#, php-format
+msgid "If the calendar does not show, %s."
+msgstr ""
+
+#. translators: %s: link to the booking page on Zoom
+#: patterns/booking.php:41
+msgid "open it on Zoom"
+msgstr ""
+
+#: patterns/booking.php:49
+msgid "Pick a time that suits you. The calendar opens on Zoom and shows your own time zone."
+msgstr ""
+
+#: patterns/booking.php:53
+msgid "Pick a time on Zoom"
+msgstr ""
+
+#: patterns/close.php
+msgctxt "Pattern title"
+msgid "Closing"
+msgstr ""
+
+#: patterns/close.php
+msgctxt "Pattern description"
+msgid "One line, one button, an email address for those who prefer to write first."
+msgstr ""
+
+#: patterns/close.php:21
+msgid "One free call.<br>Then <em>you</em> decide."
+msgstr ""
+
+#: patterns/close.php:24
+msgid "Thirty minutes on Zoom, no pressure. You leave knowing your next step either way."
+msgstr ""
+
+#: patterns/close.php:32
+#: patterns/footer.php:45
+#: patterns/header.php:26
+#: patterns/hero-photo.php:39
+#: patterns/sidebar.php:35
+msgid "Book a free call"
+msgstr ""
+
+#: patterns/close.php:37
+msgid "Prefer to write first?"
+msgstr ""
+
+#: patterns/familiar.php
+msgctxt "Pattern title"
+msgid "Sound familiar"
+msgstr ""
+
+#: patterns/familiar.php
+msgctxt "Pattern description"
+msgid "A short list of sentences the visitor may recognise. Sunshine draws them as chips."
+msgstr ""
+
+#: patterns/familiar.php:21
+msgid "Sound familiar?"
+msgstr ""
+
+#: patterns/familiar.php:29
+msgid "You are good at what you do, and lately that <em>is</em> the problem."
+msgstr ""
+
+#: patterns/familiar.php:32
+msgid "There is a conversation you keep rehearsing and never having."
+msgstr ""
+
+#: patterns/familiar.php:35
+msgid "You have read the books. You do not need another one."
+msgstr ""
+
+#: patterns/familiar.php:38
+msgid "Friends say “you’ll figure it out”. You have been figuring it out for a year."
+msgstr ""
+
+#: patterns/familiar.php:41
+msgid "You want someone to think it through with, not someone to cheer."
+msgstr ""
+
+#: patterns/faq.php
+msgctxt "Pattern title"
+msgid "Questions"
+msgstr ""
+
+#: patterns/faq.php
+msgctxt "Pattern description"
+msgid "Questions and answers, one open at a time."
+msgstr ""
+
+#: patterns/faq.php:28
+msgid "Is the first call really free?"
+msgstr ""
+
+#: patterns/faq.php:29
+msgid "Yes. Thirty minutes, no card, no pitch. If we both think it makes sense, we talk about next steps."
+msgstr ""
+
+#: patterns/faq.php:34
+msgid "Do I need to prepare anything?"
+msgstr ""
+
+#: patterns/faq.php:35
+msgid "No. The two questions I send the day before are enough."
+msgstr ""
+
+#: patterns/faq.php:40
+msgid "What if I need to move it?"
+msgstr ""
+
+#: patterns/faq.php:41
+msgid "The confirmation email has a link to reschedule or cancel. Any time up to 24 hours before."
+msgstr ""
+
+#: patterns/faq.php:46
+msgid "Which time zone is shown?"
+msgstr ""
+
+#: patterns/faq.php:47
+msgid "Yours. The calendar reads it from your browser, and you can change it at the top of the card."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern description"
+msgid "The footer: the site name and tagline, two link columns, the social icons and the light and dark switch, the copyright line and the legal links. Each look shows the pieces it needs."
+msgstr ""
+
+#: patterns/footer.php:28
+#: patterns/footer.php:30
+msgid "Site"
+msgstr ""
+
+#: patterns/footer.php:31
+msgid "About"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "Sessions"
+msgstr ""
+
+#: patterns/footer.php:33
+#: patterns/hidden-notes-head.php:13
+#: patterns/notes.php:22
+msgid "Notes"
+msgstr ""
+
+#: patterns/footer.php:40
+#: patterns/footer.php:42
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "LinkedIn"
+msgstr ""
+
+#: patterns/footer.php:60
+#: patterns/header.php:21
+msgid "Switch between light and dark"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Legal"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid "Privacy"
+msgstr ""
+
+#: patterns/footer.php:79
+msgid "Imprint"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern description"
+msgid "The bar: the site name, the menu, the light and dark switch and the booking button."
+msgstr ""
+
+#: patterns/header.php:16
+msgid "Main"
+msgstr ""
+
+#: patterns/hero-photo.php
+msgctxt "Pattern title"
+msgid "Hero, photo behind the words"
+msgstr ""
+
+#: patterns/hero-photo.php
+msgctxt "Pattern description"
+msgid "A photo fills the first section, the words sit on its left, one button and one text link."
+msgstr ""
+
+#: patterns/hero-photo.php:19
+msgid "Amara Okafor, smiling at the camera in front of a warm plaster wall"
+msgstr ""
+
+#: patterns/hero-photo.php:28
+msgid "Good at your job.<br>Not sure it’s<br>the <em>right</em> one."
+msgstr ""
+
+#: patterns/hero-photo.php:31
+msgid "I’m Amara. I coach people who know their next move and keep not making it. The first call is free."
+msgstr ""
+
+#: patterns/hero-photo.php:44
+#: patterns/how.php:21
+msgid "How it works"
+msgstr ""
+
+#: patterns/hero-photo.php:51
+msgid "Free first call · 30 min · Zoom"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Page not found"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern description"
+msgid "The words and the search field of the page-not-found template."
+msgstr ""
+
+#: patterns/hidden-404.php:12
+#: patterns/hidden-404.php:15
+#: patterns/hidden-search-head.php:12
+#: patterns/hidden-search-head.php:15
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:14
+#: patterns/hidden-search-head.php:14
+msgid "Search the notes"
+msgstr ""
+
+#. translators: %s: link to the home page
+#: patterns/hidden-404.php:20
+#, php-format
+msgid "The page may have moved. Try a search, or %s."
+msgstr ""
+
+#: patterns/hidden-404.php:21
+msgid "go back to the start"
+msgstr ""
+
+#: patterns/hidden-404.php:25
+msgid "Nothing at this address."
+msgstr ""
+
+#: patterns/hidden-more-notes-head.php
+msgctxt "Pattern title"
+msgid "More notes title"
+msgstr ""
+
+#: patterns/hidden-more-notes-head.php
+msgctxt "Pattern description"
+msgid "The title above the other notes under a note."
+msgstr ""
+
+#: patterns/hidden-more-notes-head.php:13
+msgid "More notes"
+msgstr ""
+
+#: patterns/hidden-no-matches.php
+msgctxt "Pattern title"
+msgid "No search matches"
+msgstr ""
+
+#: patterns/hidden-no-matches.php
+msgctxt "Pattern description"
+msgid "The line the search results show when no note matches."
+msgstr ""
+
+#: patterns/hidden-no-matches.php:13
+msgid "No notes match that search. Try another word."
+msgstr ""
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "No notes yet"
+msgstr ""
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern description"
+msgid "The line a notes list shows when it has nothing to show."
+msgstr ""
+
+#: patterns/hidden-no-results.php:13
+msgid "Nothing here yet."
+msgstr ""
+
+#: patterns/hidden-notes-head.php
+msgctxt "Pattern title"
+msgid "Notes title"
+msgstr ""
+
+#: patterns/hidden-notes-head.php
+msgctxt "Pattern description"
+msgid "The title and the line under it on the notes page."
+msgstr ""
+
+#: patterns/hidden-notes-head.php:16
+msgid "Short pieces written between calls. New ones every few weeks."
+msgstr ""
+
+#: patterns/hidden-search-head.php
+msgctxt "Pattern title"
+msgid "Search results title"
+msgstr ""
+
+#: patterns/hidden-search-head.php
+msgctxt "Pattern description"
+msgid "The title and the search field of the search results template."
+msgstr ""
+
+#: patterns/how.php
+msgctxt "Pattern title"
+msgid "How it works"
+msgstr ""
+
+#: patterns/how.php
+msgctxt "Pattern description"
+msgid "Four numbered steps, one line each."
+msgstr ""
+
+#: patterns/how.php:29
+msgid "<strong>Pick a time.</strong> The calendar above shows your time zone. The Zoom link is in your inbox a minute later."
+msgstr ""
+
+#: patterns/how.php:32
+msgid "<strong>Two questions.</strong> The day before, I send two short questions. No homework, just a head start."
+msgstr ""
+
+#: patterns/how.php:35
+msgid "<strong>Thirty minutes.</strong> Camera on, no slides. Where you are, and what keeps getting in the way."
+msgstr ""
+
+#: patterns/how.php:38
+msgid "<strong>You decide.</strong> If it makes sense to go on, I send one page with how, and what it costs. If not, no follow-up."
+msgstr ""
+
+#: patterns/notes.php
+msgctxt "Pattern title"
+msgid "Notes, the newest posts"
+msgstr ""
+
+#: patterns/notes.php
+msgctxt "Pattern description"
+msgid "The newest posts with a link to all of them. Each look arranges them its own way."
+msgstr ""
+
+#: patterns/notes.php:25
+msgid "All notes"
+msgstr ""
+
+#: patterns/page-cards.php
+msgctxt "Pattern title"
+msgid "Front page: a coach"
+msgstr ""
+
+#: patterns/page-cards.php
+msgctxt "Pattern description"
+msgid "Amara Okafor, career coaching on Zoom. Made for the Cards look: hero with a photo, booking, sound familiar, about, sessions, stories, how it works, questions, notes, closing."
+msgstr ""
+
+#: patterns/sessions.php
+msgctxt "Pattern title"
+msgid "Sessions and prices"
+msgstr ""
+
+#: patterns/sessions.php
+msgctxt "Pattern description"
+msgid "Three or four offers, each with a name, a figure and one line. Paper draws them as table rows."
+msgstr ""
+
+#: patterns/sessions.php:21
+msgid "Ways to work together"
+msgstr ""
+
+#: patterns/sessions.php:24
+msgid "Start with the free call. We decide the rest together, and there is nothing to decide today."
+msgstr ""
+
+#: patterns/sessions.php:35
+msgid "First call"
+msgstr ""
+
+#: patterns/sessions.php:38
+msgid "30 min"
+msgstr ""
+
+#: patterns/sessions.php:38
+msgid "Free"
+msgstr ""
+
+#: patterns/sessions.php:41
+msgid "Thirty minutes to hear what is going on and see if I can help."
+msgstr ""
+
+#: patterns/sessions.php:48
+msgid "One session"
+msgstr ""
+
+#: patterns/sessions.php:51
+msgid "60 min"
+msgstr ""
+
+#: patterns/sessions.php:54
+msgid "One hour, one question, a written plan the same day."
+msgstr ""
+
+#: patterns/sessions.php:61
+msgid "Three months"
+msgstr ""
+
+#: patterns/sessions.php:64
+msgid "6 × 60 min"
+msgstr ""
+
+#: patterns/sessions.php:67
+msgid "Six sessions, notes between them, and someone who remembers what you said."
+msgstr ""
+
+#: patterns/sessions.php:74
+msgid "For teams"
+msgstr ""
+
+#: patterns/sessions.php:77
+msgid "90 min"
+msgstr ""
+
+#: patterns/sessions.php:80
+msgid "Small groups with one shared question and honest feedback."
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Note sidebar"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern description"
+msgid "Beside a note: who wrote it, with a photo and a few lines, and the way to book the first call."
+msgstr ""
+
+#: patterns/sidebar.php:21
+msgid "About me"
+msgstr ""
+
+#: patterns/sidebar.php:28
+msgid "The first call is free."
+msgstr ""
+
+#: patterns/sidebar.php:31
+msgid "Thirty minutes on Zoom. Pick a time that suits you."
+msgstr ""
+
+#: patterns/voices.php
+msgctxt "Pattern title"
+msgid "Stories"
+msgstr ""
+
+#: patterns/voices.php
+msgctxt "Pattern description"
+msgid "Three quotes with a small picture and a name. One at a time with two arrows, or three side by side in Studio."
+msgstr ""
+
+#: patterns/voices.php:26
+msgid "“I had been circling the same decision for a year. We made it in the first call. I still have the note she sent.”"
+msgstr ""
+
+#: patterns/voices.php:36
+msgid "Sarah"
+msgstr ""
+
+#: patterns/voices.php:36
+msgid "Marketing lead, after one session"
+msgstr ""
+
+#: patterns/voices.php:46
+msgid "“She does not let you off the hook, but she is kind about it. The two things on my list were the two things I had been avoiding.”"
+msgstr ""
+
+#: patterns/voices.php:56
+msgid "James"
+msgstr ""
+
+#: patterns/voices.php:56
+msgid "Founder, after three months"
+msgstr ""
+
+#: patterns/voices.php:66
+msgid "“I started my business last year. The sessions kept me from chasing everything at once.”"
+msgstr ""
+
+#: patterns/voices.php:76
+msgid "Emily"
+msgstr ""
+
+#: patterns/voices.php:76
+msgid "Designer, after three months"
+msgstr ""
+
+#: assets/js/vestibule.js:156
+msgid "Previous"
+msgstr ""
+
+#: assets/js/vestibule.js:157
+msgid "Next"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Cards"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Paper"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ink"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ink, softer"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ink, quiet"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Line"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent, deep"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent for text"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "On ink"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "On accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "On accent, softer"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Hero ground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Hero text"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Hero text, softer"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Newsreader"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System mono"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Compact"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Lead"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Reading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "7"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Landing page"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Note sidebar"
+msgstr ""

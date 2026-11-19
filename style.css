@@ -1,0 +1,285 @@
+/*
+Theme Name: Vestibule
+Theme URI: https://wordpress.com/themes/vestibule/
+Description: Vestibule is a block theme for coaches, consultants, teachers and everyone else who meets clients on Zoom. A photo, a few honest words, and the booking calendar right on the page. It has a real dark mode, switched by the visitor and remembered.
+Version: 1.0.1
+Author: Automattic
+Author URI: https://automattic.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: vestibule
+*/
+
+/* =====================================================================================
+   Colours, type, spacing, layout and the block looks live in theme.json and in the blocks themselves.
+   This file keeps only what Styles has no control for: the glass bar and its phone menu, the light and dark switch,
+   the quote slider, the Zoom frame, the marks drawn by the block styles (rows, steps, questions, arrow links), forms and motion.
+   ===================================================================================== */
+
+:root{
+  --ink:var(--wp--preset--color--ink); --ink-3:var(--wp--preset--color--ink-3); --line:var(--wp--preset--color--line);
+  --accent:var(--wp--preset--color--accent); --paper:var(--wp--preset--color--paper);
+  --ease:var(--wp--custom--ease); --spring:var(--wp--custom--spring); --quick:var(--wp--custom--quick); --hair:1px;
+  --glass:var(--wp--custom--glass--fill); --glass-edge:var(--wp--custom--glass--edge); --glass-top:var(--wp--custom--glass--top);
+  --glass-shadow:0 8px 24px -8px var(--wp--custom--glass--shadow-color);
+  --bar-shadow:inset 0 1px 0 var(--glass-top),0 1px 2px var(--wp--custom--glass--bar-shadow-near),0 12px 32px -8px var(--wp--custom--glass--bar-shadow-color);
+  --nav-h:40px; --nav-pad:12px; --nav-top:12px; --control:44px;
+  color-scheme:light;
+}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{color-scheme:dark}
+@media (min-resolution:2dppx){:root{--hair:.5px}}
+
+/* metric-matched fallbacks while the fonts load, so nothing reflows when they arrive */
+@font-face{font-family:"Newsreader Fallback";src:local("Georgia");size-adjust:94%;ascent-override:92%;descent-override:24%;line-gap-override:0%}
+@font-face{font-family:"Inter Fallback";src:local("Helvetica Neue"),local("Arial");size-adjust:100%;ascent-override:93%;descent-override:23%;line-gap-override:0%}
+
+:where(body){-webkit-font-smoothing:antialiased}
+:where(h1,h2,h3,p,li,blockquote,figcaption){text-wrap:pretty}
+:where(h1,h2,h3,.wp-block-post-title){text-wrap:balance}
+:where(h1,h2,.wp-block-post-title) em{font-style:italic;font-weight:inherit}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+[id]{scroll-margin-top:calc(var(--nav-top) + var(--nav-h) + 2*var(--nav-pad) + 24px)}
+#top{scroll-margin-top:0}
+
+/* ===== the page frame: one column up to 1600px; the side gutter is Styles → Layout → Padding ===== */
+.wp-site-blocks{max-width:1600px;margin-inline:auto;padding-inline:var(--wp--style--root--padding-left) var(--wp--style--root--padding-right);display:flex;flex-direction:column;min-height:100vh;min-height:calc(100dvh - var(--wp-admin--admin-bar--height,0px))}
+.wp-site-blocks>main{flex-grow:1}
+:where(.is-style-card,.is-style-accent){overflow:clip}
+
+/* ===== buttons: the press and the movement; colours and shape come from Styles ===== */
+.wp-element-button,.wp-block-button__link{transition:background-color var(--quick) var(--ease),color var(--quick) var(--ease),border-color var(--quick) var(--ease),transform .35s var(--spring)}
+.wp-block-button__link:active{transform:scale(.98);transition-duration:.08s}
+
+/* ===== Arrow link (Paragraph style): the word is the link, the arrow steps forward on hover ===== */
+.is-style-arrow a::after{content:"→";display:inline-block;margin-inline-start:6px;transition:transform .35s var(--spring)}
+.is-style-arrow a:hover::after{transform:translateX(4px)}
+[dir="rtl"] .is-style-arrow a::after{content:"←"}
+[dir="rtl"] .is-style-arrow a:hover::after{transform:translateX(-4px)}
+
+/* ===== Rows (List style): hairlines between the rows ===== */
+.is-style-rows{list-style:none}
+/* item spacing and hairlines sit in :where(), so List item padding and border set in Styles win */
+:where(.is-style-rows>li){padding-block:20px}
+:where(.is-style-rows>li+li){border-top:var(--hair) solid var(--wp--preset--color--line)}
+:where(.is-style-rows>li:first-child){padding-top:0}
+
+/* ===== Steps (List style): numbered rows ===== */
+.is-style-steps{list-style:none;counter-reset:vst-step}
+.is-style-steps>li{position:relative;counter-increment:vst-step}
+:where(.is-style-steps>li){padding-block:14px;padding-inline-start:44px}
+:where(.is-style-steps>li+li){border-top:var(--hair) solid var(--wp--preset--color--line)}
+:where(.is-style-steps>li:first-child){padding-top:0}
+.is-style-steps>li::before{content:counter(vst-step);position:absolute;inset-inline-start:0;top:14px;font-family:var(--wp--preset--font-family--serif);font-size:1.3em;font-weight:500;line-height:1.2;color:currentColor;font-variant-numeric:lining-nums}
+.is-style-steps>li:first-child::before{top:0}
+
+/* ===== Questions (Details style): hairline rows, a plus that turns, a line under the open one ===== */
+.is-style-faq{position:relative;cursor:pointer}
+.is-style-faq+.is-style-faq{border-top:var(--hair) solid var(--wp--preset--color--line)}
+.is-style-faq::after{content:"";position:absolute;inset-inline:0;bottom:-1px;height:1px;z-index:1;background:var(--wp--preset--color--accent);transform:scaleX(0);transform-origin:left;transition:transform .5s var(--ease)}
+[dir="rtl"] .is-style-faq::after{transform-origin:right}
+.is-style-faq[open]::after{transform:scaleX(1)}
+.is-style-faq summary{list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px}
+.is-style-faq summary::-webkit-details-marker{display:none}
+.is-style-faq summary::after{content:"+" / "";font-family:var(--wp--preset--font-family--sans);font-weight:400;font-size:24px;line-height:1;opacity:.7;transition:transform .3s var(--ease),opacity var(--quick) var(--ease)}
+.is-style-faq summary:hover::after{opacity:1}
+.is-style-faq[open] summary::after{transform:rotate(45deg)}
+@supports (interpolate-size:allow-keywords){
+  .is-style-faq::details-content{block-size:0;overflow:hidden;transition:block-size .3s cubic-bezier(.2,.8,.2,1),content-visibility .3s allow-discrete}
+  .is-style-faq[open]::details-content{block-size:auto}
+}
+
+/* links in running text: a soft underline in the text's own colour */
+:where(main p,main li) a:where(:not(.wp-element-button)){text-decoration-thickness:1px;text-underline-offset:.2em;text-decoration-color:color-mix(in srgb,currentColor 40%,transparent);transition:text-decoration-color var(--quick) var(--ease)}
+:where(main p,main li) a:where(:not(.wp-element-button)):hover{text-decoration-color:currentColor}
+
+/* ===== controls without words (slider arrows, socials, the switch, the menu button): one glass square ===== */
+.vst-control,.vst-theme .wp-block-button__link,.vst-nav .wp-block-navigation__responsive-container-open,.vst-nav .wp-block-navigation__responsive-container-close{
+  width:var(--control);height:var(--control);margin:0;display:grid;place-items:center;appearance:none;cursor:pointer;position:relative;background-clip:padding-box;
+  backdrop-filter:blur(20px) saturate(1.5);-webkit-backdrop-filter:blur(20px) saturate(1.5);
+  transition:background-color var(--quick) var(--ease),border-color var(--quick) var(--ease),transform .35s var(--spring)}
+/* the glass look: the arrows are built by the script and the menu buttons have no Styles control for it. The switch takes the same look from the Icon button style in theme.json. */
+.vst-control,.vst-nav .wp-block-navigation__responsive-container-open,.vst-nav .wp-block-navigation__responsive-container-close{padding:0;border-radius:var(--wp--custom--radius--icon);font:inherit;background-color:var(--glass);border:var(--hair) solid var(--glass-edge);box-shadow:inset 0 1px 0 var(--glass-top),var(--glass-shadow)}
+.vst-control{color:var(--ink)}
+:is(.vst-control,.vst-theme .wp-block-button__link,.vst-nav .wp-block-navigation__responsive-container-open,.vst-nav .wp-block-navigation__responsive-container-close):hover{background-color:var(--wp--custom--glass--hover);border-color:var(--wp--custom--glass--hover-edge)}
+:is(.vst-control,.vst-theme .wp-block-button__link):hover{transform:translateY(-1px);box-shadow:inset 0 1px 0 var(--glass-top),0 12px 28px -10px var(--wp--custom--glass--lift-shadow)}
+:is(.vst-control,.vst-theme .wp-block-button__link):active{transform:scale(.96);transition-duration:.08s}
+.vst-control svg{width:16px;height:16px;display:block}
+/* the switch: the sun by day, the moon by night, drawn with masks */
+.vst-theme .wp-block-button__link{font-size:0;line-height:0}
+.vst-theme .wp-block-button__link::before,.vst-theme .wp-block-button__link::after{content:"";position:absolute;width:16px;height:16px;background:currentColor;transition:opacity .25s var(--ease),transform .5s var(--spring);-webkit-mask:var(--icon) center/contain no-repeat;mask:var(--icon) center/contain no-repeat}
+.vst-theme .wp-block-button__link::before{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23000' stroke-width='1.5' stroke-linecap='round'%3E%3Ccircle cx='8' cy='8' r='3.2'/%3E%3Cpath d='M8 1.5v1.6M8 12.9v1.6M1.5 8h1.6M12.9 8h1.6M3.4 3.4l1.1 1.1M11.5 11.5l1.1 1.1M3.4 12.6l1.1-1.1M11.5 4.5l1.1-1.1'/%3E%3C/svg%3E")}
+.vst-theme .wp-block-button__link::after{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23000' stroke-width='1.5' stroke-linejoin='round'%3E%3Cpath d='M13.5 10.2A6 6 0 0 1 5.8 2.5a6 6 0 1 0 7.7 7.7z'/%3E%3C/svg%3E");opacity:0;transform:rotate(-40deg) scale(.7)}
+:root[data-theme="dark"] .vst-theme .wp-block-button__link::before{opacity:0;transform:rotate(40deg) scale(.7)}
+:root[data-theme="dark"] .vst-theme .wp-block-button__link::after{opacity:1;transform:none}
+
+/* ===== the bar: sticky; the moment it sticks, the glass plate is on ===== */
+.wp-site-blocks>.vst-nav-wrap{position:sticky;top:var(--nav-top);z-index:30;margin-block:var(--wp--preset--spacing--30) 0}
+.wp-site-blocks:has(main>.wp-block-post-content>.vst-hero:first-child)>.vst-nav-wrap{height:0;margin-top:50px}
+.wp-site-blocks:has(main>.wp-block-post-content>.vst-hero:first-child)>main{margin-top:-50px}
+.vst-nav{position:relative;isolation:isolate;height:calc(var(--nav-h) + 2*var(--nav-pad));align-items:center;transition:color .3s var(--ease)}
+.vst-nav::before{content:"";position:absolute;inset:0;z-index:-1;border-radius:var(--wp--custom--radius--plate);opacity:0;transition:opacity .3s cubic-bezier(.4,0,.2,1);
+  background:var(--wp--custom--glass--bar);background-clip:padding-box;border:var(--hair) solid var(--wp--custom--glass--bar-edge);box-shadow:var(--bar-shadow);backdrop-filter:blur(24px) saturate(1.5);-webkit-backdrop-filter:blur(24px) saturate(1.5)}
+.vst-nav[data-stuck]::before{opacity:1}
+.vst-nav .vst-end{margin-inline-start:auto}
+.vst-nav .wp-block-navigation-item__content{padding:8px 14px;border-radius:8px;transition:background-color var(--quick) var(--ease)}
+.vst-nav .wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation-item__content:hover{background:var(--wp--custom--plate)}
+.vst-nav .wp-block-navigation__container{position:relative}
+.vst-nav .wp-block-navigation .wp-block-page-list{background:transparent}
+/* the marker the script adds is not shown in this design */
+.vst-nav .vst-pill-item{display:none}
+/* the name: initials at rest, the whole name unfolds on hover and once the bar sticks */
+.vst-nav .vst-brand .w{display:inline-flex;align-items:baseline}
+.vst-nav .vst-brand .w+.w{margin-inline-start:.04em;transition:margin-inline-start .45s cubic-bezier(.4,0,.2,1)}
+.vst-nav .vst-brand em{font-style:inherit;display:inline-block;max-width:0;opacity:0;overflow:hidden;transition:max-width .45s cubic-bezier(.4,0,.2,1),opacity .3s ease .05s}
+.vst-nav[data-stuck] .vst-brand .w+.w,.vst-nav .vst-brand:is(:hover,:focus-visible) .w+.w{margin-inline-start:.22em}
+.vst-nav[data-stuck] .vst-brand em,.vst-nav .vst-brand:is(:hover,:focus-visible) em{max-width:4em;opacity:1}
+/* over the photo hero the bar takes the hero's text colour until it sticks */
+.wp-site-blocks:has(main>.wp-block-post-content>.vst-hero:first-child) .vst-nav:not([data-stuck]){color:var(--wp--preset--color--hero-ink)}
+/* reading progress: a thin accent line under the bar while it sticks */
+.vst-progress{position:absolute;inset-inline:20px;bottom:0;height:2px;background:var(--accent);transform:scaleX(var(--read,0));transform-origin:left center;opacity:0;transition:opacity .3s var(--ease);pointer-events:none;border-radius:2px}
+[dir="rtl"] .vst-progress{transform-origin:right center}
+.vst-nav[data-stuck] .vst-progress{opacity:1}
+
+/* ===== phone menu: the core overlay as a glass sheet; its text follows Styles → Blocks → Navigation, scaled up ===== */
+.vst-nav .wp-block-navigation__responsive-container.is-menu-open{inset:var(--wp--style--root--padding-left);border-radius:28px;padding:calc(64px + var(--wp--style--root--padding-top)) calc(8px + var(--wp--style--root--padding-right)) calc(8px + var(--wp--style--root--padding-left)) calc(8px + var(--wp--style--root--padding-left));backdrop-filter:blur(24px) saturate(1.5);-webkit-backdrop-filter:blur(24px) saturate(1.5)}
+/* the close button is placed against the sheet itself, at the spot the script measures from the menu button */
+.vst-nav .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-dialog{position:static}
+.vst-nav .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-close{position:absolute;top:var(--vst-close-top,var(--nav-pad));inset-inline-end:var(--vst-close-end,var(--nav-pad))}
+.vst-nav .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content{height:100%;justify-content:flex-end;padding:0}
+.vst-nav .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation-item__content{font-size:2.6em;padding:1px 0}
+.vst-sheet-cta{display:none}
+.vst-nav .is-menu-open .vst-sheet-cta{display:block;margin-top:32px;width:100%}
+.vst-nav .is-menu-open .vst-sheet-cta .wp-block-button__link{width:100%}
+@starting-style{.vst-nav .wp-block-navigation__responsive-container.is-menu-open{opacity:0;transform:scale(.98) translateY(8px)}}
+.vst-nav .wp-block-navigation__responsive-container.is-menu-open{transition:opacity .3s var(--ease),transform .3s var(--ease)}
+/* only for the Navigation block's "Mobile" overlay setting: "Always" and "Off" keep what the block decides */
+@media (min-width:861px){
+  .vst-nav .wp-block-navigation__responsive-container-open:not(.always-shown){display:none}
+  .vst-nav .wp-block-navigation__responsive-container:not(.is-menu-open):not(.hidden-by-default){display:block}
+}
+@media (max-width:860px){
+  .vst-nav>.wp-block-navigation{order:3} /* the bar's own child only: the list inside the open sheet carries the same class */
+  .vst-nav .vst-cta{display:none}
+  .vst-nav .wp-block-navigation__responsive-container-open{display:grid}
+  .vst-nav .wp-block-navigation__responsive-container:not(.is-menu-open){display:none}
+}
+
+/* ===== the hero: the photo moves a little, the chip sits in the corner ===== */
+.vst-hero .wp-block-cover__image-background{transition:transform .6s cubic-bezier(.2,.8,.2,1)}
+.vst-chip a{display:inline-flex;align-items:center;gap:10px;padding:12px 16px 12px 18px;border-radius:999px;
+  background:var(--glass);background-clip:padding-box;border:var(--hair) solid var(--glass-edge);box-shadow:inset 0 1px 0 var(--glass-top),var(--glass-shadow);backdrop-filter:blur(20px) saturate(1.5);-webkit-backdrop-filter:blur(20px) saturate(1.5)}
+.vst-chip .vst-dot{display:inline-block;width:3px;height:3px;border-radius:50%;background:currentColor;opacity:.4}
+@keyframes vst-rise{0%{opacity:0;filter:blur(8px);translate:0 16px}}
+.vst-hero .wp-block-cover__inner-container>*{animation:vst-rise .7s cubic-bezier(.16,1,.3,1) .1s backwards}
+.vst-hero .wp-block-cover__inner-container>*+*{animation-delay:.2s}
+
+/* ===== the Name tag (Paragraph style): Styles sets its colours, border, corners and padding; the blur stays here ===== */
+.is-style-name-tag{display:inline-block;backdrop-filter:blur(20px) saturate(1.5);-webkit-backdrop-filter:blur(20px) saturate(1.5);background-clip:padding-box}
+
+/* a small label inside a line, like "Free" */
+.vst-pill{display:inline-block;vertical-align:.4em;margin-inline-start:.15em;font-size:.33em;font-weight:600;line-height:1;color:var(--wp--preset--color--accent-text);background:color-mix(in srgb,var(--accent) 14%,transparent);padding:.55em .75em;border-radius:999px}
+
+/* ===== booking: the Zoom calendar clipped to its own card ===== */
+.vst-zoom{margin-inline:0}
+.vst-clip{position:relative;width:1082px;max-width:100%;height:540px;margin-inline:auto;border-radius:var(--wp--custom--radius--small);overflow:hidden;background:var(--wp--preset--color--white);color-scheme:light;box-shadow:0 1px 2px rgba(0,0,0,.05),0 20px 50px -24px rgba(0,0,0,.25)}
+.vst-clip .wp-block-jetpack-zoom-scheduler,.vst-clip .wp-block-jetpack-zoom-scheduler__embed{margin:0;max-inline-size:none;max-width:none}
+.vst-clip iframe{display:block;width:calc(100% + 48px);max-width:none;height:746px;min-block-size:0;margin:0;transform:translate(-24px,-42px);border:0;opacity:0;transition:opacity .6s ease}
+.vst-clip::after{content:"";position:absolute;inset:0;z-index:2;border-radius:inherit;box-shadow:inset 0 0 0 1px rgba(15,15,14,.08);pointer-events:none}
+.vst-clip iframe.loaded{opacity:1}
+/* no calendar yet (no booking link set): no frame, so the block's own placeholder is all that shows */
+.vst-clip:not(.vst-plain):not(:has(iframe)){height:auto;background:none;box-shadow:none;border-radius:0;overflow:visible}
+.vst-clip:not(.vst-plain):not(:has(iframe))::after{display:none}
+.vst-clip.vst-plain{height:auto}
+.vst-clip.vst-plain::after{display:none}
+.vst-skeleton{position:absolute;inset:0;background:var(--wp--preset--color--white);display:grid;grid-template-columns:1fr 1fr 1fr;padding:40px 24px 0;transition:opacity .4s ease;pointer-events:none}
+.vst-skeleton i{border-inline-end:1px solid #eee;background:linear-gradient(#f0efec,#f0efec) 24px 28px/120px 14px no-repeat,linear-gradient(#f3f2ef,#f3f2ef) 24px 60px/70% 10px no-repeat,linear-gradient(#f3f2ef,#f3f2ef) 24px 82px/55% 10px no-repeat}
+.vst-skeleton i:last-child{border:0}
+.vst-skeleton.off{opacity:0}
+@media (max-width:860px){
+  .vst-clip{height:auto;border-radius:20px}
+  .vst-clip iframe{width:100%;height:720px;transform:none}
+  .vst-skeleton{padding:0}
+}
+
+/* ===== stories: one quote at a time, two arrows (the script builds the slider) ===== */
+.vst-slides.is-slider{display:grid}
+.is-slider>.vst-voice{grid-area:1/1;margin:0;opacity:0;transition:opacity .25s ease-out,translate .5s cubic-bezier(.2,.8,.2,1);pointer-events:none}
+.is-slider>.vst-voice.on{opacity:1;pointer-events:auto;transition:opacity .5s ease-out .12s,translate .6s cubic-bezier(.2,.8,.2,1)}
+.vst-arrows{display:flex;gap:10px}
+[dir="rtl"] .vst-arrows svg{transform:scaleX(-1)}
+.is-style-testimonial{text-indent:-.45em}
+
+/* ===== a card that is one link: it lifts under the pointer ===== */
+.wp-block-post .is-style-tile{cursor:pointer;transition:background-color .25s var(--ease),transform .25s var(--ease)}
+/* the hover tint is laid over the tile, so a Tile background set in Styles stays underneath */
+.wp-block-post .is-style-tile:hover{background-image:linear-gradient(color-mix(in srgb,currentColor 4%,transparent),color-mix(in srgb,currentColor 4%,transparent));transform:translateY(-2px)}
+.wp-block-post-template .wp-block-post-title a{transition:color var(--quick) var(--ease)}
+.wp-block-post-featured-image img{transition:transform .5s var(--ease)}
+.wp-block-post-featured-image:hover img{transform:scale(1.04)}
+.wp-block-post-featured-image{overflow:hidden}
+
+/* ===== pagination: arrows and a plate under the pointer ===== */
+.vst-pagination .page-numbers{display:inline-flex;align-items:center;justify-content:center;min-width:44px;height:44px;padding:0 6px;border-radius:var(--wp--custom--radius--button);font-variant-numeric:tabular-nums;transition:background-color var(--quick) var(--ease)}
+.vst-pagination a.page-numbers:hover{background:var(--wp--custom--plate)}
+.vst-pagination .page-numbers.current{background:var(--ink);color:var(--wp--preset--color--on-ink)}
+.vst-pagination :is(.wp-block-query-pagination-previous,.wp-block-query-pagination-next){display:inline-flex;align-items:center;height:44px;transition:background-color var(--quick) var(--ease)}
+.vst-pagination :is(.wp-block-query-pagination-previous,.wp-block-query-pagination-next):hover{background:var(--wp--custom--plate)}
+
+/* ===== forms: a hairline at rest, the ink line and a soft ring while typing ===== */
+.wp-block-search__inside-wrapper{gap:10px}
+.wp-block-search__input{padding:12px 16px;background:var(--paper);color:var(--ink)}
+.comment-form input:not([type=submit]):not([type=checkbox]),.comment-form textarea{width:100%;font:inherit;padding:12px 16px;border:var(--hair) solid var(--line);border-radius:var(--wp--custom--radius--button);background:var(--paper);color:var(--ink);transition:border-color var(--quick) var(--ease),box-shadow var(--quick) var(--ease)}
+:is(.wp-block-search__input,.comment-form input,.comment-form textarea):hover{border-color:color-mix(in srgb,var(--ink) 35%,transparent)}
+:is(.wp-block-search__input,.comment-form input,.comment-form textarea):focus{outline:none;border-color:var(--ink);box-shadow:0 0 0 3px color-mix(in srgb,var(--ink) 14%,transparent)}
+:is(.wp-block-search__input,.comment-form input,.comment-form textarea)::placeholder{color:var(--ink-3);opacity:1}
+.comment-form label{display:block;margin-bottom:8px}
+.comment-form p{margin-block:0 var(--wp--preset--spacing--30)}
+.comment-form .comment-form-cookies-consent{display:flex;align-items:flex-start;gap:10px}
+.comment-form .comment-form-cookies-consent label{margin:0;cursor:pointer;flex:1}
+.comment-form input[type=checkbox]{appearance:none;flex:none;position:relative;width:16px;height:16px;margin:.25em 0 0;border:1px solid color-mix(in srgb,var(--ink) 35%,transparent);border-radius:4px;background:var(--paper);cursor:pointer}
+.comment-form input[type=checkbox]:checked{background:var(--ink);border-color:var(--ink)}
+.comment-form input[type=checkbox]:checked::before{content:"";position:absolute;inset:0;background:var(--wp--preset--color--on-ink);-webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.2 6.8 11 12 5.5' fill='none' stroke='%23000' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/14px no-repeat;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.2 6.8 11 12 5.5' fill='none' stroke='%23000' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/14px no-repeat}
+/* the comment form opens as you write: first only the comment, the rest unfolds */
+.comment-form.is-short :is(.comment-form-author,.comment-form-email,.comment-form-url,.comment-form-cookies-consent){display:none}
+.comment-form.is-short .comment-form-comment textarea{height:88px}
+
+/* ===== motion: sections rise once as they come into view ===== */
+.vst-reveal{opacity:0;translate:0 16px;transition:opacity .7s cubic-bezier(.16,1,.3,1),translate .7s cubic-bezier(.16,1,.3,1)}
+.vst-reveal.in{opacity:1;translate:0 0}
+main img.vst-fade{opacity:0;transition:opacity .5s var(--ease)}
+main img.vst-fade.is-in{opacity:1}
+@view-transition{navigation:auto}
+::view-transition-old(root),::view-transition-new(root){animation-duration:.55s;animation-timing-function:cubic-bezier(.4,0,.2,1)}
+:root.switching *,:root.switching *::before,:root.switching *::after{transition:none!important}
+:where(:root[data-theme="dark"] main img:not(.avatar)){filter:brightness(.9) saturate(.95)}
+@media (prefers-reduced-motion:reduce){
+  @view-transition{navigation:none}
+  .vst-reveal{opacity:1;translate:0 0;transition:none}
+  .vst-hero .wp-block-cover__inner-container>*,.vst-nav .vst-brand em{animation:none;transition:none}
+  .wp-block-button__link,.vst-control,main img.vst-fade{transition:none}
+  .vst-clip iframe{opacity:1}
+}
+
+/* ===== phone: a booking bar that follows once the opening has scrolled away ===== */
+.vst-dock{display:none}
+@media (max-width:860px){
+  .vst-dock{display:block;position:fixed;inset-inline:0;bottom:0;z-index:40;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:color-mix(in srgb,var(--wp--preset--color--ground) 82%,transparent);-webkit-backdrop-filter:blur(18px) saturate(1.6);backdrop-filter:blur(18px) saturate(1.6);box-shadow:0 -1px 0 var(--line);transform:translateY(110%);transition:transform .4s cubic-bezier(.2,.8,.2,1)}
+  .vst-dock.is-on{transform:none}
+  .vst-dock .wp-block-button__link{display:flex;justify-content:center;width:100%}
+}
+
+/* ===== print ===== */
+@media print{
+  .vst-nav-wrap,.vst-chip,.vst-zoom,.vst-arrows,.vst-dock,.wp-site-blocks>footer{display:none!important}
+  .vst-reveal{opacity:1!important;translate:none!important}
+}
+
+/* ===== editor: no sticky bar, no entrance motion ===== */
+/* the same page frame as .wp-site-blocks, so full-width sections sit where they do on the site */
+.editor-styles-wrapper{padding-inline:var(--wp--style--root--padding-left) var(--wp--style--root--padding-right)}
+.editor-styles-wrapper .is-root-container{max-width:1600px;margin-inline:auto}
+.editor-styles-wrapper .vst-nav-wrap{position:static;height:auto;margin-top:0}
+.editor-styles-wrapper .vst-reveal{opacity:1;translate:none}
+.editor-styles-wrapper .vst-hero .wp-block-cover__inner-container>*{animation:none}
+.editor-styles-wrapper .vst-clip iframe{opacity:1}
